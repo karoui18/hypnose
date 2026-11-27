@@ -1,0 +1,330 @@
+{
+  "title": "narcisse",
+  "source": "https://www.hypnosite.fr/narcisse.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "615px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "NARCISSE"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEe3d20f9605",
+          "layout": {
+            "width": "550px",
+            "left": "200px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "NARCISSE",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">NARCISSE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE94ac42a850",
+          "layout": {
+            "width": "680px",
+            "height": "auto",
+            "left": "50%",
+            "top": "450px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "left",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Un narcissique, c'est quelqu'un qui ne veut pas m'admirer.\" Pierre DESPROGES",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Un narcissique, c'est quelqu'un qui ne veut pas m'admirer.\" Pierre DESPROGES<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "3049px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE4d0307811a",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "20px",
+            "top": "-20px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "Le narcissisme est souvent appréhendé dans une conception péjorative d’amour exacerbé de soi, d'autocentrisme, d’investissement exclusif de soi au détriment de l’investissement d’objet, l'autre dans la relation qui apparaît comme secondaire voire utilitaire. Le \"Narcisse\", d’ailleurs, est le plus souvent considéré sous un regard psychopathologique, connoté à un trait maladif de la personnalité comprenant de l'infatuation, le besoin constant d'admiration, de l'indifférence à autrui et l'absence habituelle de scrupules. Pourtant cet Eros intérieur représenté par ce narcissisme est, en fait, la base fondamentale de tout être humain. L’amour-propre, car il s’agit bien de cela, est le socle sur lequel la vie psychique peut s’édifier, et ce n’est que quand il a été compromis, ou blessé, qu’il engendre des difficultés. Je me suis souvent demandé (et je me demande encore) quelle était la nature du lien possible avec autrui ? Comment faire pour se sentir à la fois libre et en relation ? Pourquoi certaines personnes sont-elles empêchées d’avoir des relations authentiques où l’autre a toute sa place ? ou bien pourquoi ne peuvent-elles vivre que des relations dans lesquelles l’un n’est nullement présent à l’autre, ne se présente pas à lui, où chacun se borne à jouir de soi même à propos de l’autre ? Le terme de narcissisme a été introduit par la psychanalyse pour décrire l’amour qu’un individu porte envers lui-même, en référence au mythe grec de Narcisse. Ce personnage était tombé amoureux d’un autre, sans savoir qu’il s’agissait de sa propre image reflétée par la surface de l’eau. Freud utilise pour la première fois le terme de narcissisme en 1910 pour décrire le choix d’objet effectué par les homosexuels qui choisissent un partenaire à leur image, de sorte qu’à travers lui \"ils se prennent eux-mêmes comme objet sexuel.\" Peu après, Freud fait du narcissisme un stade intermédiaire du développement psychosexuel infantile, situé entre l’auto-érotisme, dont le modèle est la masturbation, et le stade évolué caractérisé par l’amour d’objet. Il décrit un narcissisme primordial, qu’il nomme narcissisme primaire, dans lequel l’enfant se prend lui-même comme objet d’amour et comme centre du monde, avant de se diriger vers des objets extérieurs, l'autre… Donc cet amour fondamental, en fonction de son point d'origine, intrinsèque ou extrinsèque, va qualifier la communication ainsi que la relation. Il est tentant de transposer ce raisonnement dans la sphère relationnelle où deux pulsions très encombrantes font obstacle à la relation : le désir de fusion et le désir d’emprise. L’enjeu relationnel est le même dans les deux cas : supprimer la différence. Pour citer le psychanalyste Jacques LACAN, \"aimer, c'est vouloir être aimer.\" On peut donc en déduire qu'un amour suffisant tourné vers soi limite l'exagération du besoin d'être aimé et ainsi s'autoriser à rajouter : \"s'aimer, c'est pouvoir aimer l'autre.\" Complétons avec le processus de formation de l’identité qui passe par cette identification narcissique favorisant la différenciation  et qui permet de se construire en tant que soi. Etre soi, singulier, vivre sa différence en respectant celle de l’autre, sans le nier ni l’agresser, est un chemin de différenciation. Ce processus de différenciation est impératif pour assurer le fondement de son identité et pour s’ouvrir à l’altérité. Cependant, une insuffisance de confirmation existentielle constitue un obstacle à ce chemin d’individuation. Des difficultés à ce niveau peuvent entraîner à l’âge adulte des problèmes identitaires et des désordres dans la relation. Il sera difficile d’assumer sa propre différence et on se trouvera face à des situations où il n’y a pas de place pour deux, où l’on ne peut être que tout puissant ou écrasé, humiliant ou humilié, où si l’un existe trop l’autre disparaît… \"J’ai besoin que l’autre soit d’accord avec moi, voie les choses comme moi pour me sentir bien, s’il ne fait pas un avec moi, je n’existe plus.\" Rajoutons ici un modèle développemental basé sur des déficits plutôt que sur des conflits intrapsychiques. La conception du narcissisme paraît précieuse dans l’approche des troubles et carences narcissiques et abandonniques et ses conséquences comme le manque d'affirmation, de prise de décision, des toxicomanies ou d'état anxio dépressif, la dépression pouvant être vue comme la maladie du narcissisme ! Ce déficit d'amour propre peut être utilisé et transposé dans une approche Ericksonienne et sous cette aura, les déficits deviennent des marqueurs de besoins inconscients et la non affirmation et le doute marquent l'inaccession à ses derniers.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Le narcissisme est souvent appréhendé dans une conception péjorative d’amour exacerbé de soi, d'autocentrisme, d’investissement exclusif de soi au détriment de l’investissement d’objet, l'autre dans la relation qui apparaît comme secondaire voire utilitaire. Le \"Narcisse\", d’ailleurs, est le plus souvent considéré sous un regard psychopathologique, connoté à un trait maladif de la personnalité comprenant de l'infatuation, le besoin constant d'admiration, de l'indifférence à autrui et l'absence habituelle de scrupules. Pourtant cet Eros intérieur représenté par ce narcissisme est, en fait, la base fondamentale de tout être humain. L’amour-propre, car il s’agit bien de cela, est le socle sur lequel la vie psychique peut s’édifier, et ce n’est que quand il a été compromis, ou blessé, qu’il engendre des difficultés. <br/><br/> Je me suis souvent demandé (et je me demande encore) quelle était la nature du lien possible avec autrui ? Comment faire pour se sentir à la fois libre et en relation ? Pourquoi certaines personnes sont-elles empêchées d’avoir des relations authentiques où l’autre a toute sa place ? ou bien pourquoi ne peuvent-elles vivre que des relations dans lesquelles l’un n’est nullement présent à l’autre, ne se présente pas à lui, où chacun se borne à jouir de soi même à propos de l’autre ? <br/> <br/>Le terme de narcissisme a été introduit par la psychanalyse pour décrire l’amour qu’un individu porte envers lui-même, en référence au mythe grec de Narcisse. Ce personnage était tombé amoureux d’un autre, sans savoir qu’il s’agissait de sa propre image reflétée par la surface de l’eau. Freud utilise pour la première fois le terme de narcissisme en 1910 pour décrire le choix d’objet effectué par les homosexuels qui choisissent un partenaire à leur image, de sorte qu’à travers lui \"ils se prennent eux-mêmes comme objet sexuel.\" Peu après, Freud fait du narcissisme un stade intermédiaire du développement psychosexuel infantile, situé entre l’auto-érotisme, dont le modèle est la masturbation, et le stade évolué caractérisé par l’amour d’objet. Il décrit un narcissisme primordial, qu’il nomme narcissisme primaire, dans lequel l’enfant se prend lui-même comme objet d’amour et comme centre du monde, avant de se diriger vers des objets extérieurs, l'autre… <br/><br/> Donc cet amour fondamental, en fonction de son point d'origine, intrinsèque ou extrinsèque, va qualifier la communication ainsi que la relation. Il est tentant de transposer ce raisonnement dans la sphère relationnelle où deux pulsions très encombrantes font obstacle à la relation : le désir de fusion et le désir d’emprise. L’enjeu relationnel est le même dans les deux cas : supprimer la différence. Pour citer le psychanalyste Jacques LACAN, \"aimer, c'est vouloir être aimer.\" On peut donc en déduire qu'un amour suffisant tourné vers soi limite l'exagération du besoin d'être aimé et ainsi s'autoriser à rajouter : \"s'aimer, c'est pouvoir aimer l'autre.\" <br/><br/> Complétons avec le processus de formation de l’identité qui passe par cette identification narcissique favorisant la différenciation  et qui permet de se construire en tant que soi. Etre soi, singulier, vivre sa différence en respectant celle de l’autre, sans le nier ni l’agresser, est un chemin de différenciation. Ce processus de différenciation est impératif pour assurer le fondement de son identité et pour s’ouvrir à l’altérité. Cependant, une insuffisance de confirmation existentielle constitue un obstacle à ce chemin d’individuation. Des difficultés à ce niveau peuvent entraîner à l’âge adulte des problèmes identitaires et des désordres dans la relation. Il sera difficile d’assumer sa propre différence et on se trouvera face à des situations où il n’y a pas de place pour deux, où l’on ne peut être que tout puissant ou écrasé, humiliant ou humilié, où si l’un existe trop l’autre disparaît… \"J’ai besoin que l’autre soit d’accord avec moi, voie les choses comme moi pour me sentir bien, s’il ne fait pas un avec moi, je n’existe plus.\" <br/><br/> Rajoutons ici un modèle développemental basé sur des déficits plutôt que sur des conflits intrapsychiques. La conception du narcissisme paraît précieuse dans l’approche des troubles et carences narcissiques et abandonniques et ses conséquences comme le manque d'affirmation, de prise de décision, des toxicomanies ou d'état anxio dépressif, la dépression pouvant être vue comme la maladie du narcissisme ! Ce déficit d'amour propre peut être utilisé et transposé dans une approche Ericksonienne et sous cette aura, les déficits deviennent des marqueurs de besoins inconscients et la non affirmation et le doute marquent l'inaccession à ses derniers. <br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "narcisse oeil",
+          "layout": {
+            "left": "510px",
+            "top": "50px",
+            "width": "319px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/narcisse-oeil-we20ebfcf22f-5a34443c.jpg",
+          "href": "",
+          "label": "narcisse oeil"
+        },
+        {
+          "type": "text",
+          "name": "WEedb0679bda",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "470px",
+            "top": "668px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "Succinctement, on peut graduer le narcissisme avec l’hypo-narcissisme qui renvoie à toutes ces personnes qui, lorsque vous les rencontrez, insistent sur ce qui est défaillant, elles ne sont jamais \"assez\" et ont une grande capacité à se dévaloriser. Vous les complimentez, mais elles vous répondent en victimes : \"Oh non, j’ai bonne mine mais en réalité je ne suis pas en forme.\" Quand l’hyper-narcissique, autocrate, ne cesse de se vanter, d’étaler ses plus par sa fatuité, l’hypo-narcissique fait le pari, pour exister aux yeux des autres, d’être moins plutôt que rien. Puis il y a le juste narcissique, l'égotique mesuré qui se vit dans une relation apaisée avec lui-même. Il vit dans la capacité de s’aimer sereinement, sans regarder sans cesse les horloges du temps qui passe et les miroirs. Il enrichit ses liens affectifs, travaille pour être efficace, éprouve du plaisir à la tâche et pas seulement pour ramener médailles et reconnaissance. Enfin, il se préoccupe autant de son corps que de son âme. Il n'évite pas les ressentis tant sensoriels qu'émotionnels. Le narcissisme se présente bel et bien comme une notion nodale avec de multiples versions, des affluents et confluents, des contradictions et paradoxes, à l’image même de la complexité du psychisme humain et de son économie. Ce concept réfère donc à la perception que le sujet a de lui-même, à la représentation de lui-même et aux affects que cette perception et cette représentation soulèvent. Qu’il s’agisse d’un repli sur soi, d’une recherche de soi à travers l’autre, du narcissisme quotidien qui accompagne la perception de soi dans différentes situations, le sentiment de soi, le sentiment pour soi, le sentiment face à soi, il s’agit d’autant de formes narcissiques que cet ingrédient constitutionnel et structurant peut offrir. L’amour de soi est fondamental à l’amour au sens large, à la capacité d’aimer. L’amour narcissique précède l’amour objectal et aucun investissement objectal n’absorbe totalement l'énergie narcissique. C’est donc du narcissisme que sont puisés les investissements d’objets et leurs réussites. L’estime de soi, dépend intimement de notre égocentrisme. Par contre, dépendre de l’amour de l’objet investi apporte peu d’estime de soi. Alors, pour bonifier son autocentrisme, le rendre en adéquation d'avec ses valeurs et aspirations, pour le rendre efficacement constructif, le repli sur soi est nécessaire pour trouver une oméostasie psychologique, équilibre entre les besoins et leur satisfaction. Et cela passe par l'acceptation de la différence avec l'autre, de la critique, de la frustration et de la confrontation à l'échec. Puis, considérer l'amour comme ingrédient central : diverses formes d’amour de soi sont nécessaires pour parvenir à se soigner, prendre soin de soi, se respecter, s’amuser, se faire plaisir, s’estimer, et s'axer positivement sur l'autre. Mais également, l'amour de l'autre dans son acceptation, que l'autre puisse aimer sans condition aucune, favorise l'adaptation narcissique. A contrario, le Narcisse pathologique a besoin de l'autre, dans une approche souvent instrumentale voire manipulatrice et destructrice. La recherche acharnée d'un statut spécial, la nécessité impérieuse de tout contrôler afin de parvenir à ses fins, engendre des pensées et croyances rigides et une souffrance psychique souvent masquée par une façade socio-relationnelle de sur-assurance. Donc s'auto flatter, s'investir, se ressentir positivement, s'aimer en balancement avec une remise en question régulière, des moments de doute et d'interrogation marquent un narcissisme sein. Celui-ci passe par l'acceptation de ses limites .",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Succinctement, on peut graduer le narcissisme avec l’hypo-narcissisme qui renvoie à toutes ces personnes qui, lorsque vous les rencontrez, insistent sur ce qui est défaillant, elles ne sont jamais \"assez\" et ont une grande capacité à se dévaloriser. Vous les complimentez, mais elles vous répondent en victimes : \"Oh non, j’ai bonne mine mais en réalité je ne suis pas en forme.\" Quand l’hyper-narcissique, autocrate, ne cesse de se vanter, d’étaler ses plus par sa fatuité, l’hypo-narcissique fait le pari, pour exister aux yeux des autres, d’être moins plutôt que rien. Puis il y a le juste narcissique, l'égotique mesuré qui se vit dans une relation apaisée avec lui-même. Il vit dans la capacité de s’aimer sereinement, sans regarder sans cesse les horloges du temps qui passe et les miroirs. Il enrichit ses liens affectifs, travaille pour être efficace, éprouve du plaisir à la tâche et pas seulement pour ramener médailles et reconnaissance. Enfin, il se préoccupe autant de son corps que de son âme. Il n'évite pas les ressentis tant sensoriels qu'émotionnels. <br/><br/> Le narcissisme se présente bel et bien comme une notion nodale avec de multiples versions, des affluents et confluents, des contradictions et paradoxes, à l’image même de la complexité du psychisme humain et de son économie. Ce concept réfère donc à la perception que le sujet a de lui-même, à la représentation de lui-même et aux affects que cette perception et cette représentation soulèvent. Qu’il s’agisse d’un repli sur soi, d’une recherche de soi à travers l’autre, du narcissisme quotidien qui accompagne la perception de soi dans différentes situations, le sentiment de soi, le sentiment pour soi, le sentiment face à soi, il s’agit d’autant de formes narcissiques que cet ingrédient constitutionnel et structurant peut offrir. L’amour de soi est fondamental à l’amour au sens large, à la capacité d’aimer. L’amour narcissique précède l’amour objectal et aucun investissement objectal n’absorbe totalement l'énergie narcissique. C’est donc du narcissisme que sont puisés les investissements d’objets et leurs réussites. L’estime de soi, dépend intimement de notre égocentrisme. Par contre, dépendre de l’amour de l’objet investi apporte peu d’estime de soi.  <br/><br/> Alors, pour bonifier son autocentrisme, le rendre en adéquation d'avec ses valeurs et aspirations, pour le rendre efficacement constructif, le repli sur soi est nécessaire pour trouver une oméostasie psychologique, équilibre entre les besoins et leur satisfaction. Et cela passe par l'acceptation de la différence avec l'autre, de la critique, de la frustration et de la confrontation à l'échec. Puis, considérer l'amour comme ingrédient central : diverses formes d’amour de soi sont nécessaires pour parvenir à se soigner, prendre soin de soi, se respecter, s’amuser, se faire plaisir, s’estimer, et s'axer positivement sur l'autre. Mais également, l'amour de l'autre dans son acceptation, que l'autre puisse aimer sans condition aucune, favorise l'adaptation narcissique. A contrario, le Narcisse pathologique a besoin de l'autre, dans une approche souvent instrumentale voire manipulatrice et destructrice. La recherche acharnée d'un statut spécial, la nécessité impérieuse de tout contrôler afin de parvenir à ses fins, engendre des pensées et croyances rigides et une souffrance psychique souvent masquée par une façade socio-relationnelle de sur-assurance. <br/><br/> Donc s'auto flatter, s'investir, se ressentir positivement, s'aimer en balancement avec une remise en question régulière, des moments de doute et d'interrogation marquent un narcissisme sein. Celui-ci passe par l'acceptation de ses limites .<br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEf0622bbf1e",
+          "layout": {
+            "width": "370px",
+            "left": "40px",
+            "top": "2680px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "16"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "homme pieuvre",
+          "layout": {
+            "left": "760px",
+            "top": "2760px",
+            "width": "73px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/homme-pieuvre-we5eb1bd3d68-67950b3c.jpg",
+          "href": "personnalite.html",
+          "label": "homme pieuvre"
+        },
+        {
+          "type": "image",
+          "name": "elephant",
+          "layout": {
+            "left": "30px",
+            "top": "2770px",
+            "width": "121px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/elephant-we91aa0db8ea-f8cb4b31.jpg",
+          "href": "confiance.html",
+          "label": "ESTIME"
+        },
+        {
+          "type": "image",
+          "name": "paon",
+          "layout": {
+            "left": "330px",
+            "top": "2790px",
+            "width": "107px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "src": "assets/paon-we9efcfd1fa5-7619075b.jpg",
+          "href": "affirmation.html",
+          "label": "AFFIRMATION"
+        },
+        {
+          "type": "image",
+          "name": "fusee",
+          "layout": {
+            "left": "470px",
+            "top": "2800px",
+            "width": "133px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/fusee-we27b2e2bc51-66bee67e.jpg",
+          "href": "besoins.html",
+          "label": "OSER"
+        },
+        {
+          "type": "image",
+          "name": "cupidon",
+          "layout": {
+            "left": "170px",
+            "top": "2810px",
+            "width": "126px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/cupidon-we6570c61a0c-9f12773b.jpg",
+          "href": "cupide-on.html",
+          "label": "CUPIDE-ON"
+        },
+        {
+          "type": "image",
+          "name": "corset",
+          "layout": {
+            "left": "640px",
+            "top": "2810px",
+            "width": "83px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/corset-we416d2d814a-c4da23ef.jpg",
+          "href": "corps.html",
+          "label": "PERSONNALITE"
+        },
+        {
+          "type": "text",
+          "name": "WE27a8084334",
+          "layout": {
+            "width": "auto",
+            "left": "510px",
+            "top": "2878px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "OSER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">OSER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEe35a0dfe02",
+          "layout": {
+            "width": "auto",
+            "left": "330px",
+            "top": "2890px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "AFFIRMATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">AFFIRMATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE3af025e9aa",
+          "layout": {
+            "width": "auto",
+            "left": "190px",
+            "top": "2900px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "CUPIDE-ON",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CUPIDE-ON</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEda6b93bc43",
+          "layout": {
+            "width": "auto",
+            "left": "660px",
+            "top": "2920px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "CORPS",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CORPS</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE4604e6204f",
+          "layout": {
+            "width": "auto",
+            "left": "60px",
+            "top": "2930px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "CONFIANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CONFIANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE02eadfad2d",
+          "layout": {
+            "width": "auto",
+            "left": "747px",
+            "top": "2939px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "PERSONNALITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PERSONNALITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEb4f7019fca",
+          "layout": {
+            "width": "auto",
+            "left": "70px",
+            "top": "2950px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "ESTIME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ESTIME</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

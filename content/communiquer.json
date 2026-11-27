@@ -1,0 +1,345 @@
+{
+  "title": "communiquer",
+  "source": "https://www.hypnosite.fr/communiquer.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "600px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "COMMUNIQUER"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEbf365d38fd",
+          "layout": {
+            "width": "550px",
+            "left": "190px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "3"
+          },
+          "text": "COMMUNIQUER",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">COMMUNIQUER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE3e8eadea5b",
+          "layout": {
+            "width": "680px",
+            "height": "auto",
+            "left": "50%",
+            "top": "410px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "4",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Entre ce que je pense, ce que je veux dire, ce que je crois dire, ce que je dis, ce que vous avez envie d'entendre, ce que vous entendez, ce que vous comprenez... il y a dix possibilités qu'on ait des difficultés à communiquer. Mais essayons quand même... \" Bernard Werber",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Entre ce que je pense, ce que je veux dire, ce que je crois dire, ce que je dis, ce que vous avez envie d'entendre, ce que vous entendez, ce que vous comprenez... il y a dix possibilités qu'on ait des difficultés à communiquer. Mais essayons quand même... \"<br/>Bernard Werber  <br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1572px",
+      "items": [
+        {
+          "type": "image",
+          "name": "gramo",
+          "layout": {
+            "left": "510px",
+            "top": "0",
+            "width": "308px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/gramo-we6432784893-0a80253a.jpg",
+          "href": "",
+          "label": "gramo"
+        },
+        {
+          "type": "text",
+          "name": "WE4b0359e102",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "30px",
+            "top": "20px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "2"
+          },
+          "text": "Que peut-on attendre vraiment de notre communication ? Où se plante t-on ? Pourquoi sommes-nous parfois déçu du retour de nos mots ? Communiquer c'est rendre commun, partager, exister. C'est un vaste sujet qui nous concerne tous car la communication est fondamentale et essentielle pour l'homme : \"on ne peut pas ne pas communiquer\". Que l'on se taise ou que l'on parle, tout est communication. Nos gestes, notre posture, nos mimiques, notre façon d'être, notre façon de dire, notre façon de ne pas dire, toutes ces choses \"parlent\" . Et aucun mot n'est neutre. Notre langage structure une grande part de nos pensées en même temps qu'il en est le reflet. Sinon des illustrations, nos mots sont déja des actions, plus nous pensons avec certains mots plus ceux-ci influencent notre perception de la réalité. Alors quel impact les mots par lesquels nous choisissons de penser et de nous exprimer ont-ils sur nos propres pensées, nos ressentis ? Ceux de l'autre ? Jusqu'à quel point choississons-nous (in)consciemment les mots par lesquels nous pensons ? Richard BANDLER (le père de la PN.L.) disait avec justesse que nous n'avons que le résultat de notre communication ! Dans les faits, parfois nous attendons un autre retour de notre discours en omettant que notre première communication est émotionnelle. L'émotion est au coeur de l'être humain et est le centre de toute relation. C'est bien souvent par rapport à ce que nous éprouvons que nous orientons nos modalités communicationnelles. Bien souvent, notre façon de transmettre consiste plus à déposer qu'à partager. Alors, lorsque vous pensez parler à quelqu'un, le faites-vous vraiment ou ne faites-vous que parler à vous-même sans vous en apercevoir ?",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"><span style=\"color:rgb(0, 0, 0);\">Que peut-on attendre vraiment de notre communication ? Où se plante t-on ? Pourquoi sommes-nous parfois déçu du retour de nos mots ?<br/><br/>Communiquer c'est rendre commun, partager, exister. C'est un vaste sujet qui nous concerne tous car la communication est fondamentale et essentielle pour l'homme : \"on ne peut pas ne pas communiquer\". Que l'on se taise ou que l'on parle, tout est communication. Nos gestes, notre posture, nos mimiques, notre façon d'être, notre façon de dire, notre façon de ne pas dire, toutes ces choses \"parlent\" . <br/><br/>Et aucun mot n'est neutre. Notre langage structure une grande part de nos pensées en même temps qu'il en est le reflet. Sinon des illustrations, nos mots sont déja des actions, plus nous pensons avec certains mots plus ceux-ci influencent notre perception de la réalité.<br/><br/>Alors quel impact les mots par lesquels nous choisissons de penser et de nous exprimer ont-ils sur nos propres pensées, nos ressentis ? Ceux de l'autre ? Jusqu'à quel point choississons-nous (in)consciemment les mots par lesquels nous pensons ?<br/><br/><span style=\"font-size:18px;\"><span style=\"font-family:'Tox Typewriter';\"><span style=\"color:rgb(12, 12, 12);\">Richard BANDLER (le père de la PN.L.) disait avec justesse que nous n'avons que le résultat de notre communication ! Dans les faits, parfois nous attendons un autre retour de notre discours en omettant que </span></span></span><span style=\"color:rgb(0, 0, 0);\">notre première communication est émotionnelle. L'émotion est au coeur de l'être humain et est le centre de toute relation. C'est bien souvent par rapport à ce que nous éprouvons que nous orientons nos modalités communicationnelles. </span>Bien souvent, notre façon de transmettre consiste plus à déposer qu'à partager. Alors, lorsque vous pensez parler à quelqu'un, le faites-vous vraiment ou ne faites-vous que parler à vous-même sans vous en apercevoir ? </span><br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE1a8affc657",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "470px",
+            "top": "446px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3"
+          },
+          "text": "Communiquer, c'est également concevoir laisser de la place à l'autre, ce qui pourrait sous-entendre s'oublier un peu. C'est percevoir et écouter ses propres émotions et celles des autres. Puis, c'est accepter que l'autre vive dans une autre réalité que la sienne. Et cet autre qui se place comme le récepteur est indispensable car sans lui, il n'y a pas de communication. Reste encore à se brancher sur la même fréquence que lui, sur le même canal. Communiquer est une manipulation structurée. Quand bien même notre intention première voire délibérée n'est pas de marionnettiser dans un but \"pervers\", nous communiquons souvent dans l'intention d'influencer ou de modifier la compréhension de l'environnement ou le comportement d'autrui. Ainsi, l es modalités de la communication ne doivent pas cacher l'essentiel: faire passer une information, un message, une pensée, une connaissance ou encore un sentiment ou une émotion. C'est encore créer une relation pour dialoguer avec qualité, relancer le dialogue, obtenir un intéret par l'argumentaire, influenceur de la conviction, ceci pour inciter l'autre à agir (selon sa propre volonté), dans la même direction que le communiquant. L'hypnose Ericksonienne est une technique de communication objective et mesurable  avec soi.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"><span style=\"color:rgb(0, 0, 0);\">Communiquer, c'est également concevoir laisser de la place à l'autre, ce qui pourrait sous-entendre s'oublier un peu. C'est percevoir et écouter ses propres émotions et celles des autres. Puis, c'est accepter que l'autre vive dans une autre réalité que la sienne. Et cet autre qui se place comme le récepteur est indispensable car sans lui, il n'y a pas de communication. Reste encore à se brancher sur la même fréquence que lui, sur le même canal. </span><br/><br/><span style=\"color:rgb(0, 0, 0);\"> Communiquer est une manipulation structurée. Quand bien même notre intention première voire délibérée n'est pas de marionnettiser dans un but \"pervers\", nous communiquons souvent dans l'intention d'influencer ou de modifier la compréhension de l'environnement ou le comportement d'autrui. Ainsi, l</span><span style=\"color:rgb(0, 0, 0);\">es modalités de la communication ne doivent pas cacher l'essentiel: faire passer une information, un message, une pensée, une connaissance ou encore un sentiment ou une émotion. C'est encore créer une relation pour dialoguer avec qualité, relancer le dialogue, obtenir un intéret par l'argumentaire, influenceur de la conviction, ceci pour inciter l'autre à agir (selon sa propre volonté), dans la même direction que le communiquant. </span><br/><br/><span style=\"color:rgb(0, 0, 0);\">L'hypnose Ericksonienne est une technique de communication objective et mesurable  avec soi.</span><br/> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEe92312c85e",
+          "layout": {
+            "width": "400px",
+            "left": "30px",
+            "top": "1150px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "18"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "coeur emotion",
+          "layout": {
+            "left": "220px",
+            "top": "1280px",
+            "width": "93px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "src": "assets/coeur-emotion-web600bc28ba-95b52d74.jpg",
+          "href": "emotion.html",
+          "label": "EMOTION"
+        },
+        {
+          "type": "image",
+          "name": "jumelles",
+          "layout": {
+            "left": "610px",
+            "top": "1290px",
+            "width": "106px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/jumelles-wecdb832f01e-07f929c1.jpg",
+          "href": "vision.html",
+          "label": "VISION"
+        },
+        {
+          "type": "image",
+          "name": "fusee",
+          "layout": {
+            "left": "440px",
+            "top": "1320px",
+            "width": "138px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/fusee-wefd4b8d57e0-ab8e1556.jpg",
+          "href": "oser.html",
+          "label": "OSER"
+        },
+        {
+          "type": "image",
+          "name": "tampon",
+          "layout": {
+            "left": "350px",
+            "top": "1350px",
+            "width": "66px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/tampon-weaa246c8fc9-4e158395.jpg",
+          "href": "repetition.html",
+          "label": "REPETITION"
+        },
+        {
+          "type": "image",
+          "name": "arrosoir",
+          "layout": {
+            "left": "740px",
+            "top": "1350px",
+            "width": "122px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/arrosoir-we4e7990e17f-f7be0e21.jpg",
+          "href": "besoins.html",
+          "label": "BESOINS (relationnels)"
+        },
+        {
+          "type": "image",
+          "name": "loup",
+          "layout": {
+            "left": "40px",
+            "top": "1375px",
+            "width": "126px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/loup-we776b7f797e-5e0bfc81.jpg",
+          "href": "contrainte.html",
+          "label": "(double) CONTRAINTE"
+        },
+        {
+          "type": "text",
+          "name": "WEe407a78b5d",
+          "layout": {
+            "width": "auto",
+            "left": "640px",
+            "top": "1380px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "VISION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">VISION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE9ff682459d",
+          "layout": {
+            "width": "auto",
+            "left": "460px",
+            "top": "1390px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "OSER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">OSER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "trompette",
+          "layout": {
+            "left": "530px",
+            "top": "1430px",
+            "width": "134px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "src": "assets/trompette-we871999aa87-429d7107.jpg",
+          "href": "presuppose.html",
+          "label": "IMPLICITE"
+        },
+        {
+          "type": "text",
+          "name": "WE90793a61d2",
+          "layout": {
+            "width": "auto",
+            "left": "230px",
+            "top": "1440px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE3bfdc765b5",
+          "layout": {
+            "width": "15.56%",
+            "left": "730px",
+            "top": "1460px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "BESOINS (relationnels)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">BESOINS (relationnels)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEf28df65923",
+          "layout": {
+            "width": "auto",
+            "left": "20px",
+            "top": "1480px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "(double) CONTRAINTE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(double) CONTRAINTE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE10339ef280",
+          "layout": {
+            "width": "auto",
+            "left": "340px",
+            "top": "1490px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "REPETITION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">REPETITION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEbc8142369a",
+          "layout": {
+            "width": "auto",
+            "left": "550px",
+            "top": "1510px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "IMPLICITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">IMPLICITE</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

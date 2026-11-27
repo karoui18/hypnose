@@ -1,0 +1,288 @@
+{
+  "title": "presuppose",
+  "source": "https://www.hypnosite.fr/presuppose.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "589px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "IMPLICITE"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE01ef60c562",
+          "layout": {
+            "width": "550px",
+            "left": "210px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "IMPLICITE",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">IMPLICITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE785348e67b",
+          "layout": {
+            "width": "550px",
+            "height": "auto",
+            "left": "50%",
+            "top": "450px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Communiquer suppose aussi des silences, non pour se taire, mais pour laisser un espace à la rencontre des mots.\" Jacques SALOME",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Communiquer suppose aussi des silences, non pour se taire, mais pour laisser un espace à la rencontre des mots.\" Jacques SALOME<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2120px",
+      "items": [
+        {
+          "type": "image",
+          "name": "trompette",
+          "layout": {
+            "left": "476px",
+            "top": "10px",
+            "width": "397px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/trompette-45e29407.jpg",
+          "href": "",
+          "label": "trompette"
+        },
+        {
+          "type": "text",
+          "name": "WE39da5e9f0e",
+          "layout": {
+            "width": "390px",
+            "height": "auto",
+            "left": "30px",
+            "top": "17px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "Quand dire, c'est faire. Les paroles sont aussi des actions. Dire, c'est transmettre à autrui certaines informations sur l'objet dont on parle, mais c'est aussi faire, c'est-à-dire tenter d'agir sur son interlocuteur, voire sur le monde environnant. Au lieu d'opposer comme on le fait souvent la parole et l'action, il convient de considérer que la parole elle-même est une forme d'action. Lorsqu’un locuteur s’adresse à un destinataire, il désire lui transmettre une information ou lui raconter un fait. Il peut aussi souhaiter agir sur lui, le convaincre, l’interroger, lui donner un ordre ou une autorisation. Considérons qu'il y a deux manières de s’exprimer : la première est claire, explicite, sans ambiguïté, ni incertitude, la seconde est suggérée, implicite. Dans ce cas, on n’exprime pas formellement sa pensée, il faudra déduire, deviner, comprendre une information à partir d’un terme ou à partir du contexte. On dit qu’une information est implicite lorsqu’elle est seulement suggérée et que le locuteur fait appel au sens de la déduction et de l’interprétation du récepteur du message. \"Ce soir, je souhaite me reposer.\" Cela peut présupposer que : - je puisse être fatigué - je souhaite rester au calme - je ne veux voir personne - etc. Parfois, le locuteur utilise le présupposé pour manipuler son destinataire en présentant comme évidentes des informations qui ne le sont pas. Ainsi, le locuteur peut dire une chose à son destinataire pour lui faire comprendre autre chose. Donc un même acte de langage peut recevoir un grand nombre de réalisations différentes : un constat, une plainte, une requête et même tout cela à la fois. Ce discours implicite bâtie autour du présupposé ne contient aucun mot qui permette de le repérer, il n’est qu’allusion. Pour le comprendre, le destinataire doit mettre en relation le message et le contexte dans lequel il est énoncé. En d'autres termes, quand dire, c'est faire plusieurs choses à la fois ou quand dire c'est faire une chose sous les apparences d'une autre, cela génère incertitude et confusion. Et lorsqu’un présupposé n’est pas compris, il peut provoquer un malentendu. Dans la vie courante, il peut générer des conflits, des blocages, voire des symptômes. Et il y a aussi les auto présupposés, ceux qu'on s'inflige ouvertement, sans s'entendre : \"Je vais essayer d'arréter de fumer.\" Ici, nous laissons présager que je puisse m'autoriser à ne pas y arriver. Derrière cette construction langagière, se constitue des possibilités et des actions, afin de ne pas y arriver. Le présupposé est également le terrain favorable pour l'expression de ses croyances limitantes (voir page croyance) : \"Je vais essayer d'arrêter de fumer.\" La possibilité de ne pas y arriver laisse la place à la croyance limitante construite autour du fait que cela fait longtemps que je fume, qu'il va me falloir du temps pour arrêter et que cela va être difficile.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Quand dire, c'est faire. Les paroles sont aussi des actions. Dire, c'est transmettre à autrui certaines informations sur l'objet dont on parle, mais c'est aussi faire, c'est-à-dire tenter d'agir sur son interlocuteur, voire sur le monde environnant. Au lieu d'opposer comme on le fait souvent la parole et l'action, il convient de considérer que la parole elle-même est une forme d'action. Lorsqu’un locuteur s’adresse à un destinataire, il désire lui transmettre une information ou lui raconter un fait. Il peut aussi souhaiter agir sur lui, le convaincre, l’interroger, lui donner un ordre ou une autorisation.  <br/><br/>Considérons qu'il y a deux manières de s’exprimer : la première est claire, explicite, sans ambiguïté, ni incertitude, la seconde est suggérée, implicite. Dans ce cas, on n’exprime pas formellement sa pensée, il faudra déduire, deviner, comprendre une information à partir d’un terme ou à partir du contexte. On dit qu’une information est implicite lorsqu’elle est seulement suggérée et que le locuteur fait appel au sens de la déduction et de l’interprétation du récepteur du message.<br/> <br/> \"Ce soir, je souhaite me reposer.\" Cela peut présupposer que : <br/></span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">- je puisse être fatigué <br/></span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">- je souhaite rester au calme <br/></span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">- je ne veux voir personne<br/></span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">- etc.<br/></span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"><br/></span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Parfois, le locuteur utilise le présupposé pour manipuler son destinataire en présentant comme évidentes des informations qui ne le sont pas. Ainsi, le locuteur peut dire une chose à son destinataire pour lui faire comprendre autre chose. Donc un même acte de langage peut recevoir un grand nombre de réalisations différentes : un constat, une plainte, une requête et même tout cela à la fois. <br/>  <br/> Ce discours implicite bâtie autour du présupposé ne contient aucun mot qui permette de le repérer, il n’est qu’allusion. Pour le comprendre, le destinataire doit mettre en relation le message et le contexte dans lequel il est énoncé. En d'autres termes, quand dire, c'est faire plusieurs choses à la fois ou quand dire c'est faire une chose sous les apparences d'une autre, cela génère incertitude et confusion. Et lorsqu’un présupposé n’est pas compris, il peut provoquer un malentendu. Dans la vie courante, il peut générer des conflits, des blocages, voire des symptômes. <br/><br/>Et il y a aussi les auto présupposés, ceux qu'on s'inflige ouvertement, sans s'entendre :<br/> \"Je vais essayer d'arréter de fumer.\" Ici, nous laissons présager que je puisse m'autoriser à ne pas y arriver. Derrière cette construction langagière, se constitue des possibilités et des actions, afin de ne pas y arriver. <br/><br/>Le présupposé est également le terrain favorable pour l'expression de ses croyances limitantes (voir page croyance) :  <br/>\"Je vais essayer d'arrêter de fumer.\"<br/>La possibilité de ne pas y arriver laisse la place à la croyance limitante construite autour du fait que cela fait longtemps que je fume, qu'il va me falloir du temps pour arrêter et que cela va être difficile. <br/> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE6d4b003e2d",
+          "layout": {
+            "width": "390px",
+            "height": "auto",
+            "left": "480px",
+            "top": "284px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "3"
+          },
+          "text": "Une variante, la métonymie est une figure de style qui, dans la langue ou son usage, utilise un mot pour signifier une idée distincte mais qui lui est associée. La métonymie est basée sur un lien logique entre le terme exprimé et le terme qu'il remplace. Elle est employée très fréquemment, car elle permet une expression courte, frappante, et souvent créative. D'innombrables métonymies sont figées dans les langues naturelles \"comme boire un verre\", tandis que d'autres sont dues à la créativité des locuteurs comme dans le vers \"Paris a froid, Paris a faim.\". Ici, Paris ne désigne évidemment pas la ville elle-même, mais bien la majorité de ses habitants. Egalement, la double contrainte qui est une situation dans laquelle une personne est soumise à deux contraintes ou pressions contradictoires ou incompatibles. C'est un type particulier de conflit qui crée une situation \"non-gagnante\" ; c'est-à-dire, une situation dans laquelle on est \"damné si vous le faîtes, et damné si vous ne le faîtes pas\". Les doubles liens se produisent assez fréquemment au quotidien. Considérez le dilemme du mari qui, quand il demande à sa femme ce qu'elle pense de certains sujets, obtient en réponse : \"ce n’est en aucun cas ses affaires.\" S'il ne demande rien à son épouse, il est cependant critiqué pour \"ne pas se soucier\" de ses opinions. Du fait de son incapacité à séparer la signification des deux messages et à répondre de manière appropriée, il se sent un mari inadéquat. Ces doubles liens conduisent souvent à un sentiment similaire de confusion et d'impuissance et si la personne est ou se sent prisonnière de la situation, cela peut rendre le problème insoluble et engendrer des troubles relationnels et une souffrance psychologique. Enfin, le contexte est le lieu qui accueille l'implicite. Si vous n'êtes pas dans ce contexte, vous passez à coté de l'effet langagier car, lui, s'appuie sur le contexte pour s'exprimer. En somme, soyez dans l'instant présent afin de pouvoir mesurer cette double dimension. Entendez que nous communiquons à différents niveaux (verbal, non verbal) et nous ne faisons que cela, des présupposés! Ecoutez l'autre, c'est l'écouter à tous les niveaux, dans le moment. Nous entendons tout cela, nous répondons et interagissons, parfois inconsciement, à ses suggestions stylistiques. Le fait d'en prendre conscience, de les percevoir, nous permet ainsi de pouvoir nous positionner émotionnellement et avec justesse.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Une variante, la métonymie est une figure de style qui, dans la langue ou son usage, utilise un mot pour signifier une idée distincte mais qui lui est associée. La métonymie est basée sur un lien logique entre le terme exprimé et le terme qu'il remplace. Elle est employée très fréquemment, car elle permet une expression courte, frappante, et souvent créative. D'innombrables métonymies sont figées dans les langues naturelles \"comme boire un verre\", tandis que d'autres sont dues à la créativité des locuteurs comme dans le vers \"Paris a froid, Paris a faim.\". Ici, Paris ne désigne évidemment pas la ville elle-même, mais bien la majorité de ses habitants.  <br/><br/> Egalement, la double contrainte qui est une situation dans laquelle une personne est soumise à deux contraintes ou pressions contradictoires ou incompatibles. C'est un type particulier de conflit qui crée une situation \"non-gagnante\" ; c'est-à-dire, une situation dans laquelle on est \"damné si vous le faîtes, et damné si vous ne le faîtes pas\". Les doubles liens se produisent assez fréquemment au quotidien. Considérez le dilemme du mari qui, quand il demande à sa femme ce qu'elle pense de certains sujets, obtient en réponse : \"ce n’est en aucun cas ses affaires.\" S'il ne demande rien à son épouse, il est cependant critiqué pour \"ne pas se soucier\" de ses opinions. Du fait de son incapacité à séparer la signification des deux messages et à répondre de manière appropriée, il se sent un mari inadéquat. Ces doubles liens conduisent souvent à un sentiment similaire de confusion et d'impuissance et si la personne est ou se sent prisonnière de la situation, cela peut rendre le problème insoluble et engendrer des troubles relationnels et une souffrance psychologique. <br/><br/> Enfin, le contexte est le lieu qui accueille l'implicite. Si vous n'êtes pas dans ce contexte, vous passez à coté de l'effet langagier car, lui, s'appuie sur le contexte pour s'exprimer. En somme, soyez dans l'instant présent afin de pouvoir mesurer cette double dimension. Entendez que nous communiquons à différents niveaux (verbal, non verbal) et nous ne faisons que cela, des présupposés! Ecoutez l'autre, c'est l'écouter à tous les niveaux, dans le moment.  <br/><br/>Nous entendons tout cela, nous répondons et interagissons, parfois inconsciement, à ses suggestions stylistiques. Le fait d'en prendre conscience, de les percevoir, nous permet ainsi de pouvoir nous positionner émotionnellement et avec justesse.<br/> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE4dff8efd4d",
+          "layout": {
+            "width": "380px",
+            "left": "480px",
+            "top": "1760px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "14"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "direction",
+          "layout": {
+            "left": "730px",
+            "top": "1850px",
+            "width": "118px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/direction-weea7405ff70-61faa4a1.jpg",
+          "href": "choix.html",
+          "label": "(NON) CHOIX"
+        },
+        {
+          "type": "image",
+          "name": "femme serpent",
+          "layout": {
+            "left": "550px",
+            "top": "1870px",
+            "width": "124px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/femme-serpent-we1927a55b34-9bbaa647.jpg",
+          "href": "croyance.html",
+          "label": "CROYANCE"
+        },
+        {
+          "type": "image",
+          "name": "gramo",
+          "layout": {
+            "left": "390px",
+            "top": "1875px",
+            "width": "115px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/gramo-wed4c6f6607d-9f9e3f32.jpg",
+          "href": "communiquer.html",
+          "label": "COMMUNIQUER"
+        },
+        {
+          "type": "image",
+          "name": "fusee",
+          "layout": {
+            "left": "40px",
+            "top": "1930px",
+            "width": "141px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/fusee-we0ba0edcc42-2e22b0de.jpg",
+          "href": "oser.html",
+          "label": "OSER"
+        },
+        {
+          "type": "image",
+          "name": "arrosoir",
+          "layout": {
+            "left": "220px",
+            "top": "1930px",
+            "width": "130px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/arrosoir-wee5c8b5cc17-59fe3f18.jpg",
+          "href": "besoins.html",
+          "label": "BESOINS (relationnels)"
+        },
+        {
+          "type": "text",
+          "name": "WE629f403fcf",
+          "layout": {
+            "width": "auto",
+            "left": "750px",
+            "top": "1950px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "(NON) CHOIX",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(NON) CHOIX</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2a2e90ab31",
+          "layout": {
+            "width": "auto",
+            "left": "50px",
+            "top": "2000px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "OSER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">OSER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE8d7b2e22c6",
+          "layout": {
+            "width": "auto",
+            "left": "570px",
+            "top": "2000px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "CROYANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CROYANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEefc7e375aa",
+          "layout": {
+            "width": "14.44%",
+            "left": "200px",
+            "top": "2030px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "BESOINS (relationnels)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">BESOINS (relationnels)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE6f52c88b7c",
+          "layout": {
+            "width": "auto",
+            "left": "400px",
+            "top": "2030px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "text": "COMMUNIQUER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">COMMUNIQUER</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

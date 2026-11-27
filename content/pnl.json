@@ -1,0 +1,229 @@
+{
+  "title": "HYPNOSE P.N.L.",
+  "source": "https://www.hypnosite.fr/PNL.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "630px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "HYPNOSE & P.N.L."
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEa28a6fb49a",
+          "layout": {
+            "width": "600px",
+            "left": "190px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "HYPNOSE & P.N.L.",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-size:70px;\"><span style=\"font-family:'Bohem Press';\">HYPNOSE</span><span style=\"font-family:'Tox Typewriter';\"> &amp; </span><span style=\"font-family:'Bohem Press';\">P.N.L.</span></span></span>",
+          "mobileHidden": true
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1258px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE59e6b4eeab",
+          "layout": {
+            "width": "520px",
+            "height": "auto",
+            "left": "30px",
+            "top": "-200px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "7"
+          },
+          "text": "\"Ce qui caractérise l'être humain, c'est non seulement sa mobilité, mais aussi sa faculté d'acquérir des connaissances et sa capacité d'éprouver des émotions ; et puis il défend son intelligence de façon effective. Et deux personnes n'auront pas forcément les mêmes idées, mais toutes défendront leurs idées. Quand on a compris comment l'homme défend réellement ses idées et combien important est l'élément affectif qui intervient dans cette défense, on devrait se rendre compte que la première chose à faire,  ce n'est pas d'essayer de contraindre l'être humain  à modifier sa façon de penser ; il est préférable de se ranger à ses vues, de les modifier peu à peu et de créer des situations dans lesquelles l'individu modifiera lui-même volontairement sa façon de penser.\" Milton ERICKSON",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';\"><span style=\"font-size:18px;\">\"Ce qui caractérise l'être humain, c'est non seulement sa mobilité, mais aussi sa faculté d'acquérir des connaissances et sa capacité d'éprouver des émotions ; et puis il défend son intelligence de façon effective. Et deux personnes n'auront pas forcément les mêmes idées, mais toutes défendront leurs idées. Quand on a compris comment l'homme défend réellement ses idées et combien important est l'élément affectif qui intervient dans cette défense, on devrait se rendre compte que la première chose à faire,  ce n'est pas d'essayer de contraindre l'être humain  à modifier sa façon de penser ; il est préférable de se ranger à ses vues, de les modifier peu à peu et de créer des situations dans lesquelles l'individu modifiera lui-même volontairement sa façon de penser.\" Milton ERICKSON</span></span><span style=\"font-family:OldNewspaperTypes;font-size:18px;line-height:21px;\"><br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "oeil double",
+          "layout": {
+            "left": "570px",
+            "top": "-180px",
+            "width": "315px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/oeil-double-wede9ef265a5-de05918b.jpg",
+          "href": "",
+          "label": "oeil double"
+        },
+        {
+          "type": "text",
+          "name": "WE258ed8a5a9",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "20px",
+            "top": "230px",
+            "border": "0 none",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "z-index": "2"
+          },
+          "text": "L'hypnose Ericksonienne : Caractérisée par une approche souple, indirecte (métaphores, imaginaire) et non dirigiste, cette forme d'hypnose a donné naissance à de nombreux courants de psychothérapie moderne : thérapie familiale, thérapie brève, P.N.L, etc. L'hypnose est un processus actif, un travail au cours duquel le sujet accède à des réponses et des changements qui apparaissent, le plus souvent, au-delà de la séance, sans que le sujet n'en prenne conscience. Utilisée en psychothérapie, elle se situe dans une optique courte : une à dix séances, sur une durée de quelques semaines à quelques mois même pour des blocages lourds, cela en minimisant les possibilités de rechute ou de substitution de symptôme. Pour Milton Erickson, l'inconscient est profondément bon et puissant. Il se révèle une puissance bienveillante avec laquelle l'état hypnotique doit permettre de coopérer. L'inconscient est capable de mobiliser des ressources intérieures, des potentialités susceptibles de conduire aux changements désirés. L'hypnose ericksonienne a pour but d'amener conscient et inconscient à travailler ensemble pour déclencher les changements utiles à la résolution du problème. L'hypnose ericksonienne, initié par le docteur Milton ERICKSON, est une hypnose naturelle, utiisant le savoir et le savoir faire du sujet ; état spontané où le sujet, au cours de son travail hypnotique, va rechercher et trouver la solution au problème dont il souffre, excluant toute suggestion directe et injonction. C'est une hypnose respectueuse de l'écologie psychique,où l'inconscient est considéré comme un réservoir à ressource.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">L'hypnose Ericksonienne :<br/><br/>Caractérisée par une approche souple, indirecte (métaphores, imaginaire) et non dirigiste, cette forme d'hypnose a donné naissance à de nombreux courants de psychothérapie moderne : thérapie familiale, thérapie brève, P.N.L, etc. L'hypnose est un processus actif, un travail au cours duquel le sujet accède à des réponses et des changements qui apparaissent, le plus souvent, au-delà de la séance, sans que le sujet n'en prenne conscience.<br/><br/>Utilisée en psychothérapie, elle se situe dans une optique courte : une à dix séances, sur une durée de quelques semaines à quelques mois même pour des blocages lourds, cela en minimisant les possibilités de rechute ou de substitution de symptôme.<br/><br/>Pour Milton Erickson, l'inconscient est profondément bon et puissant. Il se révèle une puissance bienveillante avec laquelle l'état hypnotique doit permettre de coopérer. L'inconscient est capable de mobiliser des ressources intérieures, des potentialités susceptibles de conduire aux changements désirés. L'hypnose ericksonienne a pour but d'amener conscient et inconscient à travailler ensemble pour déclencher les changements utiles à la résolution du problème. <br/>  <br/>L'hypnose ericksonienne, initié par le docteur Milton ERICKSON, est une hypnose naturelle, utiisant le savoir et le savoir faire du sujet ; état spontané où le sujet, au cours de son travail hypnotique, va rechercher et trouver la solution au problème dont il souffre, excluant toute suggestion directe et injonction. C'est une hypnose respectueuse de l'écologie psychique,où l'inconscient est considéré comme un réservoir à ressource. </span><br/></span>"
+        },
+        {
+          "type": "text",
+          "name": "WEb84f4ec180",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "460px",
+            "top": "230px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "z-index": "1"
+          },
+          "text": "La Programmation Neuro Linguistique (P.N.L.) : Inspirée du travail d'autres thérapeutes, dont Milton Erickson, la  P.N.L. a été élaborée par Richard Bandler et John Grinder dans les années 1970 aux États-Unis. Leur démarche s'inscrit autant dans le domaine de la psychothérapie que ceux de la créativité, du sport, du management, de la pédagogie et de la communication. La P.N.L. est un ensemble de techniques de communication et de transformation de soi qui s’intéresse à nos réactions plutôt qu’aux origines de nos comportements. Parce qu'elle privilégie le comment au pourquoi, propose une grille d’observation pour améliorer la perception que nous avons de nous-mêmes et des autres. Son but est de permettre de programmer et reproduire ses propres modèles de réussite. Elle repose sur le principe que chaque personne a sa propre vision du monde, son propre univers, sa propre subjectivité. Ainsi, si deux personnes, dans le même contexte, observent la même situation, elles y verront, comprendront et communiqueront cette expérience de façon probablement différente. La P.N.L. s'appuie entre autre sur la modélisation qui est la recherche de modèles singuliers et leurs maitrises afin de pouvoir les utiliser efficacement dans des contextes appropriées.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">La Programmation Neuro Linguistique (P.N.L.) : <br/>  <br/> Inspirée du travail d'autres thérapeutes, dont Milton Erickson, la  P.N.L. a été élaborée par Richard Bandler et John Grinder dans les années 1970 aux États-Unis. Leur démarche s'inscrit autant dans le domaine de la psychothérapie que ceux de la créativité, du sport, du management, de la pédagogie et de la communication.<br/><br/>La P.N.L. est un ensemble de techniques de communication et de transformation de soi qui s’intéresse à nos réactions plutôt qu’aux origines de nos comportements. Parce qu'elle privilégie le comment au pourquoi, propose une grille d’observation pour améliorer la perception que nous avons de nous-mêmes et des autres. <br/><br/>Son but est de permettre de programmer et reproduire ses propres modèles de réussite. Elle repose sur le principe que chaque personne a sa propre vision du monde, son propre univers, sa propre subjectivité. Ainsi, si deux personnes, dans le même contexte, observent la même situation, elles y verront, comprendront et communiqueront cette expérience de façon probablement différente. La P.N.L. s'appuie entre autre sur la modélisation qui est la recherche de modèles singuliers et leurs maitrises afin de pouvoir les utiliser efficacement dans des contextes appropriées. <br/></span></span>"
+        },
+        {
+          "type": "group",
+          "name": "WEe5716eed1b",
+          "layout": {
+            "width": "870px",
+            "height": "696px",
+            "left": "0",
+            "top": "550px",
+            "border": "2px solid #000",
+            "border-radius": "20px 20px 20px 20px",
+            "background-color": "#fff",
+            "z-index": "5"
+          },
+          "items": [
+            {
+              "type": "text",
+              "name": "WE9e71b2b8e7",
+              "layout": {
+                "width": "500px",
+                "left": "0",
+                "top": "60px",
+                "height": "auto",
+                "text-align": "center",
+                "font-family": "'LetteringDecoShadow'",
+                "z-index": "2"
+              },
+              "text": "Milton ERICKSON",
+              "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:45px;\">Milton ERICKSON</span></span>"
+            },
+            {
+              "type": "image",
+              "name": "erickson",
+              "layout": {
+                "left": "30px",
+                "top": "160px",
+                "width": "174px",
+                "height": "auto",
+                "z-index": "1"
+              },
+              "src": "assets/erickson-2ac8ce87.jpg",
+              "href": "",
+              "label": "erickson"
+            },
+            {
+              "type": "text",
+              "name": "WE107246e936",
+              "layout": {
+                "width": "590px",
+                "height": "auto",
+                "left": "250px",
+                "top": "170px",
+                "text-align": "justify",
+                "z-index": "3"
+              },
+              "text": "Milton Hyland Erickson (1901-1980), est un médecin américain surnommé \"le thérapeute hors du commun\". Il est atteint par la poliomyélite à l'âge de 17 ans et se retrouve dans une paralysie presque totale. Ses efforts pour se rééduquer et son sens accru de l'observation, le conduisent à découvrir sur lui-même certains effets de l'hypnose. Ainsi, à force de patience et d'entraînement, en focalisant son attention sur certaines zones de son corps et sur ses sensations, il parvient à stimuler ses muscles un à un et recouvre progressivement sa mobilité. Il se rétablit ainsi et entreprend ses études de médecine. Son travail sera dès lors basé sur une certitude, celle que chacun possède en lui les ressources nécessaires pour s'adapter à toute situation.",
+              "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">Milton Hyland Erickson (1901-1980), est un médecin américain surnommé \"le thérapeute hors du commun\". Il est atteint par la poliomyélite à l'âge de 17 ans et se retrouve dans une paralysie presque totale. Ses efforts pour se rééduquer et son sens accru de l'observation, le conduisent à découvrir sur lui-même certains effets de l'hypnose. Ainsi, à force de patience et d'entraînement, en focalisant son attention sur certaines zones de son corps et sur ses sensations, il parvient à stimuler ses muscles un à un et recouvre progressivement sa mobilité. Il se rétablit ainsi et entreprend ses études de médecine. Son travail sera dès lors basé sur une certitude, celle que chacun possède en lui les ressources nécessaires pour s'adapter à toute situation.   <br/></span></span>"
+            },
+            {
+              "type": "text",
+              "name": "WEbea1f04e6d",
+              "layout": {
+                "width": "810px",
+                "height": "auto",
+                "left": "30px",
+                "top": "430px",
+                "text-align": "justify",
+                "z-index": "4"
+              },
+              "text": "Médecin de formation et psychiatre, Milton H. Erickson découvre l’hypnose en suivant l’enseignement de Clark L. Hull. Mais très vite, il prend un chemin différent en développant une hypnose non autoritaire. Très loin de l'hypnose classique très directive, Milton H. Erickson utilise l’unicité de chaque individu pour donner des suggestions indirectes adaptées au client. Profitant des ressources importantes de l’inconscient du client, il en fait son allié pour provoquer le changement désiré consciemment par le client. Il consacre sa vie au développement de nombreuses techniques de thérapie par l’hypnose orientée vers la solution. Il fait évoluer l’hypnose thérapeutique vers une hypnose non autoritaire qui s’adapte à chaque individu basée sur des métaphores et des suggestions indirectes ce qui fait la souplesse de cet art.",
+              "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">Médecin de formation et psychiatre, Milton H. Erickson découvre l’hypnose en suivant l’enseignement de Clark L. Hull. Mais très vite, il prend un chemin différent en développant une hypnose non autoritaire. Très loin de l'hypnose classique très directive, Milton H. Erickson utilise l’unicité de chaque individu pour donner des suggestions indirectes adaptées au client. Profitant des ressources importantes de l’inconscient du client, il en fait son allié pour provoquer le changement désiré consciemment par le client.  <br/>  <br/> Il consacre sa vie au développement de nombreuses techniques de thérapie par l’hypnose orientée vers la solution. Il fait évoluer l’hypnose thérapeutique vers une hypnose non autoritaire qui s’adapte à chaque individu basée sur des métaphores et des suggestions indirectes ce qui fait la souplesse de cet art.  <br/></span></span>"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "name": "main femme",
+          "layout": {
+            "left": "540px",
+            "top": "1070px",
+            "width": "91px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/main-femme-wed3346659c6-5216ac62.jpg",
+          "href": "erickson.html",
+          "label": "MILTON ERICKSON"
+        },
+        {
+          "type": "text",
+          "name": "WE98531bb03b",
+          "layout": {
+            "width": "auto",
+            "left": "650px",
+            "top": "1070px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "text": "MILTON ERICKSON",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">MILTON ERICKSON</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

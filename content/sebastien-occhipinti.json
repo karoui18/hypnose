@@ -1,0 +1,260 @@
+{
+  "title": "Sébastien Occhipinti",
+  "source": "https://www.hypnosite.fr/Sebastien%20OCCHIPINTI.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "491px",
+      "items": [
+        {
+          "type": "image",
+          "name": "seb",
+          "layout": {
+            "left": "510px",
+            "top": "40px",
+            "width": "359px",
+            "height": "auto",
+            "border": "0 none",
+            "z-index": "3"
+          },
+          "src": "assets/seb-wee4b45651c1-8c45b460.jpg",
+          "href": "",
+          "label": "seb"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "50px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "SEbastien OCCHIPINTI"
+        },
+        {
+          "type": "text",
+          "name": "WE06c4bf9b06",
+          "layout": {
+            "width": "380px",
+            "left": "100px",
+            "top": "50px",
+            "height": "auto",
+            "text-align": "center",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "SEbastien OCCHIPINTI",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">SEbastien OCCHIPINTI</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE638a14a836",
+          "layout": {
+            "width": "380px",
+            "height": "auto",
+            "left": "20px",
+            "top": "360px",
+            "text-align": "justify",
+            "font-size": "18px",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "5"
+          },
+          "text": "\" Trop de thérapeutes essayent de rassurer leurs patients ; ils essaient de déposséder leurs patients de la réalité de leurs symptôme plutôt que d'accepter et de travailler avec cette réalité. \" Milton ERICKSON",
+          "html": "<span>\" Trop de thérapeutes essayent de rassurer leurs patients ; ils essaient de déposséder leurs patients de la réalité de leurs symptôme plutôt que d'accepter et de travailler avec cette réalité. \" Milton ERICKSON</span>"
+        },
+        {
+          "type": "text",
+          "name": "WE1233eb34be",
+          "layout": {
+            "width": "340px",
+            "left": "520px",
+            "top": "470px",
+            "height": "auto",
+            "text-align": "center",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "4"
+          },
+          "text": "LE  SUGGESTIONNEUR",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Tox Typewriter';font-size:20px;\">LE  SUGGESTIONNEUR</span></span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1652px",
+      "items": [
+        {
+          "type": "group",
+          "name": "WE523dd44e62",
+          "layout": {
+            "width": "530px",
+            "height": "462px",
+            "left": "-210px",
+            "top": "0",
+            "border": "4px double #fff",
+            "border-radius": "20px 20px 20px 20px",
+            "background-color": "#3f3f3f",
+            "z-index": "8"
+          },
+          "items": [
+            {
+              "type": "text",
+              "name": "WEe02d9cf9f8",
+              "layout": {
+                "width": "470px",
+                "height": "auto",
+                "left": "30px",
+                "top": "20px",
+                "text-align": "left",
+                "z-index": "1"
+              },
+              "text": "Pour compléter ma traversée littéraire permanente en sociologie, sciences humaines et médicales, psychanalyse et psychologie - entre autres -, je rafraîchis régulièrement mes connaissances avec des MOOCs : MOOC addictions MOOC conduites addictives MOOC la pensée critique MOOC suicide MOOC victimologie MOOC autisme diagnostic MOOC autisme biologie et neurosciences MOOC émotions MOOC expériences du monde MOOC tabac MOOC cognitions sociales MOOC histoire de la folie MOOC santé sexuelle MOOC TDAH",
+              "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;color:rgb(255, 255, 255);\">Pour compléter ma traversée littéraire permanente en sociologie, sciences humaines et médicales, psychanalyse et psychologie - entre autres -, je rafraîchis régulièrement mes connaissances avec des MOOCs :<br/><br/>              MOOC addictions<br/>              MOOC conduites addictives<br/>              MOOC la pensée critique<br/>              MOOC suicide<br/>              MOOC victimologie<br/>              MOOC autisme diagnostic<br/>              MOOC autisme biologie et neurosciences<br/>              MOOC émotions<br/>              MOOC expériences du monde<br/>              MOOC tabac<br/>              MOOC cognitions sociales<br/>              MOOC histoire de la folie<br/>              MOOC santé sexuelle<br/>              MOOC TDAH</span><br/></span>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "name": "WEbc3da28092",
+          "layout": {
+            "width": "380px",
+            "height": "auto",
+            "left": "20px",
+            "top": "130px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "3"
+          },
+          "text": "Je suis : C'est à l'issue de six années de formation dans les sciences humaines où j'ai été initié à différents courants psychothérapiques (T.C.C., systémie familiale, psychanalyse) ainsi qu'à la psyhopathologie clinique, et suppléménté d'une riche expérience de plus de 15 ans dans le domaine de la psychiatrie et de l'addictologie que j'ai choisi de m'orienter dans la communication Ericksonienne. L'hypnose est à mon regard une communication puissante avec soi-même pour soi ! Je comprends cette approche langagière comme le fait de s'approprier ses propres ressources, même si elles peuvent paraître être consciemment inexistantes. En ce sens, L'hypnose favorise la perception de \"l'inconsciemment je\", un facilitateur rendant possible un autre rapport à soi. Mon cursus universitaire et mon expérience professionnelle m'ont permis de me spécialiser dans les addictions et les traumatismes . Egalement formé à la psychopathologie clinique, ceci complété par quelques années en tant que sport-thérapeute dans les champs de la psychiatrie et de l'addictologie, je suis à même de pouvoir être à votre écoute efficacement. Par choix de maintenir et enrichir mes connaissances pluridisciplinaires, j'exerce également actuellement l'hypnose à l'hopital. Accompagner : Accepter d'accompagner les gens dans l'éclaircissement de leur problématique passe par une philosophie personnelle. J'ai choisi : d'être moi-même, sans faux semblant car, à mon sens, la réussite de l'accompagnement est le produit de la confiance, de l'authenticité, de la sincérité et de l'alliance entre le praticien et le client. d'être et de rester disponible afin de renforcer le travail de changement que vous entreprenez. Je ne compte pas mon temps passé et je vous recontacte systématiquement quelques jours après la consultation. de ne pas proposer des séances d'accompagnement plus qu'il n'en faut. Si une séance supplémentaire est nécessaire pour approfondir le travail, elle sera planifiée lorsque je vous rappelerai, quelque jours après la dernière séance. Votre libre arbitre et votre ressenti me sont primordiaux.",
+          "html": "<span><span style=\"font-size:18px;\">Je suis :</span><br/><span style=\"font-size:18px;\">  </span><br/><span style=\"font-size:18px;\">C'est à l'issue de six années de formation dans les sciences humaines où j'ai été initié à différents courants psychothérapiques (T.C.C., systémie familiale, psychanalyse) ainsi qu'à la psyhopathologie clinique, et suppléménté d'une riche expérience de plus de 15 ans dans le domaine de la psychiatrie et de l'addictologie que j'ai choisi de m'orienter dans la communication Ericksonienne.<br/><br/>L'hypnose est à mon regard une communication puissante avec soi-même pour soi !  </span><span style=\"font-size:18px;\">Je comprends cette approche langagière comme le fait de s'approprier ses propres ressources, même si elles peuvent paraître être consciemment inexistantes. En ce sens, L'hypnose favorise la perception de \"l'inconsciemment je\", un facilitateur rendant possible un autre rapport à soi. </span><br/><span style=\"font-size:18px;\">  </span><br/><span style=\"font-size:18px;\"> Mon cursus universitaire et mon expérience professionnelle m'ont permis de me spécialiser dans </span><b style=\"font-size: 18px; \">les addictions et les traumatismes</b><span style=\"font-size:18px;\">. Egalement formé à la psychopathologie clinique, ceci complété par quelques années en tant que sport-thérapeute dans les champs de la psychiatrie et de l'addictologie, je suis à même de pouvoir être à votre écoute efficacement. Par choix de maintenir et enrichir mes connaissances pluridisciplinaires, j'exerce également actuellement l'hypnose à l'hopital.<br/><br/></span><br/><span style=\"font-size:18px;\">Accompagner </span><span style=\"font-size:18px;\">:</span><br/><br/><span style=\"font-size:18px;\">Accepter d'accompagner les gens dans l'éclaircissement de leur problématique passe par une philosophie personnelle. <br/></span><br/><span style=\"font-size:18px;\">J'ai choisi :</span><br/><ul><li><span style=\"font-size:18px;\">d'être moi-même, sans faux semblant car, à mon sens, la réussite de l'accompagnement est le produit de la confiance, de l'authenticité, de la sincérité et de l'alliance entre le praticien et le client. </span><br/></li><li><span style=\"font-size:18px;\">d'être et de rester disponible afin de renforcer le travail de changement que vous entreprenez. Je ne compte pas mon temps passé et je vous recontacte systématiquement quelques jours après la consultation.  </span><br/></li><li><span style=\"font-size:18px;\">de ne pas proposer des séances d'accompagnement plus qu'il n'en faut. Si une séance supplémentaire est nécessaire pour approfondir le travail, elle sera planifiée lorsque je vous rappelerai, quelque jours après la dernière séance. Votre libre arbitre et votre ressenti me sont primordiaux. </span><br/></li></ul><span style=\"font-size:18px;\">                          </span><br/><br/> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE46f7df0691",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "450px",
+            "top": "130px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "4"
+          },
+          "text": "Conviction : L'hypnose Ericksonienne fait partie des approches thérapeutiques dites orientées \"solution\". En effet, bien souvent les personnes qui se sentent freinées dans leur avancée de vie cherchent à savoir pourquoi elles sont entravées et non comment elles pourraient considérer différement ce ralentissement existentiel. Envisagez ici que le \"pourquoi\" fige dans la problématique alors que le \"comment\" met en mouvement. La recherche d'une compréhension n'est en rien l'obtention d'une solution. Autre que d'accompagner les personnes qui sont dans cette démarche solutionnante, ma conviction thérapeutique me guide à les aviver, les \"pousser\" vers elles-mêmes, dans la ré-accession de leurs ressources, leurs valeurs, leurs émotions et leur identité.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';\"><span style=\"font-size:18px;\">Conviction :</span><span style=\"font-size:18px;\"><br/> <br/> L'hypnose Ericksonienne fait partie des approches thérapeutiques dites orientées \"solution\". En effet, bien souvent les personnes qui se sentent freinées dans leur avancée de vie cherchent à savoir pourquoi elles sont entravées et non comment elles pourraient considérer différement ce ralentissement existentiel. Envisagez ici que le \"pourquoi\" fige dans la problématique alors que le \"comment\" met en mouvement. <b>La recherche d'une compréhension n'est en rien l'obtention d'une solution.</b> <br/><br/>Autre que d'accompagner les personnes qui sont dans cette démarche solutionnante, ma conviction thérapeutique me guide à les aviver, les \"pousser\" vers elles-mêmes, dans la ré-accession de leurs ressources, leurs valeurs, leurs émotions et leur identité. <br/></span></span><br/> </span>"
+        },
+        {
+          "type": "image",
+          "name": "banniere 1",
+          "layout": {
+            "left": "410px",
+            "top": "580px",
+            "width": "480px",
+            "height": "1000px",
+            "z-index": "1"
+          },
+          "src": "assets/banniere-1-12993acf.jpg",
+          "href": "",
+          "label": "MON CURSUS"
+        },
+        {
+          "type": "text",
+          "name": "WE7363c76105",
+          "layout": {
+            "width": "220px",
+            "left": "540px",
+            "top": "644px",
+            "height": "auto",
+            "text-align": "center",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "5"
+          },
+          "text": "MON CURSUS",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:50px;\">MON CURSUS</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd97c51db90",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "430px",
+            "top": "800px",
+            "text-align": "left",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "2"
+          },
+          "text": "Psychotraumas et addictions ( I.R.E.M.A.) Maître Praticien en hypnose Ericksonienne diplômé de l'A.R.C.H.E ( Académie de Recherche et Connaissance en Hypnose Ericksonienne ) praticien en P.N.L. (A.R.C.H.E.) diplômé d'études supérieures universitaire en p sychopathologie clinique et psychothérapies (Paris 8) diplômé d'études supérieures universitaire en toxicomanies et addictions  (Paris 8) diplômé inter universitaire en psychopathologie sur les affections neurologiques  (Paris 6 & 8) master 1 en Psychanalyse  (Paris 8) formé à l’hypnose conversationnelle  (A.R.C.H.E.) formé à l’analyse comportementale      (A.R.C.H.E.) formé au Retraitement de l'Information Traumatique par les Mouvements Oculaires (R.I.T.M.O.®)",
+          "html": "<span><ul><li><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Psychotraumas et addictions ( I.R.E.M.A.)</span></li></ul><ul><li><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Maître Praticien en hypnose Ericksonienne diplômé de l'A.R.C.H.E </span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(</span><span style=\"font-family:'Tox Typewriter';font-size:15px;\">Académie de Recherche et Connaissance en Hypnose Ericksonienne</span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">)  </span></li></ul><ul><li><span style=\"font-size:18px;font-family:'Tox Typewriter';\"> praticien en P.N.L. (A.R.C.H.E.)  </span></li></ul><ul><li><span style=\"font-size:18px;font-family:'Tox Typewriter';\">diplômé d'études supérieures universitaire</span><span style=\"font-size:18px;font-family:'Tox Typewriter';\"> </span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">en p</span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">sychopathologie clinique et psychothérapies (Paris 8)</span></li></ul><ul><li><span style=\"font-size:18px;font-family:'Tox Typewriter';\">diplômé d'études supérieures universitaire </span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">en toxicomanies et addictions  (Paris 8)</span></li></ul><ul><li><span style=\"font-family:'Tox Typewriter';font-size:18px;\">diplômé inter universitaire en </span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">psychopathologie </span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">sur les affections neurologiques  (Paris 6 &amp; 8)</span></li></ul><ul><li><span style=\"font-size:18px;font-family:'Tox Typewriter';\">master 1 en Psychanalyse  (Paris 8)</span></li></ul><ul><li><span style=\"font-size:18px;font-family:'Tox Typewriter';\">formé à l’hypnose conversationnelle  (A.R.C.H.E.)  </span></li></ul><ul><li><span style=\"font-family:'Tox Typewriter';font-size:18px;\">formé à l’analyse comportementale      (A.R.C.H.E.)</span></li></ul><ul><li><span style=\"font-family:'Tox Typewriter';font-size:18px;\">formé au Retraitement de l'Information Traumatique par </span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">les Mouvements Oculaires (R.I.T.M.O.®)                                                                    </span><br/></li></ul> </span>"
+        },
+        {
+          "type": "image",
+          "name": "main femme",
+          "layout": {
+            "left": "540px",
+            "top": "1430px",
+            "width": "93px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/main-femme-wea06e2e76ab-141f6bf6.jpg",
+          "href": "",
+          "label": "Mise à jour des connaissances :"
+        },
+        {
+          "type": "text",
+          "name": "WEc3082d5097",
+          "layout": {
+            "width": "210px",
+            "left": "640px",
+            "top": "1430px",
+            "height": "30px",
+            "z-index": "9"
+          },
+          "text": "Mise à jour des connaissances :",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Mise à jour des connaissances :</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "main femme",
+          "layout": {
+            "left": "60px",
+            "top": "1520px",
+            "width": "90px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/main-femme-we62aed3f758-5e2ebdb6.jpg",
+          "href": "assets/code-de-deontologie-1fd92fb0.pdf",
+          "label": "CODE DE DEONTOLOGIE"
+        },
+        {
+          "type": "text",
+          "name": "WEd503f7f68b",
+          "layout": {
+            "left": "160px",
+            "top": "1520px",
+            "width": "auto",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "CODE DE DEONTOLOGIE",
+          "html": "<a href=\"assets/code-de-deontologie-1fd92fb0.pdf\"><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">CODE DE DEONTOLOGIE</span></a>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

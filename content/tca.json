@@ -1,0 +1,303 @@
+{
+  "title": "TCA",
+  "source": "https://www.hypnosite.fr/TCA.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "654px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "T.C.A."
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "(transe des conduites alimentaires)"
+        },
+        {
+          "type": "text",
+          "name": "WE8dcb8dbfb2",
+          "layout": {
+            "width": "180px",
+            "left": "160px",
+            "top": "110px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "T.C.A.",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">T.C.A.</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE874c96a304",
+          "layout": {
+            "width": "650px",
+            "left": "120px",
+            "top": "180px",
+            "height": "auto",
+            "text-align": "left",
+            "z-index": "4"
+          },
+          "text": "(transe des conduites alimentaires)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:35px;\">(transe des conduites alimentaires)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEafadc2166a",
+          "layout": {
+            "width": "480px",
+            "height": "auto",
+            "left": "50%",
+            "top": "470px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "left",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Ne pas chercher à ne pas souffrir ni à moins souffrir, mais à ne pas être altéré par la souffrance .\" Simone VEIL",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Ne pas chercher à ne pas souffrir ni à moins souffrir, mais à ne pas être altéré par la souffrance .\" Simone VEIL<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "3879px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE72d6232214",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "20px",
+            "top": "10px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "Les troubles des conduites alimentaires (TCA) se caractérisent par une problématique psycho-comportementale en rapport avec l'alimentation. Ils se présentent sous des formes diverses et peuvent apparaître à tout âge, mais touchent notamment les adolescents et les jeunes adultes. Ils sont très fréquents et peuvent être reliés à des troubles psychiatriques plus sévères comme les dépressions, les psychoses, un traumatisme psychique ou traduire un fonctionnement pathologique de la personnalité (histrionique, borderline) et/ou addictif. C'est un vaste panorama, observable de multiples points de vue, et aussi, une source inépuisable de métaphores, de mythes et de symboles, comme peuvent le montrer les contes, les légendes et les films : images de la béatitude, du paradis perdu ou de l’horreur cannibalique, ou encore de la détresse et de la mort dans les affres de la faim et de la soif. En clinique, ces différentes formes se présentent soit de manière isolée soit mixte : l'anorexie mentale, la boulimie, le pica, le mérycisme, l'hyperphagie, la sitiomanie, la carpophobie, voire l'orthorexie. Il n’y a pas de cause unique aux troubles des comportements alimentaires. Il existe des facteurs biologiques (vulnérabilité génétique), psychologiques (préoccupation particulière autour de la nourriture, l’aspect physique, l'image du corps, les identités sexuelles, les traumas), familiaux et socioculturels. C'est donc avec une vision protéiforme qu'il est bon d'aborder ce trouble. Aujourd'hui on peut relier les TCA autant à des formes psychosomatiques qu'addictives. Certaines caractéristiques, à savoir les difficultés associatives, la pauvreté ou l'absence d'élaboration des fantasmes, des pensées opératoires et/ou obsessionnelles avec, bien souvent, une absence de subjectivité et une difficulté sinon une incapacité à exprimer ses émotions (alexithymie). L'évolution ou l'association d'autres addictions toxiques (alcool, tabac, psychotropes, etc.) ou non toxiques (travail, sport,jeu, etc.)  y est considérable. On y note, la compulsivité avec obsessions idéatives (craving), le sentiment de manque ou de vide précédant le recours impérieux à l'usage du comportement. Il est régulièrement mesurable de voir des états de dépersonnalisation, sorte d'état second hypnotique avec honte et culpabilité mêlées lors des crises. Mêmement, l'anxio-dépressivité et sa lutte lors des intervalles, les manifestations somatiques lors du sevrage et enfin le maintien masochiste de la conduite malgré les effets de manque et les conséquences délétères tant psychologiques, biologiques, relationnelles et sociales sont présentes. On peut ainsi concevoir le rôle et la fonction du comportement symptomatique dans ces conduites, comme une défense contre des affects dépressifs non structurés ou qui permet une auto stimulation face à un sentiment de vide désorganisateur. Mais commençons par le commencent où il y avait la nourriture indispensable au bébé pour survivre, la nourriture répond à nos besoins physiologiques, auxquels s'ajoute la notion de plaisir. Au début de sa vie, le nourrisson ressent la sensation de faim, qui provoque en lui une tension corporelle et psychique que la tétée, au sein ou au biberon, va venir apaiser. Avec l'arrêt de cette tension, viennent le calme, la volupté. Ce schéma comportemental s'inscrit ainsi dans son cerveau : l'action de manger procure du plaisir et résout un inconfort. Ce plaisir est double en permetant de répondre à un besoin physiologique immédiat, le besoin de manger parce que l'enfant a faim et de répondre aussi à ses besoins psycho-affectifs car sa mère en le nourrissant s'occupe de lui, le regarde, lui parle, le berce. Il est dans la fusion dans un environnement affectif sécure  favorisant l'apprentissage de l'expression émotionnel. La reconnaissance et la gestion des émotions est une fonction de l’être humain indispensable à son quotidien. Cela parait évident pour le domaine des interactions sociales, mais également pour des activités qui paraissent plus triviales comme l’alimentation. Et les émotions jouent un rôle important dans les sensations que procure l’action de manger. Ainsi, les personnes atteintes de troubles alimentaires peuvent avoir des difficultés à reconnaitre leurs propres émotions notamment les plus complexes. Elles présentent également des confusions et une appréhension à reconnaitre les états émotionnels qu’elles traversent. Ceci engendre des difficultés pour répondre de manière appropriée à leurs émotions. Ces difficultés vont également impacter l’identification des sensations de faim et de satiété. Dans les TCA, il est courant d'amener le concept d'oralité, concept issue de la psychanalyse. L'oralité est ce qui correspondant à un stade de développement chez l'enfant ou il découvre le bénéfice du nourrissage dans une dynamique sexuelle par cette zone érogène que représente psycho-biologiquement la bouche, mais aussi la dimension agressive et manipulatrice par le mordillement, le rejet par le cracher, etc. L'extension du domaine de l’oralité est infinie. Sa dissémination est sa limite. Les composantes de l’oralité comme première forme de sexualité inconsciente sont si diverses que de multiples modèles y trouvent fondement en privilégiant tel ou tel aspect de l’expérience et des traces mnésiques qu’elle est susceptible de déterminer. Si les expériences corporelles sont à l’origine des fantasmes et des opérations structurantes de la vie psychique, l’oralité a une place majeure, et même unique du fait qu’elle associe étroitement, dès la naissance, le corps, le manque et le plaisir. Il est classique de distinguer d’une part le plaisir orificiel, la succion, l’ingestion qui met en rapport le dehors et le dedans, et d’autre part la réplétion et la satiété comme sensation globale venant de l’intérieur du corps. C’est aussi le rapport au sein et au corps de la mère, et, par là, la forme première de dépendance. Le sevrage, quelle qu’en soit la forme, signifie la confrontation à l’absence, à l'insécurité et situe la place de l’auto-érotisme comme générateur des fantasmes et comme capacité d’être seul. C'est un pare feu à la sensation d'abandon. Le comportement \"pathos\" peut alors être entendu comme un déplacement non sexué de la libido qui est cette énergie qui sous-tend les instincts de vie et, en particulier, les instincts sexuels. L'oralité faisant ici office de générateur de plaisir sensoriel mais également chimique (dopamine, sérotonine, endorphine, etc.). Tout ce que le cerveau aime pour se calmer.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Les troubles des conduites alimentaires (TCA) se caractérisent par une problématique psycho-comportementale en rapport avec l'alimentation. Ils se présentent sous des formes diverses et peuvent apparaître à tout âge, mais touchent notamment les adolescents et les jeunes adultes. Ils sont très fréquents et peuvent être reliés à des troubles psychiatriques plus sévères comme les dépressions, les psychoses, un traumatisme psychique ou traduire un fonctionnement pathologique de la personnalité (histrionique, borderline) et/ou addictif. C'est un vaste panorama, observable de multiples points de vue, et aussi, une source inépuisable de métaphores, de mythes et de symboles, comme peuvent le montrer les contes, les légendes et les films : images de la béatitude, du paradis perdu ou de l’horreur cannibalique, ou encore de la détresse et de la mort dans les affres de la faim et de la soif. En clinique, ces différentes formes se présentent soit de manière isolée soit mixte : l'anorexie mentale, la boulimie, le pica, le mérycisme, l'hyperphagie, la sitiomanie, la carpophobie, voire l'orthorexie. Il n’y a pas de cause unique aux troubles des comportements alimentaires. Il existe des facteurs biologiques (vulnérabilité génétique), psychologiques (préoccupation particulière autour de la nourriture, l’aspect physique, l'image du corps, les identités sexuelles, les traumas), familiaux et socioculturels. C'est donc avec une vision protéiforme qu'il est bon d'aborder ce trouble.<br/><br/> Aujourd'hui on peut relier les TCA autant à des formes psychosomatiques qu'addictives. Certaines caractéristiques, à savoir les difficultés associatives, la pauvreté ou l'absence d'élaboration des fantasmes, des pensées opératoires et/ou obsessionnelles avec, bien souvent, une absence de subjectivité et une difficulté sinon une incapacité à exprimer ses émotions (alexithymie). L'évolution ou l'association d'autres addictions toxiques (alcool, tabac, psychotropes, etc.) ou non toxiques (travail, sport,jeu, etc.)  y est considérable. On y note, la compulsivité avec obsessions idéatives (craving), le sentiment de manque ou de vide précédant le recours impérieux à l'usage du comportement. Il est régulièrement mesurable de voir des états de dépersonnalisation, sorte d'état second hypnotique avec honte et culpabilité mêlées lors des crises. Mêmement, l'anxio-dépressivité et sa lutte lors des intervalles, les manifestations somatiques lors du sevrage et enfin le maintien masochiste de la conduite malgré les effets de manque et les conséquences délétères tant psychologiques, biologiques, relationnelles et sociales sont présentes. On peut ainsi concevoir le rôle et la fonction du comportement symptomatique dans ces conduites, comme une défense contre des affects dépressifs non structurés ou qui permet une auto stimulation face à un sentiment de vide désorganisateur. <br/><br/>Mais commençons par le commencent où il y avait la nourriture indispensable au bébé pour survivre, la nourriture répond à nos besoins physiologiques, auxquels s'ajoute la notion de plaisir. Au début de sa vie, le nourrisson ressent la sensation de faim, qui provoque en lui une tension corporelle et psychique que la tétée, au sein ou au biberon, va venir apaiser. Avec l'arrêt de cette tension, viennent le calme, la volupté. Ce schéma comportemental s'inscrit ainsi dans son cerveau : l'action de manger procure du plaisir et résout un inconfort. Ce plaisir est double en permetant de répondre à un besoin physiologique immédiat, le besoin de manger parce que l'enfant a faim et de répondre aussi à ses besoins psycho-affectifs car sa mère en le nourrissant s'occupe de lui, le regarde, lui parle, le berce. Il est dans la fusion dans un environnement affectif sécure  favorisant l'apprentissage de l'expression émotionnel. La reconnaissance et la gestion des émotions est une fonction de l’être humain indispensable à son quotidien. Cela parait évident pour le domaine des interactions sociales, mais également pour des activités qui paraissent plus triviales comme l’alimentation. <br/><br/>Et les émotions jouent un rôle important dans les sensations que procure l’action de manger. Ainsi, les personnes atteintes de troubles alimentaires peuvent avoir des difficultés à reconnaitre leurs propres émotions notamment les plus complexes. Elles présentent également des confusions et une appréhension à reconnaitre les états émotionnels qu’elles traversent. Ceci engendre des difficultés pour répondre de manière appropriée à leurs émotions. Ces difficultés vont également impacter l’identification des sensations de faim et de satiété.<br/><br/>Dans les TCA, il est courant d'amener le concept d'oralité, concept issue de la psychanalyse. L'oralité est ce qui correspondant à un stade de développement chez l'enfant ou il découvre le bénéfice du nourrissage dans une dynamique sexuelle par cette zone érogène que représente psycho-biologiquement la bouche, mais aussi la dimension agressive et manipulatrice par le mordillement, le rejet par le cracher, etc. L'extension du domaine de l’oralité est infinie. Sa dissémination est sa limite.  <br/><br/> Les composantes de l’oralité comme première forme de sexualité inconsciente sont si diverses que de multiples modèles y trouvent fondement en privilégiant tel ou tel aspect de l’expérience et des traces mnésiques qu’elle est susceptible de déterminer. Si les expériences corporelles sont à l’origine des fantasmes et des opérations structurantes de la vie psychique, l’oralité a une place majeure, et même unique du fait qu’elle associe étroitement, dès la naissance, le corps, le manque et le plaisir. Il est classique de distinguer d’une part le plaisir orificiel, la succion, l’ingestion qui met en rapport le dehors et le dedans, et d’autre part la réplétion et la satiété comme sensation globale venant de l’intérieur du corps. C’est aussi le rapport au sein et au corps de la mère, et, par là, la forme première de dépendance. Le sevrage, quelle qu’en soit la forme, signifie la confrontation à l’absence, à l'insécurité et situe la place de l’auto-érotisme comme générateur des fantasmes et comme capacité d’être seul. C'est un pare feu à la sensation d'abandon. Le comportement \"pathos\" peut alors être entendu comme un déplacement non sexué de la libido qui est cette énergie qui sous-tend les instincts de vie et, en particulier, les instincts sexuels. L'oralité faisant ici office de générateur de plaisir sensoriel mais également chimique (dopamine, sérotonine, endorphine, etc.). Tout ce que le cerveau aime pour se calmer.  <br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "ecureuil",
+          "layout": {
+            "left": "480px",
+            "top": "40px",
+            "width": "371px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/ecureuil-we657304a847-44676563.jpg",
+          "href": "",
+          "label": "ecureuil"
+        },
+        {
+          "type": "text",
+          "name": "WEa25a418202",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "470px",
+            "top": "451px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "Puis on n’avale pas que de la nourriture, on avale aussi des mots et à travers les mots, on avale de la relation, de l'affect, on avale de l’autre, à condition qu’il y en ait ! C'est donc par les crises compulsives que la dialectique métaphorique prend sa pleine puissance, mais il ne faut pas non plus que les mots soient sadiques ou dévalorisants pour l’autre car il ne les entend pas, il ne les voient pas, car bien souvent, tout cela est hurlé en cachette, dans le secret des crises non vues et non sues par l'autre. Cela génère ainsi de l'auto agressivité, par manque de la présence de l'autre en tant que support du discours. En sourdine et avec pudeur dans l'effroi de la compulsion douloureusement apaisante, les TCA (comme toutes les addictions) sont des pathologies de l'amour et du vide. Alors se place le besoin de contrôle de l'alimentation. Aujourd’hui, la diététique joue le même rôle que les interdits alimentaires et leur expressivité. Beaucoup se moquent des juifs ou des musulmans, à propos des aliments casher ou hallal, alors qu’eux-mêmes ont de nombreux interdits alimentaires tout aussi rigoureux, mais au nom de la diététique, c’est-à-dire au nom du raisonnable et non pas du symbolique. Car on se définit aussi par ce que l’on mange et par ce que l’on ne mange pas. \"Je suis celui qui ne mange pas de porc\" dira le juif ou le musulman, \"je suis celui qui ne mange pas de vache\" dira l’hindouiste, etc. Reporté à notre sujet présent, il y a donc quelque chose de la reconnaissance identitaire à relever derrière l'acte. Dans une possible origine, toute victime de TCA a une histoire qui lui est propre. Quelles sont les croyances qui ont accompagné son parcours par rapport à l'alimentation ? Qu'a-t-elle vécu ou entendu durant son enfance ? Comment a-t-elle été nourri, physiquement, symboliquement ? À cela s'ajoutent d'autres notions qui peuvent avoir laissé des traces, ce qui est vécu par rapport à ce qui est entendu : \"maman dit que le sucre c'est mauvais, mais me récompense toujours avec un bonbon quand j'ai une bonne note ou que je me suis bien comporté.\" (voir la page double contrainte). Cela peut être également la continuité d'un symptôme familial et le posséder, l'entretenir et le transmettre permet de rester au sein (nourricier) de la famille. Il est l'étendard d'une forme de légitimité transgénérationnelle : \"par le symptôme que j'accepte de porter, je porte l'histoire familiale, les secrets, les tabous, les non-dits, et je peux ainsi définir ma genèse. En l'acceptant, je suis accepté ! \" Et les émotions que l'on n'exprime pas ne meurent pas. Elles sont enterrées vivantes et reviennent nous hanter plus tard sous une autre apparence. Une jeune femme souffrant de compulsions alimentaires me confiait récement se nourrir pour manger ses sentiments. Elle est dans le juste, à mon sens, car la nourriture nous renvoie à tous les enjeux du jour : elle nous dit notre respect de nous-mêmes, notre capacité à converser avec les autres, notre attention aux plus faibles, les rapports entre les sexes, notre ouverture d'esprit, l’état de notre droit, notre relation au travail, à la nature et au monde que l'on comprend et que l'on subit, parfois traumatiquement. Comme si, par cet excès, dans un sens privatif ou d'abondance, il y avait la recherche d'une limite, de quelque chose qui définit un espace intérieur.  Ce qui possiblement pourrait expliquer que bien souvent l'effet de satiété ou de faim ne se fait pas ressentir par le \"criseur\", car en quête d'une délimitation symbolique. L’éminent philosophe et psychiatre français Pierre Janet a été le premier, à la fin du dix-neuvième siècle, à prendre conscience de l’importance du vécu traumatique dans les troubles du comportement alimentaire. En particulier, il s’est intéressé aux phénomènes de dissociation et a proposé d’étudier de manière systématique la relation entre l’expérience traumatique et la dissociation pour ces pathologies. Il décrivait la dissociation comme un mécanisme psychologique crucial par lequel l’organisme réagit à un traumatisme qu’il ne peut supporter. Les souvenirs se référant à l’expérience traumatique peuvent être détachés de la dimension consciente et donner lieu à toute une série de symptômes dissociatifs qui agiront suivant une stratégie d’évitement mental. L’apport important de Janet est d’avoir mis en évidence que même pour les sujets présentant des troubles alimentaires, le vécu traumatique est significatif. En effet, c’est surtout au cours de ces dernières décennies que les thérapeutes ont commencé à reconnaître une relation entre l’expérience du trauma et le développement de troubles alimentaires. Il arrive souvent que l’émergence d’un comportement symptomatique soit en correspondance avec un événement de perte et que, par l’intermédiaire du symptôme, le sujet exprime de façon indirecte et tout à fait inconsciente sa difficulté à l’élaborer, même s’il a eu lieu il y a longtemps. Ainsi, si l'on peut consciemment voir le comportement désorganisateur, il faut entendre la crise, et de vouloir juguler l'acte tortionnaire passe inéluctablement par faire révéler le censuré inconscient, ceci par le bias de la transe (des conduites alimentaires).",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Puis on n’avale pas que de la nourriture, on avale aussi des mots et à travers les mots, on avale de la relation, de l'affect, on avale de l’autre, à condition qu’il y en ait ! C'est donc par les crises compulsives que la dialectique métaphorique prend sa pleine puissance, mais il ne faut pas non plus que les mots soient sadiques ou dévalorisants pour l’autre car il ne les entend pas, il ne les voient pas, car bien souvent, tout cela est hurlé en cachette, dans le secret des crises non vues et non sues par l'autre. Cela génère ainsi de l'auto agressivité, par manque de la présence de l'autre en tant que support du discours. En sourdine et avec pudeur dans l'effroi de la compulsion douloureusement apaisante, les TCA (comme toutes les addictions) sont des pathologies de l'amour et du vide.<br/><br/>Alors se place le besoin de contrôle de l'alimentation. Aujourd’hui, la diététique joue le même rôle que les interdits alimentaires et leur expressivité. Beaucoup se moquent des juifs ou des musulmans, à propos des aliments casher ou hallal, alors qu’eux-mêmes ont de nombreux interdits alimentaires tout aussi rigoureux, mais au nom de la diététique, c’est-à-dire au nom du raisonnable et non pas du symbolique. Car on se définit aussi par ce que l’on mange et par ce que l’on ne mange pas. \"Je suis celui qui ne mange pas de porc\" dira le juif ou le musulman, \"je suis celui qui ne mange pas de vache\" dira l’hindouiste, etc. Reporté à notre sujet présent, il y a donc quelque chose de la reconnaissance identitaire à relever derrière l'acte. <br/><br/> Dans une possible origine, toute victime de TCA a une histoire qui lui est propre. Quelles sont les croyances qui ont accompagné son parcours par rapport à l'alimentation ? Qu'a-t-elle vécu ou entendu durant son enfance ? Comment a-t-elle été nourri, physiquement, symboliquement ? À cela s'ajoutent d'autres notions qui peuvent avoir laissé des traces, ce qui est vécu par rapport à ce qui est entendu : \"maman dit que le sucre c'est mauvais, mais me récompense toujours avec un bonbon quand j'ai une bonne note ou que je me suis bien comporté.\" (voir la page double contrainte).  <br/><br/> Cela peut être également la continuité d'un symptôme familial et le posséder, l'entretenir et le transmettre permet de rester au sein (nourricier) de la famille. Il est l'étendard d'une forme de légitimité transgénérationnelle : \"par le symptôme que j'accepte de porter, je porte l'histoire familiale, les secrets, les tabous, les non-dits, et je peux ainsi définir ma genèse. En l'acceptant, je suis accepté ! \"<br/><br/>Et les émotions que l'on n'exprime pas ne meurent pas. Elles sont enterrées vivantes et reviennent nous hanter plus tard sous une autre apparence. Une jeune femme souffrant de compulsions alimentaires me confiait récement se nourrir pour manger ses sentiments. Elle est dans le juste, à mon sens, car la nourriture nous renvoie à tous les enjeux du jour : elle nous dit notre respect de nous-mêmes, notre capacité à converser avec les autres, notre attention aux plus faibles, les rapports entre les sexes, notre ouverture d'esprit, l’état de notre droit, notre relation au travail, à la nature et au monde que l'on comprend et que l'on subit, parfois traumatiquement. Comme si, par cet excès, dans un sens privatif ou d'abondance, il y avait la recherche d'une limite, de quelque chose qui définit un espace intérieur.  Ce qui possiblement pourrait expliquer que bien souvent l'effet de satiété ou de faim ne se fait pas ressentir par le \"criseur\", car en quête d'une délimitation symbolique.<br/><br/>L’éminent philosophe et psychiatre français Pierre Janet a été le premier, à la fin du dix-neuvième siècle, à prendre conscience de l’importance du vécu traumatique dans les troubles du comportement alimentaire. En particulier, il s’est intéressé aux phénomènes de dissociation et a proposé d’étudier de manière systématique la relation entre l’expérience traumatique et la dissociation pour ces pathologies. Il décrivait la dissociation comme un mécanisme psychologique crucial par lequel l’organisme réagit à un traumatisme qu’il ne peut supporter. Les souvenirs se référant à l’expérience traumatique peuvent être détachés de la dimension consciente et donner lieu à toute une série de symptômes dissociatifs qui agiront suivant une stratégie d’évitement mental. L’apport important de Janet est d’avoir mis en évidence que même pour les sujets présentant des troubles alimentaires, le vécu traumatique est significatif. <br/>  <br/> En effet, c’est surtout au cours de ces dernières décennies que les thérapeutes ont commencé à reconnaître une relation entre l’expérience du trauma et le développement de troubles alimentaires. Il arrive souvent que l’émergence d’un comportement symptomatique soit en correspondance avec un événement de perte et que, par l’intermédiaire du symptôme, le sujet exprime de façon indirecte et tout à fait inconsciente sa difficulté à l’élaborer, même s’il a eu lieu il y a longtemps. <br/>  <br/> Ainsi, si l'on peut consciemment voir le comportement désorganisateur, il faut entendre la crise, et de vouloir juguler l'acte tortionnaire passe inéluctablement par faire révéler le censuré inconscient, ceci par le bias de la transe (des conduites alimentaires).<br/> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE5ce3453af6",
+          "layout": {
+            "width": "380px",
+            "left": "480px",
+            "top": "3480px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "10"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "homme serpent",
+          "layout": {
+            "left": "600px",
+            "top": "3590px",
+            "width": "56px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/homme-serpent-we8b123070df-39a4d13d.jpg",
+          "href": "peur.html",
+          "label": "PEUR (désir)"
+        },
+        {
+          "type": "image",
+          "name": "arbre",
+          "layout": {
+            "left": "730px",
+            "top": "3640px",
+            "width": "124px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "src": "assets/arbre-we04df79f806-7be14282.jpg",
+          "href": "transe-generation.html",
+          "label": "TRANS GENERATION"
+        },
+        {
+          "type": "image",
+          "name": "loup",
+          "layout": {
+            "left": "50px",
+            "top": "3660px",
+            "width": "114px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "src": "assets/loup-wee3f5228aec-6a49812a.jpg",
+          "href": "contrainte.html",
+          "label": "DOUBLE CONTRAINTE"
+        },
+        {
+          "type": "image",
+          "name": "arrosoir",
+          "layout": {
+            "left": "250px",
+            "top": "3670px",
+            "width": "114px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/arrosoir-we3a5dc84b80-4d4cf918.jpg",
+          "href": "besoins.html",
+          "label": "BESOINS"
+        },
+        {
+          "type": "image",
+          "name": "cygne",
+          "layout": {
+            "left": "410px",
+            "top": "3710px",
+            "width": "113px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "src": "assets/cygne-wee17ac3467e-6f57846c.jpg",
+          "href": "symptome.html",
+          "label": "SYMPTOME"
+        },
+        {
+          "type": "text",
+          "name": "WE9909265c51",
+          "layout": {
+            "width": "170px",
+            "left": "20px",
+            "top": "3760px",
+            "height": "20px",
+            "z-index": "12"
+          },
+          "text": "DOUBLE CONTRAINTE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DOUBLE CONTRAINTE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE341df58b49",
+          "layout": {
+            "width": "auto",
+            "left": "580px",
+            "top": "3760px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "PEUR (désir)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PEUR (désir)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2f2f1b0a8e",
+          "layout": {
+            "width": "auto",
+            "left": "280px",
+            "top": "3770px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "BESOINS",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">BESOINS</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE45a51c19b8",
+          "layout": {
+            "width": "170px",
+            "left": "710px",
+            "top": "3780px",
+            "height": "30px",
+            "z-index": "14"
+          },
+          "text": "TRANS GENERATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRANS GENERATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE10a84ac715",
+          "layout": {
+            "width": "auto",
+            "left": "430px",
+            "top": "3820px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "SYMPTOME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SYMPTOME</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

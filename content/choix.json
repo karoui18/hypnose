@@ -1,0 +1,356 @@
+{
+  "title": "choix",
+  "source": "https://www.hypnosite.fr/choix.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "561px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "CHOIX"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "( non )"
+        },
+        {
+          "type": "text",
+          "name": "WE407f2b11d4",
+          "layout": {
+            "width": "360px",
+            "left": "220px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "3"
+          },
+          "text": "CHOIX",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">CHOIX</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE9b56b27ad5",
+          "layout": {
+            "width": "210px",
+            "left": "50px",
+            "top": "166px",
+            "height": "auto",
+            "text-align": "center",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "5"
+          },
+          "text": "( non )",
+          "html": "<span><span style=\"font-size:50px;color:rgb(12, 12, 12);font-family:'Tox Typewriter';\">(</span><span style=\"font-size:50px;color:rgb(12, 12, 12);font-family:'Tox Typewriter';\">non</span><span style=\"font-size:50px;color:rgb(12, 12, 12);font-family:'Tox Typewriter';\">)</span><span style=\"font-size:50px;font-family:'Movie Poster Personal Use ';color:rgb(12, 12, 12);\"> </span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE6a9f6eaa75",
+          "layout": {
+            "width": "630px",
+            "height": "auto",
+            "left": "50%",
+            "top": "450px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-style": "italic",
+            "font-size": "16px",
+            "font-family": "'OldNewspaperTypes'",
+            "z-index": "4",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\" Toute la vie est une affaire de choix. Cela commence par : la tétine ou le téton ? Et cela s'achève par : le chêne ou le sapin ? \" Pierre DESPROGES",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;font-style:normal;\">\" Toute la vie est une affaire de choix. Cela commence par : la tétine ou le téton ? Et cela s'achève par : le chêne ou le sapin ? \" Pierre DESPROGES<br/></span></span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2081px",
+      "items": [
+        {
+          "type": "image",
+          "name": "direction",
+          "layout": {
+            "left": "470px",
+            "top": "70px",
+            "width": "375px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/direction-wee0053c92b7-28927118.jpg",
+          "href": "",
+          "label": "direction"
+        },
+        {
+          "type": "text",
+          "name": "WE5abc81ba3b",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "24px",
+            "top": "78px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "z-index": "1"
+          },
+          "text": "Des petites décisions du quotidien aux grandes résolutions qui peuvent tout bouleverser, la vie comprend une infinie succession de choix à faire. Tant et si bien que, parfois, noyés sous des flots de possibilités, nous n’arrivons plus à savoir ce qui est bon ou pas pour nous. Pourtant nous passons notre vie entière à devoir décider depuis des futilités jusqu’aux éléments majeurs de notre existence comme la personne avec laquelle nous vivons, l’emploi que nous acceptons ou refusons, la conception d’un enfant, l’achat d’un logement remboursable sur quinze ou vingt-cinq ans et une foule d’autres choses plus ou moins importantes. Que ce soit par facilité, par incapacité ou par fatalité, certaines personnes ne posent pas de choix. Elles se laissent porter par les choix que font les autres pour elles, ou par les circonstances de la vie qui s’imposent à elles. Qu’il s’agisse d’une pathologie ou d’une philosophie de vie, ne pas choisir ne constitue-t-il pas un choix en lui-même ?... \"Choisir, c’est renoncer\" est une citation attribuée à André Gide. Il semblerait que ceux qui ne savent pas choisir, ne veulent en fait surtout pas renoncer. En effet, c’est effrayant et angoissant de renoncer. Écarter une seule possibilité, c’est éradiquer des milliers de conséquences en chaîne possibles. Devoir choisir nous rappelle qu’on ne peut pas tout avoir, que nous ne sommes pas tout-puissants, et nous invite à ne pas nous comporter comme des enfants gâtés. Choisir c’est accepter de gérer la frustration de ne pas tout avoir. Cependant en ne posant aucun choix, on renonce à l’affirmation de Soi en refusant purement et simplement d’une part, de se questionner sur ce que l’on souhaite vraiment et d’autre part, de l’assumer, de le porter. Au-delà du renoncement, choisir implique de prendre la responsabilité de faire un mauvais choix et de ses conséquences. Ne pas décider, c’est aussi garder une certaine illusion de toute-puissance. Le fait de ne pas trancher, permet de continuer à rêver de l’un ou de l’autre choix. Dans certains cas, l’indécis attend que les autres fassent le choix à sa place, lui permettant d’échapper aux conséquences, et à sa responsabilité. Aussi, on peut concevoir que de ne pas choisir est une manière pour la personne de se déresponsabiliser de ce qui lui arrive dans la vie, d'être victime de ce qu’elle traverse. Car certaines personnes n’existent qu’en étant victime,  tirant des bénéfices secondaires de cette situation : on s’intéresse à elles, on s'active autour d'elles, on s’apitoie, on les écoute, c'est leur manière d'attirer la lumière sur elles et tout cela se joue de manière inconsciente. Il s’agit d’une certaine manière d’un mécanisme psychique bien rodé dans lequel la personne est enfermée. Le non choix fait partie de la stratégie de vie de la victime pour maintenir son état.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">Des petites décisions du quotidien aux grandes résolutions qui peuvent tout bouleverser, la vie comprend une infinie succession de choix à faire. Tant et si bien que, parfois, noyés sous des flots de possibilités, nous n’arrivons plus à savoir ce qui est bon ou pas pour nous. Pourtant nous passons notre vie entière à devoir décider depuis des futilités jusqu’aux éléments majeurs de notre existence comme la personne avec laquelle nous vivons, l’emploi que nous acceptons ou refusons, la conception d’un enfant, l’achat d’un logement remboursable sur quinze ou vingt-cinq ans et une foule d’autres choses plus ou moins importantes.<br/><br/>Que ce soit par facilité, par incapacité ou par fatalité, certaines personnes ne posent pas de choix. Elles se laissent porter par les choix que font les autres pour elles, ou par les circonstances de la vie qui s’imposent à elles. Qu’il s’agisse d’une pathologie ou d’une philosophie de vie, ne pas choisir ne constitue-t-il pas un choix en lui-même ?...  <br/>  <br/> \"Choisir, c’est renoncer\" est une citation attribuée à André Gide. Il semblerait que ceux qui ne savent pas choisir, ne veulent en fait surtout pas renoncer. En effet, c’est effrayant et angoissant de renoncer. Écarter une seule possibilité, c’est éradiquer des milliers de conséquences en chaîne possibles. Devoir choisir nous rappelle qu’on ne peut pas tout avoir, que nous ne sommes pas tout-puissants, et nous invite à ne pas nous comporter comme des enfants gâtés. Choisir c’est accepter de gérer la frustration de ne pas tout avoir. <br/><br/>Cependant en ne posant aucun choix, on renonce à l’affirmation de Soi en refusant purement et simplement d’une part, de se questionner sur ce que l’on souhaite vraiment et d’autre part, de l’assumer, de le porter. Au-delà du renoncement, choisir implique de prendre la responsabilité de faire un mauvais choix et de ses conséquences. Ne pas décider, c’est aussi garder une certaine illusion de toute-puissance. Le fait de ne pas trancher, permet de continuer à rêver de l’un ou de l’autre choix. Dans certains cas, l’indécis attend que les autres fassent le choix à sa place, lui permettant d’échapper aux conséquences, et à sa responsabilité. <br/><br/>Aussi, on peut concevoir que de ne pas choisir est une manière pour la personne de se déresponsabiliser de ce qui lui arrive dans la vie, d'être victime de ce qu’elle traverse. Car certaines personnes n’existent qu’en étant victime,  tirant des bénéfices secondaires de cette situation : on s’intéresse à elles, on s'active autour d'elles, on s’apitoie, on les écoute, c'est leur manière d'attirer la lumière sur elles et tout cela se joue de manière inconsciente. Il s’agit d’une certaine manière d’un mécanisme psychique bien rodé dans lequel la personne est enfermée. Le non choix fait partie de la stratégie de vie de la victime pour maintenir son état.<br/><br/> </span></span>"
+        },
+        {
+          "type": "text",
+          "name": "WEc5dd66a5d2",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "470px",
+            "top": "440px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "2"
+          },
+          "text": "La prise de décision est donc incontournable dans la vie. Chaque jour, nous y sommes confrontés et si certains parviennent à trancher facilement, d’autres retournent le problème durant des heures, voire des jours, avant de parvenir enfin à un semblant de choix. En hypnose, le processus de prise de décision ou l'absence de décision est intimement lié aux croyances et aux valeurs du sujet. Si il s'avère qu'à ces registres se trouvent des conflits comme deux valeurs fortes qui s'opposent, alors l'individu reste dans une incertitude à prendre un cap, une direction. Ici , l'hypnose peut faciliter la prise de décision et vous conforter dans des choix de vie importants, car votre inconscient connaît \"la solution\". De nombreuses décisions importantes sont influencées par des facteurs non rationnels. Notre sphère émotionnelle est en grande partie responsable des (non) choix que nous faisons. Encore faut-il être au clair avec ce que nous ressentons pour opter pour le choix le plus juste ! L’hypnose  met en évidence ce qui n’est pas visible consciement et favorise l'accession à des informations non disponibles en temps normal et pourtant sous-jacentes dans la prise de décision.  Ainsi, c'est en considérant l'écoute émotionnelle et en se dégageant de tout frein conscient (croyances limitantes) que l’on fait les choix stratégiques les plus pertinents et constructifs. Poser un choix lorsque nous y sommes invités n’est pas de la revendication, il s’agit simplement d’exercer son droit d’exister et d’être considéré. Accepter de choisir c’est accepter de vivre. Accepter de vivre notre vie avec ses succès et ses échecs, ses joies et ses peines, ses grands bonheurs et ses petits malheurs et réciproquement.",
+          "html": "<span><span style=\"font-size:18px;line-height:21px;\">La prise de décision est donc incontournable dans la vie. Chaque jour, nous y sommes confrontés et si certains parviennent à trancher facilement, d’autres retournent le problème durant des heures, voire des jours, avant de parvenir enfin à un semblant de choix. En hypnose, le processus de prise de décision ou l'absence de décision est intimement lié aux croyances et aux valeurs du sujet. Si il s'avère qu'à ces registres se trouvent des conflits comme deux valeurs fortes qui s'opposent, alors l'individu reste dans une incertitude à prendre un cap, une direction. <br/><br/>Ici , l'hypnose peut faciliter la prise de décision et vous conforter dans des choix de vie importants, car votre inconscient connaît \"la solution\". De nombreuses décisions importantes sont influencées par des facteurs non rationnels. Notre sphère émotionnelle est en grande partie responsable des (non) choix que nous faisons. Encore faut-il être au clair avec ce que nous ressentons pour opter pour le choix le plus juste ! <br/><br/>L’hypnose  met en évidence ce qui n’est pas visible consciement et favorise l'accession à des informations non disponibles en temps normal et pourtant sous-jacentes dans la prise de décision.  Ainsi, c'est en considérant l'écoute émotionnelle et en se dégageant de tout frein conscient (croyances limitantes) que l’on fait les choix stratégiques les plus pertinents et constructifs.  <br/> <br/>Poser un choix lorsque nous y sommes invités n’est pas de la revendication, il s’agit simplement d’exercer son droit d’exister et d’être considéré. Accepter de choisir c’est accepter de vivre. Accepter de vivre notre vie avec ses succès et ses échecs, ses joies et ses peines, ses grands bonheurs et ses petits malheurs et réciproquement.<br/></span></span>"
+        },
+        {
+          "type": "text",
+          "name": "WE81d4154871",
+          "layout": {
+            "width": "350px",
+            "left": "500px",
+            "top": "1550px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "16"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "paon",
+          "layout": {
+            "left": "620px",
+            "top": "1660px",
+            "width": "136px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/paon-wea4bbe46cb4-8a30e08b.jpg",
+          "href": "affirmation.html",
+          "label": "AFFIRMATION"
+        },
+        {
+          "type": "image",
+          "name": "montre",
+          "layout": {
+            "left": "40px",
+            "top": "1750px",
+            "width": "98px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/montre-we48279defc4-51d9075d.jpg",
+          "href": "procrastination.html",
+          "label": "PROCRASTINER"
+        },
+        {
+          "type": "image",
+          "name": "phare",
+          "layout": {
+            "left": "780px",
+            "top": "1750px",
+            "width": "77px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/phare-wef66bc45442-45a6e4e5.jpg",
+          "href": "cap.html",
+          "label": "CAP"
+        },
+        {
+          "type": "image",
+          "name": "boule cristal",
+          "layout": {
+            "left": "490px",
+            "top": "1770px",
+            "width": "111px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/boule-cristal-weebb588c8ba-c06eccff.jpg",
+          "href": "projet.html",
+          "label": "PROJET"
+        },
+        {
+          "type": "image",
+          "name": "loup",
+          "layout": {
+            "left": "200px",
+            "top": "1780px",
+            "width": "126px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "src": "assets/loup-we776b7f797e-5e0bfc81.jpg",
+          "href": "contrainte.html",
+          "label": "(double) CONTRAINTE"
+        },
+        {
+          "type": "text",
+          "name": "WEdbadcbf592",
+          "layout": {
+            "width": "auto",
+            "left": "630px",
+            "top": "1790px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "AFFIRMATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">AFFIRMATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "lapin medaille",
+          "layout": {
+            "left": "380px",
+            "top": "1860px",
+            "width": "80px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/lapin-medaille-we7246780fac-14a2ffb5.jpg",
+          "href": "legitimite.html",
+          "label": "LEGITIMITE"
+        },
+        {
+          "type": "text",
+          "name": "WE137babd6a4",
+          "layout": {
+            "width": "auto",
+            "left": "30px",
+            "top": "1890px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "PROCRASTINER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PROCRASTINER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2b8b79aed8",
+          "layout": {
+            "width": "auto",
+            "left": "180px",
+            "top": "1890px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "(double) CONTRAINTE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(double) CONTRAINTE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE19f9d822d8",
+          "layout": {
+            "width": "auto",
+            "left": "810px",
+            "top": "1900px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "CAP",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CAP</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE8ba87446a0",
+          "layout": {
+            "width": "auto",
+            "left": "520px",
+            "top": "1910px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "PROJET",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PROJET</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "poisson peigne",
+          "layout": {
+            "left": "600px",
+            "top": "1940px",
+            "width": "172px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "src": "assets/poisson-peigne-we30773a512a-50cffe0a.jpg",
+          "href": "ambivalence.html",
+          "label": "AMBIVALENCE"
+        },
+        {
+          "type": "text",
+          "name": "WE89513e4dab",
+          "layout": {
+            "width": "auto",
+            "left": "370px",
+            "top": "1990px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "LEGITIMITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">LEGITIMITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE41d6e0bdff",
+          "layout": {
+            "width": "auto",
+            "left": "630px",
+            "top": "2010px",
+            "height": "auto",
+            "z-index": "18"
+          },
+          "text": "AMBIVALENCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">AMBIVALENCE</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

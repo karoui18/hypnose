@@ -1,0 +1,315 @@
+{
+  "title": "modèle",
+  "source": "https://www.hypnosite.fr/modele.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "574px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "MODELE"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE436c41b772",
+          "layout": {
+            "width": "550px",
+            "left": "190px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "MODELE",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">MODELE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEf1b90d6629",
+          "layout": {
+            "width": "550px",
+            "height": "auto",
+            "left": "50%",
+            "top": "450px",
+            "line-height": "24px",
+            "text-align": "left",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Gar-A-MondTall'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\" Ne cherchez pas des gens qui vous donnent des conseils ; regardez plutôt ceux qui vous donnent des exemples. \" Sacha GUITRY",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">\" Ne cherchez pas des gens qui vous donnent des conseils ; regardez plutôt ceux qui vous donnent des exemples. \" Sacha GUITRY</span><br/></span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1758px",
+      "items": [
+        {
+          "type": "image",
+          "name": "tour eiffel",
+          "layout": {
+            "left": "510px",
+            "top": "43px",
+            "width": "298px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/tour-eiffel-99108db4.jpg",
+          "href": "",
+          "label": "tour eiffel"
+        },
+        {
+          "type": "text",
+          "name": "WE37b969abbf",
+          "layout": {
+            "width": "370px",
+            "height": "auto",
+            "left": "60px",
+            "top": "70px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "1"
+          },
+          "text": "Des modèles de réussite, nous en avons tous. Avez-vous déjà remarqué qu'ils sont généralement porteurs de ce qui est important pour nous, nos valeurs qu'ils partagent et représentent. Modéliser, c'est s'interroger sur le \"comment\" ces modèles ont accédé à cette expressivité, cette matérialisation tant dans l'acte que la vision du monde qu'ils proposent et qui vous attire. Un pan de notre culture sociétale, individualiste, ne veut pas tenir compte de la modélisation des atouts des autres. Mais en quoi, s'inspirer de l'expérérience d'autrui et du fruit de celle-ci est limitant ? Bien au contraire, gagnons du temps en adaptant les capacités de chacun à soi. C'est une autre façon de dire que les modèles que nous faisons du monde qui nous entoure à l'aide de notre cerveau et de notre langage ne sont pas le monde lui-même mais des représentations du monde. Idéalisme, utopie ou stratégie, dans tous les cas, modéliser n'est pas singer. En fait, la modélisation à travers la Programmation Neuro Linguistique (P.N.L.) a débuté lorsque Richard Bandler et John Grinder ont modélisé des patterns de langage et de comportement à partir du travail de Fritz Perls (le fondateur de la Gestalt thérapie), de Virginia Satir (une fondatrice de la thérapie familiale et de la thérapie systémique) et du Dr. Milton H. Erickson (fondateur de la société Américaine d'Hypnose Clinique). Les premières \"techniques\"  de modélisation provenaient des patterns clés, verbaux et non verbaux, que Grinder et Bandler avaient observés dans le comportement de ces thérapeutes d’exception. Ils relevaient que ce qui semblait magique et inexplicable avait souvent une structure plus profonde qui, une fois élucidée, pouvait être comprise, communiquée et mise en pratique par d'autres. La modélisation est le processus par lequel les morceaux pertinents de comportements d'une personne sont organisés en un modèle fonctionnel.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">Des modèles de réussite, nous en avons tous. Avez-vous déjà remarqué qu'ils sont généralement porteurs de ce qui est important pour nous, nos valeurs qu'ils partagent et représentent. <br/><br/>Modéliser, c'est s'interroger sur le \"comment\" ces modèles ont accédé à cette expressivité, cette matérialisation tant dans l'acte que la vision du monde qu'ils proposent et qui vous attire. Un pan de notre culture sociétale, individualiste, ne veut pas tenir compte de la modélisation des atouts des autres. Mais en quoi, s'inspirer de l'expérérience d'autrui et du fruit de celle-ci est limitant ? Bien au contraire, gagnons du temps en adaptant les capacités de chacun à soi. C'est une autre façon de dire que les modèles que nous faisons du monde qui nous entoure à l'aide de notre cerveau et de notre langage ne sont pas le monde lui-même mais des représentations du monde.<br/>Idéalisme, utopie ou stratégie, dans tous les cas, modéliser n'est pas singer.<br/><br/> En fait, la modélisation à travers la Programmation Neuro Linguistique (P.N.L.) a débuté lorsque Richard Bandler et John Grinder ont modélisé des patterns de langage et de comportement à partir du travail de Fritz Perls (le fondateur de la Gestalt thérapie), de Virginia Satir (une fondatrice de la thérapie familiale et de la thérapie systémique) et du Dr. Milton H. Erickson (fondateur de la société Américaine d'Hypnose Clinique). Les premières \"techniques\"  de modélisation provenaient des patterns clés, verbaux et non verbaux, que Grinder et Bandler avaient observés dans le comportement de ces thérapeutes d’exception. Ils relevaient que ce qui semblait magique et inexplicable avait souvent une structure plus profonde qui, une fois élucidée, pouvait être comprise, communiquée et mise en pratique par d'autres. <br/><br/>La modélisation est le processus par lequel les morceaux pertinents de comportements d'une personne sont organisés en un modèle fonctionnel. <br/><br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE2002d0485f",
+          "layout": {
+            "width": "370px",
+            "height": "auto",
+            "left": "480px",
+            "top": "570px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3"
+          },
+          "text": "La P.N.L. et l'hypnose ont développé des techniques et des distinctions avec lesquelles on peut identifier et décrire les modèles du comportement verbal et non verbal des gens, c'est-à-dire des aspects clés de ce que les gens disent et font. Les objectifs de base consistent à modéliser des capacités spéciales ou exceptionnelles et de faire en sorte qu'elles soient transférables à d'autres personnes. Le but de ce type de modélisation est de mettre ce qui a été observé et décrit en pratique de façon productive et enrichissante. La plupart des processus de modélisation se focalisent sur le niveau des capacités, celui du \"comment faire\". Les capacités connectent les croyances et les valeurs et ont des comportements spécifiques. Sans le \"comment\", savoir ce que l'on est supposé faire et même pourquoi il faut le faire, est tout a fait vain. Les capacités et les compétences fournissent les liens et la force de levier pour manifester notre vision, notre identité, nos valeurs et nos croyances sous forme d'action. L'hypnose et la P.N.L. nous connectent à la faisabilité de modéliser nos références externes et ce que nous souhaitons en tirer afin de devenir notre propre mentor.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">La P.N.L. et l'hypnose ont développé des techniques et des distinctions avec lesquelles on peut identifier et décrire les modèles du comportement verbal et non verbal des gens, c'est-à-dire des aspects clés de ce que les gens disent et font. Les objectifs de base consistent à modéliser des capacités spéciales ou exceptionnelles et de faire en sorte qu'elles soient transférables à d'autres personnes. Le but de ce type de modélisation est de mettre ce qui a été observé et décrit en pratique de façon productive et enrichissante. <br/><br/> La plupart des processus de modélisation se focalisent sur le niveau des capacités, celui du \"comment faire\". Les capacités connectent les croyances et les valeurs et ont des comportements spécifiques. Sans le \"comment\", savoir ce que l'on est supposé faire et même pourquoi il faut le faire, est tout a fait vain. Les capacités et les compétences fournissent les liens et la force de levier pour manifester notre vision, notre identité, nos valeurs et nos croyances sous forme d'action. <br/><br/> L'hypnose et la P.N.L. nous connectent à la faisabilité de modéliser nos références externes et ce que nous souhaitons en tirer afin de devenir notre propre mentor. <br/> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE87e40daaf9",
+          "layout": {
+            "width": "380px",
+            "left": "50%",
+            "top": "1440px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "16",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "paon",
+          "layout": {
+            "left": "200px",
+            "top": "1520px",
+            "width": "111px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/paon-we1b7cd7e9a6-7c3d4cf5.jpg",
+          "href": "affirmation.html",
+          "label": "AFFIRMATION"
+        },
+        {
+          "type": "image",
+          "name": "elephant",
+          "layout": {
+            "left": "40px",
+            "top": "1530px",
+            "width": "115px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/elephant-we3143097b13-25b77d25.jpg",
+          "href": "confiance.html",
+          "label": "CONFIANCE"
+        },
+        {
+          "type": "image",
+          "name": "manequin",
+          "layout": {
+            "left": "750px",
+            "top": "1530px",
+            "width": "91px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/manequin-we3b72c2a633-7c59574c.jpg",
+          "href": "identite.html",
+          "label": "IDENTITE"
+        },
+        {
+          "type": "image",
+          "name": "jumelles",
+          "layout": {
+            "left": "450px",
+            "top": "1550px",
+            "width": "114px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "src": "assets/jumelles-webafeb4c234-109133d5.jpg",
+          "href": "vision.html",
+          "label": "VISION"
+        },
+        {
+          "type": "image",
+          "name": "gramo",
+          "layout": {
+            "left": "590px",
+            "top": "1570px",
+            "width": "111px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/gramo-we9c38720746-c863add3.jpg",
+          "href": "communiquer.html",
+          "label": "COMMUNIQUER"
+        },
+        {
+          "type": "image",
+          "name": "boule cristal",
+          "layout": {
+            "left": "330px",
+            "top": "1590px",
+            "width": "94px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/boule-cristal-weff003f3689-ffd82a0e.jpg",
+          "href": "projet.html",
+          "label": "PROJET"
+        },
+        {
+          "type": "text",
+          "name": "WE383ec2ed82",
+          "layout": {
+            "width": "auto",
+            "left": "200px",
+            "top": "1628px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "AFFIRMATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">AFFIRMATION<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE21f973f5b2",
+          "layout": {
+            "width": "auto",
+            "left": "486px",
+            "top": "1650px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "VISION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">VISION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEdd0e180819",
+          "layout": {
+            "width": "auto",
+            "left": "50px",
+            "top": "1680px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "CONFIANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">CONFIANCE<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE921dd0c021",
+          "layout": {
+            "width": "auto",
+            "left": "758px",
+            "top": "1680px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "IDENTITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">IDENTITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE30405e4179",
+          "layout": {
+            "width": "auto",
+            "left": "350px",
+            "top": "1710px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "PROJET",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PROJET</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2d5054cceb",
+          "layout": {
+            "width": "auto",
+            "left": "610px",
+            "top": "1720px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "COMMUNIQUER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">COMMUNIQUER</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

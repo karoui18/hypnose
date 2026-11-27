@@ -1,0 +1,333 @@
+{
+  "title": "psychosoma",
+  "source": "https://www.hypnosite.fr/psychosoma.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "555px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "PSYCHOSOMA"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE82e5b3a870",
+          "layout": {
+            "width": "380px",
+            "left": "190px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "PSYCHOSOMA",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">PSYCHOSOMA</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE6984edeffd",
+          "layout": {
+            "width": "640px",
+            "height": "auto",
+            "left": "50%",
+            "top": "440px",
+            "line-height": "24px",
+            "text-align": "left",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Gar-A-MondTall'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Quand on ne peut le dire avec des mots, on va le crier avec la violence des maux. Mal-à-di(re) et maladie doivent s’entendre dans différents registres pour que nous puissions accéder au gai-rire.\" Jacques SALOME",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">\"Quand on ne peut le dire avec des mots, on va le crier avec la violence des maux. Mal-à-di(re) et maladie doivent s’entendre dans différents registres pour que nous puissions accéder au gai-rire.\" Jacques SALOME</span><br/></span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1672px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WEf301045184",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "20px",
+            "top": "50px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "1"
+          },
+          "text": "Le terme soma vient du grec ancien et signifie le corps. Psyché a également pour origine le grec ancien, signifiant « respiration, souffle, stimulation, vitalité ou force vitale ». Le terme psyché correspond à peu près au mot allemand âme, bien que ce mot véhicule évidemment encore une dimension transcendantale. C’est pourquoi on parle parfois aussi en médecine et en psychologie de maladies de l’âme.   Une définition plus large inclut certains troubles dits fonctionnels tels que les conversions, les somatisations, les douleurs et le stress. Le terme de psychosomatique montre que psyché et corps représentent une unité, et sont en interaction et en interdépendance. Les maladies somatiques ont des répercussions psychiques, et vice versa. Des causes psychiques peuvent déclencher des maladies somatiques. Cela fonctionne de la même manière en ce qui concerne les influences sociales, spirituelles et culturelles. Des crises existentielles comme la question du sens de la vie ou le bilan de son passé peuvent également être des déclencheurs de maladies. Que ce soit dans les domaines relevant du corporel, du psychisme, du social, du spirituel et du culturel, nous avons des besoins fondamentaux qui cherchent à être satisfaits. Les sentiments et les réactions corporelles qui sont inséparables font partie de ces besoins. Le psychiatre Stavros MENTZOS considère les symptômes psychosomatiques comme des productions du Moi qui seraient des tentatives d’adaptation. Elles contribueraient comme les symptômes nerveux à défendre le Moi face aux conflits psychiques et à compenser les manques structurels. Cette organisation psychique se caractérise par un discours factuel, rationnel avec un déficit du fantasme et une difficulté à mobiliser et exprimer ses affects, à élaborer les conflits ou à les refouler. Le sujet est focalisé sur les symptômes de son corps et ne peut s’en éloigner qu’avec difficulté pour parler de sa vie. L’évocation de ses émotions reste très modeste. La relation apparaît impersonnelle, neutre. Lorsque les défenses sont débordées, la pensée opératoire augmente le risque d’un retentissement désorganisant le corps. La conception de pensée opératoire a été reprise d’une manière voisine sous le terme d’alexithymie qui se définit par l’incapacité à lire ses émotions.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">Le terme soma vient du grec ancien et signifie le corps. Psyché a également pour origine le grec ancien, signifiant « respiration, souffle, stimulation, vitalité ou force vitale ». Le terme psyché correspond à peu près au mot allemand âme, bien que ce mot véhicule évidemment encore une dimension transcendantale. C’est pourquoi on parle parfois aussi en médecine et en psychologie de maladies de l’âme.   Une définition plus large inclut certains troubles dits fonctionnels tels que les conversions, les somatisations, les douleurs et le stress. Le terme de psychosomatique montre que psyché et corps représentent une unité, et sont en interaction et en interdépendance. Les maladies somatiques ont des répercussions psychiques, et vice versa. Des causes psychiques peuvent déclencher des maladies somatiques. Cela fonctionne de la même manière en ce qui concerne les influences sociales, spirituelles et culturelles. Des crises existentielles comme la question du sens de la vie ou le bilan de son passé peuvent également être des déclencheurs de maladies. Que ce soit dans les domaines relevant du corporel, du psychisme, du social, du spirituel et du culturel, nous avons des besoins fondamentaux qui cherchent à être satisfaits. Les sentiments et les réactions corporelles qui sont inséparables font partie de ces besoins.<br/><br/> Le psychiatre Stavros MENTZOS considère les symptômes psychosomatiques comme des productions du Moi qui seraient des tentatives d’adaptation. Elles contribueraient comme les symptômes nerveux à défendre le Moi face aux conflits psychiques et à compenser les manques structurels. Cette organisation psychique se caractérise par un discours factuel, rationnel avec un déficit du fantasme et une difficulté à mobiliser et exprimer ses affects, à élaborer les conflits ou à les refouler. Le sujet est focalisé sur les symptômes de son corps et ne peut s’en éloigner qu’avec difficulté pour parler de sa vie. L’évocation de ses émotions reste très modeste. La relation apparaît impersonnelle, neutre.  <br/><br/>Lorsque les défenses sont débordées, la pensée opératoire augmente le risque d’un retentissement désorganisant le corps. La conception de pensée opératoire a été reprise d’une manière voisine sous le terme d’alexithymie qui se définit par l’incapacité à lire ses émotions.<br/> <br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "coeur oeil",
+          "layout": {
+            "left": "540px",
+            "top": "80px",
+            "width": "267px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/coeur-oeil-we0b13b9c84a-ddab5857.jpg",
+          "href": "",
+          "label": "coeur oeil"
+        },
+        {
+          "type": "text",
+          "name": "WE995d5c51be",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "470px",
+            "top": "523px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3"
+          },
+          "text": "L’individu éprouve de la gêne à ressentir ou à parler de ses états affectifs. Sa vie imaginaire est alors limitée. Cependant, il faut différencier la somatisation et l’hypocondrie qui ne se rapporte que de manière indirecte aux troubles psychosomatiques. Elle représente, là encore, une situation où s’associent des manifestations physiques et psychiques. L’hypocondrie se définit par la préoccupation centrée sur la crainte ou l’idée d’être atteint d’une maladie grave fondée sur l’interprétation erronée par le sujet de symptômes physiques. Cette préoccupation persiste malgré un bilan médical approprié et rassurant, montrant d'avantage une structure obsessionnelle. L'hypnose se place ici, comme médiateur langagier de l'inconscient qui peut accompagner la réduction des affections dans leur dimension psychosomatique : les douleurs chroniques, les migraines, les ulcères d’estomac, le syndrome de l'intestin irritable, le psoriasis, l'eczéma, les verrues mais également certaines formes d'hypertension et de nombreux autres symptômes « modernes », comme les acouphènes, la surcharge pondérale, etc.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">L’individu éprouve de la gêne à ressentir ou à parler de ses états affectifs. Sa vie imaginaire est alors limitée. Cependant, il faut différencier la somatisation et l’hypocondrie qui ne se rapporte que de manière indirecte aux troubles psychosomatiques. Elle représente, là encore, une situation où s’associent des manifestations physiques et psychiques. L’hypocondrie se définit par la préoccupation centrée sur la crainte ou l’idée d’être atteint d’une maladie grave fondée sur l’interprétation erronée par le sujet de symptômes physiques. Cette préoccupation persiste malgré un bilan médical approprié et rassurant, montrant d'avantage une structure obsessionnelle. <br/><br/> L'hypnose se place ici, comme médiateur langagier de l'inconscient qui peut accompagner la réduction des affections dans leur dimension psychosomatique : les douleurs chroniques, les migraines, les ulcères d’estomac, le syndrome de l'intestin irritable, le psoriasis, l'eczéma, les verrues mais également certaines formes d'hypertension et de nombreux autres symptômes « modernes », comme les acouphènes, la surcharge pondérale, etc. <br/> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE5912673ea7",
+          "layout": {
+            "width": "390px",
+            "left": "480px",
+            "top": "1300px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "14"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "elephant chapeau",
+          "layout": {
+            "left": "640px",
+            "top": "1430px",
+            "width": "89px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/elephant-chapeau-we5f2c76b2bb-010a3d13.jpg",
+          "href": "communiquer.html",
+          "label": "DEFENSE"
+        },
+        {
+          "type": "image",
+          "name": "marteau",
+          "layout": {
+            "left": "490px",
+            "top": "1460px",
+            "width": "131px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/marteau-we763a6728ca-f50f26ae.jpg",
+          "href": "trauma.html",
+          "label": "TRAUMA"
+        },
+        {
+          "type": "image",
+          "name": "cygne",
+          "layout": {
+            "left": "20px",
+            "top": "1470px",
+            "width": "116px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/cygne-web5360f6b75-261232cc.jpg",
+          "href": "symptome.html",
+          "label": "SYMPTÔME"
+        },
+        {
+          "type": "image",
+          "name": "lunettes",
+          "layout": {
+            "left": "300px",
+            "top": "1473px",
+            "width": "132px",
+            "height": "auto",
+            "transform": "rotate(-25deg)",
+            "-webkit-transform": "rotate(-25deg)",
+            "-moz-transform": "rotate(-25deg)",
+            "-ms-transform": "rotate(-25deg)",
+            "-o-transform": "rotate(-25deg)",
+            "z-index": "15"
+          },
+          "src": "assets/lunettes-we6c35cc065b-51e844d6.jpg",
+          "href": "emotion-voir.html",
+          "label": "(ne pas voir)"
+        },
+        {
+          "type": "image",
+          "name": "ventilateur",
+          "layout": {
+            "left": "770px",
+            "top": "1480px",
+            "width": "91px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/ventilateur-we7e7f5f5926-e90ec853.jpg",
+          "href": "stress.html",
+          "label": "STRESS"
+        },
+        {
+          "type": "image",
+          "name": "corset",
+          "layout": {
+            "left": "170px",
+            "top": "1500px",
+            "width": "91px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/corset-we409dd15f9d-32c6bdd1.jpg",
+          "href": "corps.html",
+          "label": "CORPS"
+        },
+        {
+          "type": "text",
+          "name": "WEbe9d868052",
+          "layout": {
+            "width": "auto",
+            "left": "500px",
+            "top": "1540px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "TRAUMA",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRAUMA</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEea35c0fab6",
+          "layout": {
+            "width": "auto",
+            "left": "371px",
+            "top": "1554px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE321bc74c37",
+          "layout": {
+            "width": "auto",
+            "left": "680px",
+            "top": "1560px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "DEFENSE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DEFENSE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE24fcec8f15",
+          "layout": {
+            "width": "auto",
+            "left": "340px",
+            "top": "1570px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "(ne pas voir)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(ne pas voir)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE45533831ad",
+          "layout": {
+            "width": "auto",
+            "left": "30px",
+            "top": "1580px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "SYMPTÔME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SYMPTÔME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd0637ab993",
+          "layout": {
+            "width": "auto",
+            "left": "780px",
+            "top": "1610px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "STRESS",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">STRESS</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7761a5a573",
+          "layout": {
+            "width": "auto",
+            "left": "190px",
+            "top": "1623px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "CORPS",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">CORPS<br/></span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

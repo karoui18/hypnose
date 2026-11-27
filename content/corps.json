@@ -1,0 +1,336 @@
+{
+  "title": "corps",
+  "source": "https://www.hypnosite.fr/corps.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "578px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "CORPS"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "(image)"
+        },
+        {
+          "type": "text",
+          "name": "WE79a5eb8daf",
+          "layout": {
+            "width": "330px",
+            "left": "230px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "CORPS",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">CORPS</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7cb7bb7d2f",
+          "layout": {
+            "width": "auto",
+            "left": "122px",
+            "top": "236px",
+            "height": "auto",
+            "transform": "rotate(7deg)",
+            "-webkit-transform": "rotate(7deg)",
+            "-moz-transform": "rotate(7deg)",
+            "-ms-transform": "rotate(7deg)",
+            "-o-transform": "rotate(7deg)",
+            "z-index": "4"
+          },
+          "text": "(image)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:35px;\">(image)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd9fb9d4259",
+          "layout": {
+            "width": "460px",
+            "height": "auto",
+            "left": "50%",
+            "top": "460px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Y a-t-il une distinction entre l'esprit et le corps ? Si oui, lequel vaut-il mieux avoir ?\" Woody ALLEN",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Y a-t-il une distinction entre l'esprit et le corps ?<br/> Si oui, lequel vaut-il mieux avoir ?\" Woody ALLEN<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2199px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE783b04a305",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "20px",
+            "top": "90px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "2"
+          },
+          "text": "Comment se fait-il que le corps est perçu comme une entité ? Comment les sensations issues d'organes, de muscles, de segments cutanés et d’articulations sont-elles intégrées les unes aux autres pour former un tout reconnaissable par l’individu qui l’habite ? En effet, le corps n’est pas qu’un objet physique, c’est aussi et surtout la manifestation principale d’un \"soi\", d’un être subjectif porteur d’états mentaux et animé de comportements et de ressentis affectifs. Le corps dans sa représentation inclut alors son image. L’image du corps  est cette image que nous formons dans notre esprit à partir  de nos perceptions sensorielles et nos émotions. C'est une représentation en perpétuelle mutation et c'est à travers cette représentation imagée que nous éprouvons qu’il y a une unité du corps. Pourtant, l'image du corps n'est qu'une illusion. En médecine psychiatrique, la persuasion d’avoir un défaut corporel est classifiée dans les troubles Somatoformes. Ce trouble est diagnostiqué comme la peur d’une dysmorphie corporelle. Divers intitulés spécifient cette pathologie : Body Dysmorphic Disorder (B.D.D), dysmorphophobie, dysmorphesthésie ou encore Complexe d’Adonis. Cette distorsion de la perception de l’image du corps implique que les fixations peuvent rapidement devenir obsessionnelles et compulsives. S’il y a à combler ou à rectifier, c’est qu’il y a un trou, une dépression, tant dans le sens sémantique que pathologique, car il est courant de trouver une comorbidité de la dépression avec les troubles de l'image du corps. L'image ne parle pas, elle fait parler. Cette dichotomie d’apparence laisse alors afficher une souffrance engendrant une survalorisation fantasmatique de son image idéalisée.  Avoir un corps, c’est donc avoir une représentation imaginaire. Naît de la subjectivité de l’esthétisme corporel, le trouble de l’émotion de la beauté. La dysmorphie devient alors, plus qu’une peur d’une déformation corporelle, une maladie des émotions, du ressenti de son propre corps, un trouble du sentiment esthétique de l’image de soi. C’est la maladie des images du corps. Cette image prend sa valeur en fonction de la position spatiale de l’œil, du regard intérieur. C’est en fonction de cette dernière précision que l’image n’est jamais la même, lui donnant cette qualité d’illusion anamorphique. Offrons-nous cette compréhension que le sujet souffrant de son corps par sa représentation imaginaire, croit qu’il le possède. Pourtant il ne l’a pas, mais son corps est sa seule consistance. Ce que le sujet possède ce sont des images de son corps et nous avons vu que c’est de l’ordre de l’illusion.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">Comment se fait-il que le corps est perçu comme une entité ? Comment les sensations issues d'organes, de muscles, de segments cutanés et d’articulations sont-elles intégrées les unes aux autres pour former un tout reconnaissable par l’individu qui l’habite ? En effet, le corps n’est pas qu’un objet physique, c’est aussi et surtout la manifestation principale d’un \"soi\", d’un être subjectif porteur d’états mentaux et animé de comportements et de ressentis affectifs. Le corps dans sa représentation inclut alors son image.<br/><br/> L’image du corps  est cette image que nous formons dans notre esprit à partir  de nos perceptions sensorielles et nos émotions. C'est une représentation en perpétuelle mutation et c'est à travers cette représentation imagée que nous éprouvons qu’il y a une unité du corps. Pourtant, l'image du corps n'est qu'une illusion. <br/><br/>En médecine psychiatrique, la persuasion d’avoir un défaut corporel est classifiée dans les troubles Somatoformes. Ce trouble est diagnostiqué comme la peur d’une dysmorphie corporelle. Divers intitulés spécifient cette pathologie : Body Dysmorphic Disorder (B.D.D), dysmorphophobie, dysmorphesthésie ou encore Complexe d’Adonis. Cette distorsion de la perception de l’image du corps implique que les fixations peuvent rapidement devenir obsessionnelles et compulsives. S’il y a à combler ou à rectifier, c’est qu’il y a un trou, une dépression, tant dans le sens sémantique que pathologique, car il est courant de trouver une comorbidité de la dépression avec les troubles de l'image du corps.<br/><br/>L'image ne parle pas, elle fait parler. Cette dichotomie d’apparence laisse alors afficher une souffrance engendrant une survalorisation fantasmatique de son image idéalisée.  Avoir un corps, c’est donc avoir une représentation imaginaire. Naît de la subjectivité de l’esthétisme corporel, le trouble de l’émotion de la beauté. La dysmorphie devient alors, plus qu’une peur d’une déformation corporelle, une maladie des émotions, du ressenti de son propre corps, un trouble du sentiment esthétique de l’image de soi. C’est la maladie des images du corps. <br/><br/>Cette image prend sa valeur en fonction de la position spatiale de l’œil, du regard intérieur. C’est en fonction de cette dernière précision que l’image n’est jamais la même, lui donnant cette qualité d’illusion anamorphique. <br/><br/> Offrons-nous cette compréhension que le sujet souffrant de son corps par sa représentation imaginaire, croit qu’il le possède. Pourtant il ne l’a pas, mais son corps est sa seule consistance. Ce que le sujet possède ce sont des images de son corps et nous avons vu que c’est de l’ordre de l’illusion. <br/><br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "corset",
+          "layout": {
+            "left": "520px",
+            "top": "120px",
+            "width": "309px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/corset-we711dabe340-4bb69a51.jpg",
+          "href": "",
+          "label": "corset"
+        },
+        {
+          "type": "text",
+          "name": "WE74b60c7ec5",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "465px",
+            "top": "616px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3"
+          },
+          "text": "Où se place alors la souffrance issue de ces images déformées ? Si l’on reste au registre du réel et de l’organique, la douleur est nociceptive et biologique. Nous pensons alors d’avantage au symbolisme qui nous montre dans ce registre, que si il y a douleur, il y a symptôme et autre que son rôle d’unification, il est présent chez le sujet pour signifier qu’il y a quelque chose à dire et en premier lieu une association incohérente entre image et corps. C'est à l’issue de la reconnaissance et de l’intégration de cette image spéculaire idéalisée ou biaisée, que nous allons tant psychiquement que corporellement nous délimiter. Si cette image dans sa conception est lésée, altérée, le corps alors pourra devenir le support d’une souffrance profonde liée à cette image non conforme dans l’attente et le vécu. Il s’en suivra et ceci pour minimiser les souffrances internes, l’usage de possibles stratégies adaptatives. Ces dernières placées comme garde fou et pouvant ce matérialiser par des manies, des phobies, des toxicomanies ou tous comportements et pratiques permettant la régulation des tensions profondes. On peut aussi voir le corps comme l'interface entre notre intériorité et l'environnement. Il favorise les échanges avec celui-ci. Les interprétations de ses échanges informatifs entre notre dedans et notre dehors peuvent parfois porter à confusion, distorsion ou mauvaise interprétation. Rappelez-vous que notre corps est la seule demeure où nous vivons avec nous-même. Alors ne surtout pas omettre qu'il est, sinon le support, le réceptacle de nos émotions. Autant y être confortable et pour cela, écoutez-le ! Ici, l'hypnose va favoriser une élaboration tant projective qu'émotionnellement constructive autour du corps, de ses représentations et de ses ressentis en favorisant l'acceptation.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">Où se place alors la souffrance issue de ces images déformées ? Si l’on reste au registre du réel et de l’organique, la douleur est nociceptive et biologique. Nous pensons alors d’avantage au symbolisme qui nous montre dans ce registre, que si il y a douleur, il y a symptôme et autre que son rôle d’unification, il est présent chez le sujet pour signifier qu’il y a quelque chose à dire et en premier lieu une association incohérente entre image et corps. <br/> <br/>C'est à l’issue de la reconnaissance et de l’intégration de cette image spéculaire idéalisée ou biaisée, que nous allons tant psychiquement que corporellement nous délimiter. Si cette image dans sa conception est lésée, altérée, le corps alors pourra devenir le support d’une souffrance profonde liée à cette image non conforme dans l’attente et le vécu. Il s’en suivra et ceci pour minimiser les souffrances internes, l’usage de possibles stratégies adaptatives. Ces dernières placées comme garde fou et pouvant ce matérialiser par des manies, des phobies, des toxicomanies ou tous comportements et pratiques permettant la régulation des tensions profondes. <br/><br/>On peut aussi voir le corps comme l'interface entre notre intériorité et l'environnement. Il favorise les échanges avec celui-ci. Les interprétations de ses échanges informatifs entre notre dedans et notre dehors peuvent parfois porter à confusion, distorsion ou mauvaise interprétation. Rappelez-vous que notre corps est la seule demeure où nous vivons avec nous-même. Alors ne surtout pas omettre qu'il est, sinon le support, le réceptacle de nos émotions. Autant y être confortable et pour cela, écoutez-le !<br/><br/> Ici, l'hypnose va favoriser une élaboration tant projective qu'émotionnellement constructive autour du corps, de ses représentations et de ses ressentis en favorisant l'acceptation.<br/> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE707d809da5",
+          "layout": {
+            "width": "380px",
+            "left": "50%",
+            "top": "1790px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "16",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "coeur oeil",
+          "layout": {
+            "left": "30px",
+            "top": "1870px",
+            "width": "89px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/coeur-oeil-we18ccbe4030-68d7ee79.jpg",
+          "href": "psychosoma.html",
+          "label": "PSYCHOSOMA"
+        },
+        {
+          "type": "image",
+          "name": "coeur emotion",
+          "layout": {
+            "left": "770px",
+            "top": "1870px",
+            "width": "90px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/coeur-emotion-weac3efd6edb-fb841eca.jpg",
+          "href": "emotion.html",
+          "label": "EMOTION"
+        },
+        {
+          "type": "image",
+          "name": "cygne",
+          "layout": {
+            "left": "170px",
+            "top": "1900px",
+            "width": "116px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "src": "assets/cygne-web5360f6b75-261232cc.jpg",
+          "href": "symptome.html",
+          "label": "SYMPTÔME"
+        },
+        {
+          "type": "image",
+          "name": "femme pieuvre",
+          "layout": {
+            "left": "460px",
+            "top": "1900px",
+            "width": "140px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/femme-pieuvre-we93c2576766-90e3646c.jpg",
+          "href": "dissociation.html",
+          "label": "DISSOCIATION"
+        },
+        {
+          "type": "image",
+          "name": "singe velo",
+          "layout": {
+            "left": "660px",
+            "top": "1900px",
+            "width": "78px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/singe-velo-we34901bcf9b-80493cf6.jpg",
+          "href": "comportement.html",
+          "label": "COMPORTEMENT"
+        },
+        {
+          "type": "image",
+          "name": "manequin",
+          "layout": {
+            "left": "330px",
+            "top": "1930px",
+            "width": "84px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/manequin-webfbabdb4f2-7de40b63.jpg",
+          "href": "identite.html",
+          "label": "IDENTITE"
+        },
+        {
+          "type": "text",
+          "name": "WEfebf550def",
+          "layout": {
+            "width": "auto",
+            "left": "30px",
+            "top": "2010px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "PSYCHOSOMA",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PSYCHOSOMA</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE1eba953b9a",
+          "layout": {
+            "width": "auto",
+            "left": "170px",
+            "top": "2010px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "SYMPTÔME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SYMPTÔME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEc6dab23eb7",
+          "layout": {
+            "width": "auto",
+            "left": "780px",
+            "top": "2020px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7e11335a63",
+          "layout": {
+            "width": "auto",
+            "left": "470px",
+            "top": "2040px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "DISSOCIATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DISSOCIATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE3925b2d4fb",
+          "layout": {
+            "width": "auto",
+            "left": "640px",
+            "top": "2080px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "COMPORTEMENT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">COMPORTEMENT</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE90c05807c4",
+          "layout": {
+            "width": "auto",
+            "left": "330px",
+            "top": "2090px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "IDENTITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">IDENTITE</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

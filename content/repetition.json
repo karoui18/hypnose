@@ -1,0 +1,316 @@
+{
+  "title": "repetition",
+  "source": "https://www.hypnosite.fr/repetition.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "589px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "REPETITION"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEd5fdc71d4f",
+          "layout": {
+            "width": "320px",
+            "left": "220px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "REPETITION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">REPETITION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEc3ef78e40a",
+          "layout": {
+            "width": "510px",
+            "height": "auto",
+            "left": "50%",
+            "top": "440px",
+            "color": "#262626",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\" La folie c'est de croire qu'en faisant toujours la même chose, on obtient un résultat différent.\"   Albert Einstein",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';\"><span style=\"color:rgb(0, 0, 0);font-size:18px;line-height:26px;\">\" La folie c'est de croire qu'en faisant toujours la même chose, on obtient un résultat différent.\"   Albert Einstein</span></span><span style=\"color:rgb(0, 0, 0);font-family:OldNewspaperTypes;font-size:18px;line-height:26px;\"><br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2156px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE19ac1cd366",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "25px",
+            "top": "10px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "Ne vous est-il jamais arrivé d’avoir l’impression de reproduire les mêmes schémas dans votre vie, de tourner en rond ? D’attirer toujours le même type de personne ou des situations analogues qui se présentent et se répètent inlassablement ? La qualité de vie est une notion récente qui s'est dégagée de l'étude des symptômes physiques et psychiques pour porter de manière plus précise sur le bonheur. Globalement, elle peut se définir comme la satisfaction de vivre, avec des sentiments de joie et de plaisir. La répétition des scénarios de vie a pour conséquence d'altérer cette qualité de vie par son effet négatif sur le ressenti émotionnel, la détérioration des relations professionnelles, sociales ou sentimentales et qui entraine un sentiment d'échec personnel. Ce qui est souvent bouleversant, c'est d'observer comment nous pouvons répéter, de façon involontaire des situations qui nous font mal. En dépit de la souffrance, l'agacement, la tristesse et la colère viennent croiser l'acapacité à faire autrement, conduisant à la fatalité. Une explication possible à ce phénomène de répétition est que lorsque nous rencontrons une situation dont l’un des composants ressemblent à un souvenir enregistré, le cerveau va immédiatement ressortir les ressentis de la situation d’origine. Cela regroupe la réalité de la situation mais aussi tout l’univers de perceptions que nous lui avons consciemment ou inconsciemment associé comme les attitudes, les comportements, les sentiments et (surtout) les limites. La partie inconsciente du cerveau se rebranche  sur l’intensité émotionnelle de l’expérience originelle. Ce sont ces marqueurs émotionnels qui génèrent la souffrance que nous ressentons et on va ainsi déclencher des réactions qui peuvent être totalement disproportionnées par rapport à l’événement analogue. C’est la raison pour laquelle, on peut se retrouver face à un débordement affectif, sans que l’on comprenne pourquoi. Voyons maintenant la dynamique inconsciente de la répétition. En s'appuyant sur une théorie psychanalytique Lacanienne, on peut concevoir 2 types de dynamiques de répétitions : il y aurait le retour en un acte sain d'un passé affectivement troublé voire refoulé ou le retour en acte pathologique, entre autre par l'usage de la compulsion, d'un passé traumatique. A considérer ainsi, au travers ce regard, un besoin inconscient d'accéder à la symbolisation dans le présent, de la symbolisation absente ou inachevée de l'acte originel, genèse du mouvement (de vie) répétitif.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Ne vous est-il jamais arrivé d’avoir l’impression de reproduire les mêmes schémas dans votre vie, de tourner en rond ? D’attirer toujours le même type de personne ou des situations analogues qui se présentent et se répètent inlassablement ?<br/><br/>La qualité de vie est une notion récente qui s'est dégagée de l'étude des symptômes physiques et psychiques pour porter de manière plus précise sur le bonheur. Globalement, elle peut se définir comme la satisfaction de vivre, avec des sentiments de joie et de plaisir. La répétition des scénarios de vie a pour conséquence d'altérer cette qualité de vie par son effet négatif sur le ressenti émotionnel, la détérioration des relations professionnelles, sociales ou sentimentales et qui entraine un sentiment d'échec personnel.<br/><br/>Ce qui est souvent bouleversant, c'est d'observer comment nous pouvons répéter, de façon involontaire des situations qui nous font mal. En dépit de la souffrance, l'agacement, la tristesse et la colère viennent croiser l'acapacité à faire autrement, conduisant à la fatalité.<br/><br/> Une explication possible à ce phénomène de répétition est que lorsque nous rencontrons une situation dont l’un des composants ressemblent à un souvenir enregistré, le cerveau va immédiatement ressortir les ressentis de la situation d’origine. Cela regroupe la réalité de la situation mais aussi tout l’univers de perceptions que nous lui avons consciemment ou inconsciemment associé comme les attitudes, les comportements, les sentiments et (surtout) les limites. La partie inconsciente du cerveau se rebranche  sur l’intensité émotionnelle de l’expérience originelle. Ce sont ces marqueurs émotionnels qui génèrent la souffrance que nous ressentons et on va ainsi déclencher des réactions qui peuvent être totalement disproportionnées par rapport à l’événement analogue. C’est la raison pour laquelle, on peut se retrouver face à un débordement affectif, sans que l’on comprenne pourquoi. <br/><br/>Voyons maintenant la dynamique inconsciente de la répétition. En s'appuyant sur une théorie psychanalytique Lacanienne, on peut concevoir 2 types de dynamiques de répétitions : il y aurait le retour en un acte sain d'un passé affectivement troublé voire refoulé ou le retour en acte pathologique, entre autre par l'usage de la compulsion, d'un passé traumatique. A considérer ainsi, au travers ce regard, un besoin inconscient d'accéder à la symbolisation dans le présent, de la symbolisation absente ou inachevée de l'acte originel, genèse du mouvement (de vie) répétitif.<br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "tampon",
+          "layout": {
+            "left": "560px",
+            "top": "20px",
+            "width": "200px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/tampon-we5521c3a810-1277d9c1.jpg",
+          "href": "",
+          "label": "tampon"
+        },
+        {
+          "type": "text",
+          "name": "WE40cbfd5401",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "470px",
+            "top": "500px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "3"
+          },
+          "text": "La répétition des schémas de vie peut se retrouver dans de nombreuses situations et domaine de la vie : • Problème relationnel lié à l’autorité. • Incapacité à faire des choix, prendre des décisions. • Situation de harcèlement moral, de violences physique ou sexuelle. • Situation d’abandon ou rejet, par un parent, un conjoint, au travail. • Insécurité financière, manque d’argent, faillites. • Situations d’échecs : amoureux, mariages, business, scolaire… • Problèmes de santé. • Difficulté à s’engager dans une relation, un travail… • Accidents à répétition. • Situation de trahison. • etc Cette répétition existencielle est trop souvent perçue après coup. On ne prend pas conscience que nous réitérons sans cesse. Ce qu'il y a de plus spécifique dans ce principe de redondance, c'est la perception pénible de ne pouvoir se réaliser pleinement, d'être limité non seulement par des obstacles de vie, mais aussi par un trouble intérieur qui se laisse mal définir. Quelles que soient les touches personnelles apportées, une répétition de vie s'inscrit dans un registre dramatique. Ce sentiment d'échec et de frustration peut être lui-même à l'origine d'états dépressifs ou anxieux. Et tout cela est très souvent inconscient. Si la répétition à initialement une intention positive en visant à retrouver un bénéfice déja obtenu dans la situation originelle, le résultat n'en est pas aussi favorable. Alors, malgré une tentative inconsciente de restructuration et de réassurance, consciemment le sujet se sent emprisonné à devoir vivre toujours de la même façon, avec toujours le même résultat. Pour se donner les moyens d'y mettre fin, il est judicieux de recenser la principale blessure et se libérer de son emprise en déterminant ses besoins actuels. Le travail sous hypnose peut donc être porté sur la genèse de la répétition. Il arrive d’ailleurs que cette situation n’appartienne pas à la personne directement mais relève d’un événement vécu par un ancêtre de la lignée paternelle ou maternelle.  Aussi, la créativité sous hypnose va favoriser l'émergence d'autres schémas équilibrants, répondants aux valeurs et ambitions du sujet.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">La répétition des schémas de vie peut se retrouver dans de nombreuses situations et domaine de la vie :<br/>• Problème relationnel lié à l’autorité. <br/> • Incapacité à faire des choix, prendre des décisions. <br/> • Situation de harcèlement moral, de violences physique ou sexuelle. <br/> • Situation d’abandon ou rejet, par un parent, un conjoint, au travail. <br/> • Insécurité financière, manque d’argent, faillites. <br/> • Situations d’échecs : amoureux, mariages, business, scolaire… <br/> • Problèmes de santé. <br/> • Difficulté à s’engager dans une relation, un travail… <br/> • Accidents à répétition. <br/> • Situation de trahison. <br/> • etc<br/><br/>Cette répétition existencielle est trop souvent perçue après coup. On ne prend pas conscience que nous réitérons sans cesse. Ce qu'il y a de plus spécifique dans ce principe de redondance, c'est la perception pénible de ne pouvoir se réaliser pleinement, d'être limité non seulement par des obstacles de vie, mais aussi par un trouble intérieur qui se laisse mal définir. Quelles que soient les touches personnelles apportées, une répétition de vie s'inscrit dans un registre dramatique. Ce sentiment d'échec et de frustration peut être lui-même à l'origine d'états dépressifs ou anxieux. <br/><br/> Et tout cela est très souvent inconscient. Si la répétition à initialement une intention positive en visant à retrouver un bénéfice déja obtenu dans la situation originelle, le résultat n'en est pas aussi favorable. Alors, malgré une tentative inconsciente de restructuration et de réassurance, consciemment le sujet se sent emprisonné à devoir vivre toujours de la même façon, avec toujours le même résultat.  <br/><br/>Pour se donner les moyens d'y mettre fin, il est judicieux de recenser la principale blessure et se libérer de son emprise en déterminant ses besoins actuels. Le travail sous hypnose peut donc être porté sur la genèse de la répétition. Il arrive d’ailleurs que cette situation n’appartienne pas à la personne directement mais relève d’un événement vécu par un ancêtre de la lignée paternelle ou maternelle.  Aussi, la créativité sous hypnose va favoriser l'émergence d'autres schémas équilibrants, répondants aux valeurs et ambitions du sujet.<br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE17b2724829",
+          "layout": {
+            "width": "230px",
+            "left": "100px",
+            "top": "1600px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "16"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "arbre",
+          "layout": {
+            "left": "50px",
+            "top": "1700px",
+            "width": "131px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/arbre-wedc760c2bf4-e2ad31b4.jpg",
+          "href": "transe-generation.html",
+          "label": "TRANSGENERATION"
+        },
+        {
+          "type": "image",
+          "name": "cadenas",
+          "layout": {
+            "left": "280px",
+            "top": "1730px",
+            "width": "83px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/cadenas-we6eae7be4a8-58e0e8ad.jpg",
+          "href": "frustration.html",
+          "label": "FRUSTRATION"
+        },
+        {
+          "type": "text",
+          "name": "WEee8410e3a7",
+          "layout": {
+            "width": "auto",
+            "left": "50px",
+            "top": "1840px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "TRANSGENERATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRANSGENERATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE4ecb6430c5",
+          "layout": {
+            "width": "auto",
+            "left": "270px",
+            "top": "1860px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "FRUSTRATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">FRUSTRATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "portefeuille",
+          "layout": {
+            "left": "470px",
+            "top": "1930px",
+            "width": "109px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/portefeuille-weca42b31f3e-22664478.jpg",
+          "href": "valeur.html",
+          "label": "VALEUR"
+        },
+        {
+          "type": "image",
+          "name": "jumelles",
+          "layout": {
+            "left": "70px",
+            "top": "1940px",
+            "width": "115px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "src": "assets/jumelles-we6cb7ded659-033098af.jpg",
+          "href": "vision.html",
+          "label": "VISION"
+        },
+        {
+          "type": "image",
+          "name": "femme serpent",
+          "layout": {
+            "left": "280px",
+            "top": "1940px",
+            "width": "103px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/femme-serpent-we699167ecaa-124fb42f.jpg",
+          "href": "croyance.html",
+          "label": "CROYANCE"
+        },
+        {
+          "type": "image",
+          "name": "marteau",
+          "layout": {
+            "left": "690px",
+            "top": "1950px",
+            "width": "131px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/marteau-we763a6728ca-f50f26ae.jpg",
+          "href": "trauma.html",
+          "label": "TRAUMA"
+        },
+        {
+          "type": "text",
+          "name": "WEdc199899d7",
+          "layout": {
+            "width": "auto",
+            "left": "690px",
+            "top": "2030px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "TRAUMA",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRAUMA</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE9ce7ee6dab",
+          "layout": {
+            "width": "auto",
+            "left": "100px",
+            "top": "2040px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "VISION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">VISION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE9ad49043e5",
+          "layout": {
+            "width": "auto",
+            "left": "500px",
+            "top": "2040px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "VALEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">VALEUR</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE515eda913d",
+          "layout": {
+            "width": "auto",
+            "left": "290px",
+            "top": "2050px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "CROYANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CROYANCE</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

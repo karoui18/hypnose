@@ -1,0 +1,371 @@
+{
+  "title": "tests",
+  "source": "https://www.hypnosite.fr/tests.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "550px",
+      "items": [
+        {
+          "type": "image",
+          "name": "tests",
+          "layout": {
+            "left": "50%",
+            "top": "50px",
+            "width": "572px",
+            "height": "auto",
+            "z-index": "2",
+            "transform": "translateX(-50%)"
+          },
+          "src": "assets/tests-wefdc8adf94b-8fdb891b.jpg",
+          "href": "",
+          "label": "tests"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "50px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "916px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE7d75c34335",
+          "layout": {
+            "width": "730px",
+            "height": "auto",
+            "left": "90px",
+            "top": "90px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "z-index": "1"
+          },
+          "text": "Je mets à votre disposition des échelles, tests et questionnaires thématiques validés par les sciences humaines. Ils ont pour seul intéret une mesure subjective dans une instanté de vie. Ces outils proposés ici ne sont donc, en aucune façon, des diagnostics, cependant ils peuvent accompagner un traitement psychothérapique. Quant aux résultats, si un doute est porté, je vous conseillerai de vous rapprocher d'un spécialiste de santé.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">Je mets à votre disposition des échelles, tests et questionnaires thématiques validés par les sciences humaines. Ils ont pour seul intéret une mesure subjective dans une instanté de vie. Ces outils proposés ici ne sont donc, en aucune façon, des diagnostics, cependant ils peuvent accompagner un traitement psychothérapique. Quant aux résultats, si un doute est porté, je vous conseillerai de vous rapprocher d'un spécialiste de santé.<br/></span></span>"
+        },
+        {
+          "type": "image",
+          "name": "poumon",
+          "layout": {
+            "left": "700px",
+            "top": "290px",
+            "width": "120px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "src": "assets/poumon-we0bfaba582d-a1e4f683.jpg",
+          "href": "tabac.html",
+          "label": "TABAC"
+        },
+        {
+          "type": "image",
+          "name": "portefeuille",
+          "layout": {
+            "left": "250px",
+            "top": "310px",
+            "width": "117px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/portefeuille-we09f4f99332-20be211a.jpg",
+          "href": "valeur.html",
+          "label": "VALEUR"
+        },
+        {
+          "type": "image",
+          "name": "singe velo",
+          "layout": {
+            "left": "55px",
+            "top": "330px",
+            "width": "90px",
+            "height": "auto",
+            "z-index": "19"
+          },
+          "src": "assets/singe-velo-we975502a68d-e7fac15a.jpg",
+          "href": "comportement.html",
+          "label": "TDAH"
+        },
+        {
+          "type": "image",
+          "name": "elephant",
+          "layout": {
+            "left": "480px",
+            "top": "390px",
+            "width": "134px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "src": "assets/elephant-webab4ee82cf-eaf77c2d.jpg",
+          "href": "confiance.html",
+          "label": "ESTIME"
+        },
+        {
+          "type": "text",
+          "name": "WE6cd789a45c",
+          "layout": {
+            "width": "auto",
+            "left": "740px",
+            "top": "425px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "TABAC",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TABAC</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE0f5da33be3",
+          "layout": {
+            "width": "auto",
+            "left": "280px",
+            "top": "430px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "VALEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">VALEUR</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE5cbe88e409",
+          "layout": {
+            "width": "auto",
+            "left": "450px",
+            "top": "480px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "CONFIANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CONFIANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEab4983d988",
+          "layout": {
+            "width": "auto",
+            "left": "570px",
+            "top": "480px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "text": "ESTIME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ESTIME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "ventilateur",
+          "layout": {
+            "left": "220px",
+            "top": "500px",
+            "width": "101px",
+            "height": "auto",
+            "z-index": "22"
+          },
+          "src": "assets/ventilateur-we7beb2c4b6c-454c20aa.jpg",
+          "href": "stress.html",
+          "label": "STRESS"
+        },
+        {
+          "type": "text",
+          "name": "WE1d5b0ebd7d",
+          "layout": {
+            "width": "auto",
+            "left": "40px",
+            "top": "530px",
+            "height": "auto",
+            "z-index": "20"
+          },
+          "text": "COMPORTEMENT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">COMPORTEMENT </span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "microscope",
+          "layout": {
+            "left": "750px",
+            "top": "530px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/microscope-wed4f0bfb627-8dadf781.jpg",
+          "href": "anxiete.html",
+          "label": "ANXIETE"
+        },
+        {
+          "type": "text",
+          "name": "WE11e7f150f9",
+          "layout": {
+            "width": "auto",
+            "left": "70px",
+            "top": "550px",
+            "height": "auto",
+            "z-index": "21"
+          },
+          "text": "TDAH",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"> TDAH</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "coeur emotion",
+          "layout": {
+            "left": "360px",
+            "top": "630px",
+            "width": "90px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "src": "assets/coeur-emotion-weac3efd6edb-fb841eca.jpg",
+          "href": "emotion.html",
+          "label": "EMOTION"
+        },
+        {
+          "type": "text",
+          "name": "WEbfd93c7d33",
+          "layout": {
+            "width": "auto",
+            "left": "240px",
+            "top": "640px",
+            "height": "auto",
+            "z-index": "23"
+          },
+          "text": "STRESS",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">STRESS</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "chien",
+          "layout": {
+            "left": "560px",
+            "top": "650px",
+            "width": "125px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/chien-we8d3361e174-67cecaad.jpg",
+          "href": "thymie.html",
+          "label": "(humeur)"
+        },
+        {
+          "type": "image",
+          "name": "menottes",
+          "layout": {
+            "left": "20px",
+            "top": "670px",
+            "width": "150px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/menottes-we295b12d238-64112be7.jpg",
+          "href": "dependance.html",
+          "label": "(addiction)"
+        },
+        {
+          "type": "text",
+          "name": "WE8971f335cb",
+          "layout": {
+            "width": "auto",
+            "left": "750px",
+            "top": "670px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "text": "ANXIETE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">ANXIETE<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEedfbf22df1",
+          "layout": {
+            "width": "auto",
+            "left": "542px",
+            "top": "752px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "THYMIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">THYMIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEbbfb1a579e",
+          "layout": {
+            "width": "auto",
+            "left": "43px",
+            "top": "766px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "DEPENDANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DEPENDANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEefc1e02141",
+          "layout": {
+            "width": "auto",
+            "left": "580px",
+            "top": "770px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "text": "(humeur)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(humeur)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd7d1a865e2",
+          "layout": {
+            "width": "auto",
+            "left": "370px",
+            "top": "780px",
+            "height": "auto",
+            "z-index": "18"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE6750cf1615",
+          "layout": {
+            "width": "auto",
+            "left": "48px",
+            "top": "790px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "(addiction)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(addiction)</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

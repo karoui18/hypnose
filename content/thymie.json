@@ -1,0 +1,373 @@
+{
+  "title": "thymie",
+  "source": "https://www.hypnosite.fr/thymie.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "695px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "(humeur)"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE63efa615b9",
+          "layout": {
+            "width": "240px",
+            "left": "220px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "THYMIE",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">THYMIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7aec577c22",
+          "layout": {
+            "width": "160px",
+            "left": "150px",
+            "top": "228px",
+            "height": "auto",
+            "text-align": "center",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "4"
+          },
+          "text": "(humeur)",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Tox Typewriter';line-height:60px;\"><span style=\"font-size:37px;\">(humeur)</span><br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE92e3e753a3",
+          "layout": {
+            "width": "770px",
+            "height": "auto",
+            "left": "50%",
+            "top": "520px",
+            "color": "#000",
+            "text-align": "center",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Le pessimisme est d'humeur : l'optimisme est de volonté.\" Alain (Émile-Auguste Chartier)",
+          "html": "<span><span style=\"font-size:18px;\">\"Le pessimisme est d'humeur : l'optimisme est de volonté.\" Alain (Émile-Auguste Chartier)</span><br/> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2382px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE18763265e6",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "20px",
+            "top": "20px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "1"
+          },
+          "text": "Lorsqu'on parle d'humeur on évoque très souvent l'état dépressif. Mais cela peut également être une nuance de cet état comme avoir \"le cafard\", \"le blues\" ou encore une \"humeur de chien\". Sentir qu'à un moment donné, les pensées se cristallisent, se limitent, tournent en rond plus vite ou au ralenti. Cela peut également être des phases d'excitation de la pensée, une impression de la perte du contrôle de celle-ci ou encore le sentiment de ne plus être adapté dans la relation à soi et à l'autre. Si les troubles de l'humeur relèvent avant tout de la médecine psychiatrique, les recommandations préconisent un recours à la psychothérapie. Depuis une dizaine d’années, l’hypnose a vu ses indications s’étendre à ces troubles psychiques qu'ils soient aigus ou chroniques. L’hypnose a été identifiée comme l’une des modalités de la conscience dès les années 50. Aujourd'hui l'avancée des neurosciences a permis de montrer un fonctionnement cérébral spécifique du processus hypnotique sur l'humeur par phénomène de neuro-génèse attestant la dynamisation de la plasticité cérébrale. Par exemple, au cours d’une dépression, l’état de conscience est modifié, envahi de pensées et d’émotions douloureuses, incontrôlables. La perception du passé est focalisée vers les moments difficiles allant jusqu’à oublier les aspects positifs. Cela engendre également la perception omniprésente d'un futur obtus. Il n'y a plus de plaisir ressenti dans les activités habituelles. Une des conséquences est la mobilisation de l'énergie et de l'attention centrées sur le monde intérieur, modifiant les relations avec l'entourage et pouvant provoquer une angoisse majeure. La capacité de raisonnement s’effondre et une sensation d'enfermement psychique inextricable est ressentie.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">Lorsqu'on parle d'humeur on évoque très souvent l'état dépressif. Mais cela peut également être une nuance de cet état comme avoir \"le cafard\", \"le blues\" ou encore une \"humeur de chien\". Sentir qu'à un moment donné, les pensées se cristallisent, se limitent, tournent en rond plus vite ou au ralenti. Cela peut également être des phases d'excitation de la pensée, une impression de la perte du contrôle de celle-ci ou encore le sentiment de ne plus être adapté dans la relation à soi et à l'autre. Si les troubles de l'humeur relèvent avant tout de la médecine psychiatrique, les recommandations préconisent un recours à la psychothérapie. Depuis une dizaine d’années, l’hypnose a vu ses indications s’étendre à ces troubles psychiques qu'ils soient aigus ou chroniques.  <br/>  <br/> L’hypnose a été identifiée comme l’une des modalités de la conscience dès les années 50. Aujourd'hui l'avancée des neurosciences a permis de montrer un fonctionnement cérébral spécifique du processus hypnotique sur l'humeur par phénomène de neuro-génèse attestant la dynamisation de la plasticité cérébrale. Par exemple, au cours d’une dépression, l’état de conscience est modifié, envahi de pensées et d’émotions douloureuses, incontrôlables. La perception du passé est focalisée vers les moments difficiles allant jusqu’à oublier les aspects positifs.  <br/><br/>Cela engendre également la perception omniprésente d'un futur obtus. Il n'y a plus de plaisir ressenti dans les activités habituelles. Une des conséquences est la mobilisation de l'énergie et de l'attention centrées sur le monde intérieur, modifiant les relations avec l'entourage et pouvant provoquer une angoisse majeure. La capacité de raisonnement s’effondre et une sensation d'enfermement psychique inextricable est ressentie.  <br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "chien",
+          "layout": {
+            "left": "500px",
+            "top": "30px",
+            "width": "334px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/chien-8f7eca7c.jpg",
+          "href": "",
+          "label": "chien"
+        },
+        {
+          "type": "text",
+          "name": "WE3af24cdf69",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "460px",
+            "top": "370px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3"
+          },
+          "text": "L’hypnose génère une modification de l’état de conscience du sujet, contrôlée et réversible dans un cadre thérapeutique. Le patient peut se concentrer, se focaliser sur ce qui est important pour lui. Il peut retrouver un moment structurant de sa vie, une expérience sécurisante mémorisée mais inaccessible dans son état de conscience perturbée. Cette approche permet de ramener de l'expérience positive, de l'estime de soi, une projection optimiste sur l'avenir ou encore de coloriser les pensées. Lever certains filtres obscurcissant la compréhension du monde du sujet et lui permettre de se voir sortir de sa nébuleuse sont, entre autre, les atouts qu'offre l'hypnose Ericksonienne. Parfois il suffit simplement de relancer la machine à ressentir afin de pouvoir reprendre le contrôle sur ses pensées. Bien souvent le rôle de l'hypnotiseur est de déshypnotiser le sujet souffrant de ses pensées emprisonnantes.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">L’hypnose génère une modification de l’état de conscience du sujet, contrôlée et réversible dans un cadre thérapeutique. Le patient peut se concentrer, se focaliser sur ce qui est important pour lui. Il peut retrouver un moment structurant de sa vie, une expérience sécurisante mémorisée mais inaccessible dans son état de conscience perturbée.  <br/>  <br/> Cette approche permet de ramener de l'expérience positive, de l'estime de soi, une projection optimiste sur l'avenir ou encore de coloriser les pensées. Lever certains filtres obscurcissant la compréhension du monde du sujet et lui permettre de se voir sortir de sa nébuleuse sont, entre autre, les atouts qu'offre l'hypnose Ericksonienne.  <br/>  <br/> Parfois il suffit simplement de relancer la machine à ressentir afin de pouvoir reprendre le contrôle sur ses pensées. Bien souvent le rôle de l'hypnotiseur est de déshypnotiser le sujet souffrant de ses pensées emprisonnantes.  <br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "main femme",
+          "layout": {
+            "left": "510px",
+            "top": "1010px",
+            "width": "95px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "src": "assets/main-femme-wec73f13b2ed-0c02bce2.jpg",
+          "href": "assets/inventaire-de-depression-de-beck-9a880af9.pdf",
+          "label": "INVENVENTAIRE ABREGE                             DE DEPRESSION DE BECK"
+        },
+        {
+          "type": "text",
+          "name": "WE54c636097b",
+          "layout": {
+            "left": "620px",
+            "top": "1010px",
+            "width": "auto",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "text": "INVENVENTAIRE ABREGE                             DE DEPRESSION DE BECK",
+          "html": "<a href=\"assets/inventaire-de-depression-de-beck-9a880af9.pdf\"><span style=\"font-family:'Tox Typewriter';font-size:18px;color:rgb(0, 0, 0);\">INVENVENTAIRE ABREGE                             DE DEPRESSION DE BECK</span></a>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd0d3ff1166",
+          "layout": {
+            "width": "380px",
+            "left": "50%",
+            "top": "1140px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "12",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "cygne",
+          "layout": {
+            "left": "320px",
+            "top": "1280px",
+            "width": "106px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "src": "assets/cygne-wece0bbd5a97-40bd7f2b.jpg",
+          "href": "symptome.html",
+          "label": "SYMPTÔME"
+        },
+        {
+          "type": "image",
+          "name": "coeur emotion",
+          "layout": {
+            "left": "500px",
+            "top": "1280px",
+            "width": "78px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/coeur-emotion-we220379ce16-0d02bd6b.jpg",
+          "href": "emotion.html",
+          "label": "EMOTION"
+        },
+        {
+          "type": "image",
+          "name": "cadenas",
+          "layout": {
+            "left": "30px",
+            "top": "1300px",
+            "width": "70px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/cadenas-we3c2746e984-219695a5.jpg",
+          "href": "frustration.html",
+          "label": "FRUSTRATION"
+        },
+        {
+          "type": "image",
+          "name": "robinet",
+          "layout": {
+            "left": "750px",
+            "top": "1300px",
+            "width": "109px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/robinet-wee4549980ba-4f9244f4.jpg",
+          "href": "lacher.html",
+          "label": "LACHER PRISE"
+        },
+        {
+          "type": "image",
+          "name": "microscope",
+          "layout": {
+            "left": "630px",
+            "top": "1317px",
+            "width": "76px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/microscope-we334583a1c9-bf3466b1.jpg",
+          "href": "anxiete.html",
+          "label": "ANXIETE"
+        },
+        {
+          "type": "image",
+          "name": "poisson bonheur",
+          "layout": {
+            "left": "170px",
+            "top": "1330px",
+            "width": "107px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "src": "assets/poisson-bonheur-we890f979234-8811678c.jpg",
+          "href": "bonheur.html",
+          "label": "(bonheur)"
+        },
+        {
+          "type": "text",
+          "name": "WE38ed78e3a3",
+          "layout": {
+            "width": "auto",
+            "left": "360px",
+            "top": "1381px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "text": "SYMPTÔME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SYMPTÔME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE67914dbb20",
+          "layout": {
+            "width": "auto",
+            "left": "750px",
+            "top": "1392px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "LACHER PRISE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">LACHER PRISE<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEf4582938d4",
+          "layout": {
+            "width": "auto",
+            "left": "10px",
+            "top": "1410px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "FRUSTRATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">FRUSTRATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE3d9c3ce71a",
+          "layout": {
+            "width": "auto",
+            "left": "170px",
+            "top": "1410px",
+            "height": "auto",
+            "z-index": "18"
+          },
+          "text": "ATARAXIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ATARAXIE </span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7dc1fe013c",
+          "layout": {
+            "width": "auto",
+            "left": "510px",
+            "top": "1412px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEfd0db9d3af",
+          "layout": {
+            "width": "auto",
+            "left": "190px",
+            "top": "1430px",
+            "height": "auto",
+            "z-index": "19"
+          },
+          "text": "(bonheur)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"> (bonheur)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE26136b3261",
+          "layout": {
+            "width": "auto",
+            "left": "630px",
+            "top": "1456px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "ANXIETE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">ANXIETE<br/></span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

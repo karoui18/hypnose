@@ -1,0 +1,318 @@
+{
+  "title": "Votre séance",
+  "source": "https://www.hypnosite.fr/seance.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "602px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "VOTRE SEANCE"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEa91064f68e",
+          "layout": {
+            "width": "550px",
+            "left": "200px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "VOTRE SEANCE",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-size:70px;font-family:'Bohem Press';\">VOTRE SEANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE0c63270ccd",
+          "layout": {
+            "width": "610px",
+            "height": "auto",
+            "left": "50%",
+            "top": "430px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"L'hypnose est un moyen de communiquer des idées ; c'est un moyen de demander aux gens d'accepter des idées pour les examiner, c'est un moyen de découvrir les significations intrinsèques et de décider alors d'agir ou de ne pas agir selon ces significations particulières. \" Milton ERICKSON",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"L'hypnose est un moyen de communiquer des idées ; c'est un moyen de demander aux gens d'accepter des idées pour les examiner, c'est un moyen de découvrir les significations intrinsèques et de décider alors d'agir ou de ne pas agir selon ces significations particulières. \" Milton ERICKSON<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1549px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WEd67bb8ed80",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "20px",
+            "top": "30px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "L'hypnose est un état psychologique revêtant certains attributs physiologiques et marqué par le fonctionnement inconscient de l'individu à un niveau d'attention autre que l'état de conscience dit ordinaire. L'hypnose Ericksonienne est, autre qu'un regard stratégique dans la communication, avant tout une pratique, un outil mis ici au service de la thérapie. Ainsi, elle peut s'intégrer facilement à toute autre approche psychothérapique (T.C.C., transpersonelle, psychanalytique, systémique, etc). L’hypnose est considérée comme un facilitateur, un amplificateur et un accélérateur de thérapie. C'est un moyen d'accéder aux ressources inconscientes, de contourner les freinations, les blocages souvent conscients et de permettre ainsi l'émergence de nouvelles réponses cognitivo-comportementales plus adaptées, plus créatives pour la vie du sujet. Comment se déroule une séance ? Il n'y a pas de séance type mais généralement la séance commence par un échange ciblé et strucuré afin de déterminer l'objectif de travail. Cela défini, et tout en restant dans une dimension de communication verbale, s'amorce ce qui va être l'induction hypnotique. Vient ensuite la phase dite de \"transe\". Pendant cette phase spécifique, vous explorez vos ressources inconscientes et favorisez des changements en modulant vos schémas habituels de fonctionnement. Pour cela, j'utilise des techniques et protocoles propres au courant Ericksonien. Pendant le travail hypnotique, vous restez \"consciemment présent\". Une dernière phase se consacre à un temps d’échange sur l’expérience vécue Pour quelle(s) indication(s) ?",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">L'hypnose est un état psychologique revêtant certains attributs physiologiques et marqué par le fonctionnement inconscient de l'individu à un niveau d'attention autre que l'état de conscience dit ordinaire. L'hypnose Ericksonienne est, autre qu'un regard stratégique dans la communication, avant tout une pratique, un outil mis ici au service de la thérapie. Ainsi, elle peut s'intégrer facilement à toute autre approche psychothérapique (T.C.C., transpersonelle, psychanalytique, systémique, etc). <br/><br/>L’hypnose est considérée comme un facilitateur, un amplificateur et un accélérateur de thérapie. C'est un moyen d'accéder aux ressources inconscientes, de contourner les freinations, les blocages souvent conscients et de permettre ainsi l'émergence de nouvelles réponses cognitivo-comportementales plus adaptées, plus créatives pour la vie du sujet.<br/><br/>Comment se déroule une séance ?<br/><br/>Il n'y a pas de séance type mais généralement la séance commence par un échange ciblé et strucuré afin de déterminer l'objectif de travail. Cela défini, et tout en restant dans une dimension de communication verbale, s'amorce ce qui va être l'induction hypnotique. Vient ensuite la phase dite de \"transe\". Pendant cette phase spécifique, vous explorez vos ressources inconscientes et favorisez des changements en modulant vos schémas habituels de fonctionnement. Pour cela, j'utilise des techniques et protocoles propres au courant Ericksonien. Pendant le travail hypnotique, vous restez \"consciemment présent\". Une dernière phase se consacre à un temps d’échange sur l’expérience vécue<br/><br/>Pour quelle(s) indication(s) ?<br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "boussole",
+          "layout": {
+            "left": "510px",
+            "top": "50px",
+            "width": "327px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/boussole-we78a1633ee7-47ead917.jpg",
+          "href": "",
+          "label": "boussole"
+        },
+        {
+          "type": "text",
+          "name": "WE792d99ee0c",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "470px",
+            "top": "373px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "12"
+          },
+          "text": "L’après séance : Parce que certains objectifs de séances sont plurifactoriels, je me permets de prendre de vos nouvelles quelques jours après la séance. Cela me permet de pouvoir jauger de la qualité du changement ou de quelconques facteurs qui méritent d’être considérés pour les séances à suivre, si besoin. Combien de séances faut-il ? Le nombre est très variable d'un individu à l’autre et en fonction de la problématique abordée. Il n’y a pas de nombre de séances préétabli en fonction d’un objectif. L'hypnose Ericksonienne étant une thérapie brève, cela se situe généralement entre une à cinq séances, sur une durée de quelques semaines à quelques mois. L'hypnose est une approche technique et non magique ce qui fait que votre motivation et votre implication sont les ingrédients primordiaux afin d'optimiser la réussite de votre séance.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">L’après séance : <br/><br/>Parce que certains objectifs de séances sont plurifactoriels, je me permets de prendre de vos nouvelles quelques jours après la séance. Cela me permet de pouvoir jauger de la qualité du changement ou de quelconques facteurs qui méritent d’être considérés pour les séances à suivre, si besoin.<br/><br/>Combien de séances faut-il ?<br/><br/>Le nombre est très variable d'un individu à l’autre et en fonction de la problématique abordée. Il n’y a pas de nombre de séances préétabli en fonction d’un objectif. L'hypnose Ericksonienne étant une thérapie brève, cela se situe généralement entre une à cinq séances, sur une durée de quelques semaines à quelques mois. <br/><br/>L'hypnose est une approche technique et non magique ce qui fait que votre motivation et votre implication sont les ingrédients primordiaux afin d'optimiser la réussite de votre séance. <br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "main femme",
+          "layout": {
+            "left": "50px",
+            "top": "1040px",
+            "width": "98px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "src": "assets/main-femme-we40369a9176-96517586.jpg",
+          "href": "",
+          "label": "EN RELATION"
+        },
+        {
+          "type": "image",
+          "name": "main femme 1",
+          "layout": {
+            "left": "300px",
+            "top": "1040px",
+            "width": "98px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "src": "assets/main-femme-1-we4c3adfde7e-78d22586.jpg",
+          "href": "",
+          "label": "main femme 1"
+        },
+        {
+          "type": "text",
+          "name": "WEe2abb1ba8f",
+          "layout": {
+            "left": "170px",
+            "top": "1050px",
+            "width": "auto",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "INDICATIONS",
+          "html": "<a href=\"but.html\"><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">INDICATIONS</span></a>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2468502b6f",
+          "layout": {
+            "width": "380px",
+            "left": "50%",
+            "top": "1220px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "11",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "scaphandre pieuvre",
+          "layout": {
+            "left": "480px",
+            "top": "1310px",
+            "width": "103px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/scaphandre-pieuvre-we3840c75792-58520cec.jpg",
+          "href": "transe.html",
+          "label": "TRANSE"
+        },
+        {
+          "type": "image",
+          "name": "telephone inconscient",
+          "layout": {
+            "left": "660px",
+            "top": "1310px",
+            "width": "109px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/telephone-inconscient-we62286b96fe-b774847d.jpg",
+          "href": "inconscient.html",
+          "label": "INCONSCIENT"
+        },
+        {
+          "type": "image",
+          "name": "machine ecrire",
+          "layout": {
+            "left": "70px",
+            "top": "1320px",
+            "width": "136px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/machine-ecrire-wee862c889ac-81e283f5.jpg",
+          "href": "formulaire.html",
+          "label": "formulaire CONTACT"
+        },
+        {
+          "type": "image",
+          "name": "etoile gravure 1",
+          "layout": {
+            "left": "280px",
+            "top": "1370px",
+            "width": "110px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/etoile-gravure-1-we5c41b33d7b-26ddcdaf.png",
+          "href": "erickson.html",
+          "label": "MILTON ERICKSON"
+        },
+        {
+          "type": "text",
+          "name": "WE80c8fe886b",
+          "layout": {
+            "width": "auto",
+            "left": "90px",
+            "top": "1420px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "text": "INFOS RDV",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">INFOS RDV</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE26bc1bf25a",
+          "layout": {
+            "width": "auto",
+            "left": "60px",
+            "top": "1440px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "text": "formulaire CONTACT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">formulaire CONTACT</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7333c80fcb",
+          "layout": {
+            "width": "auto",
+            "left": "670px",
+            "top": "1460px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "INCONSCIENT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">INCONSCIENT</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEffff9c3d6a",
+          "layout": {
+            "width": "auto",
+            "left": "260px",
+            "top": "1480px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "MILTON ERICKSON",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">MILTON ERICKSON</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEa1f9673632",
+          "layout": {
+            "width": "auto",
+            "left": "500px",
+            "top": "1480px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "TRANSE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRANSE</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "title": "systeme",
+  "source": "https://www.hypnosite.fr/systeme.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "598px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "SYSTEME"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE9696f4167e",
+          "layout": {
+            "width": "550px",
+            "left": "190px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "SYSTEME",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">SYSTEME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd6ec20ec04",
+          "layout": {
+            "width": "600px",
+            "height": "auto",
+            "left": "50%",
+            "top": "470px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "left",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Pour comprendre un système, il faut. . . s'en extraire\" Bernard WERBER",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Pour comprendre un système, il faut. . . s'en extraire\" Bernard WERBER<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1831px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WEde0c82374f",
+          "layout": {
+            "width": "380px",
+            "height": "auto",
+            "left": "40px",
+            "top": "10px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "La démarche systémique procède d’un regard particulier sur la réalité sociale par une conception synthétique et non pas analytique d’une situation donnée. Le postulat de départ de la systémie réside dans le fait qu’une grande partie des difficultés ou troubles d’une personne s’origine dans une pathologie de l’ensemble des relations et des processus de communication. La systémie est donc le fruit de rencontres interdisciplinaires appliquées aussi bien aux systèmes mécaniques qu’aux relations humaines. La systémie ne s’attache pas directement au symptôme mais tente d’identifier et de modifier le contexte dans lequel il s’inscrit. Cette approche se valorise de façon majeure par la prise en compte du symptôme, pris ici comme un message, un indicateur mesurable dans le système de communication du sujet. Tout y est porteur de sens. Toutes les actions, tous les comportements sont considérés comme des entrées apportant ainsi une modification à l’ensemble des relations du groupe ( couple, famille, amis, collègue, etc.). Le principe de totalité induit que le comportement de chaque membre est lié aux comportements de tous les autres et en dépend directement. Cette approche considère que l’individu fait partie d’un système, voire de plusieurs systèmes. Et qu’il est influencé dans sa façon d’être, aussi bien par lui-même que par les autres et son environnement. La perspective systémique voit les blocages du sujet sous l’angle de la relation avec les différents contextes dans lesquels il vit : c’est-à-dire par exemple comme partenaire dans une relation de couple, comme membre d’une famille, comme personne avec des valeurs propres à une culture et/ou une religion… comme individu évoluant dans tel contexte socio-économique et politique… Ainsi, pour mieux comprendre et faire évoluer les problèmes du sujet dans son présent, l'hypnologue s’intéresse à son contexte de vie au sens large. Il  considère aussi que la personne, au moment présent, est le produit de tous ses apprentissages antérieurs. Et pour cela, l'hypnologue fait en sorte de reconnaître le passé dans l’identité actuelle de la personne, mais en essayant de modifier les conséquences négatives des expériences passées qui créent en partie les difficultés actuelles. Cela implique une forme d'attention aux aspects émotionnels mais aussi cognitifs des difficultés vécues par le sujet, et également aux émotions et réactions de son entourage.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">La démarche systémique procède d’un regard particulier sur la réalité sociale par une conception synthétique et non pas analytique d’une situation donnée. Le postulat de départ de la systémie réside dans le fait qu’une grande partie des difficultés ou troubles d’une personne s’origine dans une pathologie de l’ensemble des relations et des processus de communication. La systémie est donc le fruit de rencontres interdisciplinaires appliquées aussi bien aux systèmes mécaniques qu’aux relations humaines. <br/><br/> La systémie ne s’attache pas directement au symptôme mais tente d’identifier et de modifier le contexte dans lequel il s’inscrit. Cette approche se valorise de façon majeure par la prise en compte du symptôme, pris ici comme un message, un indicateur mesurable dans le système de communication du sujet. <br/><br/>Tout y est porteur de sens. Toutes les actions, tous les comportements sont considérés comme des entrées apportant ainsi une modification à l’ensemble des relations du groupe ( couple, famille, amis, collègue, etc.). Le principe de totalité induit que le comportement de chaque membre est lié aux comportements de tous les autres et en dépend directement. <br/><br/> Cette approche considère que l’individu fait partie d’un système, voire de plusieurs systèmes. Et qu’il est influencé dans sa façon d’être, aussi bien par lui-même que par les autres et son environnement. La perspective systémique voit les blocages du sujet sous l’angle de la relation avec les différents contextes dans lesquels il vit : c’est-à-dire par exemple comme partenaire dans une relation de couple, comme membre d’une famille, comme personne avec des valeurs propres à une culture et/ou une religion… comme individu évoluant dans tel contexte socio-économique et politique…  <br/>  <br/> Ainsi, pour mieux comprendre et faire évoluer les problèmes du sujet dans son présent, l'hypnologue s’intéresse à son contexte de vie au sens large. Il  considère aussi que la personne, au moment présent, est le produit de tous ses apprentissages antérieurs. Et pour cela, l'hypnologue fait en sorte de reconnaître le passé dans l’identité actuelle de la personne, mais en essayant de modifier les conséquences négatives des expériences passées qui créent en partie les difficultés actuelles. Cela implique une forme d'attention aux aspects émotionnels mais aussi cognitifs des difficultés vécues par le sujet, et également aux émotions et réactions de son entourage.  <br/>  <br/><br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "engrenage",
+          "layout": {
+            "left": "520px",
+            "top": "20px",
+            "width": "287px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/engrenage-we1ead42a6e3-65b003dd.jpg",
+          "href": "",
+          "label": "engrenage"
+        },
+        {
+          "type": "text",
+          "name": "WE2aceba04b6",
+          "layout": {
+            "width": "380px",
+            "height": "auto",
+            "left": "480px",
+            "top": "400px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "Le sujet n’est donc pas le seul valorisé dans son accompagnement thérapeutique. Cette approche considère que toute personne est construite à partir de son histoire, qui englobe aussi l’histoire des autres systèmes dont elle dépend comme sa famille, et ce, parfois, sur plusieurs générations. Ses intentions, ses valeurs, celles aussi des autres, sont conditionnées par son environnement, qu’il soit proche ou plus élargi. Ainsi, un événement (symptomatique) peut être considéré comme une régulation du fonctionnement du système concerné, comme c’est souvent le cas au sein d’une famille. Et au lieu de désigner un \"mouton noir\", de vouloir pointer une possible pathologie et/ou comportement destructeur et/ou situation négative d’un des acteurs du système, l’approche systémique met en avant l’idée qu’un système s’organise, fonctionne, se régule en fonction des interactions et à partir des règles, explicites et implicites, qui s’y créent. Les dysfonctionnements d’une personne pouvant alors se lire comme un effet de ces régulations. Le symptôme peut être ainsi vu comme un mode d’adaptation à une structure systémique toxique ou pathologique. La lecture systémique supplémentée par l'approche Ericksonienne multiplie les possibles, et montre comment il existe souvent plusieurs façons de réagir adéquates, les possibilités d’action se situant au niveau de tous les acteurs.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Le sujet n’est donc pas le seul valorisé dans son accompagnement thérapeutique. Cette approche considère que toute personne est construite à partir de son histoire, qui englobe aussi l’histoire des autres systèmes dont elle dépend comme sa famille, et ce, parfois, sur plusieurs générations. Ses intentions, ses valeurs, celles aussi des autres, sont conditionnées par son environnement, qu’il soit proche ou plus élargi.  <br/><br/>Ainsi, un événement (symptomatique) peut être considéré comme une régulation du fonctionnement du système concerné, comme c’est souvent le cas au sein d’une famille. Et au lieu de désigner un \"mouton noir\", de vouloir pointer une possible pathologie et/ou comportement destructeur et/ou situation négative d’un des acteurs du système, l’approche systémique met en avant l’idée qu’un système s’organise, fonctionne, se régule en fonction des interactions et à partir des règles, explicites et implicites, qui s’y créent. Les dysfonctionnements d’une personne pouvant alors se lire comme un effet de ces régulations.  <br/>  <br/> Le symptôme peut être ainsi vu comme un mode d’adaptation à une structure systémique toxique ou pathologique.  <br/><br/> La lecture systémique supplémentée par l'approche Ericksonienne multiplie les possibles, et montre comment il existe souvent plusieurs façons de réagir adéquates, les possibilités d’action se situant au niveau de tous les acteurs. <br/><br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE12e36c5060",
+          "layout": {
+            "width": "380px",
+            "left": "480px",
+            "top": "1420px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "16"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "arbre",
+          "layout": {
+            "left": "610px",
+            "top": "1530px",
+            "width": "111px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/arbre-wec162d467fc-be49a78e.jpg",
+          "href": "transe-generation.html",
+          "label": "TRANSE GENERATION"
+        },
+        {
+          "type": "image",
+          "name": "couteau",
+          "layout": {
+            "left": "210px",
+            "top": "1550px",
+            "width": "82px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/couteau-we245fcc0355-214e0e86.jpg",
+          "href": "trahison.html",
+          "label": "TRAHISON"
+        },
+        {
+          "type": "image",
+          "name": "papillon",
+          "layout": {
+            "left": "40px",
+            "top": "1570px",
+            "width": "124px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "src": "assets/papillon-weea2086ecd6-845d5385.jpg",
+          "href": "transe-muer.html",
+          "label": "TRANSE MUER"
+        },
+        {
+          "type": "text",
+          "name": "WE79f582b7cb",
+          "layout": {
+            "width": "auto",
+            "left": "250px",
+            "top": "1570px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "TRAHISON",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRAHISON</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "outil",
+          "layout": {
+            "left": "780px",
+            "top": "1570px",
+            "width": "44px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/outil-we7f344e1ab3-852a559b.jpg",
+          "href": "reparation.html",
+          "label": "REPARATION"
+        },
+        {
+          "type": "image",
+          "name": "femme serpent",
+          "layout": {
+            "left": "330px",
+            "top": "1590px",
+            "width": "103px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "src": "assets/femme-serpent-we62dc5e0c30-424d8614.jpg",
+          "href": "croyance.html",
+          "label": "CROYANCE"
+        },
+        {
+          "type": "image",
+          "name": "tampon",
+          "layout": {
+            "left": "470px",
+            "top": "1600px",
+            "width": "66px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/tampon-weaa246c8fc9-4e158395.jpg",
+          "href": "repetition.html",
+          "label": "REPETITION"
+        },
+        {
+          "type": "text",
+          "name": "WE3fb2be69a2",
+          "layout": {
+            "width": "auto",
+            "left": "50px",
+            "top": "1650px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "TRANSE MUER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRANSE MUER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEde1e8c669b",
+          "layout": {
+            "width": "auto",
+            "left": "580px",
+            "top": "1660px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "TRANSE GENERATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRANSE GENERATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEab7d006e91",
+          "layout": {
+            "width": "auto",
+            "left": "340px",
+            "top": "1700px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "CROYANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CROYANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE1c2e414568",
+          "layout": {
+            "width": "auto",
+            "left": "750px",
+            "top": "1730px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "REPARATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">REPARATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEf9d17163da",
+          "layout": {
+            "width": "auto",
+            "left": "450px",
+            "top": "1740px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "REPETITION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">REPETITION</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "title": "cupide on",
+  "source": "https://www.hypnosite.fr/cupide%20on.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "626px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "10px",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "ON"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "(la créance)"
+        },
+        {
+          "type": "text",
+          "name": "WE30d13a7af1",
+          "layout": {
+            "width": "60px",
+            "left": "392px",
+            "top": "140px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "4"
+          },
+          "text": "-",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">-</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE8cb852d3bb",
+          "layout": {
+            "width": "200px",
+            "left": "200px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "5"
+          },
+          "text": "CUPIDE",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">CUPIDE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd8a725fdc7",
+          "layout": {
+            "width": "170px",
+            "left": "430px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "6"
+          },
+          "text": "ON",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">ON</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEbcb9298376",
+          "layout": {
+            "width": "auto",
+            "left": "121px",
+            "top": "241px",
+            "height": "auto",
+            "transform": "rotate(7deg)",
+            "-webkit-transform": "rotate(7deg)",
+            "-moz-transform": "rotate(7deg)",
+            "-ms-transform": "rotate(7deg)",
+            "-o-transform": "rotate(7deg)",
+            "z-index": "7"
+          },
+          "text": "(la créance)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:35px;\">(la créance)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE6fcd323bf3",
+          "layout": {
+            "width": "640px",
+            "height": "auto",
+            "left": "50%",
+            "top": "450px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "left",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "2",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Dans la plupart des amours, il y en a un qui joue et l'autre qui est joué ; Cupidon est avant tout un petit régisseur de théâtre.\" Friedrich NIETZSCHE",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Dans la plupart des amours, il y en a un qui joue et l'autre qui est joué ; Cupidon est avant tout un petit régisseur de théâtre.\" Friedrich NIETZSCHE<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1415px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WEb49fb6ee13",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "30px",
+            "top": "42px",
+            "color": "#632423",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "1"
+          },
+          "text": "Quand on loue une voiture ou un appartement, on dépose un chèque de caution que l'on récupère à la restitution si tout s'est bien déroulé. A l'identique et afin de concrétiser, lors d'un début de relation sentimentale, symboliquement on verse en l'autre une part de notre narcissisme, cette fixation affective structurante à soi-même. Cette part d'amour propre déposée et qui est accessible dès lors que le dépositaire reste à proxémique. Ce narcissisme qui est gonflé à bloc lors de la stratégie d'accession à l'autre pendant la rencontre et ceci par les deux protagonistes. On se donne les meilleures chances, on se montre sous notre meilleur angle. Les années filent dans ce dualisme sentimental ou l'on ne fonctionne qu'avec une part de notre narcissisme symbolique, fonctionnement relativement efficient car l'autre est présent. Preuve en est de l'importance de l'autre dans les points de vues, les décisions, on s'efforce même parfois d'être à l'unisson pour ne pas chanceler par lacune d'assise narcissique individuelle. Ne dit-on pas d'ailleurs notre moitié, notre mie en surnommant tendrement notre aimant(e)? Nous sommes donc bien la moitié d'un tout, le couple. Et quand le couple \"bat de l'aile\" (une seule) c'est que possiblement l'autre a déjà récupéré sa caution narcissique (la deuxième aile) et l'a déjà réinvestie possiblement ailleurs. Le laissant dira généralement qu'il lui faut du temps pour se reconstruire. Se reconstruire, c'est retrouver son narcissisme déposé et non restitué. Classiquement, le largué n'arrive pas à réinvestir une nouvelle relation sérieuse par manque d'assise, il parlera de blessure sentimentale. Il y aura des essais, des rencontres brèves cumulatives afin dans l'absolu de remplir sa jauge d'amour propre. Mais chaque nouvelle expérience est un nouvel espace de dépôt de caution, même faible, qu'on ne récupère pas forcément ou que partiellement.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">Quand on loue une voiture ou un appartement, on dépose un chèque de caution que l'on récupère à la restitution si tout s'est bien déroulé. A l'identique et afin de concrétiser, lors d'un début de relation sentimentale, symboliquement on verse en l'autre une part de notre narcissisme, cette fixation affective structurante à soi-même. Cette part d'amour propre déposée et qui est accessible dès lors que le dépositaire reste à proxémique. Ce narcissisme qui est gonflé à bloc lors de la stratégie d'accession à l'autre pendant la rencontre et ceci par les deux protagonistes. On se donne les meilleures chances, on se montre sous notre meilleur angle.  <br/><br/> Les années filent dans ce dualisme sentimental ou l'on ne fonctionne qu'avec une part de notre narcissisme symbolique, fonctionnement relativement efficient car l'autre est présent. Preuve en est de l'importance de l'autre dans les points de vues, les décisions, on s'efforce même parfois d'être à l'unisson pour ne pas chanceler par lacune d'assise narcissique individuelle. Ne dit-on pas d'ailleurs notre moitié, notre mie en surnommant tendrement notre aimant(e)? Nous sommes donc bien la moitié d'un tout, le couple.  <br/><br/> Et quand le couple \"bat de l'aile\" (une seule) c'est que possiblement l'autre a déjà récupéré sa caution narcissique (la deuxième aile) et l'a déjà réinvestie possiblement ailleurs. Le laissant dira généralement qu'il lui faut du temps pour se reconstruire. Se reconstruire, c'est retrouver son narcissisme déposé et non restitué. Classiquement, le largué n'arrive pas à réinvestir une nouvelle relation sérieuse par manque d'assise, il parlera de blessure sentimentale. Il y aura des essais, des rencontres brèves cumulatives afin dans l'absolu de remplir sa jauge d'amour propre. Mais chaque nouvelle expérience est un nouvel espace de dépôt de caution, même faible, qu'on ne récupère pas forcément ou que partiellement. <br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "cupidon",
+          "layout": {
+            "left": "460px",
+            "top": "60px",
+            "width": "423px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/cupidon-we0ea72ecbeb-ef953d8c.jpg",
+          "href": "",
+          "label": "cupidon"
+        },
+        {
+          "type": "text",
+          "name": "WE5aa668b996",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "470px",
+            "top": "420px",
+            "color": "#632423",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3"
+          },
+          "text": "Alors, nous appauvrissant progressivement, on peut même envisager de retourner voir son \"ex\". Ce retour peut aussi être symbolique, ne pas tourner volontairement la page de peur de ne jamais remettre la main sur le chèque d'arrhes. Après tout, c'est le possesseur du chèque de caution de base qui a généré un endettement ! Bien évidement, ce chèque de caution métaphorique influence la fixité de croyances limitantes dont le rôle n'est que freinateur. Ce schéma peut égalemment se retrouver dans le veuvage, lorsqu'un des protagonistes part sans intention. Pour éviter tout cela, restez vous même dans la relation, acceptez pleinement l'autre dans vos différences, n'essayez aucunement de le ou la convertir à votre vision du monde. Prônez davantage l'expression de l'authenticité, de la singularité chez chacun, quitte à remettre en considération la maxime latine \"similis simili gaudet\", \"qui se ressemble s'assemble\".",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">Alors, nous appauvrissant progressivement, on peut même envisager de retourner voir son \"ex\". Ce retour peut aussi être symbolique, ne pas tourner volontairement la page de peur de ne jamais remettre la main sur le chèque d'arrhes. Après tout, c'est le possesseur du chèque de caution de base qui a généré un endettement ! Bien évidement, ce chèque de caution métaphorique influence la fixité de croyances limitantes dont le rôle n'est que freinateur. Ce schéma peut égalemment se retrouver dans le veuvage, lorsqu'un des protagonistes part sans intention. <br/><br/> Pour éviter tout cela, restez vous même dans la relation, acceptez pleinement l'autre dans vos différences, n'essayez aucunement de le ou la convertir à votre vision du monde. Prônez davantage l'expression de l'authenticité, de la singularité chez chacun, quitte à remettre en considération la maxime latine \"similis simili gaudet\", \"qui se ressemble s'assemble\". <br/> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEac2731a6d7",
+          "layout": {
+            "width": "390px",
+            "left": "480px",
+            "top": "1040px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "4"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "oiseaux",
+          "layout": {
+            "left": "690px",
+            "top": "1160px",
+            "width": "157px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/oiseaux-we1fde9af2a3-4f3645aa.jpg",
+          "href": "accro-affectif.html",
+          "label": "(toxic)"
+        },
+        {
+          "type": "image",
+          "name": "sirene 1",
+          "layout": {
+            "left": "370px",
+            "top": "1180px",
+            "width": "120px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/sirene-1-we5af57ec798-363da177.jpg",
+          "href": "convoitise.html",
+          "label": "(jalousie)"
+        },
+        {
+          "type": "image",
+          "name": "pelican",
+          "layout": {
+            "left": "60px",
+            "top": "1190px",
+            "width": "108px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/pelican-we27141943d7-1394c393.jpg",
+          "href": "authenticite.html",
+          "label": "AUTHENTICITE"
+        },
+        {
+          "type": "image",
+          "name": "narcisse oeil",
+          "layout": {
+            "left": "550px",
+            "top": "1190px",
+            "width": "85px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/narcisse-oeil-we7c1adaa42e-bb6f980f.jpg",
+          "href": "narcisse.html",
+          "label": "NARCISSE"
+        },
+        {
+          "type": "image",
+          "name": "champignon",
+          "layout": {
+            "left": "220px",
+            "top": "1200px",
+            "width": "97px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "src": "assets/champignon-we6d1b471ec0-36142710.jpg",
+          "href": "couple.html",
+          "label": "(dés-amour)"
+        },
+        {
+          "type": "text",
+          "name": "WE856fcbc251",
+          "layout": {
+            "width": "auto",
+            "left": "700px",
+            "top": "1260px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "ACCRO AFFECTIF",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ACCRO AFFECTIF</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE1c7840a2b0",
+          "layout": {
+            "width": "auto",
+            "left": "60px",
+            "top": "1280px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "AUTHENTICITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">AUTHENTICITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE179bea3da6",
+          "layout": {
+            "width": "auto",
+            "left": "730px",
+            "top": "1280px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "text": "(toxic)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(toxic)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEdac6494fcf",
+          "layout": {
+            "width": "auto",
+            "left": "380px",
+            "top": "1290px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "CONVOITISE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CONVOITISE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE66fa746dcf",
+          "layout": {
+            "width": "auto",
+            "left": "390px",
+            "top": "1310px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "text": "(jalousie)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(jalousie)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEa7b3763c39",
+          "layout": {
+            "width": "auto",
+            "left": "240px",
+            "top": "1330px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "COUPLE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">COUPLE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2e949fb8a3",
+          "layout": {
+            "width": "auto",
+            "left": "550px",
+            "top": "1340px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "text": "NARCISSE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">NARCISSE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE6e9bc16110",
+          "layout": {
+            "width": "auto",
+            "left": "230px",
+            "top": "1350px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "(dés-amour)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(dés-amour)</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

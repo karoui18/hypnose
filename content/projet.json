@@ -1,0 +1,363 @@
+{
+  "title": "projet",
+  "source": "https://www.hypnosite.fr/projet.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "550px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "PROJET"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE0de65ef2aa",
+          "layout": {
+            "width": "240px",
+            "left": "220px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'Bohem Press'",
+            "z-index": "2"
+          },
+          "text": "PROJET",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-size:70px;\">PROJET</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEa8ade8097c",
+          "layout": {
+            "width": "650px",
+            "height": "auto",
+            "left": "50%",
+            "top": "440px",
+            "background-color": "#fff",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Il ne faut jamais faire de projets, surtout en ce qui concerne l’avenir.\"  Alphonse ALLAIS",
+          "html": "<span><span style=\"font-size:18px;\"><span style=\"font-family:'Tox Typewriter';\">\"Il ne faut jamais faire de projets, surtout en ce qui concerne l’avenir.\"  Alphonse ALLAIS</span><br/></span></span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1706px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE75bf7e31f1",
+          "layout": {
+            "width": "380px",
+            "height": "auto",
+            "left": "40px",
+            "top": "10px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "z-index": "1"
+          },
+          "text": "Remémorez-vous petits, comment vous imaginiez faire de grandes choses et aviez une ambition exacerbée, pleins de projets. Aujourd'hui, où en êtes-vous ? Avez-vous entrepris comme vous le projetiez ou êtes- vous resté à ce stade projectif infantile ? Passez-vous régulièrement à l'action ou vous sentez-vous sans cesse freiné ? Vous avez pris conscience que la volonté ne suffit pas dans la réalisation d'un projet. Il faut agir et pour cela, vous devez vous libérer des pensées négatives, écouter vos rêves et, surtout, accepter de vous poser en individu responsable de votre destin. Je ne vous apprends pas que le temps coule avec sa composante anxiogène lorsqu'on l'observe passivement filé. Dans cette passivité d'action, certains individus sont inhibés depuis si longtemps qu’ils ne savent plus comment s’y prendre. Pour remédier à cette latence, il s’agit par conséquent d’apprendre à débloquer les pensées négatives et explorer les peurs qui maintiennent dans l'inertie et la passivité. Agir pour la réalisation d'un projet, c'est marquer des choix en prenant des décisions. Lorsque vous prenez une décision, vos croyances limitantes vous influencent. Au lieu de vous focaliser sur vos objectifs, une petite voix vous murmure que vous n’allez pas y arriver. Pire, votre esprit se distrait facilement et vous pousse à procrastiner. Vous êtes, sans doute, victime de vos propres croyances limitatives qui sont ces convictions personnelles, souvent non justifiées et qui font office de repères dans la vie de tous les jours. Elles déterminent ce que vous pouvez faire ou pas. Elles servent de valeur de jugement. Concrètement, votre système de croyances détermine la direction et la qualité de votre vie : professionnelle, personnelle, relationnelle… Vous êtes-vous déjà questionné sur ce répertoire  de croyances limitantes ?",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">Remémorez-vous petits, comment vous imaginiez faire de grandes choses et aviez une ambition exacerbée, pleins de projets. Aujourd'hui, où en êtes-vous ? Avez-vous entrepris comme vous le projetiez ou êtes- vous resté à ce stade projectif infantile ? Passez-vous régulièrement à l'action ou vous sentez-vous sans cesse freiné ?  <br/><br/>Vous avez pris conscience que la volonté ne suffit pas dans la réalisation d'un projet. Il faut agir et pour cela, vous devez vous libérer des pensées négatives, écouter vos rêves et, surtout, accepter de vous poser en individu responsable de votre destin. <br/><br/>Je ne vous apprends pas que le temps coule avec sa composante anxiogène lorsqu'on l'observe passivement filé. Dans cette passivité d'action, certains individus sont inhibés depuis si longtemps qu’ils ne savent plus comment s’y prendre. Pour remédier à cette latence, il s’agit par conséquent d’apprendre à débloquer les pensées négatives et explorer les peurs qui maintiennent dans l'inertie et la passivité. <br/><br/>Agir pour la réalisation d'un projet, c'est marquer des choix en prenant des décisions. Lorsque vous prenez une décision, vos croyances limitantes vous influencent. Au lieu de vous focaliser sur vos objectifs, une petite voix vous murmure que vous n’allez pas y arriver. Pire, votre esprit se distrait facilement et vous pousse à procrastiner. Vous êtes, sans doute, victime de vos propres croyances limitatives qui sont ces convictions personnelles, souvent non justifiées et qui font office de repères dans la vie de tous les jours. Elles déterminent ce que vous pouvez faire ou pas. Elles servent de valeur de jugement. Concrètement, votre système de croyances détermine la direction et la qualité de votre vie : professionnelle, personnelle, relationnelle… <br/>Vous êtes-vous déjà questionné sur ce répertoire  de croyances limitantes ?<br/><br/></span></span>"
+        },
+        {
+          "type": "image",
+          "name": "boule cristal",
+          "layout": {
+            "left": "480px",
+            "top": "10px",
+            "width": "367px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/boule-cristal-3fe3e9ac.jpg",
+          "href": "",
+          "label": "boule cristal"
+        },
+        {
+          "type": "text",
+          "name": "WE1a699efe1e",
+          "layout": {
+            "width": "379px",
+            "height": "auto",
+            "left": "480px",
+            "top": "514px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "z-index": "3"
+          },
+          "text": "Puis il y a la peur de passer à l’action car perçue comme une prise de risque et une sortie de zone de confort. Dans cette zone de confort, qui est propre à tout un chacun, il est difficile d’apprendre, de découvrir, d’expérimenter, de rencontrer, de goûter, en d’autres termes de vivre pleinement et de s’épanouir. Pourtant, quitter cette zone de confort peut alors avoir de nombreux effets positifs insoupçonnés. C’est simple, dans la zone de confort les changements que l’on espère ne risquent pas d’arriver. En effet, si vous ne changez rien à votre vie, rien ne changera. Si vous sentez une lassitude ou une certaine monotonie qui rend votre routine pénible, je vous invite fortement à songer à quitter votre zone de confort. Et si vous acceptiez de progresser dans un cheminement  qui se composerait de doute, d'incertitude, de perte de contrôle, d'imperfection, d'obstacle et d'échec possible, ça serait comment ? S’accomplir, c’est regarder vers l’avenir. C’est grâce à vos projets que votre futur n'est pas une répétition du passé. L'hypnose peut vous accompagner dans l'interrogation de vos peurs, vos désirs, vos besoins et ainsi répondre à la réalisation de vos projets les plus ambitieux. Sous hypnose, le temps devient relatif. Vous vivez vos projets et pouvez ramener comme un souvenir du futur au présent.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">Puis il y a la peur de passer à l’action car perçue comme une prise de risque et une sortie de zone de confort. Dans cette zone de confort, qui est propre à tout un chacun, il est difficile d’apprendre, de découvrir, d’expérimenter, de rencontrer, de goûter, en d’autres termes de vivre pleinement et de s’épanouir. <br/><br/>Pourtant, quitter cette zone de confort peut alors avoir de nombreux effets positifs insoupçonnés. C’est simple, dans la zone de confort les changements que l’on espère ne risquent pas d’arriver. En effet, si vous ne changez rien à votre vie, rien ne changera. Si vous sentez une lassitude ou une certaine monotonie qui rend votre routine pénible, je vous invite fortement à songer à quitter votre zone de confort. <br/><br/>Et si vous acceptiez de progresser dans un cheminement  qui se composerait de doute, d'incertitude, de perte de contrôle, d'imperfection, d'obstacle et d'échec possible, ça serait comment ?<br/><br/>S’accomplir, c’est regarder vers l’avenir. C’est grâce à vos projets que votre futur n'est pas une répétition du passé.  <br/><br/>L'hypnose peut vous accompagner dans l'interrogation de vos peurs, vos désirs, vos besoins et ainsi répondre à la réalisation de vos projets les plus ambitieux. Sous hypnose, le temps devient relatif. Vous vivez vos projets et pouvez ramener comme un souvenir du futur au présent.<br/> <br/></span></span>"
+        },
+        {
+          "type": "text",
+          "name": "WE0ca219daf1",
+          "layout": {
+            "width": "380px",
+            "left": "40px",
+            "top": "1220px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "18"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "elephant",
+          "layout": {
+            "left": "40px",
+            "top": "1327px",
+            "width": "120px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/elephant-we362f7c5086-8a874061.jpg",
+          "href": "confiance.html",
+          "label": "CONFIANCE"
+        },
+        {
+          "type": "image",
+          "name": "direction",
+          "layout": {
+            "left": "250px",
+            "top": "1346px",
+            "width": "128px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/direction-we737d81f117-1085cd16.jpg",
+          "href": "choix.html",
+          "label": "(NON) CHOIX"
+        },
+        {
+          "type": "text",
+          "name": "WE3e04818055",
+          "layout": {
+            "width": "auto",
+            "left": "270px",
+            "top": "1454px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "(NON) CHOIX",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(NON) CHOIX</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "paon",
+          "layout": {
+            "left": "620px",
+            "top": "1470px",
+            "width": "120px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/paon-we7b70fb2ab5-e1a45ef0.jpg",
+          "href": "affirmation.html",
+          "label": "AFFIRMATION"
+        },
+        {
+          "type": "image",
+          "name": "tour eiffel",
+          "layout": {
+            "left": "490px",
+            "top": "1490px",
+            "width": "93px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/tour-eiffel-weff2e5fb6db-3154effd.jpg",
+          "href": "modele.html",
+          "label": "MODELE"
+        },
+        {
+          "type": "text",
+          "name": "WEcb92e02a36",
+          "layout": {
+            "width": "auto",
+            "left": "60px",
+            "top": "1494px",
+            "height": "auto",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "8"
+          },
+          "text": "CONFIANCE",
+          "html": "<span><span style=\"font-size:18px;\">CONFIANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "phare",
+          "layout": {
+            "left": "200px",
+            "top": "1500px",
+            "width": "77px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "src": "assets/phare-we7519e3612b-ec6cff11.jpg",
+          "href": "cap.html",
+          "label": "CAP"
+        },
+        {
+          "type": "image",
+          "name": "ampoule 4",
+          "layout": {
+            "left": "770px",
+            "top": "1500px",
+            "width": "96px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/ampoule-4-weefc02ed8c6-9ff2d499.jpg",
+          "href": "creativite.html",
+          "label": "CREATIVITE"
+        },
+        {
+          "type": "image",
+          "name": "jumelles",
+          "layout": {
+            "left": "320px",
+            "top": "1540px",
+            "width": "108px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "src": "assets/jumelles-we32044dc8d5-b4de0ffe.jpg",
+          "href": "vision.html",
+          "label": "VISION"
+        },
+        {
+          "type": "image",
+          "name": "casque",
+          "layout": {
+            "left": "60px",
+            "top": "1560px",
+            "width": "130px",
+            "height": "auto",
+            "z-index": "19"
+          },
+          "src": "assets/casque-we7cd8f49598-80536c03.jpg",
+          "href": "confort.html",
+          "label": "(in) CONFORT"
+        },
+        {
+          "type": "text",
+          "name": "WE81a029d5fb",
+          "layout": {
+            "width": "auto",
+            "left": "630px",
+            "top": "1580px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "AFFIRMATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">AFFIRMATION<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7673bd9cec",
+          "layout": {
+            "width": "auto",
+            "left": "350px",
+            "top": "1630px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "VISION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">VISION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE13cb2557ac",
+          "layout": {
+            "width": "auto",
+            "left": "70px",
+            "top": "1640px",
+            "height": "auto",
+            "z-index": "20"
+          },
+          "text": "(in) CONFORT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(in) CONFORT</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEa603286e7c",
+          "layout": {
+            "width": "auto",
+            "left": "770px",
+            "top": "1640px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "CREATIVITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CREATIVITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE4894c34b9c",
+          "layout": {
+            "width": "auto",
+            "left": "500px",
+            "top": "1650px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "MODELE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">MODELE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE34f58a98c4",
+          "layout": {
+            "width": "auto",
+            "left": "230px",
+            "top": "1660px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "CAP",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CAP</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

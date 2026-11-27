@@ -1,0 +1,2923 @@
+{
+  "title": "Hypnose Rambouillet - Sébastien OCCHIPINTI - Epernon",
+  "source": "https://www.hypnosite.fr/",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "99px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE5e61349e4e",
+          "layout": {
+            "width": "88.89%",
+            "left": "50px",
+            "top": "30px",
+            "height": ".4%",
+            "border": "0 none",
+            "color": "#0c0c0c",
+            "text-align": "center",
+            "word-spacing": "0",
+            "background-color": "#fff",
+            "font-size": "8px",
+            "z-index": "1001"
+          },
+          "text": "Hypnothérapeute à EPERNON près de RAMBOUILLET  -  LE CABINET D'HYPNOSE  Sébastien OCCHIPINTI",
+          "html": "<h1>\n<span><span style=\"font-family:'Tox Typewriter';font-size:18px;color:rgb(38, 38, 38);\">Hypnothérapeute à EPERNON près de RAMBOUILLET  -  LE CABINET D'HYPNOSE  Sébastien OCCHIPINTI </span></span>\n</h1>",
+          "mobileHidden": false
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "7545px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau",
+          "layout": {
+            "left": "0",
+            "top": "-40px",
+            "width": "899px",
+            "height": "auto",
+            "z-index": "1001"
+          },
+          "src": "assets/art-nouveau-5c152b25.jpg",
+          "href": "",
+          "label": "art nouveau"
+        },
+        {
+          "type": "group",
+          "name": "WE5d21f88b89",
+          "layout": {
+            "width": "109px",
+            "height": "284px",
+            "left": "10px",
+            "top": "530px",
+            "border": "3px double",
+            "border-radius": "60px 60px 60px 60px",
+            "background-color": "#fff",
+            "z-index": "1191"
+          },
+          "items": [
+            {
+              "type": "text",
+              "name": "WE47c11f77ba",
+              "layout": {
+                "width": "auto",
+                "left": "23px",
+                "top": "10px",
+                "height": "auto",
+                "z-index": "1003"
+              },
+              "text": "SUIVEZ",
+              "html": "<span><span style=\"font-family:'Tox Typewriter';\"><span style=\"font-size:18px;\">SUIVEZ</span></span></span>"
+            },
+            {
+              "type": "text",
+              "name": "WEd1a02c62fb",
+              "layout": {
+                "width": "auto",
+                "left": "11px",
+                "top": "30px",
+                "height": "auto",
+                "z-index": "1006"
+              },
+              "text": "LES ECHOS",
+              "html": "<span><span style=\"font-family:'Tox Typewriter';\"><span style=\"font-size:18px;\">LES ECHOS</span></span></span>"
+            },
+            {
+              "type": "image",
+              "name": "logo facebook",
+              "layout": {
+                "left": "9px",
+                "top": "58px",
+                "width": "88px",
+                "height": "auto",
+                "z-index": "1001"
+              },
+              "src": "assets/logo-facebook-we6b347f0055-dd519387.jpg",
+              "href": "https://www.facebook.com/share/1FyDTgLph2/",
+              "label": "logo facebook"
+            },
+            {
+              "type": "text",
+              "name": "WEfa0d954493",
+              "layout": {
+                "width": "auto",
+                "left": "16px",
+                "top": "138px",
+                "height": "auto",
+                "z-index": "1004"
+              },
+              "text": "FACEBOOK",
+              "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">FACEBOOK</span></span>"
+            },
+            {
+              "type": "image",
+              "name": "logo instagram",
+              "layout": {
+                "left": "7px",
+                "top": "162px",
+                "width": "94px",
+                "height": "auto",
+                "z-index": "1002"
+              },
+              "src": "assets/logo-instagram-we93677c7876-1a6ec3c3.jpg",
+              "href": "https://www.instagram.com/lecabinetdhypnose?igsh=MTl1NmduNnBlMTJsbw==",
+              "label": "logo instagram"
+            },
+            {
+              "type": "text",
+              "name": "WEed7b623ff0",
+              "layout": {
+                "width": "auto",
+                "left": "9px",
+                "top": "240px",
+                "height": "auto",
+                "z-index": "1005"
+              },
+              "text": "INSTAGRAM",
+              "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">INSTAGRAM</span></span>"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "name": "Marquise",
+          "layout": {
+            "left": "230px",
+            "top": "680px",
+            "width": "146px",
+            "height": "auto",
+            "z-index": "1185"
+          },
+          "src": "assets/marquise-we42bb03afa5-1bd7840c.jpg",
+          "href": "cabinet.html",
+          "label": "Le cabinet d’hypnose — Addiction & trauma"
+        },
+        {
+          "type": "image",
+          "name": "praticien",
+          "layout": {
+            "left": "550px",
+            "top": "710px",
+            "width": "154px",
+            "height": "auto",
+            "z-index": "1015"
+          },
+          "src": "assets/praticien-we0a824fd165-55c76445.jpg",
+          "href": "sebastien-occhipinti.html",
+          "label": "Le suggestionneur"
+        },
+        {
+          "type": "text",
+          "name": "WE2e1b363900",
+          "layout": {
+            "width": "auto",
+            "left": "540px",
+            "top": "895px",
+            "height": "auto",
+            "z-index": "1181"
+          },
+          "text": "LE SUGGESTIONNEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">LE SUGGESTIONNEUR</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE17fc23bdc7",
+          "layout": {
+            "width": "auto",
+            "left": "212px",
+            "top": "903px",
+            "height": "auto",
+            "z-index": "1179"
+          },
+          "text": "LE CABINET D'HYPNOSE",
+          "html": "<h2>\n<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">LE CABINET D'HYPNOSE</span></span>\n</h2>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd2c5d006e4",
+          "layout": {
+            "width": "190px",
+            "left": "210px",
+            "top": "922px",
+            "height": "auto",
+            "text-align": "center",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "1175"
+          },
+          "text": "SPECIALISE",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Tox Typewriter';font-size:18px;\">SPECIALISE </span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7229454a70",
+          "layout": {
+            "width": "230px",
+            "left": "190px",
+            "top": "942px",
+            "height": "auto",
+            "text-align": "center",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "1190"
+          },
+          "text": "ADDICTION & TRAUMA",
+          "html": "<h2>\n<span><span style=\"color:rgb(12, 12, 12);font-family:'Tox Typewriter';font-size:18px;\"> ADDICTION &amp; TRAUMA </span></span>\n</h2>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "oeil double",
+          "layout": {
+            "left": "30px",
+            "top": "994px",
+            "width": "160px",
+            "height": "auto",
+            "z-index": "1188"
+          },
+          "src": "assets/oeil-double-we1e4d4abbf5-4e5803c2.jpg",
+          "href": "pnl.html",
+          "label": "Hypnose & P.N.L."
+        },
+        {
+          "type": "image",
+          "name": "machine ecrire",
+          "layout": {
+            "left": "360px",
+            "top": "1010px",
+            "width": "167px",
+            "height": "auto",
+            "z-index": "1014"
+          },
+          "src": "assets/machine-ecrire-we0d221f5cdc-9301f3fa.jpg",
+          "href": "formulaire.html",
+          "label": "Contact & tarif"
+        },
+        {
+          "type": "image",
+          "name": "boussole",
+          "layout": {
+            "left": "710px",
+            "top": "1010px",
+            "width": "143px",
+            "height": "auto",
+            "z-index": "1187"
+          },
+          "src": "assets/boussole-wec1e9df9ed2-a8691989.jpg",
+          "href": "seance.html",
+          "label": "Votre séance"
+        },
+        {
+          "type": "text",
+          "name": "WEddea24fe48",
+          "layout": {
+            "width": "15.56%",
+            "left": "40px",
+            "top": "1130px",
+            "height": "auto",
+            "z-index": "1189"
+          },
+          "text": "HYPNOSE & P.N.L.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"> HYPNOSE &amp; P.N.L.</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE5196706dae",
+          "layout": {
+            "width": "auto",
+            "left": "380px",
+            "top": "1130px",
+            "height": "auto",
+            "z-index": "1018"
+          },
+          "text": "CONTACT & TARIF",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CONTACT &amp; TARIF</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEf323447a1c",
+          "layout": {
+            "width": "auto",
+            "left": "730px",
+            "top": "1135px",
+            "height": "auto",
+            "z-index": "1016"
+          },
+          "text": "VOTRE SEANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">VOTRE SEANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "art nouveau tel",
+          "layout": {
+            "left": "50%",
+            "top": "1200px",
+            "width": "717px",
+            "height": "auto",
+            "z-index": "1200",
+            "transform": "translateX(-50%)"
+          },
+          "src": "assets/art-nouveau-tel-2c9366fd.jpg",
+          "href": "",
+          "label": "CLIQUEZ AFIN DE PEREGRINER A TRAVERS VOTRE INCONSCIENT"
+        },
+        {
+          "type": "text",
+          "name": "WEd82311c27c",
+          "layout": {
+            "width": "900px",
+            "left": "0",
+            "top": "1380px",
+            "height": "auto",
+            "text-align": "center",
+            "font-size": "30px",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "1184"
+          },
+          "text": "CLIQUEZ AFIN DE PEREGRINER A TRAVERS VOTRE INCONSCIENT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:32px;\">CLIQUEZ AFIN DE PEREGRINER A TRAVERS VOTRE INCONSCIENT</span><br/></span>",
+          "mobileHidden": false
+        },
+        {
+          "type": "image",
+          "name": "homme engrenage",
+          "layout": {
+            "left": "10px",
+            "top": "1470px",
+            "width": "132px",
+            "height": "auto",
+            "z-index": "1130"
+          },
+          "src": "assets/homme-engrenage-web9795fa2ea-9321e09f.jpg",
+          "href": "consciences.html",
+          "label": "Consciences"
+        },
+        {
+          "type": "text",
+          "name": "WE57acb10a0f",
+          "layout": {
+            "width": "330px",
+            "height": "auto",
+            "left": "550px",
+            "top": "1470px",
+            "text-align": "right",
+            "z-index": "1155"
+          },
+          "text": "L'homme, car vivant, communique ses propres perceptions psychiques par l'expression d'attitudes, de comportements, d'émotions et de sentiments. Lorsqu'il y a un déséquilibre de compréhension avec ses environnements internes et/ou extérieurs, il peut se manifester débordement, tension ou blocage. Alors, l'homme fige ou exulte ses ressentis et affects au travers d'états et d'agissements parfois non désirés.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">L'homme, car vivant, communique ses propres perceptions psychiques par l'expression d'attitudes, de comportements, d'émotions et de sentiments. Lorsqu'il y a un déséquilibre de compréhension avec ses environnements internes et/ou extérieurs, il peut se manifester débordement, tension ou blocage. Alors, l'homme fige ou exulte ses ressentis et affects au travers d'états et d'agissements parfois non désirés. </span></span>"
+        },
+        {
+          "type": "image",
+          "name": "scaphandre pieuvre",
+          "layout": {
+            "left": "190px",
+            "top": "1510px",
+            "width": "130px",
+            "height": "auto",
+            "z-index": "1005"
+          },
+          "src": "assets/scaphandre-pieuvre-we6182f946b2-7785256d.jpg",
+          "href": "transe.html",
+          "label": "Transe"
+        },
+        {
+          "type": "image",
+          "name": "telephone inconscient",
+          "layout": {
+            "left": "370px",
+            "top": "1530px",
+            "width": "126px",
+            "height": "auto",
+            "z-index": "1078"
+          },
+          "src": "assets/telephone-inconscient-we05f157fd17-eb0ff9e4.jpg",
+          "href": "inconscient.html",
+          "label": "Inconscient"
+        },
+        {
+          "type": "text",
+          "name": "WE41ffdf9122",
+          "layout": {
+            "width": "auto",
+            "left": "20px",
+            "top": "1650px",
+            "height": "auto",
+            "z-index": "1131"
+          },
+          "text": "CONSCIENCES",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">CONSCIENCES<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE25765dcd9f",
+          "layout": {
+            "width": "auto",
+            "left": "390px",
+            "top": "1700px",
+            "height": "auto",
+            "z-index": "1080"
+          },
+          "text": "INCONSCIENT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">INCONSCIENT</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEea8bb60487",
+          "layout": {
+            "width": "auto",
+            "left": "220px",
+            "top": "1720px",
+            "height": "auto",
+            "z-index": "1081"
+          },
+          "text": "TRANSE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRANSE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "tire bouchon 1",
+          "layout": {
+            "left": "780px",
+            "top": "1750px",
+            "width": "93px",
+            "height": "auto",
+            "z-index": "1083"
+          },
+          "src": "assets/tire-bouchon-1-we52381b7184-f404a056.jpg",
+          "href": "alcool.html",
+          "label": "Alcool"
+        },
+        {
+          "type": "image",
+          "name": "ecureuil",
+          "layout": {
+            "left": "50px",
+            "top": "1790px",
+            "width": "155px",
+            "height": "auto",
+            "z-index": "1136"
+          },
+          "src": "assets/ecureuil-webd52921ceb-8bdf0729.jpg",
+          "href": "tca.html",
+          "label": "Conduites alimentaires"
+        },
+        {
+          "type": "image",
+          "name": "poumon",
+          "layout": {
+            "left": "550px",
+            "top": "1790px",
+            "width": "156px",
+            "height": "auto",
+            "z-index": "1024"
+          },
+          "src": "assets/poumon-web063b9e034-cc21a303.jpg",
+          "href": "tabac.html",
+          "label": "Tabac"
+        },
+        {
+          "type": "image",
+          "name": "marteau",
+          "layout": {
+            "left": "270px",
+            "top": "1820px",
+            "width": "178px",
+            "height": "auto",
+            "z-index": "1019"
+          },
+          "src": "assets/marteau-we2be0308d68-61d97cfa.jpg",
+          "href": "trauma.html",
+          "label": "Trauma"
+        },
+        {
+          "type": "text",
+          "name": "WEea560d5f17",
+          "layout": {
+            "width": "auto",
+            "left": "10px",
+            "top": "1900px",
+            "height": "auto",
+            "z-index": "1137"
+          },
+          "text": "T.C.A. :",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">T.C.A. :</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd18dd0da6f",
+          "layout": {
+            "width": "auto",
+            "left": "10px",
+            "top": "1920px",
+            "height": "auto",
+            "z-index": "1138"
+          },
+          "text": "TRANSE DES",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRANSE DES</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE34e70117f0",
+          "layout": {
+            "width": "auto",
+            "left": "283px",
+            "top": "1920px",
+            "height": "auto",
+            "z-index": "1162"
+          },
+          "text": "(psycho)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(psycho)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE0b3b8cfe9e",
+          "layout": {
+            "width": "auto",
+            "left": "10px",
+            "top": "1940px",
+            "height": "auto",
+            "z-index": "1150"
+          },
+          "text": "CONDUITES ALIMENTAIRES",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CONDUITES ALIMENTAIRES</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE4fac64aaf9",
+          "layout": {
+            "width": "auto",
+            "left": "313px",
+            "top": "1945px",
+            "height": "auto",
+            "z-index": "1030"
+          },
+          "text": "TRAUMA",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRAUMA</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEb5f6117951",
+          "layout": {
+            "width": "auto",
+            "left": "800px",
+            "top": "1950px",
+            "height": "auto",
+            "z-index": "1085"
+          },
+          "text": "ALCOOL",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ALCOOL</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE963d9d595d",
+          "layout": {
+            "width": "auto",
+            "left": "610px",
+            "top": "1960px",
+            "height": "auto",
+            "z-index": "1026"
+          },
+          "text": "TABAC",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TABAC</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "tests",
+          "layout": {
+            "left": "530px",
+            "top": "2020px",
+            "width": "319px",
+            "height": "auto",
+            "z-index": "1173"
+          },
+          "src": "assets/tests-web28af8681a-e1a1db2c.jpg",
+          "href": "tests.html",
+          "label": "Tests et questionnaires"
+        },
+        {
+          "type": "image",
+          "name": "cerveau 1",
+          "layout": {
+            "left": "30px",
+            "top": "2060px",
+            "width": "135px",
+            "height": "auto",
+            "z-index": "1076"
+          },
+          "src": "assets/cerveau-1-web89e7a9a58-40f7f21a.jpg",
+          "href": "toxicomanie.html",
+          "label": "Toxic ô manie"
+        },
+        {
+          "type": "image",
+          "name": "menottes",
+          "layout": {
+            "left": "220px",
+            "top": "2060px",
+            "width": "184px",
+            "height": "auto",
+            "z-index": "1149"
+          },
+          "src": "assets/menottes-we1814ccb1f7-9bb9ea65.jpg",
+          "href": "dependance.html",
+          "label": "Dépendance (addiction)"
+        },
+        {
+          "type": "image",
+          "name": "singe velo",
+          "layout": {
+            "left": "770px",
+            "top": "2150px",
+            "width": "115px",
+            "height": "auto",
+            "z-index": "1037"
+          },
+          "src": "assets/singe-velo-wec61d87c21b-cfef914b.jpg",
+          "href": "comportement.html",
+          "label": "Comportement (trouble)"
+        },
+        {
+          "type": "text",
+          "name": "WEb0511e5f69",
+          "layout": {
+            "width": "auto",
+            "left": "260px",
+            "top": "2180px",
+            "height": "auto",
+            "z-index": "1048"
+          },
+          "text": "DEPENDANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DEPENDANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE95fa9adadb",
+          "layout": {
+            "width": "auto",
+            "left": "260px",
+            "top": "2200px",
+            "height": "auto",
+            "z-index": "1151"
+          },
+          "text": "(addiction)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(addiction)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE5b0aba2a88",
+          "layout": {
+            "width": "auto",
+            "left": "40px",
+            "top": "2220px",
+            "height": "auto",
+            "z-index": "1077"
+          },
+          "text": "TOXIC Ô MANIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TOXIC </span><span style=\"font-family:'Tox Typewriter';font-size:21px;\">Ô</span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"> MANIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE287c2d7345",
+          "layout": {
+            "width": "390px",
+            "height": "auto",
+            "left": "330px",
+            "top": "2220px",
+            "text-align": "right",
+            "z-index": "1154"
+          },
+          "text": "Pendant qu'il cherche à exprimer - inconsciemment -le maintien ou la réaccession de son besoin de vitalité et son écologie, que trop souvent, il se matérialise une expressivité incontrôlée de redondances, de reviviscences, d'excès ou de manques.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Pendant qu'il cherche à exprimer<br/>- inconsciemment -le maintien ou la réaccession de son besoin de vitalité et son écologie, que trop souvent, il se matérialise une expressivité incontrôlée de redondances, de reviviscences, d'excès ou de manques. </span></span>"
+        },
+        {
+          "type": "image",
+          "name": "coeur emotion",
+          "layout": {
+            "left": "30px",
+            "top": "2310px",
+            "width": "132px",
+            "height": "auto",
+            "z-index": "1022"
+          },
+          "src": "assets/coeur-emotion-wec3db9f8e98-938f823a.jpg",
+          "href": "emotion.html",
+          "label": "Emotion"
+        },
+        {
+          "type": "image",
+          "name": "lunettes",
+          "layout": {
+            "left": "223px",
+            "top": "2387px",
+            "width": "183px",
+            "height": "auto",
+            "transform": "rotate(-20deg)",
+            "-webkit-transform": "rotate(-20deg)",
+            "-moz-transform": "rotate(-20deg)",
+            "-ms-transform": "rotate(-20deg)",
+            "-o-transform": "rotate(-20deg)",
+            "z-index": "1002"
+          },
+          "src": "assets/lunettes-weec0b5ee778-8391a12e.jpg",
+          "href": "emotion-voir.html",
+          "label": "Émotion (ne pas voir)"
+        },
+        {
+          "type": "text",
+          "name": "WE1f03a50da6",
+          "layout": {
+            "width": "140px",
+            "height": "auto",
+            "left": "760px",
+            "top": "2410px",
+            "text-align": "center",
+            "z-index": "1099"
+          },
+          "text": "COMPORTEMENT (trouble)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">COMPORTEMENT<br/>(trouble)</span><br/></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEb62d03e0f7",
+          "layout": {
+            "width": "auto",
+            "left": "310px",
+            "top": "2480px",
+            "height": "auto",
+            "z-index": "1183"
+          },
+          "text": "(ne pas voir)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(ne pas voir)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "microscope",
+          "layout": {
+            "left": "780px",
+            "top": "2490px",
+            "width": "119px",
+            "height": "auto",
+            "z-index": "1074"
+          },
+          "src": "assets/microscope-weaf1b2e6531-e168ec44.jpg",
+          "href": "anxiete.html",
+          "label": "Anxiete"
+        },
+        {
+          "type": "text",
+          "name": "WE6939c8ae18",
+          "layout": {
+            "width": "auto",
+            "left": "260px",
+            "top": "2500px",
+            "height": "auto",
+            "z-index": "1182"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "baleine 1",
+          "layout": {
+            "left": "430px",
+            "top": "2500px",
+            "width": "307px",
+            "height": "auto",
+            "z-index": "1013"
+          },
+          "src": "assets/baleine-1-we3374c13bba-edcdd488.jpg",
+          "href": "seance-1.html",
+          "label": "Restez aller bien"
+        },
+        {
+          "type": "text",
+          "name": "WEb87f90841d",
+          "layout": {
+            "width": "auto",
+            "left": "77px",
+            "top": "2530px",
+            "height": "auto",
+            "z-index": "1029"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEe3eb5fbbdb",
+          "layout": {
+            "width": "auto",
+            "left": "430px",
+            "top": "2590px",
+            "height": "auto",
+            "z-index": "1017"
+          },
+          "text": "(vous ressentir) RESTEZ ALLER BIEN",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(vous ressentir) RESTEZ ALLER BIEN</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "ventilateur",
+          "layout": {
+            "left": "30px",
+            "top": "2630px",
+            "width": "142px",
+            "height": "auto",
+            "z-index": "1012"
+          },
+          "src": "assets/ventilateur-we3f4ce1ffb7-c8e14f6b.jpg",
+          "href": "stress.html",
+          "label": "Stress"
+        },
+        {
+          "type": "image",
+          "name": "elephant",
+          "layout": {
+            "left": "230px",
+            "top": "2670px",
+            "width": "185px",
+            "height": "auto",
+            "z-index": "1021"
+          },
+          "src": "assets/elephant-wee96d692189-60eca229.jpg",
+          "href": "confiance.html",
+          "label": "Confiance & estime"
+        },
+        {
+          "type": "text",
+          "name": "WE260e68a7bf",
+          "layout": {
+            "width": "auto",
+            "left": "800px",
+            "top": "2700px",
+            "height": "auto",
+            "z-index": "1075"
+          },
+          "text": "ANXIETE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ANXIETE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "Ballon",
+          "layout": {
+            "left": "500px",
+            "top": "2720px",
+            "width": "122px",
+            "height": "auto",
+            "z-index": "1023"
+          },
+          "src": "assets/ballon-we53c48a112d-ef659e73.jpg",
+          "href": "poids.html",
+          "label": "Poids"
+        },
+        {
+          "type": "image",
+          "name": "chien",
+          "layout": {
+            "left": "720px",
+            "top": "2760px",
+            "width": "168px",
+            "height": "auto",
+            "z-index": "1038"
+          },
+          "src": "assets/chien-we04e6d271f3-d8c63693.jpg",
+          "href": "thymie.html",
+          "label": "Thymie (humeur)"
+        },
+        {
+          "type": "text",
+          "name": "WE1f806918cc",
+          "layout": {
+            "width": "auto",
+            "left": "354px",
+            "top": "2799px",
+            "height": "auto",
+            "z-index": "1167"
+          },
+          "text": "ESTIME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ESTIME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEa969d15b42",
+          "layout": {
+            "width": "auto",
+            "left": "240px",
+            "top": "2800px",
+            "height": "auto",
+            "z-index": "1027"
+          },
+          "text": "CONFIANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CONFIANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE4eb23ddce3",
+          "layout": {
+            "width": "auto",
+            "left": "70px",
+            "top": "2823px",
+            "height": "auto",
+            "z-index": "1031"
+          },
+          "text": "STRESS",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">STRESS</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE9e1023cbd6",
+          "layout": {
+            "width": "auto",
+            "left": "710px",
+            "top": "2900px",
+            "height": "auto",
+            "z-index": "1039"
+          },
+          "text": "THYMIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">THYMIE<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE6327ef21d0",
+          "layout": {
+            "width": "auto",
+            "left": "730px",
+            "top": "2920px",
+            "height": "auto",
+            "z-index": "1174"
+          },
+          "text": "(humeur)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(humeur)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "gramo",
+          "layout": {
+            "left": "30px",
+            "top": "2940px",
+            "width": "151px",
+            "height": "auto",
+            "z-index": "1079"
+          },
+          "src": "assets/gramo-we3ab9492d18-cd550175.jpg",
+          "href": "communiquer.html",
+          "label": "Communiquer"
+        },
+        {
+          "type": "text",
+          "name": "WEe6445e6560",
+          "layout": {
+            "width": "auto",
+            "left": "540px",
+            "top": "2940px",
+            "height": "auto",
+            "z-index": "1025"
+          },
+          "text": "POIDS",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">POIDS</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "tricycle",
+          "layout": {
+            "left": "690px",
+            "top": "2980px",
+            "width": "174px",
+            "height": "auto",
+            "z-index": "1010"
+          },
+          "src": "assets/tricycle-we75e81ba665-be6e4def.jpg",
+          "href": "hypnose-enfant.html",
+          "label": "Enfants & adolescents"
+        },
+        {
+          "type": "image",
+          "name": "corset",
+          "layout": {
+            "left": "270px",
+            "top": "3030px",
+            "width": "118px",
+            "height": "auto",
+            "z-index": "1050"
+          },
+          "src": "assets/corset-wed406355a59-559c7cf7.jpg",
+          "href": "corps.html",
+          "label": "Corps (image)"
+        },
+        {
+          "type": "image",
+          "name": "insecte 1",
+          "layout": {
+            "left": "500px",
+            "top": "3060px",
+            "width": "104px",
+            "height": "auto",
+            "z-index": "1147"
+          },
+          "src": "assets/insecte-1-we39dbc06b5b-7975666d.jpg",
+          "href": "phobie.html",
+          "label": "Phobie"
+        },
+        {
+          "type": "text",
+          "name": "WE9eb74dcfb4",
+          "layout": {
+            "width": "auto",
+            "left": "60px",
+            "top": "3140px",
+            "height": "auto",
+            "z-index": "1047"
+          },
+          "text": "COMMUNIQUER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">COMMUNIQUER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd20f26ee57",
+          "layout": {
+            "width": "auto",
+            "left": "750px",
+            "top": "3150px",
+            "height": "auto",
+            "z-index": "1011"
+          },
+          "text": "DU PETIT D'HOMME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DU PETIT D'HOMME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEbc0985426c",
+          "layout": {
+            "width": "auto",
+            "left": "752px",
+            "top": "3170px",
+            "height": "auto",
+            "z-index": "1169"
+          },
+          "text": "A L'ADO LAISSANT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">A L'ADO LAISSANT</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE9f276fd348",
+          "layout": {
+            "width": "70px",
+            "height": "auto",
+            "left": "304px",
+            "top": "3189px",
+            "text-align": "center",
+            "z-index": "1100"
+          },
+          "text": "CORPS (image)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CORPS<br/>(image)</span><br/></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEb317913c7a",
+          "layout": {
+            "width": "auto",
+            "left": "524px",
+            "top": "3229px",
+            "height": "auto",
+            "z-index": "1148"
+          },
+          "text": "PHOBIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PHOBIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "portefeuille",
+          "layout": {
+            "left": "700px",
+            "top": "3230px",
+            "width": "144px",
+            "height": "auto",
+            "z-index": "1064"
+          },
+          "src": "assets/portefeuille-we94fa639e71-78a0a78a.jpg",
+          "href": "valeur.html",
+          "label": "Valeur"
+        },
+        {
+          "type": "image",
+          "name": "manequin",
+          "layout": {
+            "left": "30px",
+            "top": "3240px",
+            "width": "140px",
+            "height": "auto",
+            "z-index": "1052"
+          },
+          "src": "assets/manequin-we817b00ec74-43041fbc.jpg",
+          "href": "identite.html",
+          "label": "Identite"
+        },
+        {
+          "type": "text",
+          "name": "WE9747e32a5b",
+          "layout": {
+            "width": "390px",
+            "height": "auto",
+            "left": "250px",
+            "top": "3280px",
+            "text-align": "left",
+            "z-index": "1156"
+          },
+          "text": "Et cette expression langagière protéiforme, par ses mouvances non conscientes, parfois génère une cristallisation et ainsi l'emprisonne dans son intériorité, influencant défensivement ses enveloppes qu'elles soient psychiques ou corporelles.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Et cette expression langagière protéiforme, par ses mouvances non conscientes, parfois génère une cristallisation et ainsi l'emprisonne dans son intériorité, influencant défensivement ses enveloppes qu'elles soient psychiques ou corporelles. </span></span>"
+        },
+        {
+          "type": "text",
+          "name": "WEb5e3944a8e",
+          "layout": {
+            "width": "auto",
+            "left": "750px",
+            "top": "3380px",
+            "height": "auto",
+            "z-index": "1065"
+          },
+          "text": "VALEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">VALEUR</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "lune",
+          "layout": {
+            "left": "260px",
+            "top": "3450px",
+            "width": "106px",
+            "height": "auto",
+            "z-index": "1020"
+          },
+          "src": "assets/lune-we116fc9fe63-e1f7dd51.jpg",
+          "href": "sommeil.html",
+          "label": "Sommeil"
+        },
+        {
+          "type": "image",
+          "name": "arbre",
+          "layout": {
+            "left": "680px",
+            "top": "3460px",
+            "width": "178px",
+            "height": "auto",
+            "z-index": "1056"
+          },
+          "src": "assets/arbre-wec2ffe8e363-ffd5e510.jpg",
+          "href": "transe-generation.html",
+          "label": "Transe génération"
+        },
+        {
+          "type": "text",
+          "name": "WE7c447ed6b4",
+          "layout": {
+            "width": "auto",
+            "left": "60px",
+            "top": "3470px",
+            "height": "auto",
+            "z-index": "1053"
+          },
+          "text": "IDENTITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">IDENTITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "rabitt",
+          "layout": {
+            "left": "460px",
+            "top": "3470px",
+            "width": "146px",
+            "height": "auto",
+            "z-index": "1008"
+          },
+          "src": "assets/rabitt-we6ffed43ce7-a91756b5.jpg",
+          "href": "sexualite.html",
+          "label": "Sexualite"
+        },
+        {
+          "type": "image",
+          "name": "paon",
+          "layout": {
+            "left": "30px",
+            "top": "3570px",
+            "width": "158px",
+            "height": "auto",
+            "z-index": "1054"
+          },
+          "src": "assets/paon-weba6450008f-22bbf50e.jpg",
+          "href": "affirmation.html",
+          "label": "Affirmation"
+        },
+        {
+          "type": "text",
+          "name": "WEd6c388389e",
+          "layout": {
+            "width": "auto",
+            "left": "443px",
+            "top": "3627px",
+            "height": "auto",
+            "z-index": "1051"
+          },
+          "text": "SEXUALITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SEXUALITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE0a87359e3b",
+          "layout": {
+            "width": "auto",
+            "left": "240px",
+            "top": "3632px",
+            "height": "auto",
+            "z-index": "1028"
+          },
+          "text": "SOMMEIL",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SOMMEIL</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE53757452fe",
+          "layout": {
+            "width": "auto",
+            "left": "690px",
+            "top": "3654px",
+            "height": "auto",
+            "z-index": "1057"
+          },
+          "text": "TRANSE GENERATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRANSE GENERATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE4ee7b53310",
+          "layout": {
+            "width": "auto",
+            "left": "690px",
+            "top": "3674px",
+            "height": "auto",
+            "z-index": "1126"
+          },
+          "text": "(dette inconsciente)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(dette inconsciente)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE741708f06e",
+          "layout": {
+            "width": "auto",
+            "left": "60px",
+            "top": "3720px",
+            "height": "auto",
+            "z-index": "1055"
+          },
+          "text": "AFFIRMATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">AFFIRMATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "seringue",
+          "layout": {
+            "left": "240px",
+            "top": "3740px",
+            "width": "165px",
+            "height": "auto",
+            "z-index": "1009"
+          },
+          "src": "assets/seringue-we78c6c7e004-a6c9dccc.jpg",
+          "href": "douleur.html",
+          "label": "Douleur"
+        },
+        {
+          "type": "image",
+          "name": "engrenage",
+          "layout": {
+            "left": "480px",
+            "top": "3770px",
+            "width": "125px",
+            "height": "auto",
+            "z-index": "1097"
+          },
+          "src": "assets/engrenage-we376a359bbc-bb9df76e.jpg",
+          "href": "systeme.html",
+          "label": "Systeme"
+        },
+        {
+          "type": "image",
+          "name": "fusee",
+          "layout": {
+            "left": "686px",
+            "top": "3770px",
+            "width": "210px",
+            "height": "auto",
+            "z-index": "1101"
+          },
+          "src": "assets/fusee-we6c523e7031-82ce1386.jpg",
+          "href": "oser.html",
+          "label": "Oser"
+        },
+        {
+          "type": "image",
+          "name": "cadenas",
+          "layout": {
+            "left": "70px",
+            "top": "3830px",
+            "width": "112px",
+            "height": "auto",
+            "z-index": "1040"
+          },
+          "src": "assets/cadenas-we077f7ccbee-ede4d13d.jpg",
+          "href": "frustration.html",
+          "label": "Frustration"
+        },
+        {
+          "type": "text",
+          "name": "WE261197df6c",
+          "layout": {
+            "width": "auto",
+            "left": "330px",
+            "top": "3840px",
+            "height": "auto",
+            "z-index": "1034"
+          },
+          "text": "DOULEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DOULEUR</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE19b23883b0",
+          "layout": {
+            "width": "auto",
+            "left": "732px",
+            "top": "3868px",
+            "height": "auto",
+            "z-index": "1102"
+          },
+          "text": "OSER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">OSER </span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE9a1097af50",
+          "layout": {
+            "width": "auto",
+            "left": "450px",
+            "top": "3890px",
+            "height": "auto",
+            "z-index": "1098"
+          },
+          "text": "SYSTEME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SYSTEME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE4667823f5b",
+          "layout": {
+            "width": "408px",
+            "height": "auto",
+            "left": "460px",
+            "top": "3959px",
+            "text-align": "right",
+            "z-index": "1157"
+          },
+          "text": "On dit alors que c'est le fruit de son inconscient. Cette entité intrapsychique qui recèle, entre autres, des registres tels que les valeurs, les comportements autonomes, les souvenirs ou encore les émotions. C'est également cet espace fertile de ressource, de créativité mais aussi de conflit et de résolution en suspens !",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">On dit alors que c'est le fruit de son inconscient. Cette entité intrapsychique qui recèle, entre autres, des registres tels que les valeurs, les comportements autonomes, les souvenirs ou encore les émotions. C'est également cet espace fertile de ressource, de créativité mais aussi de conflit et de résolution en suspens ! </span></span>"
+        },
+        {
+          "type": "text",
+          "name": "WE0c2253246b",
+          "layout": {
+            "width": "auto",
+            "left": "70px",
+            "top": "4000px",
+            "height": "auto",
+            "z-index": "1041"
+          },
+          "text": "FRUSTRATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">FRUSTRATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "pelican",
+          "layout": {
+            "left": "220px",
+            "top": "4001px",
+            "width": "175px",
+            "height": "auto",
+            "z-index": "1082"
+          },
+          "src": "assets/pelican-we55762adc94-8d887b91.jpg",
+          "href": "authenticite.html",
+          "label": "Authenticite"
+        },
+        {
+          "type": "image",
+          "name": "homme pieuvre",
+          "layout": {
+            "left": "20px",
+            "top": "4071px",
+            "width": "114px",
+            "height": "auto",
+            "z-index": "1066"
+          },
+          "src": "assets/homme-pieuvre-wea111a85da0-128efcd6.jpg",
+          "href": "personnalite.html",
+          "label": "Personnalité"
+        },
+        {
+          "type": "text",
+          "name": "WE91d41df6cc",
+          "layout": {
+            "width": "auto",
+            "left": "260px",
+            "top": "4147px",
+            "height": "auto",
+            "z-index": "1084"
+          },
+          "text": "AUTHENTICITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">AUTHENTICITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "coeur oeil",
+          "layout": {
+            "left": "750px",
+            "top": "4151px",
+            "width": "129px",
+            "height": "auto",
+            "z-index": "1070"
+          },
+          "src": "assets/coeur-oeil-we6961d2cb34-850469eb.jpg",
+          "href": "psychosoma.html",
+          "label": "Psychosoma"
+        },
+        {
+          "type": "image",
+          "name": "pingouin",
+          "layout": {
+            "left": "590px",
+            "top": "4190px",
+            "width": "77px",
+            "height": "auto",
+            "z-index": "1152"
+          },
+          "src": "assets/pingouin-we0217d33527-f3a17fc3.jpg",
+          "href": "culpabilite.html",
+          "label": "Culpabilite"
+        },
+        {
+          "type": "image",
+          "name": "trompette",
+          "layout": {
+            "left": "350px",
+            "top": "4231px",
+            "width": "160px",
+            "height": "auto",
+            "z-index": "1116"
+          },
+          "src": "assets/trompette-we53ee48ef9e-b83c27f0.jpg",
+          "href": "presuppose.html",
+          "label": "Presuppose"
+        },
+        {
+          "type": "image",
+          "name": "lapin medaille",
+          "layout": {
+            "left": "200px",
+            "top": "4301px",
+            "width": "113px",
+            "height": "auto",
+            "z-index": "1058"
+          },
+          "src": "assets/lapin-medaille-we4ad2daba78-e39c5561.jpg",
+          "href": "legitimite.html",
+          "label": "Legitimite"
+        },
+        {
+          "type": "text",
+          "name": "WEe325220cc1",
+          "layout": {
+            "width": "auto",
+            "left": "390px",
+            "top": "4331px",
+            "height": "auto",
+            "z-index": "1117"
+          },
+          "text": "IMPLICITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">IMPLICITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE82eda69f57",
+          "layout": {
+            "width": "auto",
+            "left": "30px",
+            "top": "4341px",
+            "height": "auto",
+            "z-index": "1067"
+          },
+          "text": "PERSONNALITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PERSONNALITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE159abeac2c",
+          "layout": {
+            "width": "auto",
+            "left": "770px",
+            "top": "4342px",
+            "height": "auto",
+            "z-index": "1071"
+          },
+          "text": "PSYCHOSOMA",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PSYCHOSOMA</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE26fe1fad8e",
+          "layout": {
+            "width": "auto",
+            "left": "38px",
+            "top": "4361px",
+            "height": "auto",
+            "z-index": "1180"
+          },
+          "text": "(troublante)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(troublante)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE17306e3d2f",
+          "layout": {
+            "width": "auto",
+            "left": "577px",
+            "top": "4385px",
+            "height": "auto",
+            "z-index": "1153"
+          },
+          "text": "CULPABILITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CULPABILITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "outil",
+          "layout": {
+            "left": "390px",
+            "top": "4441px",
+            "width": "55px",
+            "height": "auto",
+            "z-index": "1090"
+          },
+          "src": "assets/outil-we92c618f28c-f18919a5.jpg",
+          "href": "reparation.html",
+          "label": "Reparation"
+        },
+        {
+          "type": "image",
+          "name": "arrosoir",
+          "layout": {
+            "left": "700px",
+            "top": "4451px",
+            "width": "160px",
+            "height": "auto",
+            "z-index": "1112"
+          },
+          "src": "assets/arrosoir-we50ca044875-e413aae7.jpg",
+          "href": "besoins.html",
+          "label": "Besoins relationnels"
+        },
+        {
+          "type": "text",
+          "name": "WEe1371e7eb8",
+          "layout": {
+            "width": "auto",
+            "left": "200px",
+            "top": "4488px",
+            "height": "auto",
+            "z-index": "1059"
+          },
+          "text": "LEGITIMITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">LEGITIMITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "chaton",
+          "layout": {
+            "left": "510px",
+            "top": "4511px",
+            "width": "110px",
+            "height": "auto",
+            "z-index": "1088"
+          },
+          "src": "assets/chaton-webf692fb6e0-2e92f9d2.jpg",
+          "href": "abandon.html",
+          "label": "Abandon"
+        },
+        {
+          "type": "text",
+          "name": "WEb5c9f2f2f1",
+          "layout": {
+            "width": "290px",
+            "height": "auto",
+            "left": "20px",
+            "top": "4580px",
+            "text-align": "left",
+            "z-index": "1159"
+          },
+          "text": "Car Inconscient et Conscient ne parlent pas le même dialecte, lors du franchissement de la limite d'une instance vers l'autre et sur un désaccord, peut émerger la matérialité de mécanismes de défenses, de verrouillages ou de dysfonctionnements opératoires.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Car Inconscient et Conscient ne parlent pas le même dialecte, lors du franchissement de la limite d'une instance vers l'autre et sur un désaccord, peut émerger la matérialité de mécanismes de défenses, de verrouillages ou de dysfonctionnements opératoires.</span></span>"
+        },
+        {
+          "type": "text",
+          "name": "WE7e2788b284",
+          "layout": {
+            "width": "auto",
+            "left": "680px",
+            "top": "4590px",
+            "height": "auto",
+            "z-index": "1114"
+          },
+          "text": "BESOINS (relationnels)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">BESOINS (relationnels)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE9a6d6d327e",
+          "layout": {
+            "width": "auto",
+            "left": "370px",
+            "top": "4641px",
+            "height": "auto",
+            "z-index": "1091"
+          },
+          "text": "REPARATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">REPARATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "boule cristal",
+          "layout": {
+            "left": "710px",
+            "top": "4671px",
+            "width": "142px",
+            "height": "auto",
+            "z-index": "1060"
+          },
+          "src": "assets/boule-cristal-we1b97ec5bbb-32b7088c.jpg",
+          "href": "projet.html",
+          "label": "Projet"
+        },
+        {
+          "type": "text",
+          "name": "WE9cd533ad49",
+          "layout": {
+            "width": "auto",
+            "left": "530px",
+            "top": "4721px",
+            "height": "auto",
+            "z-index": "1089"
+          },
+          "text": "A-BANDON",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">A-BANDON</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "ampoule 4",
+          "layout": {
+            "left": "290px",
+            "top": "4780px",
+            "width": "139px",
+            "height": "auto",
+            "z-index": "1042"
+          },
+          "src": "assets/ampoule-4-wedcbfbe82d5-ca5f825f.jpg",
+          "href": "creativite.html",
+          "label": "Creativite"
+        },
+        {
+          "type": "image",
+          "name": "tampon",
+          "layout": {
+            "left": "540px",
+            "top": "4800px",
+            "width": "100px",
+            "height": "auto",
+            "z-index": "1068"
+          },
+          "src": "assets/tampon-we1b3b8cc141-f72078ad.jpg",
+          "href": "repetition.html",
+          "label": "Repetition"
+        },
+        {
+          "type": "image",
+          "name": "elephant chapeau",
+          "layout": {
+            "left": "40px",
+            "top": "4810px",
+            "width": "138px",
+            "height": "auto",
+            "z-index": "1124"
+          },
+          "src": "assets/elephant-chapeau-wee708fc99e8-7270c871.jpg",
+          "href": "defense.html",
+          "label": "Defense"
+        },
+        {
+          "type": "text",
+          "name": "WE62c4b97142",
+          "layout": {
+            "width": "auto",
+            "left": "820px",
+            "top": "4811px",
+            "height": "auto",
+            "z-index": "1061"
+          },
+          "text": "PROJET",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PROJET</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "homme fort",
+          "layout": {
+            "left": "720px",
+            "top": "4890px",
+            "width": "160px",
+            "height": "auto",
+            "z-index": "1045"
+          },
+          "src": "assets/homme-fort-we0404947a11-b5e5e202.jpg",
+          "href": "performance.html",
+          "label": "Performance"
+        },
+        {
+          "type": "text",
+          "name": "WE45dc38d0db",
+          "layout": {
+            "width": "auto",
+            "left": "100px",
+            "top": "4970px",
+            "height": "auto",
+            "z-index": "1125"
+          },
+          "text": "DEFENSE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DEFENSE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE041cba76c3",
+          "layout": {
+            "width": "auto",
+            "left": "310px",
+            "top": "4984px",
+            "height": "auto",
+            "z-index": "1043"
+          },
+          "text": "CREATIVITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CREATIVITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE5ad144edb9",
+          "layout": {
+            "width": "auto",
+            "left": "540px",
+            "top": "5010px",
+            "height": "auto",
+            "z-index": "1069"
+          },
+          "text": "REPETITION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">REPETITION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "poisson bonheur",
+          "layout": {
+            "left": "290px",
+            "top": "5080px",
+            "width": "167px",
+            "height": "auto",
+            "z-index": "1092"
+          },
+          "src": "assets/poisson-bonheur-we5ec29172b2-bbbcc8ba.jpg",
+          "href": "bonheur.html",
+          "label": "Ataraxie (bonheur)"
+        },
+        {
+          "type": "image",
+          "name": "direction",
+          "layout": {
+            "left": "30px",
+            "top": "5100px",
+            "width": "174px",
+            "height": "auto",
+            "z-index": "1035"
+          },
+          "src": "assets/direction-we01b1c78b7e-661c9b9a.jpg",
+          "href": "choix.html",
+          "label": "(Non) choix"
+        },
+        {
+          "type": "text",
+          "name": "WE7d31fb7fed",
+          "layout": {
+            "width": "auto",
+            "left": "740px",
+            "top": "5120px",
+            "height": "auto",
+            "z-index": "1046"
+          },
+          "text": "PERFORMANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PERFORMANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "cheval hippocampe",
+          "layout": {
+            "left": "540px",
+            "top": "5130px",
+            "width": "120px",
+            "height": "auto",
+            "z-index": "1072"
+          },
+          "src": "assets/cheval-hippocampe-we3d03dd398d-2970496c.jpg",
+          "href": "imaginaire.html",
+          "label": "Imaginaire"
+        },
+        {
+          "type": "image",
+          "name": "tour eiffel",
+          "layout": {
+            "left": "750px",
+            "top": "5170px",
+            "width": "132px",
+            "height": "auto",
+            "z-index": "1062"
+          },
+          "src": "assets/tour-eiffel-web106d7a049-885ad3b0.jpg",
+          "href": "modele.html",
+          "label": "Modele"
+        },
+        {
+          "type": "text",
+          "name": "WEd9786e091e",
+          "layout": {
+            "width": "auto",
+            "left": "310px",
+            "top": "5185px",
+            "height": "auto",
+            "z-index": "1093"
+          },
+          "text": "ATARAXIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">ATARAXIE<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE536e86df6f",
+          "layout": {
+            "width": "auto",
+            "left": "350px",
+            "top": "5205px",
+            "height": "auto",
+            "z-index": "1094"
+          },
+          "text": "(bonheur)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(bonheur)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE0c86498c22",
+          "layout": {
+            "width": "auto",
+            "left": "20px",
+            "top": "5240px",
+            "height": "auto",
+            "z-index": "1036"
+          },
+          "text": "(non) CHOIX",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(non) CHOIX</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd7c140ab7c",
+          "layout": {
+            "width": "330px",
+            "height": "auto",
+            "left": "170px",
+            "top": "5270px",
+            "text-align": "left",
+            "z-index": "1161"
+          },
+          "text": "Aussi, Inconscient et Conscient ne content pas la même histoire de l'histoire de l'homme ! Les ingrédients de compréhension, les points de vues et les intérêts peuvent différer, ce qui peut susceptiblement engendrer discordance, latence, conflit intérieur, doute ou non choix.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Aussi, Inconscient et Conscient ne content pas la même histoire de l'histoire de l'homme ! Les ingrédients de compréhension, les points de vues et les intérêts peuvent différer, ce qui peut susceptiblement engendrer discordance, latence, conflit intérieur, doute ou non choix.</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "phare",
+          "layout": {
+            "left": "20px",
+            "top": "5320px",
+            "width": "115px",
+            "height": "auto",
+            "z-index": "1007"
+          },
+          "src": "assets/phare-wed3a761e55e-26fa18c7.jpg",
+          "href": "cap.html",
+          "label": "Cap"
+        },
+        {
+          "type": "text",
+          "name": "WE8d177c94c2",
+          "layout": {
+            "width": "auto",
+            "left": "550px",
+            "top": "5342px",
+            "height": "auto",
+            "z-index": "1073"
+          },
+          "text": "IMAGINAIRE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">IMAGINAIRE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEabf7510708",
+          "layout": {
+            "width": "auto",
+            "left": "791px",
+            "top": "5392px",
+            "height": "auto",
+            "z-index": "1063"
+          },
+          "text": "MODELE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">MODELE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "montre",
+          "layout": {
+            "left": "510px",
+            "top": "5460px",
+            "width": "133px",
+            "height": "auto",
+            "z-index": "1003"
+          },
+          "src": "assets/montre-wef325c4d8df-aeb40466.jpg",
+          "href": "procrastination.html",
+          "label": "Procrastination"
+        },
+        {
+          "type": "image",
+          "name": "malle",
+          "layout": {
+            "left": "240px",
+            "top": "5500px",
+            "width": "160px",
+            "height": "auto",
+            "z-index": "1032"
+          },
+          "src": "assets/malle-web1d2e683b7-969e362b.jpg",
+          "href": "deuil.html",
+          "label": "Défaire son deuil"
+        },
+        {
+          "type": "image",
+          "name": "jumelles",
+          "layout": {
+            "left": "740px",
+            "top": "5500px",
+            "width": "152px",
+            "height": "auto",
+            "z-index": "1004"
+          },
+          "src": "assets/jumelles-weba97e16680-28010f47.jpg",
+          "href": "vision.html",
+          "label": "Vision"
+        },
+        {
+          "type": "text",
+          "name": "WEa9b750fed2",
+          "layout": {
+            "width": "auto",
+            "left": "70px",
+            "top": "5554px",
+            "height": "auto",
+            "z-index": "1111"
+          },
+          "text": "CAP",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CAP</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2dccb83907",
+          "layout": {
+            "width": "auto",
+            "left": "790px",
+            "top": "5625px",
+            "height": "auto",
+            "z-index": "1110"
+          },
+          "text": "VISION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">VISION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "couteau",
+          "layout": {
+            "left": "30px",
+            "top": "5630px",
+            "width": "117px",
+            "height": "auto",
+            "z-index": "1086"
+          },
+          "src": "assets/couteau-wef944fc4ccb-c5e9b3d0.jpg",
+          "href": "trahison.html",
+          "label": "Trahison"
+        },
+        {
+          "type": "text",
+          "name": "WEa4e0ce9e9a",
+          "layout": {
+            "width": "auto",
+            "left": "210px",
+            "top": "5630px",
+            "height": "auto",
+            "z-index": "1135"
+          },
+          "text": "(défaire son) DEUIL",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(défaire son) DEUIL<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEbb8fc1d95e",
+          "layout": {
+            "width": "auto",
+            "left": "520px",
+            "top": "5650px",
+            "height": "auto",
+            "z-index": "1033"
+          },
+          "text": "PROCRASTINER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PROCRASTINER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "femme pieuvre",
+          "layout": {
+            "left": "690px",
+            "top": "5700px",
+            "width": "195px",
+            "height": "auto",
+            "z-index": "1105"
+          },
+          "src": "assets/femme-pieuvre-we20941ae912-9ebdcc23.jpg",
+          "href": "dissociation.html",
+          "label": "Dissociation"
+        },
+        {
+          "type": "image",
+          "name": "cygne",
+          "layout": {
+            "left": "210px",
+            "top": "5710px",
+            "width": "172px",
+            "height": "auto",
+            "z-index": "1006"
+          },
+          "src": "assets/cygne-web827024255-addf17b2.jpg",
+          "href": "symptome.html",
+          "label": "Symptome"
+        },
+        {
+          "type": "image",
+          "name": "robinet",
+          "layout": {
+            "left": "460px",
+            "top": "5760px",
+            "width": "149px",
+            "height": "auto",
+            "z-index": "1044"
+          },
+          "src": "assets/robinet-we5a14c6e0d8-b6c5f76c.jpg",
+          "href": "lacher.html",
+          "label": "Lâcher prise"
+        },
+        {
+          "type": "text",
+          "name": "WE83104b2719",
+          "layout": {
+            "width": "auto",
+            "left": "22px",
+            "top": "5780px",
+            "height": "auto",
+            "z-index": "1087"
+          },
+          "text": "TRAHISON",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRAHISON</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7efb822874",
+          "layout": {
+            "width": "auto",
+            "left": "210px",
+            "top": "5860px",
+            "height": "auto",
+            "z-index": "1121"
+          },
+          "text": "SYMPTÔME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SYMPTÔME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEabe5fb0f64",
+          "layout": {
+            "width": "auto",
+            "left": "500px",
+            "top": "5870px",
+            "height": "auto",
+            "z-index": "1049"
+          },
+          "text": "LACHER PRISE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">LACHER PRISE </span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE49ff09d087",
+          "layout": {
+            "width": "auto",
+            "left": "740px",
+            "top": "5887px",
+            "height": "auto",
+            "z-index": "1106"
+          },
+          "text": "DISSOCIATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DISSOCIATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "femme serpent",
+          "layout": {
+            "left": "60px",
+            "top": "5940px",
+            "width": "175px",
+            "height": "auto",
+            "z-index": "1108"
+          },
+          "src": "assets/femme-serpent-we9e4bc9f3ee-66540e46.jpg",
+          "href": "croyance.html",
+          "label": "Croyance"
+        },
+        {
+          "type": "text",
+          "name": "WEec9cdda2df",
+          "layout": {
+            "width": "272px",
+            "height": "auto",
+            "left": "570px",
+            "top": "5950px",
+            "text-align": "right",
+            "z-index": "1160"
+          },
+          "text": "La temporalité et ces enjeux ne sont pas mesurés identiquement par ces deux instances. Il peut ainsi en découler  un décalage jusqu'à la persuasion d'une infinitude par le sujet et ceci au travers de croyances et de limites qu'il s'inflige, le soclant dans sa symptomatologie.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">La temporalité et ces enjeux ne sont pas mesurés identiquement par ces deux instances. Il peut ainsi en découler  un décalage jusqu'à la persuasion d'une infinitude par le sujet et ceci au travers de croyances et de limites qu'il s'inflige, le soclant dans sa symptomatologie.</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "ancre",
+          "layout": {
+            "left": "320px",
+            "top": "5980px",
+            "width": "153px",
+            "height": "auto",
+            "z-index": "1119"
+          },
+          "src": "assets/ancre-we75e539bf52-55c24e6a.jpg",
+          "href": "ancrage.html",
+          "label": "Ancrage"
+        },
+        {
+          "type": "text",
+          "name": "WE1a5259a0d8",
+          "layout": {
+            "width": "auto",
+            "left": "320px",
+            "top": "6076px",
+            "height": "auto",
+            "z-index": "1120"
+          },
+          "text": "ANCRAGE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ANCRAGE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE356ac034f9",
+          "layout": {
+            "width": "auto",
+            "left": "90px",
+            "top": "6130px",
+            "height": "auto",
+            "z-index": "1109"
+          },
+          "text": "CROYANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CROYANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "champignon",
+          "layout": {
+            "left": "250px",
+            "top": "6152px",
+            "width": "119px",
+            "height": "auto",
+            "z-index": "1113"
+          },
+          "src": "assets/champignon-wecc944e22f5-c409cd34.jpg",
+          "href": "couple.html",
+          "label": "Couple (dés-amour)"
+        },
+        {
+          "type": "image",
+          "name": "sirene 1",
+          "layout": {
+            "left": "460px",
+            "top": "6196px",
+            "width": "168px",
+            "height": "auto",
+            "z-index": "1170"
+          },
+          "src": "assets/sirene-1-we8d7ce0010e-e4e60007.jpg",
+          "href": "convoitise.html",
+          "label": "Convoitise (jalousie)"
+        },
+        {
+          "type": "image",
+          "name": "papillon",
+          "layout": {
+            "left": "20px",
+            "top": "6198px",
+            "width": "182px",
+            "height": "auto",
+            "z-index": "1095"
+          },
+          "src": "assets/papillon-wee945caa329-34277979.jpg",
+          "href": "transe-muer.html",
+          "label": "Transe muer (crise)"
+        },
+        {
+          "type": "image",
+          "name": "oiseaux",
+          "layout": {
+            "left": "690px",
+            "top": "6210px",
+            "width": "195px",
+            "height": "auto",
+            "z-index": "1144"
+          },
+          "src": "assets/oiseaux-we94d9914782-8c4dc864.jpg",
+          "href": "accro-affectif.html",
+          "label": "Accro affectif"
+        },
+        {
+          "type": "text",
+          "name": "WEc08cf30efd",
+          "layout": {
+            "width": "auto",
+            "left": "60px",
+            "top": "6310px",
+            "height": "auto",
+            "z-index": "1096"
+          },
+          "text": "TRANSE MUER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">TRANSE MUER<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEf46743651a",
+          "layout": {
+            "width": "auto",
+            "left": "270px",
+            "top": "6320px",
+            "height": "auto",
+            "z-index": "1115"
+          },
+          "text": "COUPLE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"> COUPLE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE6654c36b99",
+          "layout": {
+            "width": "auto",
+            "left": "80px",
+            "top": "6330px",
+            "height": "auto",
+            "z-index": "1118"
+          },
+          "text": "(crise)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(crise)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE92bf1105e6",
+          "layout": {
+            "width": "auto",
+            "left": "730px",
+            "top": "6333px",
+            "height": "auto",
+            "z-index": "1145"
+          },
+          "text": "ACCRO AFFECTIF",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ACCRO AFFECTIF</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEdfcaee124b",
+          "layout": {
+            "width": "auto",
+            "left": "260px",
+            "top": "6340px",
+            "height": "auto",
+            "z-index": "1127"
+          },
+          "text": "(dés-amour)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(dés-amour)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE322b09cded",
+          "layout": {
+            "width": "auto",
+            "left": "480px",
+            "top": "6347px",
+            "height": "auto",
+            "z-index": "1171"
+          },
+          "text": "CONVOITISE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"> CONVOITISE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEfb6a8f1750",
+          "layout": {
+            "width": "auto",
+            "left": "766px",
+            "top": "6354px",
+            "height": "auto",
+            "z-index": "1146"
+          },
+          "text": "(toxic)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(toxic)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7080f20bbc",
+          "layout": {
+            "width": "auto",
+            "left": "490px",
+            "top": "6367px",
+            "height": "auto",
+            "z-index": "1172"
+          },
+          "text": "(jalousie)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(jalousie)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "oreille",
+          "layout": {
+            "left": "770px",
+            "top": "6390px",
+            "width": "116px",
+            "height": "auto",
+            "z-index": "1103"
+          },
+          "src": "assets/oreille-we54b6c11582-4f40e1c9.jpg",
+          "href": "secret.html",
+          "label": "Secret (famille)"
+        },
+        {
+          "type": "image",
+          "name": "homme serpent",
+          "layout": {
+            "left": "10px",
+            "top": "6393px",
+            "width": "78px",
+            "height": "auto",
+            "z-index": "1132"
+          },
+          "src": "assets/homme-serpent-we24796ed3a0-80906c88.jpg",
+          "href": "peur.html",
+          "label": "Peur (désir)"
+        },
+        {
+          "type": "text",
+          "name": "WE3d2078b90b",
+          "layout": {
+            "width": "270px",
+            "height": "auto",
+            "left": "260px",
+            "top": "6420px",
+            "text-align": "left",
+            "z-index": "1158"
+          },
+          "text": "Par ce regard, l'hypnose est un outil communicationnel agissant comme un faciliteur, comme la clé d'une horloge qui remet le mouvement des espaces et du temps dans chaque système.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Par ce regard, l'hypnose est un outil communicationnel agissant comme un faciliteur, comme la clé d'une horloge qui remet le mouvement des espaces et du temps dans chaque système.</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "narcisse oeil",
+          "layout": {
+            "left": "600px",
+            "top": "6427px",
+            "width": "111px",
+            "height": "auto",
+            "z-index": "1128"
+          },
+          "src": "assets/narcisse-oeil-wef5ca0135f3-45c30614.jpg",
+          "href": "narcisse.html",
+          "label": "Narcisse"
+        },
+        {
+          "type": "image",
+          "name": "femme photo",
+          "layout": {
+            "left": "110px",
+            "top": "6480px",
+            "width": "93px",
+            "height": "auto",
+            "z-index": "1122"
+          },
+          "src": "assets/femme-photo-wed8807e0457-3cda81a9.jpg",
+          "href": "phantasme.html",
+          "label": "Phantasme"
+        },
+        {
+          "type": "text",
+          "name": "WE6e0008cb47",
+          "layout": {
+            "width": "auto",
+            "left": "800px",
+            "top": "6570px",
+            "height": "auto",
+            "z-index": "1104"
+          },
+          "text": "SECRET",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">SECRET<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE017a3fb4fa",
+          "layout": {
+            "width": "auto",
+            "left": "790px",
+            "top": "6590px",
+            "height": "auto",
+            "z-index": "1107"
+          },
+          "text": "(famille)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(famille)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "homme cage",
+          "layout": {
+            "left": "260px",
+            "top": "6600px",
+            "width": "91px",
+            "height": "auto",
+            "z-index": "1141"
+          },
+          "src": "assets/homme-cage-we4fa151d754-24c5de0d.jpg",
+          "href": "ideal.html",
+          "label": "Idéal-isthme"
+        },
+        {
+          "type": "text",
+          "name": "WEe7e0fd870d",
+          "layout": {
+            "width": "auto",
+            "left": "620px",
+            "top": "6620px",
+            "height": "auto",
+            "z-index": "1129"
+          },
+          "text": "NARCISSE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">NARCISSE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE650dfddcd7",
+          "layout": {
+            "width": "auto",
+            "left": "20px",
+            "top": "6630px",
+            "height": "auto",
+            "z-index": "1133"
+          },
+          "text": "PEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PEUR</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7ec3e37e47",
+          "layout": {
+            "width": "auto",
+            "left": "10px",
+            "top": "6650px",
+            "height": "auto",
+            "z-index": "1134"
+          },
+          "text": "(désIr)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(désIr)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "oeil pieuvre",
+          "layout": {
+            "left": "430px",
+            "top": "6650px",
+            "width": "114px",
+            "height": "auto",
+            "z-index": "1176"
+          },
+          "src": "assets/oeil-pieuvre-wed720253abb-ba8d17e5.jpg",
+          "href": "solitude.html",
+          "label": "Solitude & conformisme"
+        },
+        {
+          "type": "image",
+          "name": "montre 1",
+          "layout": {
+            "left": "680px",
+            "top": "6690px",
+            "width": "167px",
+            "height": "auto",
+            "z-index": "1163"
+          },
+          "src": "assets/montre-1-wefe222d3340-ea8d2916.jpg",
+          "href": "temps.html",
+          "label": "Le temps (par l’ennui)"
+        },
+        {
+          "type": "text",
+          "name": "WE25570af29f",
+          "layout": {
+            "width": "auto",
+            "left": "120px",
+            "top": "6710px",
+            "height": "auto",
+            "z-index": "1123"
+          },
+          "text": "PHANTASME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PHANTASME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "loup",
+          "layout": {
+            "left": "10px",
+            "top": "6800px",
+            "width": "157px",
+            "height": "auto",
+            "z-index": "1139"
+          },
+          "src": "assets/loup-weed3950d51e-75a98d05.jpg",
+          "href": "contrainte.html",
+          "label": "Double contrainte"
+        },
+        {
+          "type": "text",
+          "name": "WEbc4cfdab98",
+          "layout": {
+            "width": "auto",
+            "left": "672px",
+            "top": "6820px",
+            "height": "auto",
+            "z-index": "1164"
+          },
+          "text": "LE TEMPS (par l'ennui)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">LE TEMPS (par l'ennui)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2536a606b3",
+          "layout": {
+            "width": "auto",
+            "left": "250px",
+            "top": "6828px",
+            "height": "auto",
+            "z-index": "1142"
+          },
+          "text": "IDEAL-ISTHME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">IDEAL-ISTHME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE05ee75d857",
+          "layout": {
+            "width": "auto",
+            "left": "430px",
+            "top": "6860px",
+            "height": "auto",
+            "z-index": "1178"
+          },
+          "text": "SOLITUDE &",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">SOLITUDE &amp;<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEb85c37a1ec",
+          "layout": {
+            "width": "auto",
+            "left": "440px",
+            "top": "6880px",
+            "height": "auto",
+            "z-index": "1177"
+          },
+          "text": "CONFORMISME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">CONFORMISME<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "poisson peigne",
+          "layout": {
+            "left": "610px",
+            "top": "6890px",
+            "width": "222px",
+            "height": "auto",
+            "z-index": "1194"
+          },
+          "src": "assets/poisson-peigne-we386bcd9abb-cd4d6825.jpg",
+          "href": "ambivalence.html",
+          "label": "Ambivalence"
+        },
+        {
+          "type": "text",
+          "name": "WEc2e811257d",
+          "layout": {
+            "width": "auto",
+            "left": "10px",
+            "top": "6933px",
+            "height": "auto",
+            "z-index": "1140"
+          },
+          "text": "(double) CONTRAINTE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(double) CONTRAINTE<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "casque",
+          "layout": {
+            "left": "290px",
+            "top": "6950px",
+            "width": "194px",
+            "height": "auto",
+            "z-index": "1165"
+          },
+          "src": "assets/casque-we67afe30cdd-572ad2da.jpg",
+          "href": "confort.html",
+          "label": "Confort & transgression"
+        },
+        {
+          "type": "text",
+          "name": "WE6e6b30bb75",
+          "layout": {
+            "width": "auto",
+            "left": "660px",
+            "top": "6960px",
+            "height": "auto",
+            "z-index": "1195"
+          },
+          "text": "AMBIVALENCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">AMBIVALENCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "cupidon",
+          "layout": {
+            "left": "10px",
+            "top": "7020px",
+            "width": "183px",
+            "height": "auto",
+            "z-index": "1196"
+          },
+          "src": "assets/cupidon-we1e1ff953ea-cae529ce.jpg",
+          "href": "cupide-on.html",
+          "label": "Cupide-on (la créance)"
+        },
+        {
+          "type": "image",
+          "name": "balance injustice",
+          "layout": {
+            "left": "620px",
+            "top": "7060px",
+            "width": "141px",
+            "height": "auto",
+            "z-index": "1186"
+          },
+          "src": "assets/balance-injustice-wedf48aaeadc-17e8af63.png",
+          "href": "ressentiment.html",
+          "label": "Injustice & ressentiment"
+        },
+        {
+          "type": "text",
+          "name": "WE97d9104d65",
+          "layout": {
+            "width": "auto",
+            "left": "300px",
+            "top": "7073px",
+            "height": "auto",
+            "z-index": "1166"
+          },
+          "text": "(in) CONFORT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(in) CONFORT<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE4fecf29fde",
+          "layout": {
+            "width": "auto",
+            "left": "330px",
+            "top": "7090px",
+            "height": "auto",
+            "z-index": "1168"
+          },
+          "text": "& TRANS-GRESSION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">&amp; TRANS-GRESSION<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE988eec62f6",
+          "layout": {
+            "width": "auto",
+            "left": "50px",
+            "top": "7150px",
+            "height": "auto",
+            "z-index": "1197"
+          },
+          "text": "CUPIDE-ON",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CUPIDE-ON</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE56265a5285",
+          "layout": {
+            "width": "auto",
+            "left": "78px",
+            "top": "7172px",
+            "height": "auto",
+            "z-index": "1199"
+          },
+          "text": "(la créance)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(la créance)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE1ce4c2b257",
+          "layout": {
+            "width": "auto",
+            "left": "569px",
+            "top": "7180px",
+            "height": "auto",
+            "z-index": "1193"
+          },
+          "text": "INJUSTICE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">INJUSTICE<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEcffe1cef6c",
+          "layout": {
+            "width": "auto",
+            "left": "716px",
+            "top": "7180px",
+            "height": "auto",
+            "z-index": "1192"
+          },
+          "text": "RESSENTIMENT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">RESSENTIMENT<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "courbe art nouveau",
+          "layout": {
+            "left": "50%",
+            "top": "7270px",
+            "width": "355px",
+            "height": "auto",
+            "z-index": "1198",
+            "transform": "translateX(-50%)"
+          },
+          "src": "assets/courbe-art-nouveau-ae508b87.jpg",
+          "href": "",
+          "label": "courbe art nouveau"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "title": "frustration",
+  "source": "https://www.hypnosite.fr/frustration.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "615px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "FRUSTRATION"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE6a8714c512",
+          "layout": {
+            "width": "550px",
+            "left": "210px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "3"
+          },
+          "text": "FRUSTRATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">FRUSTRATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE72fb62a274",
+          "layout": {
+            "width": "700px",
+            "height": "auto",
+            "left": "50%",
+            "top": "440px",
+            "color": "#000",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "2",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\" Quand j'avais 6 ans, ma mère me disait que le bonheur était la clé de la vie. A l'école, ils m'ont demandé ce que je souhaiterais faire quand je serais grand. J'ai écrit que je voulais être heureux... ils m'ont dit que je n'avais rien compris à la question... alors je leur ai dit qu'ils n'avaient rien compris à la vie...\"   John LENNON",
+          "html": "<span><span style=\"font-size:18px;\">\" Quand j'avais 6 ans, ma mère me disait que le bonheur était la clé de la vie. A l'école, ils m'ont demandé ce que je souhaiterais faire quand je serais grand. J'ai écrit que je voulais être heureux... ils m'ont dit que je n'avais rien compris à la question... alors je leur ai dit qu'ils n'avaient rien compris à la vie...\"   John LENNON <br/></span><br/> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2101px",
+      "items": [
+        {
+          "type": "image",
+          "name": "cadenas",
+          "layout": {
+            "left": "550px",
+            "top": "60px",
+            "width": "238px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/cadenas-we79deafb732-cdb5b8ba.jpg",
+          "href": "",
+          "label": "cadenas"
+        },
+        {
+          "type": "text",
+          "name": "WEf54c57f352",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "15px",
+            "top": "62px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "La frustration est une réponse pseudo-émotionnelle à l'opposition. Elle a pour rôle de souligner l'insatisfaction. C'est un état mental caractérisé par un déséquilibre entre un désir et sa réalisation du fait qu'il n'est pas (encore) réalisé. Elle place l’individu dans l’attente de la réalisation de quelque chose qui ne se fera pas ou difficilement. Liée à la colère et la déception (tristesse), son origine peut être en relation avec une résistance perçue par la volonté. Ainsi, plus l'obstruction et la volonté de l'individu sont grandes, plus grande sera la frustration. Mais elle peut également être la résultante d'un conflit inconscient. Dans le cas de figure où elle devient une obsession, elle  permet difficilement à l’individu de mener une réflexion claire. Les causes de la frustration peuvent être internes ou externes. Elle peut surgir lors d'un objectif personnel, à travers des désirs fixés, de conduites ou besoins instinctifs, ou durant une lutte contre certains handicaps marquant la limitation des possibilités d'interaction du sujet avec son environnement. Elle peut alors mener à des difficultés psychologiques, intellectuelles, sociales ou physiques. En générant un conflit intérieur, elle est susceptible d'entraîner une instabilité autour de la confiance en soi et faire émerger des ressentis tels que l’impatience, la colère ou la tristesse. En se perçevant comme un problème \"incontrôlé\", le frustré se sent souvent impuissant à changer une situation dans laquelle il est impliqué, conduisant ainsi à une frustration plus grande. Elle peut être comprise également comme le résultat d'un blocage de motivation. L'individu peut réagir de différentes manières. Il peut tenter de l'éviter en tentant de résoudre les problèmes en les surmontant. S'il échoue, le sujet peut devenir frustré et agir d'une manière irrationnelle. La frustration peut être définie comme le résultat de l'impossibilité à accepter ses limites. La frustration peut être considérée comme un état problématique et peut causer un nombre d'impacts psychiques et sociaux aux dépens de la bonne santé mentale. Généralement, le sujet insatisfait percoit la source de sa frustration au-dessus de ses capacités à y faire face causant ainsi des agirs et des ressentis inadaptés. Cela se traduit par des réactions exagérées voire violentes, une souffrance morale, de l'anxiété, etc. La  sensation de blocage et d'impuissance peut générer de l'obsession, de la jalousie, une hyper vigilance, des toxicomanies, un impact sur l'humeur ou encore d'autres comportements limitants. La frustration comprend donc un déséquilibre entre le désir et sa réalisation. La frustration suspend le temps et implique une attente qui doit être satisfaite. Il y a donc dans le désir la marque d'un manque mais en même temps la dimension d'un projet. La satisfaction d'un désir suppose alors la patience du temps.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">La frustration est une réponse pseudo-émotionnelle à l'opposition. Elle a pour rôle de souligner l'insatisfaction. C'est un état mental caractérisé par un déséquilibre entre un désir et sa réalisation du fait qu'il n'est pas (encore) réalisé. Elle place l’individu dans l’attente de la réalisation de quelque chose qui ne se fera pas ou difficilement. Liée à la colère et la déception (tristesse), son origine peut être en relation avec une résistance perçue par la volonté. Ainsi, plus l'obstruction et la volonté de l'individu sont grandes, plus grande sera la frustration. Mais elle peut également être la résultante d'un conflit inconscient. Dans le cas de figure où elle devient une obsession, elle  permet difficilement à l’individu de mener une réflexion claire.  <br/><br/>Les causes de la frustration peuvent être internes ou externes. Elle peut surgir lors d'un objectif personnel, à travers des désirs fixés, de conduites ou besoins instinctifs, ou durant une lutte contre certains handicaps marquant la limitation des possibilités d'interaction du sujet avec son environnement. Elle peut alors mener à des difficultés psychologiques, intellectuelles, sociales ou physiques. En générant un conflit intérieur, elle est susceptible d'entraîner une instabilité autour de la confiance en soi et faire émerger des ressentis tels que l’impatience, la colère ou la tristesse. En se perçevant comme un problème \"incontrôlé\", le frustré se sent souvent impuissant à changer une situation dans laquelle il est impliqué, conduisant ainsi à une frustration plus grande. <br/><br/>Elle peut être comprise également comme le résultat d'un blocage de motivation. L'individu peut réagir de différentes manières. Il peut tenter de l'éviter en tentant de résoudre les problèmes en les surmontant. S'il échoue, le sujet peut devenir frustré et agir d'une manière irrationnelle. La frustration peut être définie comme le résultat de l'impossibilité à accepter ses limites.  <br/><br/>La frustration peut être considérée comme un état problématique et peut causer un nombre d'impacts psychiques et sociaux aux dépens de la bonne santé mentale. Généralement, le sujet insatisfait percoit la source de sa frustration au-dessus de ses capacités à y faire face causant ainsi des agirs et des ressentis inadaptés. Cela se traduit par des réactions exagérées voire violentes, une souffrance morale, de l'anxiété, etc. La  sensation de blocage et d'impuissance peut générer de l'obsession, de la jalousie, une hyper vigilance, des toxicomanies, un impact sur l'humeur ou encore d'autres comportements limitants. <br/><br/>La frustration comprend donc un déséquilibre entre le désir et sa réalisation. La frustration suspend le temps et implique une attente qui doit être satisfaite. Il y a donc dans le désir la marque d'un manque mais en même temps la dimension d'un projet. La satisfaction d'un désir suppose alors la patience du temps. </span><br/> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEd893681567",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "465px",
+            "top": "478px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "Cependant le désir qui répond au plaisir est inconscient à l'inverse du besoin, conscient, qui est de l'ordre de l'autoconservation (sécurité, nourrissage, santé, etc.). Et le désir doit à un moment rencontrer la réalité qu'il essaie de modifier par la pose d'exigences, d'injonctions. Il veut modifier la réalité en autre chose qu'elle n'est pas mais qu'elle doit devenir pour la satisfaire, car le désir nait d'un ancien vécu de plaisir et a pour but de reproduire la satisfaction de cette trace de plaisir originel. On ne peut désirer que ce que l'on a connu, en découle ainsi le manque qui est le désir de quelque chose que l'on a pas ou plus. Le désir est donc issu d'un sentiment de manque. Albert SCHOPENHAUEUR exprimait que le fait de vouloir est toujours engendré par le manque, celui-ci étant identifié à la souffrance. La plénitude qui provient de la satisfaction d'un désir ne peut jamais être complète donc l'émergence de la frustration comme indicateur visible. Dans la mesure où si nous étions pleinement satisfait, alors le désir s'éteindrait. Et nos désirs peuvent être refoulés par notre morale, nos valeurs, notre éducation, notre culture, notre religion. Ils sont en nous et exercent une pression, une pulsion. C'est au travers le manque qui constitue le désir, l'objet perdu de la première satisfaction, que l'on peut déduire que l'être humain se construit grâce au désir et à la frustration qui en découle. D'un regard pragmatique, annihiler sa frustration ëst possible en : soignant sa jalousie, son envie, son orgueil, sa rancune, sa révolte utilisant l'humour et la dérision et l'auto dérision apprenant à vivre intensément le moment présent et l'accepter tel qu'il est assumant, nourrir ses besoins et avoir une vie profonde être à l'écoute de ses ressentis et émotions",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';\"><span style=\"font-size:18px;\">Cependant le désir qui répond au plaisir est inconscient à l'inverse du besoin, conscient, qui est de l'ordre de l'autoconservation (sécurité, nourrissage, santé, etc.). Et le désir doit à un moment rencontrer la réalité qu'il essaie de modifier par la pose d'exigences, d'injonctions. Il veut modifier la réalité en autre chose qu'elle n'est pas mais qu'elle doit devenir pour la satisfaire, car le désir nait d'un ancien vécu de plaisir et a pour but de reproduire la satisfaction de cette trace de plaisir originel. On ne peut désirer que ce que l'on a connu, en découle ainsi le manque qui est le désir de quelque chose que l'on a pas ou plus. Le désir est donc issu d'un sentiment de manque. Albert SCHOPENHAUEUR exprimait que le fait de vouloir est toujours engendré par le manque, celui-ci étant identifié à la souffrance. La plénitude qui provient de la satisfaction d'un désir ne peut jamais être complète donc l'émergence de la frustration comme indicateur visible. Dans la mesure où si nous étions pleinement satisfait, alors le désir s'éteindrait. <br/><br/>Et nos désirs peuvent être refoulés par notre morale, nos valeurs, notre éducation, notre culture, notre religion. Ils sont en nous et exercent une pression, une pulsion. <br/><br/>C'est au travers le manque qui constitue le désir, l'objet perdu de la première satisfaction, que l'on peut déduire que l'être humain se construit grâce au désir et à la frustration qui en découle. <br/></span><br/><span style=\"font-size:18px;\">D'un regard pragmatique, annihiler sa frustration ëst possible en : <br/></span></span><ul><li><span style=\"font-family:'Tox Typewriter';font-size:18px;\">soignant sa jalousie, son envie, son orgueil, sa rancune, sa révolte<br/></span></li><li><span style=\"font-family:'Tox Typewriter';font-size:18px;\">utilisant l'humour et la dérision et l'auto dérision<br/></span></li><li><span style=\"font-family:'Tox Typewriter';font-size:18px;\">apprenant à vivre intensément le moment présent et l'accepter tel qu'il est <br/></span></li><li><span style=\"font-family:'Tox Typewriter';font-size:18px;\">assumant, nourrir ses besoins et avoir une vie profonde <br/></span></li><li><span style=\"font-family:'Tox Typewriter';font-size:18px;\">être à l'écoute de ses ressentis et émotions</span></li></ul><br/> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEbc7176202d",
+          "layout": {
+            "width": "380px",
+            "left": "480px",
+            "top": "1660px",
+            "height": "48px",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "14"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "balance injustice",
+          "layout": {
+            "left": "200px",
+            "top": "1772px",
+            "width": "104px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/balance-injustice-wed4bfd221af-a3960896.png",
+          "href": "ressentiment.html",
+          "label": "RESSENTIMENT"
+        },
+        {
+          "type": "image",
+          "name": "arrosoir",
+          "layout": {
+            "left": "740px",
+            "top": "1780px",
+            "width": "123px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/arrosoir-wefa07560746-93888669.jpg",
+          "href": "besoins.html",
+          "label": "BESOINS"
+        },
+        {
+          "type": "image",
+          "name": "homme serpent",
+          "layout": {
+            "left": "640px",
+            "top": "1782px",
+            "width": "59px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/homme-serpent-we19386c2ea4-1d257c80.jpg",
+          "href": "peur.html",
+          "label": "PEUR"
+        },
+        {
+          "type": "image",
+          "name": "lapin medaille",
+          "layout": {
+            "left": "50px",
+            "top": "1790px",
+            "width": "82px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/lapin-medaille-web4b8166a0d-7b768097.jpg",
+          "href": "legitimite.html",
+          "label": "LEGITIMITE"
+        },
+        {
+          "type": "image",
+          "name": "homme cage",
+          "layout": {
+            "left": "360px",
+            "top": "1790px",
+            "width": "74px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "src": "assets/homme-cage-wed4669a5acc-130d3b76.jpg",
+          "href": "ideal.html",
+          "label": "IDEAL"
+        },
+        {
+          "type": "image",
+          "name": "cerveau 1",
+          "layout": {
+            "left": "490px",
+            "top": "1790px",
+            "width": "97px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/cerveau-1-we0848dda65a-b3ab8783.jpg",
+          "href": "toxicomanie.html",
+          "label": "TOXIC Ô MANIE"
+        },
+        {
+          "type": "text",
+          "name": "WE8e6b34140d",
+          "layout": {
+            "width": "auto",
+            "left": "190px",
+            "top": "1880px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "RESSENTIMENT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">RESSENTIMENT</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE72e57aa73d",
+          "layout": {
+            "width": "auto",
+            "left": "780px",
+            "top": "1888px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "BESOINS",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">BESOINS</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE55d7948b40",
+          "layout": {
+            "width": "auto",
+            "left": "480px",
+            "top": "1902px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "TOXIC Ô MANIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TOXIC Ô MANIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE1107c8dfdf",
+          "layout": {
+            "width": "auto",
+            "left": "40px",
+            "top": "1930px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "text": "LEGITIMITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">LEGITIMITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "casque",
+          "layout": {
+            "left": "170px",
+            "top": "1956px",
+            "width": "135px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "src": "assets/casque-we651ddf7e16-0ee0b414.jpg",
+          "href": "confort.html",
+          "label": "(in) CONFORT"
+        },
+        {
+          "type": "text",
+          "name": "WE0eb98a5332",
+          "layout": {
+            "width": "auto",
+            "left": "650px",
+            "top": "1960px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "PEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PEUR</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE81c5ae0275",
+          "layout": {
+            "width": "auto",
+            "left": "370px",
+            "top": "1980px",
+            "height": "auto",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "16"
+          },
+          "text": "IDEAL",
+          "html": "<span><span style=\"font-size:18px;\">IDEAL </span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE3b7aa9e2e3",
+          "layout": {
+            "width": "auto",
+            "left": "190px",
+            "top": "2040px",
+            "height": "auto",
+            "z-index": "18"
+          },
+          "text": "(in) CONFORT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(in) CONFORT</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

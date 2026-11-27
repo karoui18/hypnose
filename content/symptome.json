@@ -1,0 +1,332 @@
+{
+  "title": "symptome",
+  "source": "https://www.hypnosite.fr/symptome.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "588px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "SYMPTOME"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE06f3e1337c",
+          "layout": {
+            "width": "auto",
+            "left": "383px",
+            "top": "140px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "^",
+          "html": "<span><span style=\"font-size:32px;font-family:'Bad Guy Black';\">^</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7147bea5c9",
+          "layout": {
+            "width": "550px",
+            "left": "200px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "3"
+          },
+          "text": "SYMPTOME",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">SYMPTOME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEdb13e18ec7",
+          "layout": {
+            "width": "550px",
+            "height": "auto",
+            "left": "50%",
+            "top": "430px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "4",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Il serait agréable de penser que la source de nos souffrances réside chez les autres ou, mieux encore, dans la société. En fait, l’origine des conflits est en chacun de nous.\" Maurice TUBIANA",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Il serait agréable de penser que la source de nos souffrances réside chez les autres ou, mieux encore, dans la société. En fait, l’origine des conflits est en chacun de nous.\" Maurice TUBIANA<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1916px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE650bedb18a",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "20px",
+            "top": "20px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "De la polysémie du symptôme, nous allons garder ici le point de vue psychosociologique et le considérer comme la façon particulière dont un individu trouve sa place dans le monde et règle son rapport à celui-ci, en fonction des contraintes et des stimulations psychosociales qui lui parviennent. Le symptôme est un prolongement de la personnalité, qui permet à cette dernière d'appréhender le monde mais aussi de s'en distancier, par un ensemble de protections constitutives dudit symptôme. Il renvoie à l’idée de dysfonctionnement, gênant, bloquant, handicapant. Il renvoie aussi à une situation pathologique ou toxique, c’est à dire dans laquelle le sujet ne peut plus vivre normalement puisqu’il souffre. Cette symptomatologie renvoie à ce dont le sujet va se plaindre, qui le fait souffrir et ce qui le pousse à consulter. Concrètement il se présente comme quelque chose qu’il faut supprimer. La souffrance et la douleur sont des expériences affectives de base qui comportent un caractère désagréable. C‘est aussi une expérience subjective. Alors, le symptôme est il toujours source de souffrance ? M. Erickson, qui malgré sa qualité de médecin, utilisait le concept de l'hypnose dans la gestion des symptômes en ne s’orientant pas sur une introspection des causes des problématiques, mais sur une recherche de leurs résolutions qui mobilise le rôle de leurs expressions symptomatiques. Il favorisait les actions plutôt que les prises de conscience en attribuant, par exemple, des fonctions aux symptômes, d’abord comme des systèmes de défense avec un rôle de protection, puis comme de véritables systèmes de communication. Erickson défendait ainsi leur rôle positif et constructif au sein de la personnalité. Il soutenait ainsi une approche non-pathologique, la légitimité et l’utilité de thérapies de courtes durées, et la pertinence d’un travail sur des symptômes sans nécessairement s’adresser à leurs causes. Il le justifiait par deux remarques : d’une part, de nombreuses personnes ne souhaitent pas s’engager dans une psychothérapie longue avec une recherche introspective ; d’autre part, si des techniques sont disponibles pour favoriser un mieux-être, et si des symptômes de \"substitutions\" sont mieux adaptés et assumés, alors il y a un intérêt éthique à les mobiliser.Ainsi, il se permettait rarement de poser un diagnostic. Il pensait que le symptôme était très souvent un signal, une dialectique singulière que le thérapeute doit alors pouvoir rediriger avec une absence de recherche et de compréhension de son origine. L'esprit Ericksonnien favorise de laisser intime ce discours symptomatique, juste le rediriger afin qu'il trouve positivement résonnance.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">De la polysémie du symptôme, nous allons garder ici le point de vue psychosociologique et le considérer comme la façon particulière dont un individu trouve sa place dans le monde et règle son rapport à celui-ci, en fonction des contraintes et des stimulations psychosociales qui lui parviennent. Le symptôme est un prolongement de la personnalité, qui permet à cette dernière d'appréhender le monde mais aussi de s'en distancier, par un ensemble de protections constitutives dudit symptôme. Il renvoie à l’idée de dysfonctionnement, gênant, bloquant, handicapant. Il renvoie aussi à une situation pathologique ou toxique, c’est à dire dans laquelle le sujet ne peut plus vivre normalement puisqu’il souffre. Cette symptomatologie renvoie à ce dont le sujet va se plaindre, qui le fait souffrir et ce qui le pousse à consulter. Concrètement il se présente comme quelque chose qu’il faut supprimer. La souffrance et la douleur sont des expériences affectives de base qui comportent un caractère désagréable. C‘est aussi une expérience subjective. Alors, le symptôme est il toujours source de souffrance ? <br/><br/>M. Erickson, qui malgré sa qualité de médecin, utilisait le concept de l'hypnose dans la gestion des symptômes en ne s’orientant pas sur une introspection des causes des problématiques, mais sur une recherche de leurs résolutions qui mobilise le rôle de leurs expressions symptomatiques. Il favorisait les actions plutôt que les prises de conscience en attribuant, par exemple, des fonctions aux symptômes, d’abord comme des systèmes de défense avec un rôle de protection, puis comme de véritables systèmes de communication. Erickson défendait ainsi leur rôle positif et constructif au sein de la personnalité. Il soutenait ainsi une approche non-pathologique, la légitimité et l’utilité de thérapies de courtes durées, et la pertinence d’un travail sur des symptômes sans nécessairement s’adresser à leurs causes. Il le justifiait par deux remarques : d’une part, de nombreuses personnes ne souhaitent pas s’engager dans une psychothérapie longue avec une recherche introspective ; d’autre part, si des techniques sont disponibles pour favoriser un mieux-être, et si des symptômes de \"substitutions\" sont mieux adaptés et assumés, alors il y a un intérêt éthique à les mobiliser.Ainsi, il se permettait rarement de poser un diagnostic. Il pensait que le symptôme était très souvent un signal, une dialectique singulière que le thérapeute doit alors pouvoir rediriger avec une absence de recherche et de compréhension de son origine. L'esprit Ericksonnien favorise de laisser intime ce discours symptomatique, juste le rediriger afin qu'il trouve positivement résonnance. <br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "cygne",
+          "layout": {
+            "left": "500px",
+            "top": "40px",
+            "width": "333px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/cygne-we397f023725-7136bc34.jpg",
+          "href": "",
+          "label": "cygne"
+        },
+        {
+          "type": "text",
+          "name": "WEb79f8f7862",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "470px",
+            "top": "412px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "Ce signal psychique et/ou somatique serait indice et substitut d’une possible satisfaction qui n’a pas eu lieu ou d'un manque. C'est le succès mesurable d'un processus inconscient. Il faut alors donner une direction, un sens au symptôme et mettre à jour ce qu’il satisfait. Il renvoie ainsi à l’attente d’un déchiffrage éclairant, d'un contenu latent. Poussons ce regard qui considère le symptôme comme un mode de satisfaction. Cette satisfaction réalisée par le symptôme est un mixte entre d’un coté un désir, et de l’autre une demande. La souffrance psychique qui en résulte est due au conflit entre le désir et la demande. Le symptôme est l’incapacité au désir de répondre à la demande, de cette impossibilité naît la frustration. Il ferait ainsi office d'unificateur entre l'imaginaire et le réel. Il déplace des paroles et des actes conscients en paroles et actes inconscients : phobie, toxicomanie, trouble du comportement, insomnie, anxiété, etc. C'est la marque d'un conflit et paradoxalement, ce conflit est structural mais non adapté socialement. On peut voir le conflit visible à travers son intensité. Le symptôme est donc corrélatif de la vie psychique. Il est une tentative de solution. de la contradiction, du conflit, du non-dit, du trop-dit, du rien, du manque. Parfois il persévère et au travers de sa capacité à résister, il traduit le fait qu'il procure une solution substitutive, pas la plus adaptée ,mais néanmoins structurante et cadrante. Ici, l'hypnose va permettre de définir d'autres supports dialectiques afin d'accéder à la résolution expressionnelle.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Ce signal psychique et/ou somatique serait indice et substitut d’une possible satisfaction qui n’a pas eu lieu ou d'un manque. C'est le succès mesurable d'un processus inconscient. Il faut alors donner une direction, un sens au symptôme et mettre à jour ce qu’il satisfait. Il renvoie ainsi à l’attente d’un déchiffrage éclairant, d'un contenu latent.<br/><br/>Poussons ce regard qui considère le symptôme comme un mode de satisfaction. Cette satisfaction réalisée par le symptôme est un mixte entre d’un coté un désir, et de l’autre une demande. La souffrance psychique qui en résulte est due au conflit entre le désir et la demande. Le symptôme est l’incapacité au désir de répondre à la demande, de cette impossibilité naît la frustration. Il ferait ainsi office d'unificateur entre l'imaginaire et le réel. Il déplace des paroles et des actes conscients en paroles et actes inconscients : phobie, toxicomanie, trouble du comportement, insomnie, anxiété, etc. <br/><br/>C'est la marque d'un conflit et paradoxalement, ce conflit est structural mais non adapté socialement. On peut voir le conflit visible à travers son intensité. Le symptôme est donc corrélatif de la vie psychique. Il est une tentative de solution. de la contradiction, du conflit, du non-dit, du trop-dit, du rien, du manque.<br/><br/> Parfois il persévère et au travers de sa capacité à résister, il traduit le fait qu'il procure une solution substitutive, pas la plus adaptée ,mais néanmoins structurante et cadrante. Ici, l'hypnose va permettre de définir d'autres supports dialectiques afin d'accéder à la résolution expressionnelle. <br/><br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEabddfae24b",
+          "layout": {
+            "width": "420px",
+            "left": "50%",
+            "top": "1510px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "16",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "homme engrenage",
+          "layout": {
+            "left": "770px",
+            "top": "1600px",
+            "width": "96px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "src": "assets/homme-engrenage-wee714b89a50-592d5f1f.jpg",
+          "href": "consciences.html",
+          "label": "CONSCIENCES"
+        },
+        {
+          "type": "image",
+          "name": "singe velo",
+          "layout": {
+            "left": "50px",
+            "top": "1610px",
+            "width": "75px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/singe-velo-wed11d2f8869-6a32feb2.jpg",
+          "href": "comportement.html",
+          "label": "COMPORTEMENT"
+        },
+        {
+          "type": "image",
+          "name": "coeur oeil",
+          "layout": {
+            "left": "170px",
+            "top": "1610px",
+            "width": "84px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/coeur-oeil-we3a31118041-b7160050.jpg",
+          "href": "psychosoma.html",
+          "label": "PSYCHOSOMA"
+        },
+        {
+          "type": "image",
+          "name": "arrosoir",
+          "layout": {
+            "left": "440px",
+            "top": "1640px",
+            "width": "112px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/arrosoir-we52d4d78205-c49b9d22.jpg",
+          "href": "besoins.html",
+          "label": "BESOINS"
+        },
+        {
+          "type": "image",
+          "name": "corset",
+          "layout": {
+            "left": "300px",
+            "top": "1660px",
+            "width": "87px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "src": "assets/corset-we366c8ab676-41b02c5f.jpg",
+          "href": "corps.html",
+          "label": "CORPS"
+        },
+        {
+          "type": "image",
+          "name": "engrenage",
+          "layout": {
+            "left": "610px",
+            "top": "1660px",
+            "width": "91px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/engrenage-wef13cd29cd9-760ed55f.jpg",
+          "href": "systeme.html",
+          "label": "SYSTEME"
+        },
+        {
+          "type": "text",
+          "name": "WEdb98467706",
+          "layout": {
+            "width": "auto",
+            "left": "760px",
+            "top": "1730px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "CONSCIENCES",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CONSCIENCES</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE094bcd4db1",
+          "layout": {
+            "width": "auto",
+            "left": "167px",
+            "top": "1740px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "PSYCHOSOMA",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PSYCHOSOMA</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7c7d9b1f3b",
+          "layout": {
+            "width": "auto",
+            "left": "470px",
+            "top": "1740px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "BESOINS",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">BESOINS </span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEa46fb6eae1",
+          "layout": {
+            "width": "auto",
+            "left": "620px",
+            "top": "1770px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "SYSTEME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SYSTEME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE4170003f97",
+          "layout": {
+            "width": "140px",
+            "height": "auto",
+            "left": "20px",
+            "top": "1780px",
+            "text-align": "center",
+            "z-index": "12"
+          },
+          "text": "COMPORTEMENT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">COMPORTEMENT</span><br/></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEdc7873636b",
+          "layout": {
+            "width": "auto",
+            "left": "340px",
+            "top": "1780px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "CORPS",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CORPS</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

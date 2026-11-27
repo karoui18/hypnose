@@ -1,0 +1,318 @@
+{
+  "title": "ambivalence",
+  "source": "https://www.hypnosite.fr/ambivalence.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "570px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "AMBIVALENCE"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEc0ae7cee54",
+          "layout": {
+            "width": "550px",
+            "left": "200px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "3"
+          },
+          "text": "AMBIVALENCE",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">AMBIVALENCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE79c21898b9",
+          "layout": {
+            "width": "540px",
+            "height": "auto",
+            "left": "50%",
+            "top": "440px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "left",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "4",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Qu'un homme puisse aimer sa femme et surveiller la note de gaz est d'une ambiguïté difficile à supporter.\"   Michel AUDIARD",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Qu'un homme puisse aimer sa femme et surveiller la note de gaz est d'une ambiguïté difficile à supporter.\"   Michel AUDIARD<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1881px",
+      "items": [
+        {
+          "type": "image",
+          "name": "poisson peigne",
+          "layout": {
+            "left": "470px",
+            "top": "60px",
+            "width": "408px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/poisson-peigne-web9d85c8099-4781df24.jpg",
+          "href": "",
+          "label": "poisson peigne"
+        },
+        {
+          "type": "text",
+          "name": "WE88ab552e5b",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "20px",
+            "top": "77px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "Terme composé dans ses racines latines de ambi (deux) et valentia (valeur), se déclinant en  ambiguïté qui est le caractère équivoque de quelque chose ou encore en ambiversion qui précise une personne se situant entre l'introversion et l'extraversion (ces derniers termes étant créés par le psychiatre suisse Carl Gustav JUNG et dont le psychiatre Eugen BLEULER, originaire du concept d'Ambivalence, était un temps le collaborateur). Il exprime pour BLEULER la rencontre conflictuelle entre la pulsion (inconscient) et la raison (conscient). Le conflit de ce croisement génère une tension psychique qui, à but de réduction, implique la mise en œuvre de mécanisme de défense comme le clivage, ingrédient que l'on retrouve prioritairement dans certaines structures psychiques (psychose) et de personnalités (borderline, narcissique). L'ambivalence dans son évolution a donné en psychologie sociale la dissonance cognitive (travaux de Léon FESTINGER en 1957) qui est la recherche d'une réduction de tension interne lorsque nous ressentons un malaise émotionnel. Dans l'ambivalence, on peut voir une réduction notable du libre arbitre car l'objectif premier est de réduire la tension émotionnelle, notamment par une stratégie binaire (clivage). La scission favorise ainsi une économie psychique. On mesure donc un défaut de synthèse de la situation conflictuelle vécue et ressentie qui est la conséquence directe du relâchement associatif, de l'articulation des pensées structurantes, en raison de la scission dans un but de stratégie psychique économique. Pour le psychisme, tout est langage et dans l'ambivalence plus le langage est désorganisé plus le comportement moteur réponse à la désorganisation est rationnel et inadapté. L'exemple type est le champ des addictions. Dans l'ambivalence, il y a un rapport direct avec l'association idéique issue d'affects non conscients (pulsion) face aux compréhensions conscientes (raison). Lors d'une idée directrice, les pensées logiques sont les associations fortes confrontées aux affects qui sont les associations faibles. Lorsque l'affect prend le dessus, il y a alors une inhibition des autres pensées afin de réduire le conflit intrapsychique. L'ambivalence \"pathos\" est une difficulté d'inhibition.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Terme composé dans ses racines latines de ambi (deux) et valentia (valeur), se déclinant en  ambiguïté qui est le caractère équivoque de quelque chose ou encore en ambiversion qui précise une personne se situant entre l'introversion et l'extraversion (ces derniers termes étant créés par le psychiatre suisse Carl Gustav JUNG et dont le psychiatre Eugen BLEULER, originaire du concept d'Ambivalence, était un temps le collaborateur). Il exprime pour BLEULER la rencontre conflictuelle entre la pulsion (inconscient) et la raison (conscient). Le conflit de ce croisement génère une tension psychique qui, à but de réduction, implique la mise en œuvre de mécanisme de défense comme le clivage, ingrédient que l'on retrouve prioritairement dans certaines structures psychiques (psychose) et de personnalités (borderline, narcissique). <br/><br/> L'ambivalence dans son évolution a donné en psychologie sociale la dissonance cognitive (travaux de Léon FESTINGER en 1957) qui est la recherche d'une réduction de tension interne lorsque nous ressentons un malaise émotionnel. Dans l'ambivalence, on peut voir une réduction notable du libre arbitre car l'objectif premier est de réduire la tension émotionnelle, notamment par une stratégie binaire (clivage). La scission favorise ainsi une économie psychique. <br/><br/> On mesure donc un défaut de synthèse de la situation conflictuelle vécue et ressentie qui est la conséquence directe du relâchement associatif, de l'articulation des pensées structurantes, en raison de la scission dans un but de stratégie psychique économique. <br/><br/> Pour le psychisme, tout est langage et dans l'ambivalence plus le langage est désorganisé plus le comportement moteur réponse à la désorganisation est rationnel et inadapté. L'exemple type est le champ des addictions. <br/><br/> Dans l'ambivalence, il y a un rapport direct avec l'association idéique issue d'affects non conscients (pulsion) face aux compréhensions conscientes (raison). Lors d'une idée directrice, les pensées logiques sont les associations fortes confrontées aux affects qui sont les associations faibles. Lorsque l'affect prend le dessus, il y a alors une inhibition des autres pensées afin de réduire le conflit intrapsychique. L'ambivalence \"pathos\" est une difficulté d'inhibition.  <br/> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEaf50d16db3",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "470px",
+            "top": "248px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "14"
+          },
+          "text": "Aussi, l'ambivalence affective se réfère au fait qu'une même représentation donne lieu simultanément à des sentiments positifs et négatifs. On peut comprendre également l'ambivalence comme un régulateur de l'angoisse, ceci en dépolarisant un affect tensionnel, générant ainsi une scission soulageante. Et si l'ambivalence est trop intense, il y aura un renforcement des mécanismes de défense comme le clivage, le déni, le refoulement ou encore l'annulation rétroactive qui consiste à exprimer un ressenti et l'annuler juste derrière ou la sublimation qui consiste à un déplacement de la pulsion vers un agir acceptable et accessible, amenant autant de satisfaction que l'optique initial. Ces processus inconscients et autonomes favorisent ainsi le retour à une stabilité émotionnelle. Dans une dimension plus consciente, la dénégation favorise une réduction des ressentis désagréables en déniant une partie et en valorisant une autre. L'ambivalence est donc un processus psychique faisant appel à nos instances tant conscientes qu'inconscientes, dans le but de nous apporter une stabilité de fonctionnement et en réduisant les conflits d'instances. Mais ce procédé peut \"s'enflammer\" et générer plus de tensions qu'il y avait initialement, la culpabilité en retour est un juste indicateur de cette désorganisation. Pour les neurosciences, l'ambivalence peut être comprise comme un phénomène cérébro-structurel. En effet cela pourrait être des lacunes d'inhibitions entre certaines zones neuro-cérébrales comme l'amygdale (peur et anxiété), le système limbique (cerveau des émotions) et les aires orbito frontales (rationalisation, stratégie cognitive) : les aires frontales gauches sont le siège des émotions agréables et de la gratification, les aires frontales droites favorisent les réponses cognitives autour de l'évitement. Dans une harmonie de fonctionnement, il y a un subtil jeu d'inhibition et d'activation de ces aires favorisant une réponse cohérente et adaptée. Mais une dysrégulation peut favoriser le sentiment d'ambivalence.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Aussi, l'ambivalence affective se réfère au fait qu'une même représentation donne lieu simultanément à des sentiments positifs et négatifs. <br/><br/> On peut comprendre également l'ambivalence comme un régulateur de l'angoisse, ceci en dépolarisant un affect tensionnel, générant ainsi une scission soulageante. Et si l'ambivalence est trop intense, il y aura un renforcement des mécanismes de défense comme le clivage, le déni, le refoulement ou encore l'annulation rétroactive qui consiste à exprimer un ressenti et l'annuler juste derrière ou la sublimation qui consiste à un déplacement de la pulsion vers un agir acceptable et accessible, amenant autant de satisfaction que l'optique initial. Ces processus inconscients et autonomes favorisent ainsi le retour à une stabilité émotionnelle. Dans une dimension plus consciente, la dénégation favorise une réduction des ressentis désagréables en déniant une partie et en valorisant une autre.  <br/><br/> L'ambivalence est donc un processus psychique faisant appel à nos instances tant conscientes qu'inconscientes, dans le but de nous apporter une stabilité de fonctionnement et en réduisant les conflits d'instances. Mais ce procédé peut \"s'enflammer\" et générer plus de tensions qu'il y avait initialement, la culpabilité en retour est un juste indicateur de cette désorganisation. <br/><br/> Pour les neurosciences, l'ambivalence peut être comprise comme un phénomène cérébro-structurel. En effet cela pourrait être des lacunes d'inhibitions entre certaines zones neuro-cérébrales comme l'amygdale (peur et anxiété), le système limbique (cerveau des émotions) et les aires orbito frontales (rationalisation, stratégie cognitive) : les aires frontales gauches sont le siège des émotions agréables et de la gratification, les aires frontales droites favorisent les réponses cognitives autour de l'évitement. Dans une harmonie de fonctionnement, il y a un subtil jeu d'inhibition et d'activation de ces aires favorisant une réponse cohérente et adaptée. Mais une dysrégulation peut favoriser le sentiment d'ambivalence. <br/> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE3cb143c53e",
+          "layout": {
+            "width": "340px",
+            "left": "50%",
+            "top": "1540px",
+            "height": "auto",
+            "text-align": "center",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "9",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "pingouin",
+          "layout": {
+            "left": "57px",
+            "top": "1625px",
+            "width": "57px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "src": "assets/pingouin-we7cd74c05e4-9dc174d3.jpg",
+          "href": "culpabilite.html",
+          "label": "CULPABILITE"
+        },
+        {
+          "type": "image",
+          "name": "loup",
+          "layout": {
+            "left": "730px",
+            "top": "1627px",
+            "width": "114px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/loup-we2b93d0c1c3-98eebb5c.jpg",
+          "href": "contrainte.html",
+          "label": "DOUBLE CONTRAINTE"
+        },
+        {
+          "type": "image",
+          "name": "lapin medaille",
+          "layout": {
+            "left": "580px",
+            "top": "1632px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/lapin-medaille-wea78ec38b74-dca18607.jpg",
+          "href": "legitimite.html",
+          "label": "LEGITIMITE"
+        },
+        {
+          "type": "image",
+          "name": "direction",
+          "layout": {
+            "left": "160px",
+            "top": "1642px",
+            "width": "101px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/direction-wefe5682fe6f-645084d5.jpg",
+          "href": "choix.html",
+          "label": "NON CHOIX"
+        },
+        {
+          "type": "image",
+          "name": "homme cage",
+          "layout": {
+            "left": "450px",
+            "top": "1642px",
+            "width": "63px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/homme-cage-we5415c21bbc-9e1f32e2.jpg",
+          "href": "ideal.html",
+          "label": "IDEAL"
+        },
+        {
+          "type": "image",
+          "name": "cadenas",
+          "layout": {
+            "left": "320px",
+            "top": "1660px",
+            "width": "74px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/cadenas-we20101fb1d0-090d1b44.jpg",
+          "href": "frustration.html",
+          "label": "FRUSTRATION"
+        },
+        {
+          "type": "text",
+          "name": "WEcdbc362f28",
+          "layout": {
+            "width": "auto",
+            "left": "170px",
+            "top": "1720px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "text": "NON CHOIX",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">NON CHOIX<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE9744153a5e",
+          "layout": {
+            "width": "auto",
+            "left": "710px",
+            "top": "1722px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "DOUBLE CONTRAINTE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DOUBLE CONTRAINTE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE5dc53534f5",
+          "layout": {
+            "width": "auto",
+            "left": "560px",
+            "top": "1762px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "LEGITIMITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">LEGITIMITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7dba79e0e1",
+          "layout": {
+            "width": "auto",
+            "left": "30px",
+            "top": "1772px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "text": "CULPABILITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CULPABILITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE4e32315058",
+          "layout": {
+            "width": "auto",
+            "left": "300px",
+            "top": "1772px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "FRUSTRATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">FRUSTRATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd4b3edb8fe",
+          "layout": {
+            "width": "auto",
+            "left": "460px",
+            "top": "1802px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "IDEAL",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">IDEAL</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

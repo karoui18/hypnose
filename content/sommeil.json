@@ -1,0 +1,328 @@
+{
+  "title": "Le sommeil",
+  "source": "https://www.hypnosite.fr/sommeil.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "600px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "SOMMEIL"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEddca4710f2",
+          "layout": {
+            "width": "260px",
+            "left": "210px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "SOMMEIL",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">SOMMEIL</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEb8fbe074ec",
+          "layout": {
+            "width": "440px",
+            "height": "auto",
+            "left": "50%",
+            "top": "440px",
+            "font-size": "18px",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Si le sommeil ne séparait pas les couples, il y aurait deux fois plus de divorces.\" Philippe BOUVARD",
+          "html": "<span>\"Si le sommeil ne séparait pas les couples, il y aurait deux fois plus de divorces.\" Philippe BOUVARD</span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "3302px",
+      "items": [
+        {
+          "type": "image",
+          "name": "lune",
+          "layout": {
+            "left": "560px",
+            "top": "-10px",
+            "width": "237px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/lune-web75ffc46e2-e1881b9f.jpg",
+          "href": "",
+          "label": "lune"
+        },
+        {
+          "type": "text",
+          "name": "WE1d8c070df7",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "20px",
+            "top": "20px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'OldNewspaperTypes'",
+            "z-index": "2"
+          },
+          "text": "Le sommeil, car il est pluriforme, mérite une attention certaine. Il fait partie du fonctionnement biologique de l’homme qui lui permet de se maintenir en bonne santé. Cependant, il reste un évènement singulier et sensible. Il est vécu, en fonction des évènements de vie, totalement différemment d’un jour à l’autre : il se dérègle, il se fractionne, il n’est pas, il est trop. Tout en étant le support de la rêverie, il peut faire peur, être appréhendé et n’amène aucune certitude que la bonne forme sera présente à son réveil. Quand il n’est pas présent, c’est une période de doute, de questionnement, de rumination, d’angoisse, peut être de solitude. Si le sommeil est un besoin vital, il peut devenir un symptôme, signe de mauvais fonctionnement biologique ou d’un état psychologique fragile. On parle d’insomnie soit lors que l’on a une difficulté à s’endormir à l’heure du coucher, soit lorsque l’on fait des réveils nocturnes fréquents ou prolongés, soit enfin quand on se réveille prématurément le matin avec une incapacité à retrouver le sommeil. Une personne peut souffrir d’un mélange de ces symptômes, ou encore peut changer avec le temps de symptômes. Il existe deux types d’insomnie selon la classification internationale des troubles du sommeil. La première s’appelle insomnie aiguë transitoire, c’est-à-dire qu’elle se répète au moins trois nuits par semaine, dure moins d’un mois et ne va pas perdurer dans le temps. Elle consiste en une difficulté à s’endormir le soir (temps d’endormissement supérieur à 20 minutes) et/ou des réveils nocturnes et/ou des réveils plus précoces le matin. En plus des symptômes nocturnes, on retrouve des symptômes diurnes, c’est-à-dire qui surviennent la journée, comme une fatigue ou une somnolence excessive. La perturbation de sommeil survient malgré une opportunité et des circonstances de sommeil adéquates. Les difficultés de sommeil ne doivent pas être en lien avec la prise d’une substance toxique. La seconde se nomme insomnie chronique, elle reprend les mêmes critères que l’insomnie aiguë sauf qu’elle dure plus de trois mois. Donc, prendre plus de 20 minutes pour s’endormir, ou passer plus de 30 minutes éveillé au milieu de la nuit, avec une durée de sommeil inférieur à 6 heures 30 par nuit représente un possible problème d’insomnie. Les troubles du sommeil comprennent les parasomnies. Ce sont des événements indésirables qui surviennent pendant le sommeil et qui impliquent souvent des comportements complexes et orientés vers un but. Elles se manifestent après l’endormissement, pendant le sommeil ou au moment de l’éveil. Les parasomnies sont une manifestation des états dissociés de sommeil, qui sont un mélange ou une superposition de l’état de veille et du sommeil profond non paradoxal. De façon générale, l’individu n’a pas conscience de ces comportements et ne s’en souvient pas au réveil (sauf pour les cauchemars). D'une première compréhension, Le sommeil est soumis à des contraintes horaires. Le cerveau suit un rythme interne qui prévoit une fenêtre biologique spécifique pour le sommeil. En dehors de cette fenêtre, il devient plus compliqué de s'endormir et plus facile de voir son sommeil perturbé. Ce sont les rythmes circadiens qui déterminent ce rythme interne. le sujet peut ss coucher à une heure raisonnable alors que son cerveau est toujours en « mode jour ». Ce que de nombreuses personnes qualifient d'insomnie est en fait souvent un sommeil mal synchronisé : l'horloge indique qu'il est tard mais le corps n'est pas encore entré dans sa nuit biologique. Un phénomène contemporain courant est le jet-lag social : se réveiller tôt la semaine, plus tard le week-end, puis recommencer ce cycle. D'un point de vue biologique, cela revient à traverser des fuseaux horaires tous les deux ou trois jours. L'horloge interne ne parvient jamais à se stabiliser. De nombreuses personnes ne manquent pas de sommeil, elles essaient de dormir alors que leur horloge biologique est encore déréglée. À long terme, ce dérèglement a été associé à des risques cardiométaboliques accrus. Puis il y a les perturbations dans le sommeil comme les cauchemars qui interviennent en général en fin de nuit, quand le sommeil paradoxal présente la plus grande amplitude. Les accès sont en général causés par un événement traumatisant (accident, agression, forte anxiété…), mais peuvent aussi être causés par un trouble de la personnalité ou encore un sevrage de drogue. Comme toutes les parasomnies, les cauchemars surtout répétitifs sont beaucoup plus fréquents pendant l’enfance, même s’ils perdurent parfois chez l’adulte surtout chez les personnes très sensibles aux évènements. Ces phénomènes sont très différents des terreurs nocturnes. La personne se réveille, par exemple, en gardant un souvenir intense de son cauchemar et a du mal à se rendormir. Elle est capable d’identifier la cause de ce qu’elle ressent. C'est un évènement émotionnellement intense.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);\"><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Le sommeil, car il est pluriforme, mérite une attention certaine. Il fait partie du fonctionnement biologique de l’homme qui lui permet de se maintenir en bonne santé. Cependant, il reste un évènement singulier et sensible. Il est vécu, en fonction des évènements de vie, totalement différemment d’un jour à l’autre : il se dérègle, il se fractionne, il n’est pas, il est trop. Tout en étant le support de la rêverie, il peut faire peur, être appréhendé et n’amène aucune certitude que la bonne forme sera présente à son réveil. Quand il n’est pas présent, c’est une période de doute, de questionnement, de rumination, d’angoisse, peut être de solitude. Si le sommeil est un besoin vital, il peut devenir un symptôme, signe de mauvais fonctionnement biologique ou d’un état psychologique fragile. </span><br/><br/><span style=\"font-family:'Tox Typewriter';font-size:18px;\">On parle d’insomnie soit lors que l’on a une difficulté à s’endormir à l’heure du coucher, soit lorsque l’on fait des réveils nocturnes fréquents ou prolongés, soit enfin quand on se réveille prématurément le matin avec une incapacité à retrouver le sommeil. Une personne peut souffrir d’un mélange de ces symptômes, ou encore peut changer avec le temps de symptômes. <br/><br/>Il existe deux types d’insomnie selon la classification internationale des troubles du sommeil. La première s’appelle insomnie aiguë transitoire, c’est-à-dire qu’elle se répète au moins trois nuits par semaine, dure moins d’un mois et ne va pas perdurer dans le temps. Elle consiste en une difficulté à s’endormir le soir (temps d’endormissement supérieur à 20 minutes) et/ou des réveils nocturnes et/ou des réveils plus précoces le matin. En plus des symptômes nocturnes, on retrouve des symptômes diurnes, c’est-à-dire qui surviennent la journée, comme une fatigue ou une somnolence excessive. La perturbation de sommeil survient malgré une opportunité et des circonstances de sommeil adéquates. Les difficultés de sommeil ne doivent pas être en lien avec la prise d’une substance toxique. La seconde se nomme insomnie chronique, elle reprend les mêmes critères que l’insomnie aiguë sauf qu’elle dure plus de trois mois. Donc, prendre plus de 20 minutes pour s’endormir, ou passer plus de 30 minutes éveillé au milieu de la nuit, avec une durée de sommeil inférieur à 6 heures 30 par nuit représente un possible problème d’insomnie. <br/></span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"><br/>Les troubles du sommeil comprennent les parasomnies. Ce sont des événements indésirables qui surviennent pendant le sommeil et qui impliquent souvent des comportements complexes et orientés vers un but. Elles se manifestent après l’endormissement, pendant le sommeil ou au moment de l’éveil. Les parasomnies sont une manifestation des états dissociés de sommeil, qui sont un mélange ou une superposition de l’état de veille et du sommeil profond non paradoxal. De façon générale, l’individu n’a pas conscience de ces comportements et ne s’en souvient pas au réveil (sauf pour les cauchemars). <br/><br/>D'une première compréhension, Le sommeil est soumis à des contraintes horaires. Le cerveau suit un rythme interne qui prévoit une fenêtre biologique spécifique pour le sommeil. En dehors de cette fenêtre, il devient plus compliqué de s'endormir et plus facile de voir son sommeil perturbé. Ce sont les rythmes circadiens qui déterminent ce rythme interne. le sujet peut ss coucher à une heure raisonnable alors que son cerveau est toujours en « mode jour ». Ce que de nombreuses personnes qualifient d'insomnie est en fait souvent un sommeil mal synchronisé : l'horloge indique qu'il est tard mais le corps n'est pas encore entré dans sa nuit biologique.  <br/><br/> Un phénomène contemporain courant est le jet-lag social : se réveiller tôt la semaine, plus tard le week-end, puis recommencer ce cycle. D'un point de vue biologique, cela revient à traverser des fuseaux horaires tous les deux ou trois jours. L'horloge interne ne parvient jamais à se stabiliser. De nombreuses personnes ne manquent pas de sommeil, elles essaient de dormir alors que leur horloge biologique est encore déréglée. À long terme, ce dérèglement a été associé à des risques cardiométaboliques accrus.  <br/> <br/><br/>Puis il y a les perturbations dans le sommeil comme les cauchemars qui interviennent en général en fin de nuit, quand le sommeil paradoxal présente la plus grande amplitude. Les accès sont en général causés par un événement traumatisant (accident, agression, forte anxiété…), mais peuvent aussi être causés par un trouble de la personnalité ou encore un sevrage de drogue. Comme toutes les parasomnies, les cauchemars surtout répétitifs sont beaucoup plus fréquents pendant l’enfance, même s’ils perdurent parfois chez l’adulte surtout chez les personnes très sensibles aux évènements. Ces phénomènes sont très différents des terreurs nocturnes. La personne se réveille, par exemple, en gardant un souvenir intense de son cauchemar et a du mal à se rendormir. Elle est capable d’identifier la cause de ce qu’elle ressent. C'est un évènement émotionnellement intense.<br/><br/></span></span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"><br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEfc2b763c37",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "460px",
+            "top": "460px",
+            "color": "#632423",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'OldNewspaperTypes'",
+            "z-index": "3"
+          },
+          "text": "Egalement, le bruxisme qui est caractérisé par un grincement des dents pendant le sommeil lent léger. Il s’agit d’une manifestation banale chez l’enfant. Les causes du bruxisme sont mal connues, mais on peut l’expliquer par un excès de \"stress\". Il est difficile de diagnostiquer un bruxisme si l’entourage ne s’en aperçoit pas, mais des migraines ou des douleurs à la mâchoire en sont les principaux signaux. Un diagnostic définitif ne pourra être posé qu’avec des tests nocturnes. S’il est d’origine anxieux, on pourra bien sûr l’atténuer considérablement en diminuant l’anxiété. Plus rare, l'hyperphagie nocturne est caractérisé par l'ingestion de plus de 25% de l'apport calorique quotidien après le repas du soir ou par l'alimentation pendant la nuit 2 fois ou plus par semaine. Les personnes atteintes ont souvent l'impression qu'il leur sera impossible de trouver le sommeil si elles ne mangent pas. Plusieurs d'entre elles ont des troubles du sommeil et n'ont pas faim le matin, ce qui peut se prolonger jusqu'en milieu de journée. Le fait de se lever la nuit peut avoir une origine physique, comme un problème métabolique. Mais l'hyperphagie nocturne peut révéler un problème psychologique. Et en effet, des troubles de l'humeur, une dépression, un stress post-traumatique ou encore une grande anxiété peuvent se traduire par des accès de boulimie nocturne. Ces personnes tendent, donc, à se réfugier dans la nourriture. Cette boulimie nocturne est également récurrente chez certains insomniaques. Le somnambulisme est un état entre l’éveil et le sommeil. Il conjugue des caractéristiques propres à l’éveil, c’est-à-dire, l’activité des membres responsables du mouvement du corps, et des caractéristiques propres au sommeil, c’est-à-dire, l’inactivité de la conscience. En clair, les somnambules exercent des mouvements et accomplissent des actes, mais ils n’ont pas conscience de ce qu’ils font. La première des conséquences du somnambulisme est la fatigue induite par ces nuits marginales. En effet, le somnambule dort moins bien que les dormeurs lambda, étant donné que ses nuits sont agitées. Aussi, la somniloquie est le fait de parler pendant le sommeil. Ces accès peuvent intervenir en sommeil léger ou en sommeil paradoxal, même si le discours est beaucoup plus élaboré pendant la phase de sommeil paradoxal. La somniloquie peut être isolée ou associée à d’autres parasomnies. Ce phénomène est généralement causé par le stress, la fièvre ou les changements brutaux dans la vie. La personne ne garde aucun souvenir de son discours. Encore dans les parasmonies, le trouble dissociatif lié au sommeil, l'énurésie,  la catathrénie, le syndrome de la tête qui explose, les hallucinations liées au sommeil (hallucinations hypnagogiques, hallucinations hypnopompiques) ou encore le trouble du comportement sexuel lié au sommeil ou sexsomnie. Les troubles du sommeil ont toujours un retentissement sur la qualité de vie en journée, puis sur la santé : fatigue, irritabilité, troubles de l’humeur, de la mémoire ou de la concentration, etc. Derrière les troubles du sommeil, des éléments hors du champ de la conscience, inconnus de la réflexion ou de la logique sont souvent des déclencheurs. Occasionnels ou transitoires, les troubles du sommeil sont liés à un événement particulier ou à un environnement perturbant. Chroniques et évoluant sur des mois voire des années, leurs causes sont alors le plus souvent psychologiques. Si l’anxiété, le stress ou la dépression sont à l’origine de la plupart des insomnies, d’autres sont dues à des erreurs d’hygiène de vie ou des causes environnementales : un rythme de vie irrégulier ou un environnement bruyant, par exemple, déstructurent le sommeil. Il se passe donc une pléthore d’évènements autour de lui pour qu’il soit (ou pas).  En hypnose, il peut arriver qu’une partie du travail porte sur d’autres sujets, qui pourraient impacter le sommeil comme le stress, les émotions, l’anxiété, etc. C’est alors ces changements que vous pourrez remarquer dans d’autres domaines qui réguleront naturellement votre sommeil.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-size:18px;font-family:'Tox Typewriter';\"><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Egalement, le bruxisme qui est caractérisé par un grincement des dents pendant le sommeil lent léger. Il s’agit d’une manifestation banale chez l’enfant. Les causes du bruxisme sont mal connues, mais on peut l’expliquer par un excès de \"stress\". Il est difficile de diagnostiquer un bruxisme si l’entourage ne s’en aperçoit pas, mais des migraines ou des douleurs à la mâchoire en sont les principaux signaux. Un diagnostic définitif ne pourra être posé qu’avec des tests nocturnes. S’il est d’origine anxieux, on pourra bien sûr l’atténuer considérablement en diminuant l’anxiété.<br/><br/>Plus rare, l'hyperphagie nocturne est caractérisé par l'ingestion de plus de 25% de l'apport calorique quotidien après le repas du soir ou par l'alimentation pendant la nuit 2 fois ou plus par semaine. Les personnes atteintes ont souvent l'impression qu'il leur sera impossible de trouver le sommeil si elles ne mangent pas. Plusieurs d'entre elles ont des troubles du sommeil et n'ont pas faim le matin, ce qui peut se prolonger jusqu'en milieu de journée. Le fait de se lever la nuit peut avoir une origine physique, comme un problème métabolique. Mais l'hyperphagie nocturne peut révéler un problème psychologique. Et en effet, des troubles de l'humeur, une dépression, un stress post-traumatique ou encore une grande anxiété peuvent se traduire par des accès de boulimie nocturne. Ces personnes tendent, donc, à se réfugier dans la nourriture. Cette boulimie nocturne est également récurrente chez certains insomniaques.<br/><br/>Le somnambulisme est un état entre l’éveil et le sommeil. Il conjugue des caractéristiques propres à l’éveil, c’est-à-dire, l’activité des membres responsables du mouvement du corps, et des caractéristiques propres au sommeil, c’est-à-dire, l’inactivité de la conscience. En clair, les somnambules exercent des mouvements et accomplissent des actes, mais ils n’ont pas conscience de ce qu’ils font. La première des conséquences du somnambulisme est la fatigue induite par ces nuits marginales. En effet, le somnambule dort moins bien que les dormeurs lambda, étant donné que ses nuits sont agitées.<br/><br/>Aussi, la somniloquie est le fait de parler pendant le sommeil. Ces accès peuvent intervenir en sommeil léger ou en sommeil paradoxal, même si le discours est beaucoup plus élaboré pendant la phase de sommeil paradoxal. La somniloquie peut être isolée ou associée à d’autres parasomnies. Ce phénomène est généralement causé par le stress, la fièvre ou les changements brutaux dans la vie. La personne ne garde aucun souvenir de son discours.<br/> <br/></span>Encore dans les parasmonies, le trouble dissociatif lié au sommeil, l'énurésie,  la catathrénie, le syndrome de la tête qui explose, les hallucinations liées au sommeil (hallucinations hypnagogiques, hallucinations hypnopompiques) ou encore le trouble du comportement sexuel lié au sommeil ou sexsomnie.<br/><br/>Les troubles du sommeil ont toujours un retentissement sur la qualité de vie en journée, puis sur la santé : fatigue, irritabilité, troubles de l’humeur, de la mémoire ou de la concentration, etc. Derrière les troubles du sommeil, des éléments hors du champ de la conscience, inconnus de la réflexion ou de la logique sont souvent des déclencheurs. Occasionnels ou transitoires, les troubles du sommeil sont liés à un événement particulier ou à un environnement perturbant. Chroniques et évoluant sur des mois voire des années, leurs causes sont alors le plus souvent psychologiques.<br/><br/>Si l’anxiété, le stress ou la dépression sont à l’origine de la plupart des insomnies, d’autres sont dues à des erreurs d’hygiène de vie ou des causes environnementales : un rythme de vie irrégulier ou un environnement bruyant, par exemple, déstructurent le sommeil. <br/><br/></span><span style=\"font-family:'Tox Typewriter';color:rgb(0, 0, 0);font-size:18px;\">Il se passe donc une pléthore d’évènements autour de lui pour qu’il soit (ou pas).  En hypnose, il peut arriver qu’une partie du travail porte sur d’autres sujets, qui pourraient impacter le sommeil comme le stress, les émotions, l’anxiété, etc. C’est alors ces changements que vous pourrez remarquer dans d’autres domaines qui réguleront naturellement votre sommeil. </span><br/> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE6b776e9a2a",
+          "layout": {
+            "width": "390px",
+            "left": "50%",
+            "top": "2900px",
+            "height": "48px",
+            "text-align": "center",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "16",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "chaton",
+          "layout": {
+            "left": "48px",
+            "top": "3010px",
+            "width": "78px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/chaton-wea0623470cb-63fef30e.jpg",
+          "href": "abandon.html",
+          "label": "A-BANDON"
+        },
+        {
+          "type": "image",
+          "name": "cerveau 1",
+          "layout": {
+            "left": "460px",
+            "top": "3010px",
+            "width": "99px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/cerveau-1-wef5975db063-2583863c.jpg",
+          "href": "toxicomanie.html",
+          "label": "TOXICOMANIE"
+        },
+        {
+          "type": "image",
+          "name": "cygne",
+          "layout": {
+            "left": "738px",
+            "top": "3030px",
+            "width": "116px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "src": "assets/cygne-web5360f6b75-261232cc.jpg",
+          "href": "symptome.html",
+          "label": "SYMPTÔME"
+        },
+        {
+          "type": "image",
+          "name": "microscope",
+          "layout": {
+            "left": "178px",
+            "top": "3040px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/microscope-we19c1731333-34b59147.jpg",
+          "href": "anxiete.html",
+          "label": "ANXIETE"
+        },
+        {
+          "type": "image",
+          "name": "chien",
+          "layout": {
+            "left": "298px",
+            "top": "3070px",
+            "width": "118px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/chien-weec1c2445d8-c9f0ddb2.jpg",
+          "href": "thymie.html",
+          "label": "(humeur)"
+        },
+        {
+          "type": "image",
+          "name": "robinet",
+          "layout": {
+            "left": "598px",
+            "top": "3100px",
+            "width": "105px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/robinet-we9d8735189a-8787eb1b.jpg",
+          "href": "lacher.html",
+          "label": "LACHER"
+        },
+        {
+          "type": "text",
+          "name": "WE0fc40b2a9d",
+          "layout": {
+            "width": "auto",
+            "left": "458px",
+            "top": "3129px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "TOXICOMANIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TOXICOMANIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7191a2f6a6",
+          "layout": {
+            "width": "auto",
+            "left": "748px",
+            "top": "3140px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "SYMPTÔME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SYMPTÔME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEe6da6c5adf",
+          "layout": {
+            "width": "auto",
+            "left": "48px",
+            "top": "3160px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "A-BANDON",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">A-BANDON</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE5c16a6f859",
+          "layout": {
+            "width": "auto",
+            "left": "178px",
+            "top": "3180px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "ANXIETE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ANXIETE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE6cb06eaf60",
+          "layout": {
+            "width": "auto",
+            "left": "348px",
+            "top": "3180px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "THYMIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">THYMIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEb7d0e794c6",
+          "layout": {
+            "width": "auto",
+            "left": "628px",
+            "top": "3190px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "LACHER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">LACHER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE40f5647d58",
+          "layout": {
+            "width": "auto",
+            "left": "368px",
+            "top": "3200px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "(humeur)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(humeur)</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

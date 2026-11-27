@@ -1,0 +1,130 @@
+{
+  "title": "Indications",
+  "source": "https://www.hypnosite.fr/but.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "514px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "INDICATIONS"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "seance.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE648dfa4997",
+          "layout": {
+            "width": "550px",
+            "left": "220px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "4"
+          },
+          "text": "INDICATIONS",
+          "html": "<span><span style=\"font-size:70px;font-family:'Bohem Press';\">INDICATIONS</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE6e7ec529da",
+          "layout": {
+            "width": "550px",
+            "height": "auto",
+            "left": "50%",
+            "top": "450px",
+            "line-height": "24px",
+            "text-align": "left",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Gar-A-MondTall'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\" Le changement apparaît lorsqu'un sujet devient ce qu'il est, non lorsqu'il essaie de devenir ce qu'il n'est pas \". A. Beisser",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">\" Le changement apparaît lorsqu'un sujet devient ce qu'il est, <br/>non lorsqu'il essaie de devenir ce qu'il n'est pas \". A. Beisser<br/></span><br/></span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1308px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WEefea8efb6f",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "20px",
+            "top": "160px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "z-index": "3"
+          },
+          "text": "L'hypnose favorise l'amélioration et/ou la résolution de dysfonctionnements qu'ils soient biologiques, comportementaux, sociaux ou psychologiques.  Dans tous les cas, quel que soit l'objectif du client, le praticien ne portera aucun jugement sur la demande dès lors que celle-ci soit dans le respect de l'éthique de la pratique de l'hypnose Ericksonienne et le respect de l'intégrité du client et/ou une tierce personne. Des questions quant à votre objectif, n'hésitez pas à m'en faire part au 06 60 25 13 68 ou sur la page CONTACT .",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">L'hypnose favorise l'amélioration et/ou la résolution de dysfonctionnements qu'ils soient biologiques, comportementaux, sociaux ou psychologiques.  Dans tous les cas, quel que soit l'objectif du client, le praticien ne portera aucun jugement sur la demande dès lors que celle-ci soit dans le respect de l'éthique de la pratique de l'hypnose Ericksonienne et le respect de l'intégrité du client et/ou une tierce personne. <br/>  <br/> Des questions quant à votre objectif, n'hésitez pas à m'en faire part au <b>06 60 </b><b>25 13 68 </b>ou sur la page <a href=\"formulaire.html\" style=\"color:rgb(0, 0, 0);\">CONTACT</a>.</span></span>"
+        },
+        {
+          "type": "text",
+          "name": "WEb92e8a69e1",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "450px",
+            "top": "160px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "2"
+          },
+          "text": "Cette liste ne reste qu'un éventail de ce que peut favoriser l'hypnose Ericksonienne : le contrôle voir l'arrêt des dépendances physiques et/ou comportementales : toxicomanies (tabac, alcool, psychotropes, etc.), addiction au travail, sport, jeux, sexe, etc. soulagement de désordres somatiques, de douleurs chroniques et l'accompagnement de maladies et de leurs traitements. régulation des troubles du comportement : hyperactivité, impulsivité, agressivité, colère, etc. aide à l'apprentissage (mémorisation, dysgraphie, dyslexie, etc.) crise de vie, existancielle, de couple, etc. impact positif sur le déclin de l'humeur, démotivation, manque d'élan et d'envie, surmenage le passage d’étapes de vie : mutation, licenciement, retraite, séparation, divorce, deuil, etc. travail sur : confiance en soi, estime de soi, dévalorisation, perte de repère narcissique, timidité, maitrise de soi, procrastination, concentration, etc. peurs, traumatismes psychologiques ou physiques, accidents de la vie, chocs et blocages émotionnels, phobies, etc. migraines, troubles digestifs, uro-génitaux, problèmes dermatologiques, rhumatismes, accouphènes, asthme, etc. troubles de la fonction sexuelle : éjaculation précoce ou anéjacultion, absence de désir, de plaisir, troubles de l’érection, dyspareunie, vaginisme, etc. préparation aux épreuves diverses (concours, épreuves, examens, compétitions) gestion du stress, de l'anxiété trouble des conduites alimentaires travail sur les croyances, les valeurs, l'identité troubles du sommeil",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">Cette liste ne reste qu'un éventail de ce que peut favoriser l'hypnose Ericksonienne : <br/>  <br/><ul><li>le contrôle voir l'arrêt des dépendances physiques et/ou comportementales : toxicomanies (tabac, alcool, psychotropes, etc.), addiction au travail, sport, jeux, sexe, etc.  <br/></li><li>soulagement de désordres somatiques, de douleurs chroniques et l'accompagnement de maladies et de leurs traitements. <br/></li><li>régulation des troubles du comportement : hyperactivité, impulsivité, agressivité, colère, etc.  <br/></li><li>aide à l'apprentissage (mémorisation, dysgraphie, dyslexie, etc.)<br/></li><li>crise de vie, existancielle, de couple, etc.<br/></li><li>impact positif sur le déclin de l'humeur, démotivation, manque d'élan et d'envie, surmenage  <br/></li><li>le passage d’étapes de vie : mutation, licenciement, retraite, séparation, divorce, deuil, etc.  <br/></li><li>travail sur : confiance en soi, estime de soi, dévalorisation, perte de repère narcissique, timidité, maitrise de soi, procrastination, concentration, etc.  <br/></li><li>peurs, traumatismes psychologiques ou physiques, accidents de la vie, chocs et blocages émotionnels, phobies, etc.  <br/></li><li>migraines, troubles digestifs, uro-génitaux, problèmes dermatologiques, rhumatismes, accouphènes, asthme, etc.<br/></li><li>troubles de la fonction sexuelle : éjaculation précoce ou anéjacultion, absence de désir, de plaisir, troubles de l’érection, dyspareunie, vaginisme, etc.<br/></li><li>préparation aux épreuves diverses (concours, épreuves, examens, compétitions)</li><li>gestion du stress, de l'anxiété  <br/></li><li>trouble des conduites alimentaires </li><li>travail sur les croyances, les valeurs, l'identité  </li><li>troubles du sommeil</li></ul></span><br/></span>"
+        },
+        {
+          "type": "image",
+          "name": "girouette",
+          "layout": {
+            "left": "110px",
+            "top": "570px",
+            "width": "242px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/girouette-9cef10bd.jpg",
+          "href": "",
+          "label": "girouette"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "title": "L'anxiété",
+  "source": "https://www.hypnosite.fr/anxiete.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "550px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "3px",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "ANXIETE"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE79b5de03db",
+          "layout": {
+            "width": "460px",
+            "left": "200px",
+            "top": "160px",
+            "height": "84px",
+            "text-align": "center",
+            "font-family": "'Bohem Press'",
+            "z-index": "2"
+          },
+          "text": "ANXIETE",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-size:70px;\">ANXIETE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE36cb0c9399",
+          "layout": {
+            "width": "680px",
+            "height": "auto",
+            "left": "50%",
+            "top": "460px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "z-index": "4",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"J'ai eu beaucoup de problèmes dans ma vie dont la plupart ne sont jamais arrivés !\" Mark TWAIN",
+          "html": "<span><span style=\"font-size:18px;\"><span style=\"font-family:'Tox Typewriter';\">\"J'ai eu beaucoup de problèmes dans ma vie dont la plupart ne sont jamais arrivés !\" <br/>Mark TWAIN</span><br/></span></span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2435px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE308888c0cd",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "14px",
+            "top": "110px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "z-index": "1"
+          },
+          "text": "Du temps des chasseurs-cueilleurs, la survie de l'espèce dépendait de sa capacité bien utile à appréhender les menaces multiples de son environnement hostile. À moins de se prendre pour un Christopher McCandless dans Into the Wild, nul besoin aujourd'hui d'angoisser nuit et jour pour sa survie. Et pourtant, comme dirait Darwin, \"le fait d’avoir peur de tout ennemi potentiel est certainement une qualité instinctive\". L’anxiété est un état qui se caractérise par un sentiment d'appréhension, de tension, de malaise, d'insécurité voire de terreur face à un péril de nature indéterminée. Elle fait partie de la nature humaine et est une réponse normale au stress quotidien. L'anxieux l'exprime généralement sous les termes de nervosité ou de soucis. Le souffrant se sent alors envahi par ce sentiment d’inconfort ou de peur secondaire à une anticipation excessive d’éventuelles difficultés avant même que \"les problèmes\" ne soient survenus, ou avant même qu'il ait repéré précisément ce qu’il redoute. On parle de \" peur sans objet\". L'anxiété est souvent utilisée comme un synonyme du stress. Comme lui, elle engendre également des manifestations autant psychologiques que somatiques et devient anormale quand elle n'est rattachée à aucune cause évidente ou identifiable et quand elle devient chronique. Si des similitudes existent, comment peut-on alors différencier l'anxiété du stress ?  Cette différence se marque sur le plan de la cognition et notamment sur l'anticipation constante d'un évènement, d'une situation particulière à l'inverse du stress qui cognitivement est la réponse et non l'anticipation de la situation. les troubles anxieux peuvent se traduire de manières différentes selon la personne et peuvent survenir à tout âge. D'après la Haute autorité de santé, 15 % des adultes de 18 à 65 ans présentent des troubles anxieux sévères sur une année donnée, et 21 % en présenteront au cours de leur vie.Être anxieux engendre le plus souvent des difficultés de fonctionnement qui vont d’une gêne ponctuelle à un handicap sévère. Le ressenti particulier décrit ici fait partie de la famille des troubles anxieux qui est constituée de diverses pathologies comme entre autre : le trouble anxieux généralisé l'état de stress post traumatique la phobie spécifique le trouble obsessionnel compulsif le trouble panique l'état de stress aigu (burnout) la phobie sociale etc. Il n'y a pas de cause unique expliquant le développement et l'apparition de problèmes anxieux. Il est considéré exister une interaction entre des facteurs prédisposants (succeptibilité individuelle, génétique et psychologique, etc.), précipitants (traumatisme, santé, stresseur psychosocial, etc.)  et d'entretien. Anthony Robbins, célèbre coach américain, a l’habitude de dire :\"Si tu restes dans ta tête, tu prends perpette\". Ainsi, l'anxieux paie cher ces efforts constants par une tension quasi-permanente souvent source d’une dégradation de sa qualité de vie et pouvant devenir pathologique. Ce versant pathologique de l’anxiété qui s’installe, peut se chroniciser et placer le sujet dans une souffrance psychique qui l’invalide tant dans ses rapports interpersonnels que dans son rapport à lui-même.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">Du temps des chasseurs-cueilleurs, la survie de l'espèce dépendait de sa capacité bien utile à appréhender les menaces multiples de son environnement hostile. À moins de se prendre pour un Christopher McCandless dans Into the Wild, nul besoin aujourd'hui d'angoisser nuit et jour pour sa survie. Et pourtant, comme dirait Darwin, \"le fait d’avoir peur de tout ennemi potentiel est certainement une qualité instinctive\".<br/><br/>L’anxiété est un état qui se caractérise par un sentiment d'appréhension, de tension, de malaise, d'insécurité voire de terreur face à un péril de nature indéterminée. Elle fait partie de la nature humaine et est une réponse normale au stress quotidien. L'anxieux l'exprime généralement sous les termes de nervosité ou de soucis. Le souffrant se sent alors envahi par ce sentiment d’inconfort ou de peur secondaire à une anticipation excessive d’éventuelles difficultés avant même que \"les problèmes\" ne soient survenus, ou avant même qu'il ait repéré précisément ce qu’il redoute. On parle de \" peur sans objet\".<br/><br/> L'anxiété est souvent utilisée comme un synonyme du stress. Comme lui, elle engendre également des manifestations autant psychologiques que somatiques et devient anormale quand elle n'est rattachée à aucune cause évidente ou identifiable et quand elle devient chronique. Si des similitudes existent, comment peut-on alors différencier l'anxiété du stress ?  Cette différence se marque sur le plan de la cognition et notamment sur l'anticipation constante d'un évènement, d'une situation particulière à l'inverse du stress qui cognitivement est la réponse et non l'anticipation de la situation.   <br/><br/>les troubles anxieux peuvent se traduire de manières différentes selon la personne et peuvent survenir à tout âge. D'après la Haute autorité de santé, 15 % des adultes de 18 à 65 ans présentent des troubles anxieux sévères sur une année donnée, et 21 % en présenteront au cours de leur vie.Être anxieux engendre le plus souvent des difficultés de fonctionnement qui vont d’une gêne ponctuelle à un handicap sévère. Le ressenti particulier décrit ici fait partie de la famille des troubles anxieux qui est constituée de diverses pathologies comme entre autre :  <br/><ul><li>le trouble anxieux généralisé           <br/></li><li>l'état de stress post traumatique      <br/></li><li>la phobie spécifique                      <br/></li><li>le trouble obsessionnel compulsif    <br/></li><li>le trouble panique <br/></li><li>l'état de stress aigu (burnout) <br/></li><li>la phobie sociale<br/></li><li>etc.        <br/></li></ul><div>Il n'y a pas de cause unique expliquant le développement et l'apparition de problèmes anxieux. Il est considéré exister une interaction entre des facteurs prédisposants (succeptibilité individuelle, génétique et psychologique, etc.), précipitants (traumatisme, santé, stresseur psychosocial, etc.)  et d'entretien. Anthony Robbins, célèbre coach américain, a l’habitude de dire :\"Si tu restes dans ta tête, tu prends perpette\". Ainsi, l'anxieux paie cher ces efforts constants par une tension quasi-permanente souvent source d’une dégradation de sa qualité de vie et pouvant devenir pathologique. Ce versant pathologique de l’anxiété qui s’installe, peut se chroniciser et placer le sujet dans une souffrance psychique qui l’invalide tant dans ses rapports interpersonnels que dans son rapport à lui-même.</div><br/></span></span>"
+        },
+        {
+          "type": "image",
+          "name": "microscope",
+          "layout": {
+            "left": "540px",
+            "top": "140px",
+            "width": "275px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/microscope-we9afafcb46b-9ebbf158.jpg",
+          "href": "",
+          "label": "microscope"
+        },
+        {
+          "type": "text",
+          "name": "WE42cb222a3e",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "462px",
+            "top": "687px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "z-index": "16"
+          },
+          "text": "La personne manifeste alors de la crainte diffuse en absence de danger identifiable et s'épuise face à cette anticipation négative continue. Elle se sent restreint, bloquée ou au contraire hyper vigilante, hyperactive. Par le biais d'une manifestation d'inquiétudes débilitantes, le sujet s'évertue, avec excès et inefficacité, à lutter contre des schémas cognitifs suractivés, imperméables et rigides qui sont bien souvent issus de fausses croyances, d'expériences négatives voire traumatiques. L'anticipateur hyperthrophie régulièrement des évènements imaginaires ! Cette construction d'inquiétudes peut être cependant compris comme une tentative de résolution d'un problème réel ou fictif, dont le dénouement est incertain. Etonnament, l'anxieux est expert pour identifier les ennuis potentiels mais se sent dans l'incapacité de résoudre ce qu'il projette, notament par la construction de pensées négatives. Cela peut engendrer une destabilisation dans son estime, une dévalorisation jusqu'à pouvoir générer un état dépressif. Ces réactions affectives sont donc provoquées par l'interprétation biaisée que l'individu fait de la situation, plutôt que par sa réalité objective. Ici, l’hypnose permet de travailler tant sur le fond que la forme anxieuse, que soit issu d’apprentissages de l'éducation, du passé ou de l’environnement, et de trouver des façons de penser plus sereines, plus adaptées. Un travail par l’hypnose sur les peurs, sur les anticipations ou encore sur le lâcher-prise est préconisé pour réduire les œillères anxiogènes que porte le sujet.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">La personne manifeste alors de la crainte diffuse en absence de danger identifiable et s'épuise face à cette anticipation négative continue. Elle se sent restreint, bloquée ou au contraire hyper vigilante, hyperactive. Par le biais d'une manifestation d'inquiétudes débilitantes, le sujet s'évertue, avec excès et inefficacité, à lutter contre des schémas cognitifs suractivés, imperméables et rigides qui sont bien souvent issus de fausses croyances, d'expériences négatives voire traumatiques. <br/><br/>L'anticipateur hyperthrophie régulièrement des évènements imaginaires ! Cette construction d'inquiétudes peut être cependant compris comme une tentative de résolution d'un problème réel ou fictif, dont le dénouement est incertain. Etonnament, l'anxieux est expert pour identifier les ennuis potentiels mais se sent dans l'incapacité de résoudre ce qu'il projette, notament par la construction de pensées négatives. Cela peut engendrer une destabilisation dans son estime, une dévalorisation jusqu'à pouvoir générer un état dépressif. Ces réactions affectives sont donc provoquées par l'interprétation biaisée que l'individu fait de la situation, plutôt que par sa réalité objective.<br/><br/>Ici, l’hypnose permet de travailler tant sur le fond que la forme anxieuse, que soit issu d’apprentissages de l'éducation, du passé ou de l’environnement, et de trouver des façons de penser plus sereines, plus adaptées. Un travail par l’hypnose sur les peurs, sur les anticipations ou encore sur le lâcher-prise est préconisé pour réduire les œillères anxiogènes que porte le sujet.  <br/></span></span>"
+        },
+        {
+          "type": "image",
+          "name": "main femme",
+          "layout": {
+            "left": "460px",
+            "top": "1630px",
+            "width": "95px",
+            "height": "auto",
+            "z-index": "18"
+          },
+          "src": "assets/main-femme-we1fc223393c-e8c9298d.jpg",
+          "href": "assets/echelle-hamilton-161a05b2.pdf",
+          "label": "ECHELLE D'ANXIETE D'HAMILTON"
+        },
+        {
+          "type": "text",
+          "name": "WE69cff6f147",
+          "layout": {
+            "left": "570px",
+            "top": "1630px",
+            "width": "auto",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "ECHELLE D'ANXIETE D'HAMILTON",
+          "html": "<a href=\"assets/echelle-hamilton-161a05b2.pdf\"><span style=\"font-family:'Tox Typewriter';color:rgb(0, 0, 0);font-size:18px;\">ECHELLE D'ANXIETE D'HAMILTON</span></a>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "main femme",
+          "layout": {
+            "left": "460px",
+            "top": "1730px",
+            "width": "95px",
+            "height": "auto",
+            "z-index": "19"
+          },
+          "src": "assets/main-femme-we1fc223393c-e8c9298d.jpg",
+          "href": "assets/attitudes-face-aux-problemes-654911af.pdf",
+          "label": "QUESTIONNAIRE ATTITUDE FACE AUX PROBLEMES"
+        },
+        {
+          "type": "text",
+          "name": "WEc972147e1c",
+          "layout": {
+            "left": "570px",
+            "top": "1730px",
+            "width": "250px",
+            "height": "auto",
+            "z-index": "20"
+          },
+          "text": "QUESTIONNAIRE ATTITUDE FACE AUX PROBLEMES",
+          "html": "<a href=\"assets/attitudes-face-aux-problemes-654911af.pdf\"><span style=\"font-family:'Tox Typewriter';color:rgb(0, 0, 0);font-size:18px;\">QUESTIONNAIRE ATTITUDE FACE AUX PROBLEMES</span></a>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "main femme",
+          "layout": {
+            "left": "460px",
+            "top": "1840px",
+            "width": "95px",
+            "height": "auto",
+            "z-index": "21"
+          },
+          "src": "assets/main-femme-we1fc223393c-e8c9298d.jpg",
+          "href": "assets/anxiete-sociale-lsas-081cc671.pdf",
+          "label": "ECHELLE D'ANXIETE SOCIALE"
+        },
+        {
+          "type": "text",
+          "name": "WE9f9fc564e0",
+          "layout": {
+            "left": "570px",
+            "top": "1840px",
+            "width": "auto",
+            "height": "auto",
+            "z-index": "22"
+          },
+          "text": "ECHELLE D'ANXIETE SOCIALE",
+          "html": "<a href=\"assets/anxiete-sociale-lsas-081cc671.pdf\"><span style=\"font-family:'Tox Typewriter';color:rgb(0, 0, 0);font-size:18px;\">ECHELLE D'ANXIETE SOCIALE</span></a>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE951420f265",
+          "layout": {
+            "width": "330px",
+            "left": "50%",
+            "top": "2020px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "15",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "femme pieuvre",
+          "layout": {
+            "left": "580px",
+            "top": "2110px",
+            "width": "140px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "src": "assets/femme-pieuvre-we93c2576766-90e3646c.jpg",
+          "href": "dissociation.html",
+          "label": "DISSOCIATION"
+        },
+        {
+          "type": "image",
+          "name": "homme pieuvre",
+          "layout": {
+            "left": "770px",
+            "top": "2130px",
+            "width": "65px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/homme-pieuvre-we4c5f8f43e3-b92d09f5.jpg",
+          "href": "personnalite.html",
+          "label": "PERSONNALITE"
+        },
+        {
+          "type": "image",
+          "name": "insecte 1",
+          "layout": {
+            "left": "460px",
+            "top": "2160px",
+            "width": "78px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/insecte-1-wec2415a14e5-c0324435.jpg",
+          "href": "phobie.html",
+          "label": "PHOBIE"
+        },
+        {
+          "type": "image",
+          "name": "cygne",
+          "layout": {
+            "left": "40px",
+            "top": "2170px",
+            "width": "116px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "src": "assets/cygne-we68879bfb3e-f316c012.jpg",
+          "href": "symptome.html",
+          "label": "SYMPTÔME"
+        },
+        {
+          "type": "image",
+          "name": "homme serpent",
+          "layout": {
+            "left": "350px",
+            "top": "2210px",
+            "width": "58px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/homme-serpent-webbdab92eaa-12ae1c5b.jpg",
+          "href": "peur.html",
+          "label": "PEUR"
+        },
+        {
+          "type": "image",
+          "name": "femme serpent",
+          "layout": {
+            "left": "180px",
+            "top": "2220px",
+            "width": "117px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/femme-serpent-we015608ade7-635bd7a0.jpg",
+          "href": "croyance.html",
+          "label": "CROYANCE"
+        },
+        {
+          "type": "text",
+          "name": "WEe5a062326b",
+          "layout": {
+            "width": "auto",
+            "left": "600px",
+            "top": "2240px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "text": "DISSOCIATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DISSOCIATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE69dc0bb156",
+          "layout": {
+            "width": "auto",
+            "left": "60px",
+            "top": "2280px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "text": "SYMPTÔME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SYMPTÔME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEef6c446677",
+          "layout": {
+            "width": "auto",
+            "left": "480px",
+            "top": "2290px",
+            "height": "auto",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "7"
+          },
+          "text": "PHOBIE",
+          "html": "<span><span style=\"font-size:18px;\">PHOBIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7e71b0c11a",
+          "layout": {
+            "width": "auto",
+            "left": "750px",
+            "top": "2290px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "PERSONNALITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">PERSONNALITE<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEcfee835ce2",
+          "layout": {
+            "width": "auto",
+            "left": "190px",
+            "top": "2340px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "CROYANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CROYANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE3a6789086a",
+          "layout": {
+            "width": "auto",
+            "left": "390px",
+            "top": "2350px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "text": "PEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PEUR</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "title": "defense",
+  "source": "https://www.hypnosite.fr/defense.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "588px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "-10px",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "DEFENSE"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "80px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE0237602aaf",
+          "layout": {
+            "width": "360px",
+            "left": "190px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "DEFENSE",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);line-height:60px;\"><span style=\"font-family:'Bohem Press';font-size:70px;\">DEFENSE</span><br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE97f827fbee",
+          "layout": {
+            "width": "675px",
+            "height": "auto",
+            "left": "50%",
+            "top": "420px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Je sais maintenant que chaque homme porte en lui et comme au-dessus de lui, un fragile et complexe échafaudage d'habitudes, réponses, réflexes, mécanismes, préoccupations, rêves et implications qui s'est formé et continue à se transformer par les attouchements perpétuels de ses semblables.\" Michel TOURNIER",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Je sais maintenant que chaque homme porte en lui et comme au-dessus de lui, un fragile et complexe échafaudage d'habitudes, réponses, réflexes, mécanismes, préoccupations, rêves et implications qui s'est formé et continue à se transformer par les attouchements perpétuels de ses semblables.\" Michel TOURNIER<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2234px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE07a737ff77",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "20px",
+            "top": "50px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "Les mécanismes de défense psychique sont des processus naturels de notre fonctionnement mental. Ce sont eux qui nous permettent de surmonter des situations complexes dans leur compréhension émotionnelle. Lorsqu'ils ne sont plus adaptés, le sujet peut perdre son équilibre. Nous avons tous des mécanismes de défense, que nous nous sentions totalement sain d'esprit ou que nous ressentions un mal-être. Agressivité, discours incohérents, timidité, comportement imprévisible... Il s'agit là de mécanismes de défense que nous utilisons pour nous protéger. Lors d'une situation difficile, on a tendance à s'armer en utilisant ces modalités de protection. Ce sont ces processus psychologiques inconscients qui nous permettent de réduire les tensions psychiques, notamment l'anxiété et la dépression. Ces mécanismes sont des distorsions cognitives et leur fonction est double, car en plus de protéger la cohésion de l'appareil psychique, ils nous permettent de faciliter notre adaptation au monde. En général, on les utilise quotidiennement et de façon banale. Ces mécanismes de défense engendrent les fameux traits de caractère qui nous caractérisent. On pourrait les voir comme étant notre \"systàme immunitaire psychique\". Bien souvent, cette défense inconsciente fonctionne de manière ponctuelle : le sujet oublie l'inconciliable et continue sa vie normalement. Mais il arrive que la structure s'effondre lorsque les mécanismes de défense mis en exergue ne sont pas ou plus adaptés : c'est alors que le sujet développe des symptômes. Plus précisément, notre résilience, notre capacité à faire face aux tensions, aux conflits, aux dangers perçus à l’intérieur de nous ou dans le monde extérieur, mobilise deux types d’opérations mentales : les mécanismes de défense et les processus de coping. Les mécanismes de défense sont des processus mentaux automatiques qui s’activent en dehors du contrôle de la volonté et dont l’action demeure inconsciente. le sujet pouvant au mieux percevoir le résultat de leurs interventions et s’en étonner. S'ajoute des processus de coping, mot traduit en français par stratégies d’adaptation ou processus de maîtrise, qui sont des opérations mentales volontaires, donc conscientes, par lesquelles le sujet choisi délibérément une réponse à un problème interne et/ou externe. Défense et coping coexistent en chacun de nous. Ils peuvent être des processus adaptatifs ou mal adaptatifs. Ce caractère fonctionnel ou dysfonctionnel dépend à la fois du type de défense ou de coping, de l’intensité et de la durée de sa mise en jeu, mais aussi du contexte interne et externe de leur mobilisation et des interactions éventuelles entre défense et coping. Enfin, défense et coping s’activent habituellement conjointement ou successivement et contribuent ensemble à notre adaptation aux difficultés de la vie quotidienne, comme aux situations difficiles de la vie ou aux traumatismes majeurs. Ils constituent donc deux dimensions entremêlées de nos moyens de faire face aux problèmes intérieurs et extérieurs.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Les mécanismes de défense psychique sont des processus naturels de notre fonctionnement mental. Ce sont eux qui nous permettent de surmonter des situations complexes dans leur compréhension émotionnelle. Lorsqu'ils ne sont plus adaptés, le sujet peut perdre son équilibre. <br/><br/> Nous avons tous des mécanismes de défense, que nous nous sentions totalement sain d'esprit ou que nous ressentions un mal-être. Agressivité, discours incohérents, timidité, comportement imprévisible... Il s'agit là de mécanismes de défense que nous utilisons pour nous protéger. Lors d'une situation difficile, on a tendance à s'armer en utilisant ces modalités de protection. Ce sont ces processus psychologiques inconscients qui nous permettent de réduire les tensions psychiques, notamment l'anxiété et la dépression. <br/><br/>Ces mécanismes sont des distorsions cognitives et leur fonction est double, car en plus de protéger la cohésion de l'appareil psychique, ils nous permettent de faciliter notre adaptation au monde. En général, on les utilise quotidiennement et de façon banale. Ces mécanismes de défense engendrent les fameux traits de caractère qui nous caractérisent. On pourrait les voir comme étant notre \"systàme immunitaire psychique\".<br/> <br/> Bien souvent, cette défense inconsciente fonctionne de manière ponctuelle : le sujet oublie l'inconciliable et continue sa vie normalement. Mais il arrive que la structure s'effondre lorsque les mécanismes de défense mis en exergue ne sont pas ou plus adaptés : c'est alors que le sujet développe des symptômes. <br/><br/> Plus précisément, notre résilience, notre capacité à faire face aux tensions, aux conflits, aux dangers perçus à l’intérieur de nous ou dans le monde extérieur, mobilise deux types d’opérations mentales : les mécanismes de défense et les processus de coping. Les mécanismes de défense sont des processus mentaux automatiques qui s’activent en dehors du contrôle de la volonté et dont l’action demeure inconsciente. le sujet pouvant au mieux percevoir le résultat de leurs interventions et s’en étonner. S'ajoute des processus de coping, mot traduit en français par stratégies d’adaptation ou processus de maîtrise, qui sont des opérations mentales volontaires, donc conscientes, par lesquelles le sujet choisi délibérément une réponse à un problème interne et/ou externe. <br/><br/>Défense et coping coexistent en chacun de nous. Ils peuvent être des processus adaptatifs ou mal adaptatifs. Ce caractère fonctionnel ou dysfonctionnel dépend à la fois du type de défense ou de coping, de l’intensité et de la durée de sa mise en jeu, mais aussi du contexte interne et externe de leur mobilisation et des interactions éventuelles entre défense et coping. Enfin, défense et coping s’activent habituellement conjointement ou successivement et contribuent ensemble à notre adaptation aux difficultés de la vie quotidienne, comme aux situations difficiles de la vie ou aux traumatismes majeurs. Ils constituent donc deux dimensions entremêlées de nos moyens de faire face aux problèmes intérieurs et extérieurs.<br/><br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "elephant chapeau",
+          "layout": {
+            "left": "560px",
+            "top": "60px",
+            "width": "267px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/elephant-chapeau-we8efb05a1cf-66ab7f79.jpg",
+          "href": "",
+          "label": "elephant chapeau"
+        },
+        {
+          "type": "text",
+          "name": "WE82b81720df",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "470px",
+            "top": "540px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "La classification la plus habituelle distingue les défenses matures, les défenses dites névrotiques et les défenses immatures en fonction de leur niveau adaptatif. Les défenses matures contribuent à la santé psychique et physique. Les défenses névrotiques d’abord liées aux névroses où elles sont prédominantes sont maintenant plutôt appelées défenses intermédiaires car elles sont utilisées par chacun d’entre nous. Les défenses immatures, quand elles prédominent, sont liées aux troubles psychiatriques, comme les troubles de l'humeur, de la personnalité, des toxicomanies, l'anxiété ou encore les psychoses. Certains auteurs ont insisté sur le fait que tous les mécanismes de défense pouvaient servir l’adaptation et aider à surmonter l’adversité. L’efficacité adaptative d’un mécanisme de défense dépend de sa nature, mais aussi de l’intensité et de la souplesse de sa mise en jeu, et des circonstances. Pour chaque mécanisme de défense, les modes d’activation légère tendent à être fonctionnelles, et les variantes plus intenses tendent à être dysfonctionnelles. Le niveau de stress subi intervient aussi dans l’adaptation. Dans les stress majeurs, les mécanismes de défenses réputés les plus immatures (agression passive, hypocondrie, fantaisie, projection, etc.), dysfonctionnels ou pathologiques (dystortion, narcissisme,  déni, conversion, clivage, etc.) ou mature (intellectualisation, humour, sublimation, anticipation, altruisme, etc.) peuvent avoir une fonction protectrice. Les stress légers peuvent ne nécessiter que les mécanismes de défense matures, les stress plus significatifs peuvent requérir les mécanismes intermédiaires névrotiques pour la plupart des sujets et les stress intenses peuvent réclamer l’activation brève des défenses immatures. Dans les situations extrêmes, même les mécanismes habituellement considérés comme les plus pathologiques peuvent servir à surmonter l’adversité. Certaines défenses sont dirigées contre les pensées ou les cognitions et d'autres dirigées directement contre la non gestion émotionnelle. Par exemple, l’humour est un mécanisme modifiant les cognitions tandis que la somatisation, définie comme le déplacement d’un affect douloureux sur une partie du corps, est un exemple d’une défense centrée sur l’émotion. Volontairement, car la littérature répertorie plus de 40 mécanismes de défense, ils ne seront pas précisés ici.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">La classification la plus habituelle distingue les défenses matures, les défenses dites névrotiques et les défenses immatures en fonction de leur niveau adaptatif. Les défenses matures contribuent à la santé psychique et physique. Les défenses névrotiques d’abord liées aux névroses où elles sont prédominantes sont maintenant plutôt appelées défenses intermédiaires car elles sont utilisées par chacun d’entre nous. Les défenses immatures, quand elles prédominent, sont liées aux troubles psychiatriques, comme les troubles de l'humeur, de la personnalité, des toxicomanies, l'anxiété ou encore les psychoses. <br/><br/>Certains auteurs ont insisté sur le fait que tous les mécanismes de défense pouvaient servir l’adaptation et aider à surmonter l’adversité. L’efficacité adaptative d’un mécanisme de défense dépend de sa nature, mais aussi de l’intensité et de la souplesse de sa mise en jeu, et des circonstances. Pour chaque mécanisme de défense, les modes d’activation légère tendent à être fonctionnelles, et les variantes plus intenses tendent à être dysfonctionnelles. <br/><br/>Le niveau de stress subi intervient aussi dans l’adaptation. Dans les stress majeurs, les mécanismes de défenses réputés les plus immatures (agression passive, hypocondrie, fantaisie, projection, etc.), dysfonctionnels ou pathologiques (dystortion, narcissisme,  déni, conversion, clivage, etc.) ou mature (intellectualisation, humour, sublimation, anticipation, altruisme, etc.) peuvent avoir une fonction protectrice. Les stress légers peuvent ne nécessiter que les mécanismes de défense matures, les stress plus significatifs peuvent requérir les mécanismes intermédiaires névrotiques pour la plupart des sujets et les stress intenses peuvent réclamer l’activation brève des défenses immatures. Dans les situations extrêmes, même les mécanismes habituellement considérés comme les plus pathologiques peuvent servir à surmonter l’adversité. <br/><br/> Certaines défenses sont dirigées contre les pensées ou les cognitions et d'autres dirigées directement contre la non gestion émotionnelle. Par exemple, l’humour est un mécanisme modifiant les cognitions tandis que la somatisation, définie comme le déplacement d’un affect douloureux sur une partie du corps, est un exemple d’une défense centrée sur l’émotion. <br/><br/>Volontairement, car la littérature répertorie plus de 40 mécanismes de défense, ils ne seront pas précisés ici. <br/> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE9643c984f6",
+          "layout": {
+            "width": "380px",
+            "left": "40px",
+            "top": "1880px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "14"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "femme pieuvre",
+          "layout": {
+            "left": "280px",
+            "top": "1970px",
+            "width": "125px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/femme-pieuvre-we4f2724983b-352242cd.jpg",
+          "href": "dissociation.html",
+          "label": "DISSOCIATION"
+        },
+        {
+          "type": "image",
+          "name": "coeur oeil",
+          "layout": {
+            "left": "50px",
+            "top": "1980px",
+            "width": "84px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/coeur-oeil-we9c27cb3019-91a851b4.jpg",
+          "href": "psychosoma.html",
+          "label": "PSYCHOSOMA"
+        },
+        {
+          "type": "image",
+          "name": "cygne",
+          "layout": {
+            "left": "750px",
+            "top": "1980px",
+            "width": "124px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "src": "assets/cygne-we370155d570-43344259.jpg",
+          "href": "symptome.html",
+          "label": "SYMPTOME"
+        },
+        {
+          "type": "image",
+          "name": "tampon",
+          "layout": {
+            "left": "170px",
+            "top": "2010px",
+            "width": "68px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/tampon-weed96bedf57-9bb8c334.jpg",
+          "href": "repetition.html",
+          "label": "REPETITION"
+        },
+        {
+          "type": "image",
+          "name": "cerveau 1",
+          "layout": {
+            "left": "610px",
+            "top": "2010px",
+            "width": "103px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/cerveau-1-we31809b755b-3cb5752d.jpg",
+          "href": "toxicomanie.html",
+          "label": "TOXICOMANIE"
+        },
+        {
+          "type": "image",
+          "name": "lunettes",
+          "layout": {
+            "left": "431px",
+            "top": "2063px",
+            "width": "132px",
+            "height": "auto",
+            "transform": "rotate(-25deg)",
+            "-webkit-transform": "rotate(-25deg)",
+            "-moz-transform": "rotate(-25deg)",
+            "-ms-transform": "rotate(-25deg)",
+            "-o-transform": "rotate(-25deg)",
+            "z-index": "15"
+          },
+          "src": "assets/lunettes-we6c35cc065b-51e844d6.jpg",
+          "href": "emotion-voir.html",
+          "label": "(ne pas voir)"
+        },
+        {
+          "type": "text",
+          "name": "WEae821e59d1",
+          "layout": {
+            "width": "auto",
+            "left": "280px",
+            "top": "2090px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "DISSOCIATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DISSOCIATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE022a2ac761",
+          "layout": {
+            "width": "auto",
+            "left": "770px",
+            "top": "2100px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "SYMPTOME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SYMPTOME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd5cb9c3f24",
+          "layout": {
+            "width": "auto",
+            "left": "40px",
+            "top": "2110px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "text": "PSYCHOSOMA",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PSYCHOSOMA</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE72b2d4ff28",
+          "layout": {
+            "width": "auto",
+            "left": "610px",
+            "top": "2132px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "TOXICOMANIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TOXICOMANIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE0bed05e014",
+          "layout": {
+            "width": "auto",
+            "left": "501px",
+            "top": "2134px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE11734c89d7",
+          "layout": {
+            "width": "auto",
+            "left": "471px",
+            "top": "2154px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "(ne pas voir)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(ne pas voir)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE3f8669e2a4",
+          "layout": {
+            "width": "auto",
+            "left": "160px",
+            "top": "2160px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "REPETITION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">REPETITION</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "title": "abandon",
+  "source": "https://www.hypnosite.fr/abandon.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "286px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WEab2e0a935a",
+          "layout": {
+            "width": "550px",
+            "left": "50%",
+            "top": "40px",
+            "height": "auto",
+            "text-align": "center",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "1",
+            "transform": "translateX(-50%)"
+          },
+          "text": "A-BANDON",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">A-BANDON</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "20px",
+            "top": "50px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEe6ad853a41",
+          "layout": {
+            "width": "690px",
+            "height": "auto",
+            "left": "50%",
+            "top": "160px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"C'est dangereux d'aimer, quand chaque fois se profile le risque d'un abandon, d'une trahison. C'est violent, un amour qui se construit sur des attentes qui sont des exigences. C'est fragile une relation qui accepte de se nourrir de leurres, qui se perd entre besoins et désirs blessés.\" Jacques SALOME",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"C'est dangereux d'aimer, quand chaque fois se profile le risque d'un abandon, d'une trahison. C'est violent, un amour qui se construit sur des attentes qui sont des exigences. C'est fragile une relation qui accepte de se nourrir de leurres, qui se perd entre besoins et désirs blessés.\" Jacques SALOME<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2927px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE0d7efbc032",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "20px",
+            "top": "30px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "12"
+          },
+          "text": "A-BANdon Le A : marque l'éloignement, le détournement, la séparation, la privation. Que dit la syllabe BAN ? C’est la sentence qui exclut comme le bannissement ou encore la banlieue. Garder son ban ne signifie-t-il pas revenir au lieu d’où l’on a été exilé ? Puis il y a le mot bandon qui signifie le pouvoir, la discrétion, la permission, mais aussi la liberté désordonnée, l'indiscipline, l'absence de retenue. La définition d'abandon précise que c'est quelqu'un qui met quelque chose à la discrétion, au pouvoir de quelqu'un d'autre mais c'est également donner à quelqu'un la possibilité, la liberté, la licence, la permission de faire quelque chose. Etonnant, non ? En psychopathologie, il est référencé la personnalité abandonnique, l'abandonnite, le syndrome d’abandon, la névrose d’abandon, le sentiment d’abandon. Quelque soit la désignation faite, c'est avant tout un état psychologique de sentiment d’insécurité permanente lié à la peur irrationnelle d'être abandonné. Si l'abandon est mesurable il peut être vécu comme un trauma, au sens pathologique du terme, cristallisant ainsi la dimension abandonnique. Le sentiment d’abandon se traduit par une série de manifestations physiques et psychiques pouvant aller du simple serrement de coeur à un sentiment d’injustice, d’impuissance, de l’anxiété, des toxicomanies des troubles de l'humeur, de l'automutilation jusqu'à de l’agressivité réactionnelle (mise à l’épreuve de l’autre pour s’assurer de son intérêt). Mais ce sont le renoncement à soi-même et le repli sur soi qui prédomine avant tout. Le sujet qui souffre d’un état d’abandonnisme est en demande d’affection constante pour combler un manque originel (séparation traumatisante du passé ou manque d’amour réel ou imaginaire), le positionnant dans une forme d'hypervigilance. Il ne peut désarmer. Chez lui, tout est prétexte à revendication, tout devient menace de frustration. Le vécu abandonnique est à l’origine d’une détresse psychoaffective intense. Cela se traduit par une profonde souffrance de la pensée, une inquiétude, un mal-être et une insécurité affective lors de la rupture avec un être cher.  Il se déclenche également lors de l'absence ou la disparition d'un lien affectif important pour la personne. Le vécu de délaissement peut alors se traduire par une peur de nouer des relations avec les autres ou de construire une vie de couple, par appréhension d’être rejeté. Le souffrant vit dans un état chronique d'appréhension voire de peur. Il est vulnérable aux incompréhensions et aux risques de déception qui équivalent pour lui à un manque d’amour. Il vit dans la crainte de déplaire, de décevoir, d’ennuyer, de lasser. La peur est prépondérante et va le conduire à des attitudes d’évitement, de mésentente, de séparation, rupture, isolement et étonnement de solitude. La réassurance affective devient une priorité excessive dans les relations avec les autres, ce qui peut avoir des conséquences dans la vie sociale et surtout dans la vie de couple. L’estime de soi est souvent fragile car l’abandon ressenti influence une dévalorisation et une absence de mérite de pouvoir être aimé. Le ressenti d'injustice est souvent (omni)présent. Il peut se distinguer une dépendance affective qui s’observe souvent à travers la qualité de la relation amoureuse. Si les besoins affectifs ne sont pas satisfaits, la personne éprouve de la frustration et une souffrance sans pour autant se détacher de son partenaire. Il y a un besoin constant de se faire aimer parce qu’elle a peur que les gens la rejette. Bien souvent, le cercle amical est pour elle une bouée de sauvetage et elle s’y accroche comme si sa vie en dépendait. La personne dépendante affective, parce qu’elle ne parvient pas à aimer suffisamment par elle-même, se sent carencée et est fréquement en quête d’amour et de reconnaissance. Elle a des difficultés à s’estimer à sa juste valeur et va alors se centrer sur les autres. Ce rapport à l'autre va l'amener au ressenti régulier d'être dans l'incapacité de dire non et de poser des limites. Si l’homme sain sait identifier ses besoins et les satisfaire, l’abandonnique, lui les ignore. Il a appris à ne plus en avoir, personne jadis ne pouvant les satisfaire, ils se sont amenuisés, puis ont disparu et ont fait émerger une insatisfaction permanente, source de la souffrance due aux carences et aux frustrations.",
+          "html": "<span><span style=\"font-size:18px;\"><span style=\"font-family:'Tox Typewriter';\">A-BANdon <br/><br/>Le A :<br/>marque l'éloignement, le détournement, la séparation, la privation.<br/><br/> Que dit la syllabe BAN ? <br/>C’est la sentence qui exclut comme le bannissement ou encore la banlieue. Garder son ban ne signifie-t-il pas revenir au lieu d’où l’on a été exilé ? <br/><br/> Puis il y a le mot bandon qui signifie le pouvoir, la discrétion, la permission, mais aussi la liberté désordonnée, l'indiscipline, l'absence de retenue.<br/><br/> La définition d'abandon précise que c'est quelqu'un qui met quelque chose à la discrétion, au pouvoir de quelqu'un d'autre mais c'est également donner à quelqu'un la possibilité, la liberté, la licence, la permission de faire quelque chose. <br/><br/>Etonnant, non ? <br/>   <br/>En psychopathologie, il est référencé la personnalité abandonnique, l'abandonnite, le syndrome d’abandon, la névrose d’abandon, le sentiment d’abandon. Quelque soit la désignation faite, c'est avant tout un état psychologique de sentiment d’insécurité permanente lié à la peur irrationnelle d'être abandonné. Si l'abandon est mesurable il peut être vécu comme un trauma, au sens pathologique du terme, cristallisant ainsi la dimension abandonnique.<br/><br/>Le sentiment d’abandon se traduit par une série de manifestations physiques et psychiques pouvant aller du simple serrement de coeur à un sentiment d’injustice, d’impuissance, de l’anxiété, des toxicomanies des troubles de l'humeur, de l'automutilation jusqu'à de l’agressivité réactionnelle (mise à l’épreuve de l’autre pour s’assurer de son intérêt). Mais ce sont le renoncement à soi-même et le repli sur soi qui prédomine avant tout. Le sujet qui souffre d’un état d’abandonnisme est en demande d’affection constante pour combler un manque originel (séparation traumatisante du passé ou manque d’amour réel ou imaginaire), le positionnant dans une forme d'hypervigilance. Il ne peut désarmer. Chez lui, tout est prétexte à revendication, tout devient menace de frustration.<br/><br/>Le vécu abandonnique est à l’origine d’une détresse psychoaffective intense. Cela se traduit par une profonde souffrance de la pensée, une inquiétude, un mal-être et une insécurité affective lors de la rupture avec un être cher.  Il se déclenche également lors de l'absence ou la disparition d'un lien affectif important pour la personne. Le vécu de délaissement peut alors se traduire par une peur de nouer des relations avec les autres ou de construire une vie de couple, par appréhension d’être rejeté. Le souffrant vit dans un état chronique d'appréhension voire de peur. Il est vulnérable aux incompréhensions et aux risques de déception qui équivalent pour lui à un manque d’amour. Il vit dans la crainte de déplaire, de décevoir, d’ennuyer, de lasser. La peur est prépondérante et va le conduire à des attitudes d’évitement, de mésentente, de séparation, rupture, isolement et étonnement de solitude. La réassurance affective devient une priorité excessive dans les relations avec les autres, ce qui peut avoir des conséquences dans la vie sociale et surtout dans la vie de couple. L’estime de soi est souvent fragile car l’abandon ressenti influence une dévalorisation et une absence de mérite de pouvoir être aimé. Le ressenti d'injustice est souvent (omni)présent. <br/><br/>Il peut se distinguer une dépendance affective qui s’observe souvent à travers la qualité de la relation amoureuse. Si les besoins affectifs ne sont pas satisfaits, la personne éprouve de la frustration et une souffrance sans pour autant se détacher de son partenaire. Il y a un besoin constant de se faire aimer parce qu’elle a peur que les gens la rejette. Bien souvent, le cercle amical est pour elle une bouée de sauvetage et elle s’y accroche comme si sa vie en dépendait. La personne dépendante affective, parce qu’elle ne parvient pas à aimer suffisamment par elle-même, se sent carencée et est fréquement en quête d’amour et de reconnaissance. Elle a des difficultés à s’estimer à sa juste valeur et va alors se centrer sur les autres. Ce rapport à l'autre va l'amener au ressenti régulier d'être dans l'incapacité de dire non et de poser des limites.<br/><br/>Si l’homme sain sait identifier ses besoins et les satisfaire, l’abandonnique, lui les ignore. Il a appris à ne plus en avoir, personne jadis ne pouvant les satisfaire, ils se sont amenuisés, puis ont disparu et ont fait émerger une insatisfaction permanente, source de la souffrance due aux carences et aux frustrations.</span><br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "chaton",
+          "layout": {
+            "left": "550px",
+            "top": "30px",
+            "width": "206px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/chaton-wee35099335e-409c2a31.jpg",
+          "href": "",
+          "label": "chaton"
+        },
+        {
+          "type": "text",
+          "name": "WE76beb27026",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "460px",
+            "top": "447px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "Ce vécu spécifique se traduit par plusieurs caractéristiques chez le sujet souffrant : • le besoin de reconnaissance : la personne fait tout pour être aimée de l’autre et le séduire pour qu’il ne la rejette pas. Elle existe à travers le regard de l’autre et a besoin d’être reconnue pour exister • la culpabilité : si elle est abandonnée, c’est de sa faute, parce qu’elle pense ne pas être assez bien pour la personne • le rejet des autres : l’abandonnique peut devenir agressif envers les autres s’il ne se sent pas exister et aimer à leurs yeux. Ainsi, il provoque ce rejet de façon plus ou moins consciente. Il préfère rejeter, dans l'antcipation fantasmatique de pouvoir être mis en marge • l’isolement : par peur d’être rejetée, la personne souffrant de vécu abandonnique peut se replier sur elle-même et fuir les autres afin d’éviter le rejet • l’introspection : pour ne pas heurter les autres, l’abandonnique cache ses émotions et ses sentiments, au point d’extérioriser par des troubles psychosomatiques par exemple (douleurs chroniques ou eczéma) • la peur de la solitude : pour ne pas ressentir l’abandon, elle préfèrera s’entourer en permanence de monde • le sacrifice : afin de satisfaire les autres, l’abandonnique peut subir des humiliations ou des vexations de toutes sortes. Il est prêt à tout pour être aimé Ce vécu d'exclusion engendre chez la personne qui en souffre des comportements d’auto-sabotage. Bien souvent, la personne \"abandonnée\" fait tout, inconsciemment, pour rejouer l’abandon qu’elle a vécu par le passé. Alors qu’elle cherche absolument à être aimée et considérée, elle mettra tout en place pour susciter le rejet ou rejeter elle-même puisque de toute façon, elle pense ne pas mériter cet amour de l’autre. se persuadant que tôt ou tard elle sera à nouveau abandonnée. Cette stratégie biaisée lui donne le sentiment de contrôler son champs émotionnel. Pour se donner les moyens de sortir de ce cercle vicieux entre le besoin de reconnaissance et le rejet, un travail personnel permettant d’identifier ce fonctionnement et de pouvoir le contrer, est nécessaire. L’observation de ses propres relations amoureuses et amicales, jalonnées par des rejets récurrents, peut être le signe d’un vécu abandonnique. Il est à considérer : • travailler la confiance et l’estime de soi • apprendre à poser un regard objectif sur ses relations avec les autres • être soi-même, et prendre le risque de décevoir • se déculpabiliser • s’accepter tel que l’on est • s’affirmer • apprendre à communiquer avec les autres On peut considérer qu'il y a symptôme abandonnique lorsque l’abandon n’est pas achevé, ni nommé, maintenant le sujet dans une illusion fâcheuse qui l’empêche de rompre avec le rêve et d’accéder à la quiétude, à l'autonomie, à l'individualité, au bandon.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Ce vécu spécifique se traduit par plusieurs caractéristiques chez le sujet souffrant : <br/> • le besoin de reconnaissance : la personne fait tout pour être aimée de l’autre et le séduire pour qu’il ne la rejette pas. Elle existe à travers le regard de l’autre et a besoin d’être reconnue pour exister<br/> • la culpabilité : si elle est abandonnée, c’est de sa faute, parce qu’elle pense ne pas être assez bien pour la personne <br/> • le rejet des autres : l’abandonnique peut devenir agressif envers les autres s’il ne se sent pas exister et aimer à leurs yeux. Ainsi, il provoque ce rejet de façon plus ou moins consciente. Il préfère rejeter, dans l'antcipation fantasmatique de pouvoir être mis en marge<br/> • l’isolement : par peur d’être rejetée, la personne souffrant de vécu abandonnique peut se replier sur elle-même et fuir les autres afin d’éviter le rejet <br/> • l’introspection : pour ne pas heurter les autres, l’abandonnique cache ses émotions et ses sentiments, au point d’extérioriser par des troubles psychosomatiques par exemple (douleurs chroniques ou eczéma)<br/> • la peur de la solitude : pour ne pas ressentir l’abandon, elle préfèrera s’entourer en permanence de monde<br/> • le sacrifice : afin de satisfaire les autres, l’abandonnique peut subir des humiliations ou des vexations de toutes sortes. Il est prêt à tout pour être aimé<br/><br/> Ce vécu d'exclusion engendre chez la personne qui en souffre des comportements d’auto-sabotage. Bien souvent, la personne \"abandonnée\" fait tout, inconsciemment, pour rejouer l’abandon qu’elle a vécu par le passé. Alors qu’elle cherche absolument à être aimée et considérée, elle mettra tout en place pour susciter le rejet ou rejeter elle-même puisque de toute façon, elle pense ne pas mériter cet amour de l’autre. se persuadant que tôt ou tard elle sera à nouveau abandonnée. Cette stratégie biaisée lui donne le sentiment de contrôler son champs émotionnel.<br/><br/>Pour se donner les moyens de sortir de ce cercle vicieux entre le besoin de reconnaissance et le rejet, un travail personnel permettant d’identifier ce fonctionnement et de pouvoir le contrer, est nécessaire. L’observation de ses propres relations amoureuses et amicales, jalonnées par des rejets récurrents, peut être le signe d’un vécu abandonnique. Il est à considérer :<br/><br/> • travailler la confiance et l’estime de soi  <br/> • apprendre à poser un regard objectif sur ses relations avec les autres<br/> • être soi-même, et prendre le risque de décevoir  <br/> • se déculpabiliser <br/> • s’accepter tel que l’on est  <br/> • s’affirmer <br/> • apprendre à communiquer avec les autres <br/><br/>On peut considérer qu'il y a symptôme abandonnique lorsque l’abandon n’est pas achevé, ni nommé, maintenant le sujet dans une illusion fâcheuse qui l’empêche de rompre avec le rêve et d’accéder à la quiétude, à l'autonomie, à l'individualité, au bandon.<br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEadd6470233",
+          "layout": {
+            "width": "380px",
+            "left": "470px",
+            "top": "2240px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "marteau",
+          "layout": {
+            "left": "480px",
+            "top": "2340px",
+            "width": "119px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "src": "assets/marteau-wefcc7f1c0e7-505c78c9.jpg",
+          "href": "trauma.html",
+          "label": "TRAUMA"
+        },
+        {
+          "type": "image",
+          "name": "tampon",
+          "layout": {
+            "left": "650px",
+            "top": "2340px",
+            "width": "74px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "src": "assets/tampon-we8138b412b7-3ab0db14.jpg",
+          "href": "repetition.html",
+          "label": "REPETITION"
+        },
+        {
+          "type": "image",
+          "name": "outil",
+          "layout": {
+            "left": "803px",
+            "top": "2340px",
+            "width": "43px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/outil-we6386f37ab2-5d4e68e0.jpg",
+          "href": "reparation.html",
+          "label": "REPARATION"
+        },
+        {
+          "type": "text",
+          "name": "WEccb876a386",
+          "layout": {
+            "width": "auto",
+            "left": "490px",
+            "top": "2420px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "text": "TRAUMA",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRAUMA</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "coeur emotion",
+          "layout": {
+            "left": "490px",
+            "top": "2490px",
+            "width": "81px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "src": "assets/coeur-emotion-we87661ff033-2a68549b.jpg",
+          "href": "emotion.html",
+          "label": "EMOTION"
+        },
+        {
+          "type": "text",
+          "name": "WE22ac0f24ca",
+          "layout": {
+            "width": "auto",
+            "left": "640px",
+            "top": "2500px",
+            "height": "auto",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "16"
+          },
+          "text": "REPETITION",
+          "html": "<span><span style=\"font-size:18px;\">REPETITION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7a60af09a9",
+          "layout": {
+            "width": "auto",
+            "left": "780px",
+            "top": "2500px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "REPARATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">REPARATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "couteau",
+          "layout": {
+            "left": "620px",
+            "top": "2560px",
+            "width": "84px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/couteau-webc2be49e6d-5bb4e0b7.jpg",
+          "href": "trahison.html",
+          "label": "TRAHISON"
+        },
+        {
+          "type": "image",
+          "name": "malle",
+          "layout": {
+            "left": "763px",
+            "top": "2590px",
+            "width": "108px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/malle-wee166bfc161-30a0ec05.jpg",
+          "href": "deuil.html",
+          "label": "DUEIL"
+        },
+        {
+          "type": "text",
+          "name": "WE81bde94619",
+          "layout": {
+            "width": "auto",
+            "left": "500px",
+            "top": "2630px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd38e74bf31",
+          "layout": {
+            "width": "auto",
+            "left": "780px",
+            "top": "2680px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "DUEIL",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DUEIL</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEa91f4b847f",
+          "layout": {
+            "width": "auto",
+            "left": "620px",
+            "top": "2690px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "TRAHISON",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRAHISON</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

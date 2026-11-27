@@ -1,0 +1,435 @@
+{
+  "title": "confort",
+  "source": "https://www.hypnosite.fr/confort.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "580px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "trans-gression"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "0",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE03247c372d",
+          "layout": {
+            "width": "380px",
+            "left": "220px",
+            "top": "150px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "3"
+          },
+          "text": "CONFORT",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-size:70px;font-family:'Bohem Press';\">CONFORT</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE4b6b9bcc66",
+          "layout": {
+            "width": "auto",
+            "left": "470px",
+            "top": "150px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "&",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:65px;\">&amp;</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEb60c20a0fb",
+          "layout": {
+            "width": "auto",
+            "left": "120px",
+            "top": "160px",
+            "height": "auto",
+            "transform": "rotate(0deg)",
+            "-webkit-transform": "rotate(0deg)",
+            "-moz-transform": "rotate(0deg)",
+            "-ms-transform": "rotate(0deg)",
+            "-o-transform": "rotate(0deg)",
+            "z-index": "5"
+          },
+          "text": "(in)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:50px;\">(in)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE5803c6ebbb",
+          "layout": {
+            "width": "410px",
+            "left": "120px",
+            "top": "220px",
+            "height": "auto",
+            "text-align": "center",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "6"
+          },
+          "text": "trans-gression",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Tox Typewriter';line-height:54px;\"><span style=\"font-size:40px;\">trans-gression</span><br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2358663626",
+          "layout": {
+            "width": "640px",
+            "height": "auto",
+            "left": "50%",
+            "top": "460px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "center",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "4",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\" Rien d’audacieux n’existe sans désobéissance aux règles. \" Jean COCTEAU",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\" Rien d’audacieux n’existe sans désobéissance aux règles. \" Jean COCTEAU<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2749px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE2f002739e6",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "20px",
+            "top": "26px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "La zone de confort est, par définition, un espace de sécurité intérieure. C’est un état psychologique où l’on ressent un bien-être certain et un contentement relativement affirmé, une osmose. C'est donc une zone d'aisance qui amène un état comportemental chez une personne qui choisit de vivre dans une position neutre d’anxiété, de contrainte et de stress. Autrement dit, ces derniers ingrédients sont réduits à leur niveau minimum, à l’instar du manque, de la vulnérabilité, du sentiment d’injustice et de la peur de l’inconnue. En outre, cette zone offre l’agréable sensation d’avoir la maîtrise de la situation, en ayant les ressources suffisantes pour y rester indéfiniment. Mais être rassuré fragilise ! Pour citer Tony Robbins, \"toute croissance commence à la fin de notre zone de confort\", nous éloignant de l'expectative et favorisant la configuration de nouvelles perspectives et conquiert les peurs. La zone de confort est le grand ennemi de la créativité, aller au-delà nécessite l’intuition ; c’est quand nous commençons à penser à réaliser nos rêves que nos rêves sont toujours en dehors de notre zone de confort. C’est toujours au-delà de ce que nous avons déjà fait. Alors, paradoxalement, notre zone de confort est notre zone d'instabilité voire d'insécurité. Le franchissement non délibéré de celle-ci est souvent synonyme d’une perte de confiance en soi, et d’estime de soi. Nous sommes particulièrement sensibles et affectés par les opinions des autres. Nous nous donnons facilement des excuses pour rentrer dans notre carcan protecteur. Franchissement non délibéré car s'il y a un désir de sortir de cet espace, la curiosité, le défi et la projection vers de nouveaux horizons guidés par des idéaux prennent le dessus. Par ailleurs, sortir de sa zone de confort permet de stimuler sa créativité et donc d’envisager de nouvelles solutions aux problèmes et aux défis que la vie viendra nous soumettre, que nous soyons prêts à les gérer ou non. En introduisant de la nouveauté et de l’inattendu, on alimente son imagination, on élargit le champ des possibles, se matérialisant alors l'émergence de nouveaux points de vue. Parfois, une intervention extérieure ou un événement indépendant de notre volonté (accident, problème de santé, rupture professionnelle ou relationnelle décidée par autrui…) provoque un choc ou un mouvement qui nous sort de notre district d'aisance. Nous sommes alors propulsés dans une zone de doute voire de peur, puis d’apprentissage. Bien souvent, nous n’en sortons pas volontairement, nous en sommes expulsés. Sortir de la zone de confort peut relever d’une volonté personnelle. L’envie de lâcher une situation de routine ou d’endormissement, l’envie de relever un challenge. Rester dans une zone de confort risquerait de nous faire passer à côté de certains bienfaits de la vie, d’expériences ou d’apprentissages nouveaux. Quand nous restons dans cette zone de sécurité en raison d’une inertie bien ancrée, confortablement installés en nous croyant à l’abri de tout danger, nous ne voyons pas les événements extérieurs progresser. Dans ce cas là, se maintenir dans notre espace rigide peut relever du déni. Et puis, cette extrusion est importante pour notre bien être en luttant contre la passivité hédonique, il faut régulièrement découvrir de nouvelles choses, développer ou approfondir des centres d’intérêt et des compétences. Cette adaptation hédonique correspond au fait que l’on finit toujours par revenir à un niveau neutre de bien être après un événement positif. Par ailleurs, le fait d’attiser sa curiosité et de stimuler son sentiment d’efficacité personnelle passe aussi par le fait de dépasser des difficultés ou des situations stressantes. Alterner intelligemment entre zone de confort et zone de croissance est donc une condition de l’épanouissement personnel.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">La zone de confort est, par définition, un espace de sécurité intérieure. C’est un état psychologique où l’on ressent un bien-être certain et un contentement relativement affirmé, une osmose. C'est donc une zone d'aisance qui amène un état comportemental chez une personne qui choisit de vivre dans une position neutre d’anxiété, de contrainte et de stress. Autrement dit, ces derniers ingrédients sont réduits à leur niveau minimum, à l’instar du manque, de la vulnérabilité, du sentiment d’injustice et de la peur de l’inconnue. En outre, cette zone offre l’agréable sensation d’avoir la maîtrise de la situation, en ayant les ressources suffisantes pour y rester indéfiniment. Mais être rassuré fragilise ! Pour citer Tony Robbins, \"toute croissance commence à la fin de notre zone de confort\", nous éloignant de l'expectative et favorisant la configuration de nouvelles perspectives et conquiert les peurs. La zone de confort est le grand ennemi de la créativité, aller au-delà nécessite l’intuition ; c’est quand nous commençons à penser à réaliser nos rêves que nos rêves sont toujours en dehors de notre zone de confort. C’est toujours au-delà de ce que nous avons déjà fait. Alors, paradoxalement, notre zone de confort est notre zone d'instabilité voire d'insécurité. <br/><br/> Le franchissement non délibéré de celle-ci est souvent synonyme d’une perte de confiance en soi, et d’estime de soi. Nous sommes particulièrement sensibles et affectés par les opinions des autres. Nous nous donnons facilement des excuses pour rentrer dans notre carcan protecteur. Franchissement non délibéré car s'il y a un désir de sortir de cet espace, la curiosité, le défi et la projection vers de nouveaux horizons guidés par des idéaux prennent le dessus. Par ailleurs, sortir de sa zone de confort permet de stimuler sa créativité et donc d’envisager de nouvelles solutions aux problèmes et aux défis que la vie viendra nous soumettre, que nous soyons prêts à les gérer ou non. En introduisant de la nouveauté et de l’inattendu, on alimente son imagination, on élargit le champ des possibles, se matérialisant alors l'émergence de nouveaux points de vue.<br/><br/> Parfois, une intervention extérieure ou un événement indépendant de notre volonté (accident, problème de santé, rupture professionnelle ou relationnelle décidée par autrui…) provoque un choc ou un mouvement qui nous sort de notre district d'aisance. Nous sommes alors propulsés dans une zone de doute voire de peur, puis d’apprentissage. Bien souvent, nous n’en sortons pas volontairement, nous en sommes expulsés. <br/><br/>Sortir de la zone de confort peut relever d’une volonté personnelle. L’envie de lâcher une situation de routine ou d’endormissement, l’envie de relever un challenge. Rester dans une zone de confort risquerait de nous faire passer à côté de certains bienfaits de la vie, d’expériences ou d’apprentissages nouveaux. Quand nous restons dans cette zone de sécurité en raison d’une inertie bien ancrée, confortablement installés en nous croyant à l’abri de tout danger, nous ne voyons pas les événements extérieurs progresser. Dans ce cas là, se maintenir dans notre espace rigide peut relever du déni. <br/><br/> Et puis, cette extrusion est importante pour notre bien être en luttant contre la passivité hédonique, il faut régulièrement découvrir de nouvelles choses, développer ou approfondir des centres d’intérêt et des compétences. Cette adaptation hédonique correspond au fait que l’on finit toujours par revenir à un niveau neutre de bien être après un événement positif. Par ailleurs, le fait d’attiser sa curiosité et de stimuler son sentiment d’efficacité personnelle passe aussi par le fait de dépasser des difficultés ou des situations stressantes. Alterner intelligemment entre zone de confort et zone de croissance est donc une condition de l’épanouissement personnel. <br/> <br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "casque",
+          "layout": {
+            "left": "470px",
+            "top": "60px",
+            "width": "397px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/casque-wea5107cfbe0-199a1716.jpg",
+          "href": "",
+          "label": "casque"
+        },
+        {
+          "type": "text",
+          "name": "WEac656eacf3",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "460px",
+            "top": "368px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "Dès lors, l’objectif n’est pas forcément de revenir dans notre zone de confort comme l’escargot rentre dans sa coquille. Il est plutôt d’affronter au mieux la situation en traversant les zones de peur et d’apprentissage afin d’atteindre une zone de grandeur et d’épanouissement nouveau. Une nouvelle vie avec davantage d’apaisement s’ouvre à nous… Sortir de cette espace cloisonné qu'est la zone de confort peut induire la notion de transgression qui est l’action de passer par-dessus un ordre, une obligation, une loi. En effet, Passer par-dessus évoque l’image d’une avancée, d’une action dynamique. Passer par-dessus un obstacle est tout différent que de renoncer ou de reculer, attitude inverse choisie par d’autres, passifs ou conformistes. Un ordre, une obligation, une loi nuancent le sens premier, souvent péjoratif, de la transgression. En effet, puisque la transgression concerne la loi ou la règle, on imagine habituellement une faute délibérée dans le chef du transgresseur. L’ordre par contre nous ramène à plus de relativité. Être capable de désobéir à un ordre qu’on estime ne pas devoir exécuter peut, dans certaines conditions, être un acte nécessaire et hautement responsable. Chacun joue quotidiennement avec les règles, les normes, les limites. Une certaine dose de désobéissance est même nécessaire à la créativité et à l’innovation. Et la transgression nous concerne tous. Dépasser les limites fait partie de la nature humaine. Un instinct mû par la curiosité et un esprit aventureux sont parfois nécessaires au maintien du bien être. Si certaines transgressions sont extrêmes, choquantes, la plupart se perdent dans la banalité du quotidien, sans que nous en ayons conscience. A commencer par le mensonge, extrêmement répandu : \"un individu normal ment en moyenne 2,5 fois par jour\", affirme la psychologue sociale Claudine Biland. Ainsi, pour grandir, il faut désobéir. Ces petits écarts de tous les jours ne sont pas anodins. Ils reflètent un mode de fonctionnement profondément ancré dans la psyché humaine. L’individu ne peut pas vivre sans transgresser. D’ailleurs, le jeune enfant ne peut pas grandir, ni apprendre à penser par lui-même, sans désobéir. Pour s’autonomiser, il doit dépasser les limites. Car s’il ne se confronte pas à des interdits à explorer ou à tester, son imaginaire ne se développera pas. Il risque de renoncer à se construire, ce qui serait très inquiétant. Le degré de transgression évolue tout au long de l’enfance et de l’adolescence, mais le mécanisme reste le même : l’être humain a besoin de jouer avec les règles pour se développer, explorer la vie, aller de l’avant. Et l'origine biologique du respect des normes existe. La transgression est donc essentielle au développement de l’être humain. Certains scientifiques vont plus loin : le fait de désobéir ou d’obéir aux normes sociales aurait pour origine un mécanisme neurologique. Une équipe du département de l’économie de l’Université de Zurich a montré comment une zone du cerveau située à droite du cortex préfrontal, appelée rLPFC, était impliquée dans le respect des règles sociales. Donc transgresser est une recherche de nouvelles limites, une restructuration constructive de sa zone de confort par expansion, audace et nouveauté.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Dès lors, l’objectif n’est pas forcément de revenir dans notre zone de confort comme l’escargot rentre dans sa coquille. Il est plutôt d’affronter au mieux la situation en traversant les zones de peur et d’apprentissage afin d’atteindre une zone de grandeur et d’épanouissement nouveau. Une nouvelle vie avec davantage d’apaisement s’ouvre à nous… <br/><br/>Sortir de cette espace cloisonné qu'est la zone de confort peut induire la notion de transgression qui est l’action de passer par-dessus un ordre, une obligation, une loi. En effet, Passer par-dessus évoque l’image d’une avancée, d’une action dynamique. Passer par-dessus un obstacle est tout différent que de renoncer ou de reculer, attitude inverse choisie par d’autres, passifs ou conformistes. Un ordre, une obligation, une loi nuancent le sens premier, souvent péjoratif, de la transgression. En effet, puisque la transgression concerne la loi ou la règle, on imagine habituellement une faute délibérée dans le chef du transgresseur.  <br/><br/> L’ordre par contre nous ramène à plus de relativité. Être capable de désobéir à un ordre qu’on estime ne pas devoir exécuter peut, dans certaines conditions, être un acte nécessaire et hautement responsable. Chacun joue quotidiennement avec les règles, les normes, les limites. Une certaine dose de désobéissance est même nécessaire à la créativité et à l’innovation. Et la transgression nous concerne tous. Dépasser les limites fait partie de la nature humaine. Un instinct mû par la curiosité et un esprit aventureux sont parfois nécessaires au maintien du bien être. Si certaines transgressions sont extrêmes, choquantes, la plupart se perdent dans la banalité du quotidien, sans que nous en ayons conscience. A commencer par le mensonge, extrêmement répandu : \"un individu normal ment en moyenne 2,5 fois par jour\", affirme la psychologue sociale Claudine Biland. <br/><br/> Ainsi, pour grandir, il faut désobéir. Ces petits écarts de tous les jours ne sont pas anodins. Ils reflètent un mode de fonctionnement profondément ancré dans la psyché humaine. L’individu ne peut pas vivre sans transgresser. D’ailleurs, le jeune enfant ne peut pas grandir, ni apprendre à penser par lui-même, sans désobéir. Pour s’autonomiser, il doit dépasser les limites. Car s’il ne se confronte pas à des interdits à explorer ou à tester, son imaginaire ne se développera pas. Il risque de renoncer à se construire, ce qui serait très inquiétant. Le degré de transgression évolue tout au long de l’enfance et de l’adolescence, mais le mécanisme reste le même : l’être humain a besoin de jouer avec les règles pour se développer, explorer la vie, aller de l’avant. <br/><br/> Et l'origine biologique du respect des normes existe. La transgression est donc essentielle au développement de l’être humain. Certains scientifiques vont plus loin : le fait de désobéir ou d’obéir aux normes sociales aurait pour origine un mécanisme neurologique. Une équipe du département de l’économie de l’Université de Zurich a montré comment une zone du cerveau située à droite du cortex préfrontal, appelée rLPFC, était impliquée dans le respect des règles sociales. <br/><br/> Donc transgresser est une recherche de nouvelles limites, une restructuration constructive de sa zone de confort par expansion, audace et nouveauté. <br/> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEfc478b8fec",
+          "layout": {
+            "width": "370px",
+            "left": "40px",
+            "top": "2200px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "7"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "homme serpent",
+          "layout": {
+            "left": "170px",
+            "top": "2300px",
+            "width": "57px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/homme-serpent-we7a783f8986-fb15e5e7.jpg",
+          "href": "peur.html",
+          "label": "(désIr)"
+        },
+        {
+          "type": "image",
+          "name": "poisson bonheur",
+          "layout": {
+            "left": "570px",
+            "top": "2310px",
+            "width": "118px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/poisson-bonheur-we42062ac6f5-7a3bdbc4.jpg",
+          "href": "bonheur.html",
+          "label": "(bonheur)"
+        },
+        {
+          "type": "image",
+          "name": "ampoule 4",
+          "layout": {
+            "left": "410px",
+            "top": "2323px",
+            "width": "83px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "src": "assets/ampoule-4-wedbaadd7c37-fb9428d3.jpg",
+          "href": "creativite.html",
+          "label": "CREATIVITE"
+        },
+        {
+          "type": "image",
+          "name": "cadenas",
+          "layout": {
+            "left": "40px",
+            "top": "2390px",
+            "width": "72px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "src": "assets/cadenas-we475b765d51-c39dfb45.jpg",
+          "href": "frustration.html",
+          "label": "FRUSTRATION"
+        },
+        {
+          "type": "text",
+          "name": "WE18aaaf6c7e",
+          "layout": {
+            "width": "auto",
+            "left": "580px",
+            "top": "2400px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "text": "ATARAXIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ATARAXIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd78d6690cd",
+          "layout": {
+            "width": "auto",
+            "left": "620px",
+            "top": "2420px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "(bonheur)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(bonheur)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "oeil pieuvre",
+          "layout": {
+            "left": "290px",
+            "top": "2440px",
+            "width": "74px",
+            "height": "auto",
+            "z-index": "19"
+          },
+          "src": "assets/oeil-pieuvre-we834b719f20-e328bb79.jpg",
+          "href": "solitude.html",
+          "label": "& CONFORMISME"
+        },
+        {
+          "type": "text",
+          "name": "WE0138455849",
+          "layout": {
+            "width": "auto",
+            "left": "400px",
+            "top": "2450px",
+            "height": "auto",
+            "z-index": "18"
+          },
+          "text": "CREATIVITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CREATIVITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE63b2c95ef0",
+          "layout": {
+            "width": "auto",
+            "left": "200px",
+            "top": "2470px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "PEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PEUR</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "elephant",
+          "layout": {
+            "left": "510px",
+            "top": "2480px",
+            "width": "105px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/elephant-we5d78c59b8a-a759a8c6.jpg",
+          "href": "confiance.html",
+          "label": "CONFIANCE / ESTIME"
+        },
+        {
+          "type": "image",
+          "name": "fusee",
+          "layout": {
+            "left": "700px",
+            "top": "2480px",
+            "width": "125px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "src": "assets/fusee-wef1f2b6a53a-4643c9d7.jpg",
+          "href": "oser.html",
+          "label": "OSER"
+        },
+        {
+          "type": "text",
+          "name": "WEbfcf937d60",
+          "layout": {
+            "width": "auto",
+            "left": "190px",
+            "top": "2490px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "(désIr)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(désIr)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE8641bdc950",
+          "layout": {
+            "width": "auto",
+            "left": "30px",
+            "top": "2500px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "text": "FRUSTRATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">FRUSTRATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEbb12217995",
+          "layout": {
+            "width": "auto",
+            "left": "720px",
+            "top": "2550px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "text": "OSER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">OSER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE93f056c463",
+          "layout": {
+            "width": "auto",
+            "left": "342px",
+            "top": "2560px",
+            "height": "auto",
+            "z-index": "20"
+          },
+          "text": "SOLITUDE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SOLITUDE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2469a5cb19",
+          "layout": {
+            "width": "auto",
+            "left": "300px",
+            "top": "2580px",
+            "height": "auto",
+            "z-index": "21"
+          },
+          "text": "& CONFORMISME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">&amp; CONFORMISME<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE9267dad3b9",
+          "layout": {
+            "width": "auto",
+            "left": "490px",
+            "top": "2620px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "text": "CONFIANCE / ESTIME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CONFIANCE / ESTIME</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

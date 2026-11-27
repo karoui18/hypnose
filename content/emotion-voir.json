@@ -1,0 +1,369 @@
+{
+  "title": "Emotion voir",
+  "source": "https://www.hypnosite.fr/emotion%20voir.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "584px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "EMOTION"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "(ne pas voir)"
+        },
+        {
+          "type": "text",
+          "name": "WE12eb36ca5c",
+          "layout": {
+            "width": "550px",
+            "left": "210px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE89980a68eb",
+          "layout": {
+            "width": "auto",
+            "left": "91px",
+            "top": "242px",
+            "height": "auto",
+            "transform": "rotate(20deg)",
+            "-webkit-transform": "rotate(20deg)",
+            "-moz-transform": "rotate(20deg)",
+            "-ms-transform": "rotate(20deg)",
+            "-o-transform": "rotate(20deg)",
+            "z-index": "3"
+          },
+          "text": "(ne pas voir)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:35px;\">(ne pas voir)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE727b800f31",
+          "layout": {
+            "width": "520px",
+            "height": "auto",
+            "left": "50%",
+            "top": "510px",
+            "color": "#000",
+            "text-align": "justify",
+            "font-size": "24px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "5",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\" Sans émotions, il est impossible de transformer les ténèbres en lumière et l'apathie en mouvement. \" Carl Gustav Jung",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">\" Sans émotions, il est impossible de transformer les ténèbres en lumière et l'apathie en mouvement. \" Carl Gustav Jung</span><span style=\"font-family:OldNewspaperTypes;font-size:18px;line-height:21px;\"><br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2485px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WEc194af88b1",
+          "layout": {
+            "width": "430px",
+            "height": "auto",
+            "left": "10px",
+            "top": "174px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "14"
+          },
+          "text": "Pur produit de l'inconscient, les émotions font partie de nous et s’imposent à nous tout en façonnant nos relations aux autres, et ce alors même qu’elles restent souvent un mystère. Pour certaines personnes, la difficulté à les identifier et les comprendre peut avoir des répercussions sur la santé. On a souvent tendance à penser que nous comprenons, décryptons plutôt bien nos émotions. Cependant, en utilisant certains instruments de mesure (échelle alexithymie disponible en bas de page), on estime qu’entre 10 et 15 % de la population générale rencontre des difficultés majeures pour identifier et exprimer ses états émotionnels. C'est ce que l’on appelle alors l’alexithymie. Le terme \"alexithymie\", dérivé du grec a (sans), lexis (mot) et thymos (humeur, émotion), signifie \"absence de mots pour les émotions\". Il a été introduit dans les années 1970 par le psychiatre Peter Sifneos. Il désigne un ensemble de difficultés à identifier, décrire et traiter ses propres émotions. Malgré sa fréquence, cette particularité reste méconnue du grand public, bien qu’elle puisse impacter négativement la santé mentale, les relations interpersonnelles et de façon plus générale, la qualité de vie des personnes concernées. Cette caractéristique qu'est l’alexithymie n’est considérée ni comme un symptôme ou une maladie mais comme une caractéristique de la personnalité. Pour illustrer cela, imaginez que l’on vous demande de décrire une couleur que vous n’avez jamais vue. C’est une situation assez proche de l’expérience vécue par une personne alexithymique lorsqu’elle tente d’expliquer ce qu’elle ressent. Des recherches montrent que l’alexithymie est liée à des spécificités dans le fonctionnement cérébral, notamment dans des zones impliquées dans le traitement émotionnel et la conscience de soi, telles que l’insula antérieure et le cortex préfrontal. Des études par neuroimagerie ont révélé une connectivité réduite entre ces régions chez ces personnes, ce qui pourrait représenter une piste pour expliquer, en partie, leur difficulté à identifier et traiter les émotions. Deux types d’alexithymie sont principalement identifiés. L’alexithymie primaire est considérée comme un trait de personnalité stable. Des facteurs génétiques ou neurobiologiques et développementaux semblent jouer un rôle majeur. L’alexithymie secondaire, en revanche, apparaît à la suite de traumatismes, de stress psychologique, de maladies ou troubles de la santé mentale comme la dépression. L'impact que sont la culture et l'éducation est à considérer.  L’alexithymie représente ainsi, soit un facteur primaire de personnalité qui conditionne une réaction inadaptée au stress, soit un facteur secondaire à des situations stressantes, auquel cas elle a une valeur plus défensive. Dans tous les cas, cette déconnexion émotionnelle peut affecter les relations interpersonnelles. Les personnes concernées par cette \"aphasie émotionnelle\" savent que les émotions existent, mais elles ont du mal à les discerner ou à les exprimer. Plutôt que décrire des émotions spécifiques comme la tristesse, la joie ou la colère, elles parlent souvent d’un malaise général ou se sentent en décalage, sans savoir pourquoi. Parfois, elles ressentent même des symptômes physiques liés à ces émotions incomprises. Car même si elles peinent à verbaliser leurs émotions, les personnes alexithymiques les ressentent bel et bien. Ces émotions non reconnues peuvent se traduire par des symptômes physiques tels que des maux de tête, des douleurs à l’estomac ou de la fatigue – un phénomène appelé somatisation. Il y a une forte prévalence alexithymique dans les addictions, le TDAH et les troubles du spectre autistique.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"><span style=\"color:rgb(0, 0, 0);\"><span style=\"font-family:'Tox Typewriter';\"><span style=\"font-size:18px;\">Pur produit de l'inconscient, les émotions font partie de nous et s’imposent à nous tout en façonnant nos relations aux autres, et ce alors même qu’elles restent souvent un mystère. Pour certaines personnes, la difficulté à les identifier et les comprendre peut avoir des répercussions sur la santé. On a souvent tendance à penser que nous comprenons, décryptons plutôt bien nos émotions. Cependant, en utilisant certains instruments de mesure (échelle alexithymie disponible en bas de page), on estime qu’entre 10 et 15 % de la population générale rencontre des difficultés majeures pour identifier et exprimer ses états émotionnels. C'est ce que l’on appelle alors l’alexithymie. <br/><br/> Le terme \"alexithymie\", dérivé du grec a (sans), lexis (mot) et thymos (humeur, émotion), signifie \"absence de mots pour les émotions\". Il a été introduit dans les années 1970 par le psychiatre Peter Sifneos. Il désigne un ensemble de difficultés à identifier, décrire et traiter ses propres émotions. Malgré sa fréquence, cette particularité reste méconnue du grand public, bien qu’elle puisse impacter négativement la santé mentale, les relations interpersonnelles et de façon plus générale, la qualité de vie des personnes concernées. Cette caractéristique qu'est l’alexithymie n’est considérée ni comme un symptôme ou une maladie mais comme une caractéristique de la personnalité. Pour illustrer cela, imaginez que l’on vous demande de décrire une couleur que vous n’avez jamais vue. C’est une situation assez proche de l’expérience vécue par une personne alexithymique lorsqu’elle tente d’expliquer ce qu’elle ressent. <br/><br/> Des recherches montrent que l’alexithymie est liée à des spécificités dans le fonctionnement cérébral, notamment dans des zones impliquées dans le traitement émotionnel et la conscience de soi, telles que l’insula antérieure et le cortex préfrontal. Des études par neuroimagerie ont révélé une connectivité réduite entre ces régions chez ces personnes, ce qui pourrait représenter une piste pour expliquer, en partie, leur difficulté à identifier et traiter les émotions. Deux types d’alexithymie sont principalement identifiés. L’alexithymie primaire est considérée comme un trait de personnalité stable. Des facteurs génétiques ou neurobiologiques et développementaux semblent jouer un rôle majeur. L’alexithymie secondaire, en revanche, apparaît à la suite de traumatismes, de stress psychologique, de maladies ou troubles de la santé mentale comme la dépression. L'impact que sont la culture et l'éducation est à considérer.  L’alexithymie représente ainsi, soit un facteur primaire de personnalité qui conditionne une réaction inadaptée au stress, soit un facteur secondaire à des situations stressantes, auquel cas elle a une valeur plus défensive. Dans tous les cas, cette déconnexion émotionnelle peut affecter les relations interpersonnelles. <br/><br/>Les personnes concernées par cette \"aphasie émotionnelle\" savent que les émotions existent, mais elles ont du mal à les discerner ou à les exprimer. Plutôt que décrire des émotions spécifiques comme la tristesse, la joie ou la colère, elles parlent souvent d’un malaise général ou se sentent en décalage, sans savoir pourquoi. Parfois, elles ressentent même des symptômes physiques liés à ces émotions incomprises. Car même si elles peinent à verbaliser leurs émotions, les personnes alexithymiques les ressentent bel et bien. Ces émotions non reconnues peuvent se traduire par des symptômes physiques tels que des maux de tête, des douleurs à l’estomac ou de la fatigue – un phénomène appelé somatisation. Il y a une forte prévalence alexithymique dans les addictions, le TDAH et les troubles du spectre autistique. <br/> </span></span></span><br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "lunettes",
+          "layout": {
+            "left": "470px",
+            "top": "240px",
+            "width": "398px",
+            "height": "auto",
+            "transform": "rotate(-20deg)",
+            "-webkit-transform": "rotate(-20deg)",
+            "-moz-transform": "rotate(-20deg)",
+            "-ms-transform": "rotate(-20deg)",
+            "-o-transform": "rotate(-20deg)",
+            "z-index": "1"
+          },
+          "src": "assets/lunettes-fc08a605.jpg",
+          "href": "",
+          "label": "lunettes"
+        },
+        {
+          "type": "text",
+          "name": "WE066a7869b6",
+          "layout": {
+            "width": "430px",
+            "height": "auto",
+            "left": "460px",
+            "top": "550px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "18"
+          },
+          "text": "En effet, lorsque les émotions ne peuvent être exprimées par les mots, elles se manifestent souvent alors dans le corps, par des inconforts ou des douleurs plus ou moins localisées. D’ailleurs, certaines études ont montré que l’alexithymie est un facteur de vulnérabilité qui affecte l’état de santé général, favorise la dépression, l’anxiété, et peut constituer un facteur de risque pour l’alcoolodépendance, par exemple. Une idée reçue est de penser que l’alexithymie équivaut à un manque de chaleur émotionnelle. Les difficultés rencontrées sur le plan émotionnel constituent deux composantes de l’alexithymie, la première est liée à l’identification des émotions, la seconde est liée à leur description, toutes deux associées à une troisième composante qu'est la pensée opérationnelle ouverte sur l’extérieur. La pensée opératoire est un mode de pensée actuelle, factuelle et sans lien avec une activité fantasmatique ou de symbolisation. Elle accompagne les faits plus qu’elle ne les représente. Cette dernière correspond à une façon de penser tournée vers l’opérationnel plutôt que l’émotionnel. Bien que les personnes concernées puissent sembler détachées, ce n’est pas un choix délibéré. L’alexithymie est une difficulté cognitive qui rend la reconnaissance et l’expression des émotions intrinsèquement complexes. Ces individus n’évitent pas intentionnellement leurs émotions, leur cerveau les traitent différemment. Dans sa conception secondaire, elle pourrait même constituer un mécanisme de défense inconscient, utilisé pour atténuer les émotions désagréables, douloureuses et/ou pour contrecarrer les conséquences problématiques de certains facteurs de stress. Bien que l’alexithymie ne soit généralement pas guérissable puisqu’il ne s’agit pas d’une maladie mais d’un trait de personnalité, au même titre que l’hypersensibilité à laquelle elle est souvent associée, il existe des moyens de mieux vivre avec. Mieux comprendre ce phénomène psychologique, ses causes et ses conséquences, est un pas vers une vision plus inclusive et nuancée de la diversité émotionnelle. Si les émotions sont universelles, notre manière de les vivre et de les exprimer est très singulière. Reconnaître ces différences permet de créer des environnements bienveillants et soutenants pour ceux qui peinent à être en contact avec leurs émotions.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;color:rgb(0, 0, 0);\">En effet, lorsque les émotions ne peuvent être exprimées par les mots, elles se manifestent souvent alors dans le corps, par des inconforts ou des douleurs plus ou moins localisées. D’ailleurs, certaines études ont montré que l’alexithymie est un facteur de vulnérabilité qui affecte l’état de santé général, favorise la dépression, l’anxiété, et peut constituer un facteur de risque pour l’alcoolodépendance, par exemple. <br/><br/> Une idée reçue est de penser que l’alexithymie équivaut à un manque de chaleur émotionnelle. Les difficultés rencontrées sur le plan émotionnel constituent deux composantes de l’alexithymie, la première est liée à l’identification des émotions, la seconde est liée à leur description, toutes deux associées à une troisième composante qu'est la pensée opérationnelle ouverte sur l’extérieur. La pensée opératoire est un mode de pensée actuelle, factuelle et sans lien avec une activité fantasmatique ou de symbolisation. Elle accompagne les faits plus qu’elle ne les représente. Cette dernière correspond à une façon de penser tournée vers l’opérationnel plutôt que l’émotionnel. Bien que les personnes concernées puissent sembler détachées, ce n’est pas un choix délibéré. L’alexithymie est une difficulté cognitive qui rend la reconnaissance et l’expression des émotions intrinsèquement complexes. Ces individus n’évitent pas intentionnellement leurs émotions, leur cerveau les traitent différemment. Dans sa conception secondaire, elle pourrait même constituer un mécanisme de défense inconscient, utilisé pour atténuer les émotions désagréables, douloureuses et/ou pour contrecarrer les conséquences problématiques de certains facteurs de stress. <br/><br/> Bien que l’alexithymie ne soit généralement pas guérissable puisqu’il ne s’agit pas d’une maladie mais d’un trait de personnalité, au même titre que l’hypersensibilité à laquelle elle est souvent associée, il existe des moyens de mieux vivre avec. Mieux comprendre ce phénomène psychologique, ses causes et ses conséquences, est un pas vers une vision plus inclusive et nuancée de la diversité émotionnelle. Si les émotions sont universelles, notre manière de les vivre et de les exprimer est très singulière. Reconnaître ces différences permet de créer des environnements bienveillants et soutenants pour ceux qui peinent à être en contact avec leurs émotions.<br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "main femme",
+          "layout": {
+            "left": "500px",
+            "top": "1890px",
+            "width": "95px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "src": "assets/main-femme-wec73f13b2ed-0c02bce2.jpg",
+          "href": "assets/tas-20-823578d2.pdf",
+          "label": "ECHELLE ALEXITHYMIQUE"
+        },
+        {
+          "type": "text",
+          "name": "WE288074bd42",
+          "layout": {
+            "left": "610px",
+            "top": "1890px",
+            "width": "auto",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "ECHELLE ALEXITHYMIQUE",
+          "html": "<a href=\"assets/tas-20-823578d2.pdf\"><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">ECHELLE ALEXITHYMIQUE </span></a>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE724d2bbc28",
+          "layout": {
+            "width": "360px",
+            "left": "490px",
+            "top": "2000px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "15"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "homme pieuvre",
+          "layout": {
+            "left": "780px",
+            "top": "2080px",
+            "width": "72px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/homme-pieuvre-we354d45f64e-a8bca2e4.jpg",
+          "href": "personnalite.html",
+          "label": "PERSONNALITE"
+        },
+        {
+          "type": "image",
+          "name": "gramo",
+          "layout": {
+            "left": "610px",
+            "top": "2160px",
+            "width": "112px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/gramo-we65430bc885-44711a73.jpg",
+          "href": "communiquer.html",
+          "label": "COMMUNIQUER"
+        },
+        {
+          "type": "image",
+          "name": "coeur oeil",
+          "layout": {
+            "left": "30px",
+            "top": "2200px",
+            "width": "93px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/coeur-oeil-we6c35cc065b-21b8d440.jpg",
+          "href": "psychosoma.html",
+          "label": "PSYCHOSOMA"
+        },
+        {
+          "type": "image",
+          "name": "cerveau 1",
+          "layout": {
+            "left": "440px",
+            "top": "2200px",
+            "width": "97px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/cerveau-1-we26e9e70653-ad57c45a.jpg",
+          "href": "toxicomanie.html",
+          "label": "TOXIC Ô MANIE"
+        },
+        {
+          "type": "image",
+          "name": "cygne",
+          "layout": {
+            "left": "270px",
+            "top": "2230px",
+            "width": "104px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/cygne-we44b963c818-60c4824e.jpg",
+          "href": "symptome.html",
+          "label": "SYMPTOME"
+        },
+        {
+          "type": "image",
+          "name": "microscope",
+          "layout": {
+            "left": "160px",
+            "top": "2250px",
+            "width": "76px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/microscope-web0349683ea-45ee97fc.jpg",
+          "href": "anxiete.html",
+          "label": "ANXIETE"
+        },
+        {
+          "type": "text",
+          "name": "WEe60c8de051",
+          "layout": {
+            "width": "auto",
+            "left": "760px",
+            "top": "2250px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "text": "PERSONNALITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PERSONNALITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE1076e96540",
+          "layout": {
+            "width": "auto",
+            "left": "600px",
+            "top": "2310px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "COMMUNIQUER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">COMMUNIQUER<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE9f6e21a6a6",
+          "layout": {
+            "width": "auto",
+            "left": "430px",
+            "top": "2320px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "TOXIC Ô MANIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TOXIC Ô MANIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEa6a0c884d7",
+          "layout": {
+            "width": "auto",
+            "left": "280px",
+            "top": "2330px",
+            "height": "auto",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "11"
+          },
+          "text": "SYMPTOME",
+          "html": "<span><span style=\"font-size:18px;\">SYMPTOME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEb01b6ea7ba",
+          "layout": {
+            "width": "auto",
+            "left": "20px",
+            "top": "2340px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "PSYCHOSOMA",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PSYCHOSOMA</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE405ce2731c",
+          "layout": {
+            "width": "auto",
+            "left": "160px",
+            "top": "2380px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "ANXIETE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ANXIETE</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

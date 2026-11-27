@@ -1,0 +1,364 @@
+{
+  "title": "Emotion",
+  "source": "https://www.hypnosite.fr/emotion.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "567px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "EMOTION"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE664117cccd",
+          "layout": {
+            "width": "550px",
+            "left": "210px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd125239648",
+          "layout": {
+            "width": "630px",
+            "height": "auto",
+            "left": "50%",
+            "top": "490px",
+            "color": "#000",
+            "text-align": "left",
+            "font-size": "24px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "4",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\" N'oublions pas que les petites émotions sont les grands capitaines de nos vies et qu'à celles-là nous y obéissons sans le savoir. \"  Vincent VAN GOGH",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">\" N'oublions pas que les petites émotions sont les grands capitaines de nos vies et qu'à celles-là nous y obéissons sans le savoir. \"  Vincent VAN GOGH  </span><span style=\"font-family:OldNewspaperTypes;font-size:18px;line-height:21px;\"><br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2257px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE1e146c7e8d",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "14px",
+            "top": "138px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "14"
+          },
+          "text": "Les émotions sont des états mentaux qui relèvent d’une construction du système nerveux se complexifiant avec l’évolution, mais dont l’objectif partagé est d’assurer la survie de l’individu et de l’espèce. En 1872, Charles DARWIN va poser les fondements de l'expression des émotions et va les décrire comme innées, universelles et communicantes. Une émotion est un ressenti tant psychique que physique à intensité variable qui se produit sous l'influence d'un évènement particulier et perturbateur (environnement, relationnel, etc.). D'un point de vue comportemental, l'émotion est perçue comme une forme de moteur influençant le choix d'une personne en réponse à un stimulus externe ou interne. D'un point de vue social, elle est une réponse donnée à une interaction avec nous-même et les autres ou encore un contexte. Une émotion ne dure que quelques secondes et marque l'instant présent. Elle est le centre de toute relation et passe inéluctablement par le corps. C'est un ingrédient fondamental de l'existence qui nous positionne dans le contexte dans lequel nous sommes. Elle a également une fonction spatio temporelle. Les émotions peuvent être considérées comme une réaction transitoire, bio-psycho-sociales conçue pour aider les individus à s’adapter et à faire face à des événements qui ont des implications pour leur survie et leur bien-être. Elles semblent donc innées, indépendantes de l'éducation ou de la culture reçue. Elles ont une valeur universelle pour toute l'espèce humaine en ce sens que chacune d'elles s'exprime pratiquement avec les mêmes signes chez chacun, signes qui ont ainsi valeur de langage. Ce qui peut nous pousser à nous interroger sur le sens à donner à nos émotions. Vraissemblablement le plus ancien langage, bien avant le mot. Il permet de dire, de montrer l'indicible, d'exprimer parfois l'insupportable ou l'inacceptable. Ainsi, quand nous ne pouvons mettre des mots sur le retentissement d'un fait, d'une parole, d'une conduite sur nos blessures, une émotion va témoigner de ce qui est touché en nous en provoquant un mot, un comportement, un évènement, autant de stimuli qui peuvent nous rendre peureux ou heureux, nous paralyser, nous rendre irascibles, nous pousser à la fuite, à un acte de violence ou à un rapprochement, nous faire fondre de plaisir ou nous entrainer dans une tristesse infinie. Alors laissons nous concevoir, juste un instant, que l'homme est avant tout un être social et d'émotion avant d'être intellectuel et réfléchi. Que de prioriser le contrôle en occultant le rapport à soi peut alors créer symptôme et dysfonction. Si l'émotion est un discours, une dialectique de l'inconscient (vers le conscient), sa résultante est une forme d'énergie qui parfois se cumule faute de ne pas être utilisée. Surgit alors le symptôme qui peut se manifester sous forme psychosomatique, une souffrance de l'humeur, de l'anxiété ou d'autres troubles tant psychiques que corporels.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"><span style=\"color:rgb(0, 0, 0);\"><span style=\"font-family:'Tox Typewriter';\"><span style=\"font-size:18px;\">Les émotions sont des états mentaux qui relèvent d’une construction du système nerveux se complexifiant avec l’évolution, mais dont l’objectif partagé est d’assurer la survie de l’individu et de l’espèce. En 1872, Charles DARWIN va poser les fondements de l'expression des émotions et va les décrire comme innées, universelles et communicantes.<br/></span><br/><span style=\"font-size:18px;\">Une émotion est un ressenti tant psychique que physique à intensité variable qui se produit sous l'influence d'un évènement particulier et perturbateur (environnement, relationnel, etc.). </span><span style=\"font-size:18px;line-height:26px;\">D'un point de vue comportemental, l'émotion est perçue comme une forme de moteur influençant le choix d'une personne en réponse à un stimulus externe ou interne.</span> <span style=\"font-size:18px;line-height:26px;\">D'un point de vue social, elle est une réponse donnée à une interaction avec nous-même et les autres ou encore un contexte. </span><span style=\"font-size:18px;line-height:26px;\">Une émotion ne dure que quelques secondes et marque l'instant présent. Elle est le centre de toute relation et passe inéluctablement par le corps. C'est un ingrédient fondamental de l'existence qui nous positionne dans le contexte dans lequel nous sommes. Elle a également une fonction spatio temporelle.<br/><br/>Les émotions peuvent être considérées comme une réaction transitoire, bio-psycho-sociales conçue pour aider les individus à s’adapter et à faire face à des événements qui ont des implications pour leur survie et leur bien-être. Elles semblent donc innées, indépendantes de l'éducation ou de la culture reçue. Elles ont une valeur universelle pour toute l'espèce humaine en ce sens que chacune d'elles s'exprime pratiquement avec les mêmes signes chez chacun, signes qui ont ainsi valeur de langage. Ce qui peut nous pousser à nous interroger sur le sens à donner à nos émotions. Vraissemblablement le plus ancien langage, bien avant le mot. Il permet de dire, de montrer l'indicible, d'exprimer parfois l'insupportable ou l'inacceptable. Ainsi, quand nous ne pouvons mettre des mots sur le retentissement d'un fait, d'une parole, d'une conduite sur nos blessures, une émotion va témoigner de ce qui est touché en nous en provoquant un mot, un comportement, un évènement, autant de stimuli qui peuvent nous rendre peureux ou heureux, nous paralyser, nous rendre irascibles, nous pousser à la fuite, à un acte de violence ou à un rapprochement, nous faire fondre de plaisir ou nous entrainer dans une tristesse infinie.<br/></span></span><span style=\"font-size:18px;line-height:26px;\"><span style=\"font-family:'Tox Typewriter';\"><br/>Alors laissons nous concevoir, juste un instant, que l'homme est avant tout un être social et d'émotion avant d'être intellectuel et réfléchi. Que de prioriser le contrôle en occultant le rapport à soi peut alors créer symptôme et dysfonction.  <span style=\"font-size:18px;\">Si l'émotion est un discours, une dialectique de l'inconscient (vers le conscient), sa résultante est une forme d'énergie qui parfois se cumule faute de ne pas être utilisée. Surgit alors le symptôme qui peut se manifester sous forme psychosomatique, une souffrance de l'humeur, de l'anxiété ou d'autres troubles tant psychiques que corporels.</span></span></span></span><br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "coeur emotion",
+          "layout": {
+            "left": "530px",
+            "top": "140px",
+            "width": "282px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/coeur-emotion-8dae91c5.jpg",
+          "href": "",
+          "label": "coeur emotion"
+        },
+        {
+          "type": "text",
+          "name": "WEe6ac75e87a",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "465px",
+            "top": "620px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "18"
+          },
+          "text": "D'une généralité, les émotions (inconscientes) influencent nos sentiments (conscients), donc nos réponses volontaires à ce que nous comprenons de nos ressentis. Mais cela est loin d'être une obligation et de percevoir plus finement notre champs émotionnel nous permet d'être acteur de nos sentiments en les choisissant et non en nous les imposant. Elles sont des réponses adaptatives au monde, pas simplement des sensations abstraites. Parfois, notre discours émotionnel peut dysfonctionner et peut nous contraindre à un malaise intérieur. Difficulté dans son expression, son éprouvé, une perception d'anesthésie ou à l'opposé une hyper émotivité, une expressivité hyperbolique, sa gestion peut alors être délicate et invalider nos interactions. Chez l’être humain, les conséquences d’un stress constant, réponse adaptative à l'environnement, sont notamment une réduction de la flexibilité émotionnelle, cognitive et comportementale, c’est-à-dire une diminution des capacités à passer d’une émotion à une autre, d’une pensée à une autre, ou d’un comportement à un autre dans une situation donnée. D’où moins de solutions différentes pour faire face à une situation, et une expression rigide des comportements défensifs. Accepter d'entendre ses émotions, de les respecter (et non de les maîtriser ou de les réprimer) est l'un des moyens, des chemins que l'on peut prendre pour être en accord avec soi-même. Ainsi, l'hypnose par ses modalités spécifiques, peut être entendu comme l'outil juste adapté pour rétablir l'équilibre désiré. Il permet, entre autre, de travailler sur le décriptage langagier du ressenti émotionnel. Parfois il suffit simplement de s'autoriser à ressentir et l 'hypnose devient un facilitateur, une interface psychique entre l'éprouvé, la perception et le sentiment !",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"><span style=\"color:rgb(0, 0, 0);\"><span style=\"font-family:'Tox Typewriter';font-size:18px;\">D'une généralité, les émotions (inconscientes) influencent nos sentiments (conscients), donc nos réponses volontaires à ce que nous comprenons de nos ressentis. Mais cela est loin d'être une obligation et de percevoir plus finement notre champs émotionnel nous permet d'être acteur de nos sentiments en les choisissant et non en nous les imposant. Elles sont des réponses adaptatives au monde, pas simplement des sensations abstraites.<br/><br/>Parfois, notre discours émotionnel peut dysfonctionner et peut nous contraindre à un malaise intérieur. Difficulté dans son expression, son éprouvé, une perception d'anesthésie ou à l'opposé une hyper émotivité, une expressivité hyperbolique, sa gestion peut alors être délicate et invalider nos interactions. Chez l’être humain, les conséquences d’un stress constant, réponse adaptative à l'environnement, sont notamment une réduction de la flexibilité émotionnelle, cognitive et comportementale, c’est-à-dire une diminution des capacités à passer d’une émotion à une autre, d’une pensée à une autre, ou d’un comportement à un autre dans une situation donnée. D’où moins de solutions différentes pour faire face à une situation, et une expression rigide des comportements défensifs.</span><br/><br/><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Accepter d'entendre ses émotions, de les respecter (et non de les maîtriser ou de les réprimer) est l'un des moyens, des chemins que l'on peut prendre pour être en accord avec soi-même. Ainsi, l'hypnose par ses modalités spécifiques, peut être entendu comme l'outil juste adapté pour rétablir l'équilibre désiré. Il permet, entre autre, de travailler sur le décriptage langagier du ressenti émotionnel. </span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Parfois il suffit simplement de s'autoriser à ressentir et l</span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">'hypnose devient un facilitateur, une interface psychique entre l'éprouvé, la perception et le sentiment !</span><span style=\"font-size:18px;line-height:26px;\"></span></span><br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "main femme",
+          "layout": {
+            "left": "510px",
+            "top": "1710px",
+            "width": "95px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "src": "assets/main-femme-wec73f13b2ed-0c02bce2.jpg",
+          "href": "assets/tas-20-823578d2.pdf",
+          "label": "ECHELLE ALEXITHYMIQUE"
+        },
+        {
+          "type": "text",
+          "name": "WE66a36a7efd",
+          "layout": {
+            "left": "620px",
+            "top": "1710px",
+            "width": "auto",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "ECHELLE ALEXITHYMIQUE",
+          "html": "<a href=\"assets/tas-20-823578d2.pdf\"><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">ECHELLE ALEXITHYMIQUE </span></a>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEdffdb4a45c",
+          "layout": {
+            "width": "380px",
+            "left": "50%",
+            "top": "1890px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "15",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "cerveau 1",
+          "layout": {
+            "left": "440px",
+            "top": "1990px",
+            "width": "97px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/cerveau-1-we26e9e70653-ad57c45a.jpg",
+          "href": "toxicomanie.html",
+          "label": "TOXIC Ô MANIE"
+        },
+        {
+          "type": "image",
+          "name": "gramo",
+          "layout": {
+            "left": "590px",
+            "top": "1990px",
+            "width": "112px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/gramo-we65430bc885-44711a73.jpg",
+          "href": "communiquer.html",
+          "label": "COMMUNIQUER"
+        },
+        {
+          "type": "image",
+          "name": "homme pieuvre",
+          "layout": {
+            "left": "60px",
+            "top": "2000px",
+            "width": "72px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/homme-pieuvre-we354d45f64e-a8bca2e4.jpg",
+          "href": "personnalite.html",
+          "label": "PERSONNALITE"
+        },
+        {
+          "type": "image",
+          "name": "microscope",
+          "layout": {
+            "left": "180px",
+            "top": "2010px",
+            "width": "76px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/microscope-web0349683ea-45ee97fc.jpg",
+          "href": "anxiete.html",
+          "label": "ANXIETE"
+        },
+        {
+          "type": "image",
+          "name": "lunettes",
+          "layout": {
+            "left": "741px",
+            "top": "2024px",
+            "width": "132px",
+            "height": "auto",
+            "transform": "rotate(-25deg)",
+            "-webkit-transform": "rotate(-25deg)",
+            "-moz-transform": "rotate(-25deg)",
+            "-ms-transform": "rotate(-25deg)",
+            "-o-transform": "rotate(-25deg)",
+            "z-index": "7"
+          },
+          "src": "assets/lunettes-we6c35cc065b-51e844d6.jpg",
+          "href": "emotion-voir.html",
+          "label": "(ne pas voir)"
+        },
+        {
+          "type": "image",
+          "name": "cadenas",
+          "layout": {
+            "left": "290px",
+            "top": "2040px",
+            "width": "86px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/cadenas-weabdc436bb6-d290124c.jpg",
+          "href": "frustration.html",
+          "label": "FRUSTRATION"
+        },
+        {
+          "type": "text",
+          "name": "WE236ed4ea17",
+          "layout": {
+            "width": "auto",
+            "left": "810px",
+            "top": "2100px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE8b56c6c0f8",
+          "layout": {
+            "width": "auto",
+            "left": "430px",
+            "top": "2110px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "TOXIC Ô MANIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TOXIC Ô MANIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE32712b5461",
+          "layout": {
+            "width": "auto",
+            "left": "780px",
+            "top": "2120px",
+            "height": "auto",
+            "z-index": "19"
+          },
+          "text": "(ne pas voir)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(ne pas voir)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE08e8c9cc8e",
+          "layout": {
+            "width": "auto",
+            "left": "180px",
+            "top": "2140px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "ANXIETE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ANXIETE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE5b154c7aa6",
+          "layout": {
+            "width": "auto",
+            "left": "580px",
+            "top": "2140px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "COMMUNIQUER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">COMMUNIQUER<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE5c4cbd61c9",
+          "layout": {
+            "width": "auto",
+            "left": "30px",
+            "top": "2170px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "text": "PERSONNALITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PERSONNALITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEae8e4770f7",
+          "layout": {
+            "width": "auto",
+            "left": "280px",
+            "top": "2170px",
+            "height": "auto",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "11"
+          },
+          "text": "FRUSTRATION",
+          "html": "<span><span style=\"font-size:18px;\">FRUSTRATION</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "title": "croyance",
+  "source": "https://www.hypnosite.fr/croyance.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "594px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "CROYANCE"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE2798d5e8ad",
+          "layout": {
+            "width": "330px",
+            "left": "210px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'Bohem Press'",
+            "z-index": "2"
+          },
+          "text": "CROYANCE",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-size:70px;\">CROYANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE617afb2901",
+          "layout": {
+            "width": "620px",
+            "height": "auto",
+            "left": "50%",
+            "top": "430px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"On a toujours tort d'essayer d'avoir raison devant des gens qui ont toutes les bonnes raisons de croire qu'ils n'ont pas tort !\"  Raymond DEVOS",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"On a toujours tort d'essayer d'avoir raison devant des gens qui ont toutes les bonnes raisons de croire qu'ils n'ont pas tort !\"  Raymond DEVOS<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2490px",
+      "items": [
+        {
+          "type": "image",
+          "name": "femme serpent",
+          "layout": {
+            "left": "490px",
+            "top": "0",
+            "width": "376px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/femme-serpent-we5d119525c4-77ccc2f8.jpg",
+          "href": "",
+          "label": "femme serpent"
+        },
+        {
+          "type": "text",
+          "name": "WE436f2a05a9",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "10px",
+            "top": "4px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "Le concept de croyance, sous son apparente familiarité, recèle de profondes difficultés qui sont notamment dues à sa nature « biface ». D’une part, il désigne des états psychologiques, des représentations mentales internes considérées comme vraies par l’organisme et utilisées pour effectuer des actions, aussi bien physiques que mentales. D’autre part, il renvoie à des contenus sémantiques, à des représentations externes attribuées à des individus ou des groupes sociaux. Les sociologues tendent à assimiler les croyances à des connaissances imparfaites, liées à des carences informationnelles ou à des limites cognitives. Dans son acception la plus simple, la notion de croyance sert à désigner l’adhésion à des idées, des opinions, des valeurs sans qu’une démonstration rationnelle, empirique ou théorique n’ait conduit à l’élaboration et l’adoption des croyances en question. Classiquement donc, la croyance reposerait sur une parole d’autorité, un ouï-dire, des raisons non vérifiées en elles-mêmes : croire, c’est se fier à quelqu’un ou quelque chose (texte, récit, mythe, etc.) indépendamment de faits empiriquement établis ou démontrés. C''est donc une opinion, considérée vraie par un individu, vécue comme une doctrine mais ne faisant pas l'objet d'un consensus et n'étant pas confirmée ou vérifiable. Une définition globale pourrait être : processus conscient par lequel un sujet adhère à des perceptions ou des élaborations cognitives non vérifiées par les sens. Elle s’oppose à la notion d’esprit critique, de libre arbitre. Ainsi, Croire quelque chose, c'est tenir cette chose pour vraie. Une croyance peut être considérée comme un prisme, un filtre entre ce qui est et nous, entre ce qui nous arrive et nous. Cela va influencer notre ressenti, notre attitude et notre réaction vis à vis de notre monde environnant et des événements que nous vivons. Si nos croyances proviennent de notre vécu et de nos expériences passées, bonnes ou mauvaises, la plupart de nos croyances ne nous appartiennent pas vraiment. Ces croyances rapportées proviennent de nos parents, de notre éduction ou encore de notre culture. Nous en tirons un enseignement global, une généralité et les distorsions ou les généralisations que notre cerveau en fait peut accentuer de manière considérable une rigidité de fonctionnement psychique. Et elle s'immisce dans dans bien des aspects de notre activité mentale : ne croit-on pas en nos souvenirs ? Sans support objectif, n'est-ce pas croire que d'attribuer un label de certitude à nos traces mnésiques ? Sachant l'oubli possible, chaque rappel d'un souvenir n'est-il pas taxé de l'estimation d'une probabilité d'erreur ? Cette définition de la croyance proposée ici s'appuie aussi sur la notion de perception. D'un point de vue neurophysiologique, la perception (consciente) est le produit du traitement (conscient) des informations recueillies par les processus de détection sensorielle. Il s'avère évidemment que perception n'est qu'illusion : notre représentation mentale des choses n'est pas un reflet fidèle de leurs caractères physiques, elle est influencée par le contexte, notre capacité à le comprendre et notre expérience. Notre perception est une croyance sur laquelle nous construisons notre position dans l'environnement. Alors, de ces possibles inexactitudes perceptives, il en découle le biais de confirmation, qui désigne un biais cognitif qui consiste à privilégier les informations confirmant ses idées préconçues et/ou à accorder moins de poids aux hypothèses et informations jouant en défaveur de ses conceptions. Ce biais se manifeste lorsqu'on rassemble des éléments ou qu'on se rappelle des informations mémorisées, de manière sélective, les interprétant d'une manière biaisée. Ce biais apparait notamment autour de questions de nature affective et concernant des opinions ou croyances établies.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Le concept de croyance, sous son apparente familiarité, recèle de profondes difficultés qui sont notamment dues à sa nature « biface ». D’une part, il désigne des états psychologiques, des représentations mentales internes considérées comme vraies par l’organisme et utilisées pour effectuer des actions, aussi bien physiques que mentales. D’autre part, il renvoie à des contenus sémantiques, à des représentations externes attribuées à des individus ou des groupes sociaux. Les sociologues tendent à assimiler les croyances à des connaissances imparfaites, liées à des carences informationnelles ou à des limites cognitives. <br/>  <br/> Dans son acception la plus simple, la notion de croyance sert à désigner l’adhésion à des idées, des opinions, des valeurs sans qu’une démonstration rationnelle, empirique ou théorique n’ait conduit à l’élaboration et l’adoption des croyances en question. Classiquement donc, la croyance reposerait sur une parole d’autorité, un ouï-dire, des raisons non vérifiées en elles-mêmes : croire, c’est se fier à quelqu’un ou quelque chose (texte, récit, mythe, etc.) indépendamment de faits empiriquement établis ou démontrés. C''est donc une opinion, considérée vraie par un individu, vécue comme une doctrine mais ne faisant pas l'objet d'un consensus et n'étant pas confirmée ou vérifiable. Une définition globale pourrait être : processus conscient par lequel un sujet adhère à des perceptions ou des élaborations cognitives non vérifiées par les sens. Elle s’oppose à la notion d’esprit critique, de libre arbitre. Ainsi, Croire quelque chose, c'est tenir cette chose pour vraie.<br/><br/>Une croyance peut être considérée comme un prisme, un filtre entre ce qui est et nous, entre ce qui nous arrive et nous. Cela va influencer notre ressenti, notre attitude et notre réaction vis à vis de notre monde environnant et des événements que nous vivons. Si nos croyances proviennent de notre vécu et de nos expériences passées, bonnes ou mauvaises, la plupart de nos croyances ne nous appartiennent pas vraiment. Ces croyances rapportées proviennent de nos parents, de notre éduction ou encore de notre culture. Nous en tirons un enseignement global, une généralité et les distorsions ou les généralisations que notre cerveau en fait peut accentuer de manière considérable une rigidité de fonctionnement psychique. Et elle s'immisce dans dans bien des aspects de notre activité mentale : ne croit-on pas en nos souvenirs ? Sans support objectif, n'est-ce pas croire que d'attribuer un label de certitude à nos traces mnésiques ? Sachant l'oubli possible, chaque rappel d'un souvenir n'est-il pas taxé de l'estimation d'une probabilité d'erreur ? <br/><br/> Cette définition de la croyance proposée ici s'appuie aussi sur la notion de perception. D'un point de vue neurophysiologique, la perception (consciente) est le produit du traitement (conscient) des informations recueillies par les processus de détection sensorielle. Il s'avère évidemment que perception n'est qu'illusion : notre représentation mentale des choses n'est pas un reflet fidèle de leurs caractères physiques, elle est influencée par le contexte, notre capacité à le comprendre et notre expérience. Notre perception est une croyance sur laquelle nous construisons notre position dans l'environnement.<br/><br/>Alors, de ces possibles inexactitudes perceptives, il en découle le biais de confirmation, qui désigne un biais cognitif qui consiste à privilégier les informations confirmant ses idées préconçues et/ou à accorder moins de poids aux hypothèses et informations jouant en défaveur de ses conceptions. Ce biais se manifeste lorsqu'on rassemble des éléments ou qu'on se rappelle des informations mémorisées, de manière sélective, les interprétant d'une manière biaisée. Ce biais apparait notamment autour de questions de nature affective et concernant des opinions ou croyances établies. <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE4d7239f62b",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "470px",
+            "top": "420px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "Par exemple, pour s'informer d'un sujet controversé, on pourra préférer lire des sources qui confirment ou affirment notre point de vue. Nous aurons aussi tendance à interpréter des preuves équivoques pour appuyer notre position actuelle. Supplémentairement, la croyance peut entrainer une corrélation trompeuse, qui est aussi un biais cognitif consistant à percevoir un rapport entre deux évènements, corrélation qui n'existe pas ou qui est bien plus faible en réalité. C’est pour cela qu’on dit souvent qu’une croyance est une prophétie auto-réalisatrice  alignant nos actes et nos attitudes sur notre croyance pour que la réalité soit en conformité avec cette dernière. Ainsi, une prophétie autoréalisatrice est un énoncé qui modifie des comportements de telle sorte que cet énoncé se réalise. Ce qui n'était qu'une possibilité parmi d'autres devient réalité. A l'inverse, la prophétie autodestructrice est une prédiction qui détruit les possibilités de réalisation de cette prédiction. Dans les deux cas, le fait que la prédiction soit énoncée et que des personnes y croient entraîne une modification des comportements. Pour ce qui concerne les croyances limitantes, elles font partie des freins quotidiens qui empêchent d’entreprendre de nouvelles choses, de se lancer, voire parfois même de rêver. Il s’agit d’une certitude, acquise au fil du temps, résultant de certains traumatismes ou habitudes et qui nous freine dans notre évolution. Les croyances limitantes nous enferment dans une zone de confort dont on n’a pas vraiment envie de sortir. Pourquoi tenter de changer les choses ou d’oser, si c’est pour échouer à coup sûr ?  Vous comprenez ici que nos actions, nos réactions et nos attitudes sont d’abord dictées par nos croyances qui sont autant de filtres entre le monde et nous. Alors, connaitre et repérer nos croyances limitantes, celles qui vous tirent vers le bas, est essentiel à une vie épanouissante et stimulante. Fort heureusement, il y a quelques clés qui permettent de les repérer, les déconstruire. Qu’elles soient intrinsèques à l’histoire d’une personne ou héritées des injonctions sociétales, les croyances limitantes sont parfois difficiles à repérer tant elles sont insidieusement ancrées. La P.N.L.  au travers de la communication Ericksonienne favorise l'éclaircissement de ce registre de fonctionnement : • Identifier les croyances et les interroger • User de la méthode Coué pour les défaire • Chercher des exemples inspirants (voir la page MODELE) pour trouver une raison d’y croire • Visualiser sa propre réussite • Oser et passer à l’action pour les déconstruire  (voir la page OSER) Pour que nos croyances ne deviennent pas des certitudes déguisées, une part d'irrationnel doit subsister en nous, qui permettra à notre imaginaire et à notre activité symbolique de s'épanouir. Ces freins psychologiques que sont les croyances peuvent évidemment se desserrer et faire place à des croyances aidantes, basées sur la confiance en soi et la pensée positive.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Par exemple, pour s'informer d'un sujet controversé, on pourra préférer lire des sources qui confirment ou affirment notre point de vue. Nous aurons aussi tendance à interpréter des preuves équivoques pour appuyer notre position actuelle. Supplémentairement, la croyance peut entrainer une corrélation trompeuse, qui est aussi un biais cognitif consistant à percevoir un rapport entre deux évènements, corrélation qui n'existe pas ou qui est bien plus faible en réalité. <br/>C’est pour cela qu’on dit souvent qu’une croyance est une prophétie auto-réalisatrice  alignant nos actes et nos attitudes sur notre croyance pour que la réalité soit en conformité avec cette dernière. Ainsi, une prophétie autoréalisatrice est un énoncé qui modifie des comportements de telle sorte que cet énoncé se réalise. Ce qui n'était qu'une possibilité parmi d'autres devient réalité. A l'inverse, la prophétie autodestructrice est une prédiction qui détruit les possibilités de réalisation de cette prédiction. Dans les deux cas, le fait que la prédiction soit énoncée et que des personnes y croient entraîne une modification des comportements. <br/><br/> Pour ce qui concerne les croyances limitantes, elles font partie des freins quotidiens qui empêchent d’entreprendre de nouvelles choses, de se lancer, voire parfois même de rêver. Il s’agit d’une certitude, acquise au fil du temps, résultant de certains traumatismes ou habitudes et qui nous freine dans notre évolution. Les croyances limitantes nous enferment dans une zone de confort dont on n’a pas vraiment envie de sortir. Pourquoi tenter de changer les choses ou d’oser, si c’est pour échouer à coup sûr ?  Vous comprenez ici que nos actions, nos réactions et nos attitudes sont d’abord dictées par nos croyances qui sont autant de filtres entre le monde et nous. Alors, connaitre et repérer nos croyances limitantes, celles qui vous tirent vers le bas, est essentiel à une vie épanouissante et stimulante.  <br/><br/> Fort heureusement, il y a quelques clés qui permettent de les repérer, les déconstruire. Qu’elles soient intrinsèques à l’histoire d’une personne ou héritées des injonctions sociétales, les croyances limitantes sont parfois difficiles à repérer tant elles sont insidieusement ancrées. La P.N.L.  au travers de la communication Ericksonienne favorise l'éclaircissement de ce registre de fonctionnement :<br/> • Identifier les croyances et les interroger  <br/> • User de la méthode Coué pour les défaire <br/> • Chercher des exemples inspirants (voir la page MODELE) pour trouver une raison d’y croire <br/> • Visualiser sa propre réussite <br/> • Oser et passer à l’action pour les déconstruire  (voir la page OSER) <br/>  <br/>Pour que nos croyances ne deviennent pas des certitudes déguisées, une part d'irrationnel doit subsister en nous, qui permettra à notre imaginaire et à notre activité symbolique de s'épanouir. Ces freins psychologiques que sont les croyances peuvent évidemment se desserrer et faire place à des croyances aidantes, basées sur la confiance en soi et la pensée positive. <br/> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE33dde4e120",
+          "layout": {
+            "width": "370px",
+            "left": "50%",
+            "top": "2140px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "18",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "homme serpent",
+          "layout": {
+            "left": "150px",
+            "top": "2210px",
+            "width": "58px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "src": "assets/homme-serpent-webbdab92eaa-12ae1c5b.jpg",
+          "href": "peur.html",
+          "label": "PEUR"
+        },
+        {
+          "type": "image",
+          "name": "direction",
+          "layout": {
+            "left": "240px",
+            "top": "2240px",
+            "width": "118px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/direction-weea7405ff70-61faa4a1.jpg",
+          "href": "choix.html",
+          "label": "(NON) CHOIX"
+        },
+        {
+          "type": "image",
+          "name": "oreille",
+          "layout": {
+            "left": "30px",
+            "top": "2250px",
+            "width": "80px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/oreille-wed1f6790e19-107ad403.jpg",
+          "href": "secret.html",
+          "label": "SECRET"
+        },
+        {
+          "type": "image",
+          "name": "jumelles",
+          "layout": {
+            "left": "770px",
+            "top": "2260px",
+            "width": "107px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/jumelles-wedfafb18c03-6bacf5ab.jpg",
+          "href": "vision.html",
+          "label": "VISION"
+        },
+        {
+          "type": "image",
+          "name": "lapin medaille",
+          "layout": {
+            "left": "390px",
+            "top": "2280px",
+            "width": "77px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/lapin-medaille-we0f55a66e90-6474d463.jpg",
+          "href": "legitimite.html",
+          "label": "LEGITIMITE"
+        },
+        {
+          "type": "image",
+          "name": "tour eiffel",
+          "layout": {
+            "left": "670px",
+            "top": "2290px",
+            "width": "81px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/tour-eiffel-we88b0c3d16b-e2ef5085.jpg",
+          "href": "modele.html",
+          "label": "MODELE"
+        },
+        {
+          "type": "image",
+          "name": "fusee",
+          "layout": {
+            "left": "500px",
+            "top": "2310px",
+            "width": "138px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "src": "assets/fusee-wefd4b8d57e0-ab8e1556.jpg",
+          "href": "oser.html",
+          "label": "OSER"
+        },
+        {
+          "type": "text",
+          "name": "WE59aeb36e16",
+          "layout": {
+            "width": "auto",
+            "left": "260px",
+            "top": "2340px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "(NON) CHOIX",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(NON) CHOIX</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2fdc39261d",
+          "layout": {
+            "width": "auto",
+            "left": "800px",
+            "top": "2350px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "VISION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">VISION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE95d407cc96",
+          "layout": {
+            "width": "auto",
+            "left": "40px",
+            "top": "2370px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "SECRET",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SECRET</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE161eec177e",
+          "layout": {
+            "width": "auto",
+            "left": "160px",
+            "top": "2380px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "PEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PEUR</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2fd243c636",
+          "layout": {
+            "width": "auto",
+            "left": "540px",
+            "top": "2390px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "OSER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">OSER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE23a5f9df92",
+          "layout": {
+            "width": "auto",
+            "left": "378px",
+            "top": "2408px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "text": "LEGITIMITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">LEGITIMITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE315acfcb3b",
+          "layout": {
+            "width": "auto",
+            "left": "680px",
+            "top": "2430px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "MODELE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">MODELE</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

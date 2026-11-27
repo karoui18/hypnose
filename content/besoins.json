@@ -1,0 +1,344 @@
+{
+  "title": "besoins",
+  "source": "https://www.hypnosite.fr/besoins.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "581px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "(relationnels)"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE593cd4a045",
+          "layout": {
+            "width": "550px",
+            "left": "210px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "3"
+          },
+          "text": "BESOINS",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-size:70px;font-family:'Bohem Press';\">BESOINS</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEe30e3682f1",
+          "layout": {
+            "width": "auto",
+            "left": "440px",
+            "top": "180px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "(relationnels)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:35px;\">(relationnels)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEdee48886e1",
+          "layout": {
+            "width": "620px",
+            "height": "auto",
+            "left": "50%",
+            "top": "420px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "left",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "4",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Les gens n'ont pas besoin de conseils, ils ont besoin de compréhension.\" H. Jackson BROWN Jr.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Les gens n'ont pas besoin de conseils, ils ont besoin de compréhension.\" <br/>H. Jackson BROWN Jr.<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1742px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WEeda5d75cd5",
+          "layout": {
+            "width": "390px",
+            "height": "auto",
+            "left": "30px",
+            "top": "10px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "Issus du regard du psychosociologue Jacques SALOME, les besoins relationnels sont souvent globalisés sous le pudique \"besoin d’être aimé\", comme s’il les recouvrait tous et évitait de les nommer, de les reconnaître. Même s’ils ne sont pas toujours bien identifiés, nos besoins relationnels sont aussi importants que se nourrir, boire, dormir, être en sécurité… Ces besoins sont à la base de notre développement personnel, notre santé psychique et de notre équilibre relationnel au sein de nos différents environnements. Les combler signifie prendre soin de notre estime de soi et améliore la qualité relationnelle que nous entretenons avec nos semblables. Ils sont liés à la capacité à s’aimer, donc à la possibilité d’aimer, en étant moins dépendant du besoin, voire de l’exigence, d’être aimé. En premier lieu, le besoin de se dire, c’est-à-dire de pouvoir passer de l’impression à l’expression, de pouvoir mettre des mots sur son ressenti, ses sentiments, ses émotions ou les idées qui nous traversent. Le besoin de se dire est celui qui nous fait nous exprimer avec nos propres mots et pas ceux que nous avons empruntés. Il s’agit de re-prendre à notre compte la substance de nos propos. Le besoin d’être entendu, c’est-à-dire avoir le sentiment que ce que j’ai dit n’est pas tombé dans le vide, ne s’est pas perdu, n’est pas nié, déformé ou récupéré, mais est bien arrivé jusqu’à l’autre, le destinataire que j’ai choisi. Ce besoin est étroitement lié au besoin d’affirmation, lui-même conditionné par celui d’approbation (à l’origine de nombre de dépendances affectives et relationnelles). Ces deux besoins étant antinomiques, si je prends la liberté de m’affirmer, je dois prendre le risque de ne pas avoir l’approbation de l’autre. Le besoin d’être reconnu, d’être vu et perçu tel que je suis, et non tel que l’autre me voudrait ou imagine que je suis et assumer ainsi ma singularité. Le besoin d’être valorisé,  pouvoir ressentir que j’ai une valeur, que l’on compte sur moi, que je représente quelque chose d’important pour les personnes significatives de ma vie. Le besoin d’avoir une intimité un espace et un temps, où l’autre n’a pas accès sans mon accord, ne fait pas intrusion. Ce besoin d'être valorisé nous donne de la valeur aux yeux d’autrui. Mais derrière cette évidence se tient la nécessité d’avoir une place, un rôle dans sa vie, sa profession, sa famille, son groupe d’amis. C’est aussi être valorisé pour nos réussites et pas uniquement pointer du doigt nos échecs. Nous sommes ici dans l’éternelle différence entre l’Être et le Faire. Nos actions, nos comportements, nos décisions ou nos résultats ne forment aucunement notre identité. Le besoin de créer, d'influencer notre environnement en nous sentant l'auteur de notre vie.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Issus du regard du psychosociologue Jacques SALOME, les besoins relationnels sont souvent globalisés sous le pudique \"besoin d’être aimé\", comme s’il les recouvrait tous et évitait de les nommer, de les reconnaître. Même s’ils ne sont pas toujours bien identifiés, nos besoins relationnels sont aussi importants que se nourrir, boire, dormir, être en sécurité…  <br/><br/> Ces besoins sont à la base de notre développement personnel, notre santé psychique et de notre équilibre relationnel au sein de nos différents environnements. Les combler signifie prendre soin de notre estime de soi et améliore la qualité relationnelle que nous entretenons avec nos semblables. Ils sont liés à la capacité à s’aimer, donc à la possibilité d’aimer, en étant moins dépendant du besoin, voire de l’exigence, d’être aimé. <br/><br/> En premier lieu, le besoin de se dire, c’est-à-dire de pouvoir passer de l’impression à l’expression, de pouvoir mettre des mots sur son ressenti, ses sentiments, ses émotions ou les idées qui nous traversent. Le besoin de se dire est celui qui nous fait nous exprimer avec nos propres mots et pas ceux que nous avons empruntés. Il s’agit de re-prendre à notre compte la substance de nos propos. <br/><br/> Le besoin d’être entendu, c’est-à-dire avoir le sentiment que ce que j’ai dit n’est pas tombé dans le vide, ne s’est pas perdu, n’est pas nié, déformé ou récupéré, mais est bien arrivé jusqu’à l’autre, le destinataire que j’ai choisi. Ce besoin est étroitement lié au besoin d’affirmation, lui-même conditionné par celui d’approbation (à l’origine de nombre de dépendances affectives et relationnelles). Ces deux besoins étant antinomiques, si je prends la liberté de m’affirmer, je dois prendre le risque de ne pas avoir l’approbation de l’autre.<br/><br/>Le besoin d’être reconnu, d’être vu et perçu tel que je suis, et non tel que l’autre me voudrait ou imagine que je suis et assumer ainsi ma singularité.<br/><br/>Le besoin d’être valorisé,  pouvoir ressentir que j’ai une valeur, que l’on compte sur moi, que je représente quelque chose d’important pour les personnes significatives de ma vie. Le besoin d’avoir une intimité un espace et un temps, où l’autre n’a pas accès sans mon accord, ne fait pas intrusion. Ce besoin d'être valorisé nous donne de la valeur aux yeux d’autrui. Mais derrière cette évidence se tient la nécessité d’avoir une place, un rôle dans sa vie, sa profession, sa famille, son groupe d’amis. C’est aussi être valorisé pour nos réussites et pas uniquement pointer du doigt nos échecs. Nous sommes ici dans l’éternelle différence entre l’Être et le Faire. Nos actions, nos comportements, nos décisions ou nos résultats ne forment aucunement notre identité.   <br/><br/>Le besoin de créer, d'influencer notre environnement en nous sentant l'auteur de notre vie.<br/> <br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "arrosoir",
+          "layout": {
+            "left": "460px",
+            "top": "10px",
+            "width": "405px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/arrosoir-1d11d73c.jpg",
+          "href": "",
+          "label": "arrosoir"
+        },
+        {
+          "type": "text",
+          "name": "WE5867539808",
+          "layout": {
+            "width": "390px",
+            "height": "auto",
+            "left": "480px",
+            "top": "380px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "Le besoin d'intimité, d'avoir un espace (psychique) avec des moments qui nous appartiennent où l'autre ne ferai pas intrusion sans notre accord. Le besoin de rêver qui est la première étape de la construction d’un projet, qu’il soit personnel ou professionnel. Besoin de rêver que demain sera meilleur qu’aujourd’hui et qu’après demain sera meilleur et ainsi de suite. C'est l'ouverture sur notre avenir. Ainsi, ces besoins relationnels permettent d’exercer constructivement une influence sur autrui, sur son environnement immédiat et de ne pas être toujours dépendant de la réponse de l’autre. D’autres besoins paraîtront plus prioritaires à certains, mais c’est de leur satisfaction que dépendront l’amour de soi et l’estime de soi. Répondre à mes besoins relationnels, c'est avoir le sentiment que ce qui est important pour moi dans mes propos est entendu avec le même niveau d’importance pour la personne qui m'écoute. Quand un de mes besoins ne peut être entendu, je me sens obligé de passer à l’acte parce que la violence de l'incompréhension ressentie, à ce moment là devient un langage.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Le besoin d'intimité, d'avoir un espace (psychique) avec des moments qui nous appartiennent où l'autre ne ferai pas intrusion sans notre accord.<br/><br/>Le besoin de rêver qui est la première étape de la construction d’un projet, qu’il soit personnel ou professionnel. Besoin de rêver que demain sera meilleur qu’aujourd’hui et qu’après demain sera meilleur et ainsi de suite. C'est l'ouverture sur notre avenir.<br/><br/>Ainsi, ces besoins relationnels permettent d’exercer constructivement une influence sur autrui, sur son environnement immédiat et de ne pas être toujours dépendant de la réponse de l’autre. D’autres besoins paraîtront plus prioritaires à certains, mais c’est de leur satisfaction que dépendront l’amour de soi et l’estime de soi. <br/><br/>Répondre à mes besoins relationnels, c'est avoir le sentiment que ce qui est important pour moi dans mes propos est entendu avec le même niveau d’importance pour la personne qui m'écoute. Quand un de mes besoins ne peut être entendu, je me sens obligé de passer à l’acte parce que la violence de l'incompréhension ressentie, à ce moment là devient un langage. <br/> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE782b1a9601",
+          "layout": {
+            "width": "230px",
+            "left": "550px",
+            "top": "1170px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "17"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "pelican",
+          "layout": {
+            "left": "460px",
+            "top": "1270px",
+            "width": "112px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "src": "assets/pelican-we6b6355a831-1224779a.jpg",
+          "href": "authenticite.html",
+          "label": "AUTHENTICITE"
+        },
+        {
+          "type": "image",
+          "name": "balance injustice",
+          "layout": {
+            "left": "740px",
+            "top": "1280px",
+            "width": "108px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "src": "assets/balance-injustice-we697c02ddcf-99a7cb40.png",
+          "href": "ressentiment.html",
+          "label": "RESSENTIMENT"
+        },
+        {
+          "type": "image",
+          "name": "cheval hippocampe",
+          "layout": {
+            "left": "600px",
+            "top": "1310px",
+            "width": "75px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "src": "assets/cheval-hippocampe-we42eae148ca-0edd7a5b.jpg",
+          "href": "imaginaire.html",
+          "label": "IMAGINAIRE"
+        },
+        {
+          "type": "text",
+          "name": "WE151793ab6c",
+          "layout": {
+            "width": "auto",
+            "left": "460px",
+            "top": "1360px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "AUTHENTICITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">AUTHENTICITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE5b9c35be04",
+          "layout": {
+            "width": "auto",
+            "left": "730px",
+            "top": "1390px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "text": "RESSENTIMENT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">RESSENTIMENT</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "homme serpent",
+          "layout": {
+            "left": "470px",
+            "top": "1420px",
+            "width": "58px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "src": "assets/homme-serpent-webbdab92eaa-12ae1c5b.jpg",
+          "href": "peur.html",
+          "label": "ATARAXIE"
+        },
+        {
+          "type": "text",
+          "name": "WE4a529a4da1",
+          "layout": {
+            "width": "auto",
+            "left": "590px",
+            "top": "1440px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "text": "IMAGINAIRE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">IMAGINAIRE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "papillon",
+          "layout": {
+            "left": "750px",
+            "top": "1470px",
+            "width": "124px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/papillon-weea2086ecd6-845d5385.jpg",
+          "href": "transe-muer.html",
+          "label": "TRANSE MUER"
+        },
+        {
+          "type": "image",
+          "name": "poisson bonheur",
+          "layout": {
+            "left": "590px",
+            "top": "1530px",
+            "width": "121px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/poisson-bonheur-wedc0beb4a05-0a78ec6c.jpg",
+          "href": "bonheur.html",
+          "label": "(bonheur)"
+        },
+        {
+          "type": "text",
+          "name": "WE9bf54ae380",
+          "layout": {
+            "width": "auto",
+            "left": "760px",
+            "top": "1550px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "TRANSE MUER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRANSE MUER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE98be45b244",
+          "layout": {
+            "width": "auto",
+            "left": "480px",
+            "top": "1590px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "text": "PEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PEUR</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7dc2d8d962",
+          "layout": {
+            "width": "auto",
+            "left": "560px",
+            "top": "1610px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "ATARAXIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ATARAXIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7bbd88989c",
+          "layout": {
+            "width": "auto",
+            "left": "600px",
+            "top": "1630px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "(bonheur)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(bonheur)<br/></span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

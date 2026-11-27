@@ -1,0 +1,349 @@
+{
+  "title": "TEMPS",
+  "source": "https://www.hypnosite.fr/temps.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "616px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "LE TEMPS"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "(par l'ennui)"
+        },
+        {
+          "type": "text",
+          "name": "WEd58b16669c",
+          "layout": {
+            "width": "300px",
+            "left": "210px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "LE TEMPS",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-size:70px;font-family:'Bohem Press';\">LE TEMPS</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd1b4636b62",
+          "layout": {
+            "width": "auto",
+            "left": "121px",
+            "top": "226px",
+            "height": "auto",
+            "transform": "rotate(17deg)",
+            "-webkit-transform": "rotate(17deg)",
+            "-moz-transform": "rotate(17deg)",
+            "-ms-transform": "rotate(17deg)",
+            "-o-transform": "rotate(17deg)",
+            "z-index": "4"
+          },
+          "text": "(par l'ennui)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:33px;\">(par l'ennui)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE3e7cdfcd33",
+          "layout": {
+            "width": "750px",
+            "height": "auto",
+            "left": "50%",
+            "top": "480px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Dans chaque vieux, il y a un jeune qui se demande ce qui s'est passé.\"  Groucho MARX",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Dans chaque vieux, il y a un jeune qui se demande ce qui s'est passé.\"  Groucho MARX<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2974px",
+      "items": [
+        {
+          "type": "image",
+          "name": "montre 1",
+          "layout": {
+            "left": "470px",
+            "top": "34px",
+            "width": "393px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/montre-1-we621446c8ba-9f13cbd9.jpg",
+          "href": "",
+          "label": "montre 1"
+        },
+        {
+          "type": "text",
+          "name": "WE282a258c0f",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "10px",
+            "top": "37px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "D'une évolution normale, un enfant quitte l'école primaire pour aller au collège, alors les récréations vont affirmer des positions comportementales différentes. II doit être fait le deuil des jeux de billes, de cette dextérité qu'ont les fillettes à l'élastique ou encore de la marelle ou de la balle au prisonnier. Ce changement socio comportemental et identitaire se réalise naturellement en l'espace d'un été de transition entre ces deux périodes sociales. Vous vous rappelez la dernière fois ou vous avez jouez à 1, 2, 3 soleil ? Pourquoi adulte on ne joue plus comme un enfant ? Dans cette continuité, le jeune adulte doit abandonner sa vie festive estudiantine quand il se met en ménage car porté par la réalisation de ses valeurs naissantes et qui impliquent le début de responsabilités et l'éloignement de l'insouciance. Encore, l'adulte mâture, enfant de ses parents, qui devient un autre adulte à leur disparition. Autour de ce double deuil, enterre t'il ses parents ou l'enfant qu'il était ? Le temps est un axe de travail premier en hypnose. Lorsque nous sommes bloqués dans une nébuleuse existentielle, sommes nous dans la bonne temporalité ? Est ce que le conscient et l'inconscient mesurent le temps avec la même manière ? J'aurais tendance à affirmer que non, au vu de certains symptômes comme le syndrome de Stress Post Traumatique et ses reviviscences ou encore les phobies, les toxicomanies, l'anxiété ou la dépression qui pathologisent le temps. Le temps dans sa dimension subjective se distord, recule ou s'allonge. Alors que le conscient objective le temps en mesure mécanique et scientifique, le mesurant avec régularité et précision au travers les calendriers, les horloges ou les rythmes circadiens, la conscience subjective - l'inconscient - a cette notion de temps aléatoire et discontinue, affirmée par les oublis, les manques et les dénis. Cette particularité subjective et inconsciente du temps est propre à chaque individu, exemple en est que ne pouvons pas quantifier la durée d'un rêve. Puis il y a d'autres ingrédients qui influencent la définition du temps comme l'espace ou la vitesse (résultante de l'espace par le temps) qui, au delà de la mesure objective, ont une perception singulière. D'ailleurs, l'estimation des durées varie avec l'âge, la patience s'acquière avec l'expérience, n'est ce pas ? Un enfant compte son âge en demi an, l'adulte plus, et on retrouve chez certains séniors le compte en demi an de l'enfant. On peut aussi questionner les notions d'impulsivité ou de frustration qui pourraient se voir comme une mesure erronée du temps. Il reste à se demander toutefois si le temps constitue seulement un cadre externe ou, bien plutôt, une structure interne. Que savons-nous, que pouvons-nous savoir au juste du temps ? Le philosophe Maurice MERLEAU-PONTY a pu dire du temps \"qu’il n’est pas un objet de notre savoir, mais une dimension de notre être\". Rien n’interdit toutefois de prendre en vue une dimension de notre être comme objet possible ou éventuel de notre savoir. Notre présence dans l'espace donc à la réalité du moment nous connecte au temps dans sa perception. La notion de connexion signifie être pleinement conscient de son expérience du moment. Si nous sommes qu'à moitié présent, nous manquons quelque chose du temps qui passe. Il y a donc un double temps, celui de l'arrêt pendant que la continuité coule. Pour citer Léon TOLSTOÏ, \"il n'a qu'un moment important, c'est maintenant.\" C'est le seul moment ou nous détenons un pouvoir, une maitrise et cela donne du sens à notre existence. L'agir, le pouvoir d'agir n'existe que dans le présent. Le temps passé est déjà révolu et consommé et le temps avenir n'existe pas encore, il est en projet ! Pourtant nous laissons le passé être un influenceur conséquent du présent, présent dans lequel nous appréhendons le futur, parfois au travers du sentiment d'ennui. Serge GAINSBOURG décrivait l'ennui comme une position aristocratique! Rien n’interdit toutefois de prendre en vue une dimension de notre être comme objet possible ou éventuel de notre savoir. C’est à cette tâche que s’est attelé Martin HEIDEGGER, auteur, en 1927, d’un traité précisément intitulé \"Être et temps\". Il ne se contente pas de reprendre la formulation classique de la question \"qu’est-ce que le temps ?\", il en a risqué une formulation autrement audacieuse en demandant : \"Qui est le temps ?\". Et il apporte à cette question pour le moins déroutante et inattendue une réponse non moins inattendue et déroutante : \"Nous sommes temps\". Le temps est notre étoffe, nous sommes d’étoffe temporelle, et la trame de cette étoffe est constituée par ce qu’on appelle le fil du temps. Et c’est au fil du temps que l’être humain s’achemine de la naissance à la mort – ce qui fait que les Anciens ne disaient pas en général \"les hommes\" mais \"les mortels\".",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">D'une évolution normale, un enfant quitte l'école primaire pour aller au collège, alors les récréations vont affirmer des positions comportementales différentes. II doit être fait le deuil des jeux de billes, de cette dextérité qu'ont les fillettes à l'élastique ou encore de la marelle ou de la balle au prisonnier. Ce changement socio comportemental et identitaire se réalise naturellement en l'espace d'un été de transition entre ces deux périodes sociales. Vous vous rappelez la dernière fois ou vous avez jouez à 1, 2, 3 soleil ? Pourquoi adulte on ne joue plus comme un enfant ? <br/><br/> Dans cette continuité, le jeune adulte doit abandonner sa vie festive estudiantine quand il se met en ménage car porté par la réalisation de ses valeurs naissantes et qui impliquent le début de responsabilités et l'éloignement de l'insouciance. Encore, l'adulte mâture, enfant de ses parents, qui devient un autre adulte à leur disparition. Autour de ce double deuil, enterre t'il ses parents ou l'enfant qu'il était ? <br/><br/> Le temps est un axe de travail premier en hypnose. Lorsque nous sommes bloqués dans une nébuleuse existentielle, sommes nous dans la bonne temporalité ? Est ce que le conscient et l'inconscient mesurent le temps avec la même manière ? J'aurais tendance à affirmer que non, au vu de certains symptômes comme le syndrome de Stress Post Traumatique et ses reviviscences ou encore les phobies, les toxicomanies, l'anxiété ou la dépression qui pathologisent le temps.<br/><br/> Le temps dans sa dimension subjective se distord, recule ou s'allonge. Alors que le conscient objective le temps en mesure mécanique et scientifique, le mesurant avec régularité et précision au travers les calendriers, les horloges ou les rythmes circadiens, la conscience subjective - l'inconscient - a cette notion de temps aléatoire et discontinue, affirmée par les oublis, les manques et les dénis. Cette particularité subjective et inconsciente du temps est propre à chaque individu, exemple en est que ne pouvons pas quantifier la durée d'un rêve.<br/><br/>Puis il y a d'autres ingrédients qui influencent la définition du temps comme l'espace ou la vitesse (résultante de l'espace par le temps) qui, au delà de la mesure objective, ont une perception singulière. D'ailleurs, l'estimation des durées varie avec l'âge, la patience s'acquière avec l'expérience, n'est ce pas ? Un enfant compte son âge en demi an, l'adulte plus, et on retrouve chez certains séniors le compte en demi an de l'enfant. On peut aussi questionner les notions d'impulsivité ou de frustration qui pourraient se voir comme une mesure erronée du temps. <br/><br/> Il reste à se demander toutefois si le temps constitue seulement un cadre externe ou, bien plutôt, une structure interne. Que savons-nous, que pouvons-nous savoir au juste du temps ? Le philosophe Maurice MERLEAU-PONTY a pu dire du temps \"qu’il n’est pas un objet de notre savoir, mais une dimension de notre être\". Rien n’interdit toutefois de prendre en vue une dimension de notre être comme objet possible ou éventuel de notre savoir. Notre présence dans l'espace donc à la réalité du moment nous connecte au temps dans sa perception. La notion de connexion signifie être pleinement conscient de son expérience du moment. Si nous sommes qu'à moitié présent, nous manquons quelque chose du temps qui passe. Il y a donc un double temps, celui de l'arrêt pendant que la continuité coule. Pour citer Léon TOLSTOÏ, \"il n'a qu'un moment important, c'est maintenant.\" C'est le seul moment ou nous détenons un pouvoir, une maitrise et cela donne du sens à notre existence. <br/><br/>L'agir, le pouvoir d'agir n'existe que dans le présent. Le temps passé est déjà révolu et consommé et le temps avenir n'existe pas encore, il est en projet ! Pourtant nous laissons le passé être un influenceur conséquent du présent, présent dans lequel nous appréhendons le futur, parfois au travers du sentiment d'ennui.<br/><br/>Serge GAINSBOURG décrivait l'ennui comme une position aristocratique! Rien n’interdit toutefois de prendre en vue une dimension de notre être comme objet possible ou éventuel de notre savoir. C’est à cette tâche que s’est attelé Martin HEIDEGGER, auteur, en 1927, d’un traité précisément intitulé \"Être et temps\". Il ne se contente pas de reprendre la formulation classique de la question \"qu’est-ce que le temps ?\", il en a risqué une formulation autrement audacieuse en demandant : \"Qui est le temps ?\". Et il apporte à cette question pour le moins déroutante et inattendue une réponse non moins inattendue et déroutante : \"Nous sommes temps\". Le temps est notre étoffe, nous sommes d’étoffe temporelle, et la trame de cette étoffe est constituée par ce qu’on appelle le fil du temps. Et c’est au fil du temps que l’être humain s’achemine de la naissance à la mort – ce qui fait que les Anciens ne disaient pas en général \"les hommes\" mais \"les mortels\". <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE682f709cf6",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "463px",
+            "top": "380px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "Se confronter au temps, c’est donc se risquer à la confrontation la plus difficile qui soit : la confrontation avec soi-même. D’où le caractère exemplaire de l’expérience de l’ennui et sa valeur initiatique. Peut-être avons-nous désappris à nous ennuyer, à mesure que nous avons appris à nous désennuyer, d’où le vide abyssal que comble aujourd’hui cette addiction répandue qui s’appelle la technologie. Étymologiquement, l’ennui est un mot très fort, il vient du latin inodium qui signifie \"en haine\". Il a gardé ce sens en français classique,  où il rime avec : noirceur, tristesse, chagrin, dépit, désespoir. On trouve en outre sous la plume de PASCAL,  l’expression très parlante : \"se sécher d’ennui\". On dit plutôt aujourd’hui : \"mourir d’ennui\", éprouver un \"ennui mortel\" (même si aucune notice nécrologique n’a sans doute fait figurer, après notification du nom du disparu : Mort d’ennui). L’ennui mortel incite à \"tuer le temps\". On voit là à quel point les hommes sont tenus, dans leurs faits et gestes et leur emploi du temps, par la relation qu’ils entretiennent avec le temps. S’ennuyer, c’est en effet par définition trouver le temps long, L’ennui, quoi qu’il en soit de son essence ultime, montre presque de manière palpable, une relation au temps, une façon de nous tenir à l’égard du temps, un sentiment du temps.  C'est \"trouver le temps long\", le temps qui tarde à passer, qui s’étire à n’en plus finir, comme la nuit pour l’insomniaque. L’ennui mortel s’apparente dès lors à l’angoisse, à la mort et au néant. Il est vrai qu’il n’est pas facile d’avouer que l’on s’ennuie et certains prétendent même ne jamais s’ennuyer. S’ennuyer, cela passe pour n’être pas très glorieux. Il reste donc à se demander s’il convient de \"tuer le temps\", ou bien de ''laisser le temps au temps\", c’est-à-dire au fond à nous-mêmes. On peut chercher à fuir l’ennui, à le chasser comme un importun, ou au contraire à l’approfondir. Alors, qu’est-ce que l’ennui a à nous dire et à quoi nous faisons la sourde oreille en voulant le chasser à tout prix ? Ce qui semble ici inaudible et insupportable, serait-ce que je m’apparais alors moi-même à moi-même comme profondément ennuyeux, non pas quand quelque chose de bien précis m’ennuie, mais lorsque je m’ennuie ? Et si l’ennui était le révélateur de notre appartenance au temps, et par là de notre condition ? Qu’adviendrait-il au juste, quelles découvertes serions-nous amenés à faire si nous acceptions d’aller jusqu’au bout de l’ennui, comme un voyage au bout de la nuit ? L’ennui éprouvé jusqu’au bout, jusqu’à l’ennui profond, \"l'ennui mortel\" aurait-il une valeur, sinon rédemptrice, du moins curative ou thérapeutique ? Car si l’ennui est un fardeau, c’est aussi un privilège : celui de perdre son temps, c’est-à-dire au fond de pouvoir prendre son temps. Un escargot ne prend pas son temps, ni une tortue, ils vont simplement moins vite que le lièvre. L’animal n’est pas temporel, mais seulement temporaire, il vit dans le temps, non avec le temps. Positivement l’ennui est l’une des formes que peut revêtir ce loisir intérieur que nous appelons aujourd’hui le \"temps libre\". Il en ressort en outre que la conception courante du temps, qui fait du temps un écoulement de \"maintenants\" ponctuels, fractions minimales de temps, ne permet pas de pénétrer dans la structure temporelle de l’ennui et ne permet pas non plus, a fortiori, d’aborder le temps comme dimension constitutive de notre être. Il reste donc à envisager éprouver le temps autrement que comme du quantifiable et du mesurable, de manière chrono-métrique, en laissant le déjà et le pas encore se rejoindre et se répondre tout autrement que ne le dit l’adverbe successivement ou comme Jacques BREL chantait dans une de ces chansons, conséquement.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Se confronter au temps, c’est donc se risquer à la confrontation la plus difficile qui soit : la confrontation avec soi-même. D’où le caractère exemplaire de l’expérience de l’ennui et sa valeur initiatique. Peut-être avons-nous désappris à nous ennuyer, à mesure que nous avons appris à nous désennuyer, d’où le vide abyssal que comble aujourd’hui cette addiction répandue qui s’appelle la technologie.  <br/>  <br/> Étymologiquement, l’ennui est un mot très fort, il vient du latin inodium qui signifie \"en haine\". Il a gardé ce sens en français classique,  où il rime avec : noirceur, tristesse, chagrin, dépit, désespoir. On trouve en outre sous la plume de PASCAL,  l’expression très parlante : \"se sécher d’ennui\". On dit plutôt aujourd’hui : \"mourir d’ennui\", éprouver un \"ennui mortel\" (même si aucune notice nécrologique n’a sans doute fait figurer, après notification du nom du disparu : Mort d’ennui). L’ennui mortel incite à \"tuer le temps\". On voit là à quel point les hommes sont tenus, dans leurs faits et gestes et leur emploi du temps, par la relation qu’ils entretiennent avec le temps.  <br/>  <br/> S’ennuyer, c’est en effet par définition trouver le temps long, L’ennui, quoi qu’il en soit de son essence ultime, montre presque de manière palpable, une relation au temps, une façon de nous tenir à l’égard du temps, un sentiment du temps.  C'est \"trouver le temps long\", le temps qui tarde à passer, qui s’étire à n’en plus finir, comme la nuit pour l’insomniaque. L’ennui mortel s’apparente dès lors à l’angoisse, à la mort et au néant. <br/><br/>Il est vrai qu’il n’est pas facile d’avouer que l’on s’ennuie et certains prétendent même ne jamais s’ennuyer. S’ennuyer, cela passe pour n’être pas très glorieux. Il reste donc à se demander s’il convient de \"tuer le temps\", ou bien de ''laisser le temps au temps\", c’est-à-dire au fond à nous-mêmes. On peut chercher à fuir l’ennui, à le chasser comme un importun, ou au contraire à l’approfondir. <br/>  <br/>Alors, qu’est-ce que l’ennui a à nous dire et à quoi nous faisons la sourde oreille en voulant le chasser à tout prix ? Ce qui semble ici inaudible et insupportable, serait-ce que je m’apparais alors moi-même à moi-même comme profondément ennuyeux, non pas quand quelque chose de bien précis m’ennuie, mais lorsque je m’ennuie ? Et si l’ennui était le révélateur de notre appartenance au temps, et par là de notre condition ? <br/>  <br/> Qu’adviendrait-il au juste, quelles découvertes serions-nous amenés à faire si nous acceptions d’aller jusqu’au bout de l’ennui, comme un voyage au bout de la nuit ? L’ennui éprouvé jusqu’au bout, jusqu’à l’ennui profond, \"l'ennui mortel\" aurait-il une valeur, sinon rédemptrice, du moins curative ou thérapeutique ? Car si l’ennui est un fardeau, c’est aussi un privilège : celui de perdre son temps, c’est-à-dire au fond de pouvoir prendre son temps. Un escargot ne prend pas son temps, ni une tortue, ils vont simplement moins vite que le lièvre. L’animal n’est pas temporel, mais seulement temporaire, il vit dans le temps, non avec le temps. <br/><br/> Positivement l’ennui est l’une des formes que peut revêtir ce loisir intérieur que nous appelons aujourd’hui le \"temps libre\". Il en ressort en outre que la conception courante du temps, qui fait du temps un écoulement de \"maintenants\" ponctuels, fractions minimales de temps, ne permet pas de pénétrer dans la structure temporelle de l’ennui et ne permet pas non plus, a fortiori, d’aborder le temps comme dimension constitutive de notre être. <br/><br/>Il reste donc à envisager éprouver le temps autrement que comme du quantifiable et du mesurable, de manière chrono-métrique, en laissant le déjà et le pas encore se rejoindre et se répondre tout autrement que ne le dit l’adverbe successivement ou comme Jacques BREL chantait dans une de ces chansons, conséquement.<br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE0b0d69e164",
+          "layout": {
+            "width": "370px",
+            "left": "490px",
+            "top": "2580px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "7"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "tampon",
+          "layout": {
+            "left": "620px",
+            "top": "2690px",
+            "width": "71px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/tampon-web3849d3525-7a1bbe60.jpg",
+          "href": "repetition.html",
+          "label": "REPETITION"
+        },
+        {
+          "type": "image",
+          "name": "homme serpent",
+          "layout": {
+            "left": "770px",
+            "top": "2700px",
+            "width": "57px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/homme-serpent-we7a783f8986-fb15e5e7.jpg",
+          "href": "peur.html",
+          "label": "(désIr)"
+        },
+        {
+          "type": "image",
+          "name": "cadenas",
+          "layout": {
+            "left": "460px",
+            "top": "2750px",
+            "width": "70px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "src": "assets/cadenas-we2ec2bde421-0fdfdcab.jpg",
+          "href": "frustration.html",
+          "label": "FRUSTRATION"
+        },
+        {
+          "type": "image",
+          "name": "poisson bonheur",
+          "layout": {
+            "left": "250px",
+            "top": "2770px",
+            "width": "118px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/poisson-bonheur-we42062ac6f5-7a3bdbc4.jpg",
+          "href": "bonheur.html",
+          "label": "(bonheur)"
+        },
+        {
+          "type": "image",
+          "name": "casque",
+          "layout": {
+            "left": "50px",
+            "top": "2800px",
+            "width": "130px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "src": "assets/casque-we7cd8f49598-80536c03.jpg",
+          "href": "confort.html",
+          "label": "& TRANSGRESSION"
+        },
+        {
+          "type": "text",
+          "name": "WEc3c2ac545c",
+          "layout": {
+            "width": "auto",
+            "left": "610px",
+            "top": "2840px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "text": "REPETITION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">REPETITION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2747138191",
+          "layout": {
+            "width": "auto",
+            "left": "260px",
+            "top": "2860px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "text": "ATARAXIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ATARAXIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEf0b3bc431a",
+          "layout": {
+            "width": "auto",
+            "left": "440px",
+            "top": "2860px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "text": "FRUSTRATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">FRUSTRATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE8be23b5e2c",
+          "layout": {
+            "width": "auto",
+            "left": "776px",
+            "top": "2870px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "PEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PEUR</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE0e841fe929",
+          "layout": {
+            "width": "auto",
+            "left": "60px",
+            "top": "2880px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "text": "(in) CONFORT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(in) CONFORT</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEdadc435b39",
+          "layout": {
+            "width": "auto",
+            "left": "300px",
+            "top": "2880px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "(bonheur)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(bonheur)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE86cc6b1f42",
+          "layout": {
+            "width": "auto",
+            "left": "770px",
+            "top": "2890px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "(désIr)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(désIr)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEb7c9e6479b",
+          "layout": {
+            "width": "auto",
+            "left": "48px",
+            "top": "2900px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "& TRANSGRESSION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">&amp; TRANSGRESSION<br/></span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

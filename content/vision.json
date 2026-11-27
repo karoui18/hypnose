@@ -1,0 +1,330 @@
+{
+  "title": "vision",
+  "source": "https://www.hypnosite.fr/vision.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "576px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "VISION"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE88bb288c71",
+          "layout": {
+            "width": "230px",
+            "left": "220px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "VISION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">VISION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE27c623db99",
+          "layout": {
+            "width": "600px",
+            "height": "auto",
+            "left": "50%",
+            "top": "460px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\" Mais qu'est-ce qu'un conte, sinon une vision différente de la réalité ? \" Jean VAN HAMME",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\" Mais qu'est-ce qu'un conte, sinon une vision différente de la réalité ? \" <br/>Jean VAN HAMME<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1570px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WEc6f9b4712a",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "20px",
+            "top": "38px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "Lorsque les gens viennent consulter un hypnotiseur, ils sont souvent pris dans ce paradoxe de vouloir trouver une solution et d'affirmer en même temps qu'il n'en existe aucune. Il faudrait que quelque chose bouge mais sans rien changer ! Alors ces gens se tournent vers l'hypnose avec la croyance passive qu'il n'y a qu'à attendre que leur inconscient fasse tout le boulot. Le rôle de l'hypnologue, alors, n'est pas de cautionner cette passivité en proposant une forme \"d'incantation hypnotique\" mais de faciliter les possibles en ouvrant une autre vision sur le monde du sujet et l'hypnose permet cela. Lorsqu'un entrepreneur de vie s'offre l'expérience d'une illumination ou d'une vision, il se laisse inspirer par un au-delà de lui-même. Construire sa vision, c'est accepter de franchir des frontières du raisonnable, s'ouvrir à d'autres concepts du monde et libérer les énergies créatrices. Pour qu'il y ait vision, il faut que l'esprit puisse errer et imaginer par delà les frontières connues et considérer les utopies. C'est s'autoriser à laisser place à l'imaginaire et à la fantaisie. Cependant, la vision ne doit pas être un fantasme mais une sorte de mouvement de la pensée dénué d'interdits entre le temps et l'espace qui permet d'inventer et de mettre en œuvre ce qui jusque là paraissait impossible. La vision nous rapproche de nos valeurs et nous éloigne et de nos croyances limlitantes. Nous avons la confirmation d'être dans la vision lorsqu'il y a accord profond entre le but à atteindre et nos propres ressources. Elle met en mouvement tout notre être intérieur, qui pourra ainsi ressentir la possibilité de s'exprimer dans toute sa plénitude. Cet accord entre le but à atteindre et notre identité peut éveiller en nous un déclenchement d'énergie et de capacités parfois insoupçonnées.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Lorsque les gens viennent consulter un hypnotiseur, ils sont souvent pris dans ce paradoxe de vouloir trouver une solution et d'affirmer en même temps qu'il n'en existe aucune. Il faudrait que quelque chose bouge mais sans rien changer ! Alors ces gens se tournent vers l'hypnose avec la croyance passive qu'il n'y a qu'à attendre que leur inconscient fasse tout le boulot. Le rôle de l'hypnologue, alors, n'est pas de cautionner cette passivité en proposant une forme \"d'incantation hypnotique\" mais de faciliter les possibles en ouvrant une autre vision sur le monde du sujet et l'hypnose permet cela.<br/><br/> Lorsqu'un entrepreneur de vie s'offre l'expérience d'une illumination ou d'une vision, il se laisse inspirer par un au-delà de lui-même. Construire sa vision, c'est accepter de franchir des frontières du raisonnable, s'ouvrir à d'autres concepts du monde et libérer les énergies créatrices. Pour qu'il y ait vision, il faut que l'esprit puisse errer et imaginer par delà les frontières connues et considérer les utopies. C'est s'autoriser à laisser place à l'imaginaire et à la fantaisie. Cependant, la vision ne doit pas être un fantasme mais une sorte de mouvement de la pensée dénué d'interdits entre le temps et l'espace qui permet d'inventer et de mettre en œuvre ce qui jusque là paraissait impossible.<br/><br/>La vision nous rapproche de nos valeurs et nous éloigne et de nos croyances limlitantes. Nous avons la confirmation d'être dans la vision lorsqu'il y a accord profond entre le but à atteindre et nos propres ressources. Elle met en mouvement tout notre être intérieur, qui pourra ainsi ressentir la possibilité de s'exprimer dans toute sa plénitude. Cet accord entre le but à atteindre et notre identité peut éveiller en nous un déclenchement d'énergie et de capacités parfois insoupçonnées. <br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "jumelles",
+          "layout": {
+            "left": "500px",
+            "top": "60px",
+            "width": "336px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/jumelles-we642a8d2cdd-189d3726.jpg",
+          "href": "",
+          "label": "jumelles"
+        },
+        {
+          "type": "text",
+          "name": "WEe64e868d6a",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "470px",
+            "top": "406px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "Ainsi, remplir notre vie d'une multitude d'objectifs à court terme est parfois la simple expression du doute sur notre capacité à avoir une vision car elle se réserve le long terme et la tenue dans temps. Etre raisonnable nous fait entrer dans une dynamique castratrice, être raisonnant nous fait entrer dans une dynamique créatrice. Une réalité personnelle de ce que nous pensons pouvoir faire ou de ce que nous pensons ne pas pouvoir faire s’impose à nous par une interprétation souvent subjective de ce que nous vivons. Nous regardons le monde au travers d'un cadre de compréhension dans lequel nous avons plus ou moins d’amplitude. C'est un cadre de conditionnements, qui, de manière plus ou moins consciente clôturent notre vie. Plus notre cadre est grand et plus nous pouvons être une personne ouverte, variée et disposant d’un potentiel, plus il est restreint et plus nos rêves sont petits ! Cet étiquetage de la vie, de nos expériences, de notre réalité est donc limité et limitant à ses propres fondements. Il y a un seuil haut et un seuil bas. Chaque personne étant unique, chacun a ses limites. D’un point de vue plus général, c’est ce qui fait que pour une même chose, certains la trouveront accessible et d’autres inaccessible. Question de limites personnelles et de vision du monde, en somme, de conditionnement ! Devenir visionnaire, cela commence en sortant du cadre !",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Ainsi, remplir notre vie d'une multitude d'objectifs à court terme est parfois la simple expression du doute sur notre capacité à avoir une vision car elle se réserve le long terme et la tenue dans temps. Etre raisonnable nous fait entrer dans une dynamique castratrice, être raisonnant nous fait entrer dans une dynamique créatrice. <br/><br/>Une réalité personnelle de ce que nous pensons pouvoir faire ou de ce que nous pensons ne pas pouvoir faire s’impose à nous par une interprétation souvent subjective de ce que nous vivons. Nous regardons le monde au travers d'un cadre de compréhension dans lequel nous avons plus ou moins d’amplitude. C'est un cadre de conditionnements, qui, de manière plus ou moins consciente clôturent notre vie. Plus notre cadre est grand et plus nous pouvons être une personne ouverte, variée et disposant d’un potentiel, plus il est restreint et plus nos rêves sont petits ! Cet étiquetage de la vie, de nos expériences, de notre réalité est donc limité et limitant à ses propres fondements. Il y a un seuil haut et un seuil bas. Chaque personne étant unique, chacun a ses limites. D’un point de vue plus général, c’est ce qui fait que pour une même chose, certains la trouveront accessible et d’autres inaccessible. Question de limites personnelles et de vision du monde, en somme, de conditionnement ! <br/><br/> Devenir visionnaire, cela commence en sortant du cadre ! <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEf0b7e77e85",
+          "layout": {
+            "width": "400px",
+            "left": "20px",
+            "top": "1150px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "12"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "fusee",
+          "layout": {
+            "left": "470px",
+            "top": "1260px",
+            "width": "141px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/fusee-we0ba0edcc42-2e22b0de.jpg",
+          "href": "oser.html",
+          "label": "OSER"
+        },
+        {
+          "type": "image",
+          "name": "papillon",
+          "layout": {
+            "left": "20px",
+            "top": "1262px",
+            "width": "124px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "src": "assets/papillon-weea2086ecd6-845d5385.jpg",
+          "href": "transe-muer.html",
+          "label": "(crise)"
+        },
+        {
+          "type": "image",
+          "name": "direction",
+          "layout": {
+            "left": "730px",
+            "top": "1270px",
+            "width": "122px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/direction-we84533c9e89-f3b4f932.jpg",
+          "href": "legitimite.html",
+          "label": "(non) CHOIX"
+        },
+        {
+          "type": "image",
+          "name": "boule cristal",
+          "layout": {
+            "left": "170px",
+            "top": "1290px",
+            "width": "97px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "src": "assets/boule-cristal-web2fe46d690-a613edcc.jpg",
+          "href": "secret.html",
+          "label": "PROJET"
+        },
+        {
+          "type": "image",
+          "name": "femme serpent",
+          "layout": {
+            "left": "320px",
+            "top": "1320px",
+            "width": "115px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/femme-serpent-we97c27dfaa0-a8f84b42.jpg",
+          "href": "croyance.html",
+          "label": "CROYANCE"
+        },
+        {
+          "type": "text",
+          "name": "WE7a8b31e07e",
+          "layout": {
+            "width": "auto",
+            "left": "490px",
+            "top": "1330px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "OSER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">OSER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEa0847230bc",
+          "layout": {
+            "width": "auto",
+            "left": "30px",
+            "top": "1340px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "text": "TRANS MUER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRANS MUER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEfc41c094db",
+          "layout": {
+            "width": "auto",
+            "left": "60px",
+            "top": "1360px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "(crise)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(crise) </span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEbe5e9da5be",
+          "layout": {
+            "width": "auto",
+            "left": "730px",
+            "top": "1366px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "(non) CHOIX",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(non) CHOIX</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "casque",
+          "layout": {
+            "left": "570px",
+            "top": "1370px",
+            "width": "130px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "src": "assets/casque-we7cd8f49598-80536c03.jpg",
+          "href": "confort.html",
+          "label": "(in) CONFORT"
+        },
+        {
+          "type": "text",
+          "name": "WE25bbe6be59",
+          "layout": {
+            "width": "auto",
+            "left": "190px",
+            "top": "1410px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "PROJET",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">PROJET<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE44f456fc2f",
+          "layout": {
+            "width": "auto",
+            "left": "330px",
+            "top": "1440px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "CROYANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CROYANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEce4a4983bd",
+          "layout": {
+            "width": "auto",
+            "left": "580px",
+            "top": "1450px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "(in) CONFORT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(in) CONFORT</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "title": "La transe",
+  "source": "https://www.hypnosite.fr/transe.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "498px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "TRANSE"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEe740288871",
+          "layout": {
+            "width": "260px",
+            "left": "220px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "TRANSE",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">TRANSE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE1ed8008694",
+          "layout": {
+            "width": "640px",
+            "height": "auto",
+            "left": "50%",
+            "top": "440px",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\" Il y a des gens qui dansent sans entrer en transe et il y en a d'autre qui entrent en transe sans danser. Ce phénomène s'appelle la Transcendance et dans nos régions il est fort apprécié. \" Jacques PREVERT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';\"><span style=\"font-size:18px;\">\" Il y a des gens qui dansent sans entrer en transe et il y en a d'autre qui entrent en transe sans danser. Ce phénomène s'appelle la Transcendance et dans nos régions il est fort apprécié. \" Jacques PREVERT</span><br/></span><span style=\"font-family:OldNewspaperTypes;font-size:18px;line-height:21px;\"><br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2096px",
+      "items": [
+        {
+          "type": "image",
+          "name": "scaphandre pieuvre",
+          "layout": {
+            "left": "510px",
+            "top": "120px",
+            "width": "309px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/scaphandre-pieuvre-wee8a15ac951-6515e9e4.jpg",
+          "href": "",
+          "label": "scaphandre pieuvre"
+        },
+        {
+          "type": "text",
+          "name": "WEa70ba28798",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "30px",
+            "top": "124px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "1"
+          },
+          "text": "Nous pouvons définir la transe comme un état de conscience qui se trouve provisoirement modifié par un élément de contexte qui s’impose à une personne, et qui vient modifier soudainement la perception que cette personne a de la réalité. Cette modification est perçue par le sujet comme inhabituelle en nature et/ou intensité ; elle peut être le fait d’un événement particulier inattendu ou être le fait d’un événement anticipé et ritualisé, comme une rencontre thérapeutique impliquant une pratique telle que l’hypnose. La transe est un état de conscience modifié qui inclus un élément de brusquerie. Autrement dit, un événement qui fait perdre les points de repères habituels du sujet en bousculant ses sens (sa façon de percevoir la réalité), le plongeant dans un ressenti inhabituel, atypique, et transitoire. Cet événement peut être soudain ou anticipé, unique ou répété, relever de circonstances normales ou pathologiques. Dans tous les cas, c’est le sujet lui-même qui peut décrire l’état de transe dans lequel il est plongé. Ethymologiquement, le terme transe est de la même famille que le verbe transir, qui signifie partir, passer, s'écouler.  La transe est un état de conscience impliquant une sensation de dédoublement ou encore d'un vécu spécifique et singulier. Si nous portions en permanence un casque à électrodes qui mesure l'activité électrique de notre cerveau (électroencéphalographie), nous observerions que l'on traverse, chaque jour, de multiples états de conscience, chacun correspondant à l'émission d'ondes cérébrales différentes, d'une gamme de fréquence particulière (en hertz). Lorsqu'il est en veille active, notre cerveau émet surtout des ondes rapides, dites bêta (de 12 à 30 Hz), avec l'apparition d'ondes gamma spécifiques (vers 40 Hz) lors d'une activité intellectuelle et mentale (intense). Alors qu'en relaxation légère ou éveil calme (assis dans son canapé yeux fermés par exemple), ce sont des ondes alpha (de 8 à 12.Hz) qui dominent. Les ondes thêta (4 à 8 Hz) correspondent, elles, à la relaxation profonde, la méditation ou encore la transe hypnotique et à un certain type de sommeil (paradoxal). Enfin, en sommeil profond, les ondes majoritaires sont de type delta (de 0,5 à 4 Hz). Ce large éventail d’états de conscience, modulés par les ondes cérébrales, peut modifier les perceptions. Parfois, le changement est involontaire et rapide. On peut se mettre en hypnose spontanée et avoir l’impression de sortir de son corps, de ne plus sentir de douleur, d’être dissocié. Et ce \"débrayage\" cérébral peut également être provoqué techniquement, notamment par le principe de la suggestion.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">Nous pouvons définir la transe comme un état de conscience qui se trouve provisoirement modifié par un élément de contexte qui s’impose à une personne, et qui vient modifier soudainement la perception que cette personne a de la réalité. Cette modification est perçue par le sujet comme inhabituelle en nature et/ou intensité ; elle peut être le fait d’un événement particulier inattendu ou être le fait d’un événement anticipé et ritualisé, comme une rencontre thérapeutique impliquant une pratique telle que l’hypnose. <br/> <br/> La transe est un état de conscience modifié qui inclus un élément de brusquerie. Autrement dit, un événement qui fait perdre les points de repères habituels du sujet en bousculant ses sens (sa façon de percevoir la réalité), le plongeant dans un ressenti inhabituel, atypique, et transitoire. Cet événement peut être soudain ou anticipé, unique ou répété, relever de circonstances normales ou pathologiques. Dans tous les cas, c’est le sujet lui-même qui peut décrire l’état de transe dans lequel il est plongé.<br/><br/>Ethymologiquement, le terme transe est de la même famille que le verbe transir, qui signifie partir, passer, s'écouler.  La transe est un état de conscience impliquant une sensation de dédoublement ou encore d'un vécu spécifique et singulier.  <br/><br/>Si nous portions en permanence un casque à électrodes qui mesure l'activité électrique de notre cerveau (électroencéphalographie), nous observerions que l'on traverse, chaque jour, de multiples états de conscience, chacun correspondant à l'émission d'ondes cérébrales différentes, d'une gamme de fréquence particulière (en hertz). Lorsqu'il est en veille active, notre cerveau émet surtout des ondes rapides, dites bêta (de 12 à 30 Hz), avec l'apparition d'ondes gamma spécifiques (vers 40 Hz) lors d'une activité intellectuelle et mentale (intense). Alors qu'en relaxation légère ou éveil calme (assis dans son canapé yeux fermés par exemple), ce sont des ondes alpha (de 8 à 12.Hz) qui dominent. Les ondes thêta (4 à 8 Hz) correspondent, elles, à la relaxation profonde, la méditation ou encore la transe hypnotique et à un certain type de sommeil (paradoxal). Enfin, en sommeil profond, les ondes majoritaires sont de type delta (de 0,5 à 4 Hz).  <br/><br/> Ce large éventail d’états de conscience, modulés par les ondes cérébrales, peut modifier les perceptions. Parfois, le changement est involontaire et rapide. On peut se mettre en hypnose spontanée et avoir l’impression de sortir de son corps, de ne plus sentir de douleur, d’être dissocié. Et ce \"débrayage\" cérébral peut également être provoqué techniquement, notamment par le principe de la suggestion. <br/></span><br/><span style=\"font-family:'Tox Typewriter';font-size:18px;\"><br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEaa0b5a80e3",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "460px",
+            "top": "650px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "7"
+          },
+          "text": "Ainsi, la personne en transe hypnotique peut observer certains phénomènes comme si ils se produisaient d’eux-mêmes, de manière automatique, sans pour autant y engager sa volonté consciente. On les appelle des phénomènes idéodynamiques et peuvent s'expliquer comme étant la traduction automatique, sans participation de la volonté de l’individu qui les expérimente, issues d’une idée, de mouvements, sensations, affects ou processus corporels. En fonction du registre affecté par la représentation mentale, il s’agira de phénomène : Idéo-moteur : motricité ou inhibition (catalepsie) de celle-ci idéo-sensoriel : hallucination positive ou négative d’un des cinq sens idéo-affectif : ressenti émotionnel ou anesthésie émotionnelle idéo-somatique (psychosomatique) : douleur, analgésie ou activation/inhibition de processus corporels divers Selon Erickson, la transe hypnotique peut être définie comme un état d’attention et de réactivité accrues aux idées. Cet état est caractérisé par un degré d’augmentation de la réceptivité et de la sensibilité. C'est une absorption du sujet dans sa réalité intérieure, composée de pensées, souvenirs, émotions, sensations corporelles, etc. Au fur et à mesure que l’absorption s’intensifie, la réalité extérieure perd de l’importance, au point où le sujet ne réagit plus aux stimuli extérieurs non pertinents. Dans cet état, les perceptions intérieures et imaginaires sont données comme plus signifiantes que généralement elles le sont dans la réalité. Ainsi, le sujet en transe hypnotique est en quelque sorte dissocié de la réalité extérieure : l'imaginaire devient réalité ! La transe hypnotique est donc une expérience intérieure, à chaque fois singulière et personnelle. En fonction de la \"profondeur\"  de la transe vous vous sentez être déconnecté du moment et pourtant vous pouvez avoir l’impression de rester éveillé. Vous continuez à entendre tout ce que l’hypnotiseur vous dit et à tout moment, vous pouvez sortir de transe par votre simple volonté. C'est un état d'hyper concentration et en aucun cas un état de sommeil, ni de perte de contrôle.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\"><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Ainsi, la personne en transe hypnotique peut observer certains phénomènes comme si ils se produisaient d’eux-mêmes, de manière automatique, sans pour autant y engager sa volonté consciente. On les appelle des phénomènes idéodynamiques et peuvent s'expliquer comme étant la traduction automatique, sans participation de la volonté de l’individu qui les expérimente, issues d’une idée, de mouvements, sensations, affects ou processus corporels. <br/><br/>En fonction du registre affecté par la représentation mentale, il s’agira de phénomène : <br/><ul><li>Idéo-moteur : motricité ou inhibition (catalepsie) de celle-ci <br/></li><li>idéo-sensoriel : hallucination positive ou négative d’un des cinq sens <br/></li><li>idéo-affectif : ressenti émotionnel ou anesthésie émotionnelle <br/></li><li>idéo-somatique (psychosomatique) : douleur, analgésie ou activation/inhibition de processus corporels divers</li></ul></span>Selon Erickson, la transe hypnotique peut être définie comme un état d’attention et de réactivité accrues aux idées. Cet état est caractérisé par un degré d’augmentation de la réceptivité et de la sensibilité. C'est une absorption du sujet dans sa réalité intérieure, composée de pensées, souvenirs, émotions, sensations corporelles, etc. Au fur et à mesure que l’absorption s’intensifie, la réalité extérieure perd de l’importance, au point où le sujet ne réagit plus aux stimuli extérieurs non pertinents. Dans cet état, les perceptions intérieures et imaginaires sont données comme plus signifiantes que généralement elles le sont dans la réalité. Ainsi, le sujet en transe hypnotique est en quelque sorte dissocié de la réalité extérieure : l'imaginaire devient réalité !<br/><br/>La transe hypnotique est donc une expérience intérieure, à chaque fois singulière et personnelle. En fonction de la \"profondeur\"  de la transe vous vous sentez être déconnecté du moment et pourtant vous pouvez avoir l’impression de rester éveillé. Vous continuez à entendre tout ce que l’hypnotiseur vous dit et à tout moment, vous pouvez sortir de transe par votre simple volonté. C'est un état d'hyper concentration et en aucun cas un état de sommeil, ni de perte de contrôle.</span><br/> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE6ac11b86e6",
+          "layout": {
+            "width": "390px",
+            "left": "30px",
+            "top": "1790px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "10"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "femme pieuvre",
+          "layout": {
+            "left": "30px",
+            "top": "1880px",
+            "width": "125px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/femme-pieuvre-we4f2724983b-352242cd.jpg",
+          "href": "dissociation.html",
+          "label": "DISSOCIATION"
+        },
+        {
+          "type": "image",
+          "name": "cheval hippocampe",
+          "layout": {
+            "left": "190px",
+            "top": "1880px",
+            "width": "83px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/cheval-hippocampe-we31b7a5d244-5ac29ce0.jpg",
+          "href": "imaginaire.html",
+          "label": "IMAGINAIRE"
+        },
+        {
+          "type": "image",
+          "name": "homme engrenage",
+          "layout": {
+            "left": "330px",
+            "top": "1880px",
+            "width": "91px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/homme-engrenage-wed5206e8742-ea1f19d1.jpg",
+          "href": "consciences.html",
+          "label": "CONSCIENCES"
+        },
+        {
+          "type": "text",
+          "name": "WE50832ed68a",
+          "layout": {
+            "width": "auto",
+            "left": "30px",
+            "top": "2000px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "text": "DISSOCIATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DISSOCIATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE1651812916",
+          "layout": {
+            "width": "auto",
+            "left": "320px",
+            "top": "2010px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "CONSCIENCES",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CONSCIENCES</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE105f98152f",
+          "layout": {
+            "width": "auto",
+            "left": "180px",
+            "top": "2030px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "text": "IMAGINAIRE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">IMAGINAIRE</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

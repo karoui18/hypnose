@@ -1,0 +1,76 @@
+{
+  "title": "Milton ERICKSON",
+  "source": "https://www.hypnosite.fr/erickson.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "349px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE74ae6ea4de",
+          "layout": {
+            "width": "600px",
+            "left": "50%",
+            "top": "50px",
+            "height": "auto",
+            "text-align": "center",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "Milton ERICKSON",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">Milton ERICKSON</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "60px",
+            "width": "77px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/pointing-1-we0c603abe6d-7c067e65.jpg",
+          "href": "seance.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE05ad814d88",
+          "layout": {
+            "width": "580px",
+            "height": "auto",
+            "left": "290px",
+            "top": "220px",
+            "color": "#262626",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "1"
+          },
+          "text": "Milton Hyland Erickson (1901-1980), est un médecin américain surnommé \"le thérapeute hors du commun\". Il est atteint par la poliomyélite à l'âge de 17 ans et se retrouve dans une paralysie presque totale. Ses efforts pour se rééduquer et son sens accru de l'observation, le conduisent à découvrir sur lui-même certains effets de l'hypnose. Ainsi, à force de patience et d'entraînement, en focalisant son attention sur certaines zones de son corps et sur ses sensations, il parvient à stimuler ses muscles un à un et recouvre progressivement sa mobilité. Il se rétablit ainsi et entreprend ses études de médecine. Son travail sera dès lors basé sur une certitude, celle que chacun possède en lui les ressources nécessaires pour s'adapter à toute situation. Médecin de formation et psychiatre, Milton H. Erickson découvre l’hypnose en suivant l’enseignement de Clark L. Hull. Mais très vite, il prend un chemin différent en développant une hypnose non autoritaire. Très loin de l'hypnose classique très directive, Milton H. Erickson utilise l’unicité de chaque individu pour donner des suggestions indirectes adaptées au client. Profitant des ressources importantes de l’inconscient du client, il en fait son allié pour provoquer le changement désiré consciemment par le client. Il consacre sa vie au développement de nombreuses techniques de thérapie par l’hypnose orientée vers la solution. Il fait évoluer l’hypnose thérapeutique vers une hypnose non autoritaire qui s’adapte à chaque individu basée sur des métaphores et des suggestions indirectes ce qui fait la souplesse de cet art.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-size:18px;font-family:'Tox Typewriter';\">Milton Hyland Erickson (1901-1980), est un médecin américain surnommé \"le thérapeute hors du commun\". Il est atteint par la poliomyélite à l'âge de 17 ans et se retrouve dans une paralysie presque totale. Ses efforts pour se rééduquer et son sens accru de l'observation, le conduisent à découvrir sur lui-même certains effets de l'hypnose. Ainsi, à force de patience et d'entraînement, en focalisant son attention sur certaines zones de son corps et sur ses sensations, il parvient à stimuler ses muscles un à un et recouvre progressivement sa mobilité. Il se rétablit ainsi et entreprend ses études de médecine. Son travail sera dès lors basé sur une certitude, celle que chacun possède en lui les ressources nécessaires pour s'adapter à toute situation.  <br/>  <br/> Médecin de formation et psychiatre, Milton H. Erickson découvre l’hypnose en suivant l’enseignement de Clark L. Hull. Mais très vite, il prend un chemin différent en développant une hypnose non autoritaire. Très loin de l'hypnose classique très directive, Milton H. Erickson utilise l’unicité de chaque individu pour donner des suggestions indirectes adaptées au client. Profitant des ressources importantes de l’inconscient du client, il en fait son allié pour provoquer le changement désiré consciemment par le client.  <br/>  <br/> Il consacre sa vie au développement de nombreuses techniques de thérapie par l’hypnose orientée vers la solution. Il fait évoluer l’hypnose thérapeutique vers une hypnose non autoritaire qui s’adapte à chaque individu basée sur des métaphores et des suggestions indirectes ce qui fait la souplesse de cet art.  <br/>   </span><br/> </span>"
+        },
+        {
+          "type": "image",
+          "name": "erickson",
+          "layout": {
+            "left": "20px",
+            "top": "240px",
+            "width": "230px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/erickson-2ac8ce87.jpg",
+          "href": "",
+          "label": "erickson"
+        }
+      ]
+    }
+  ]
+}

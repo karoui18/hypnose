@@ -1,0 +1,332 @@
+{
+  "title": "vous allez bien!",
+  "source": "https://www.hypnosite.fr/seance%201.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "700px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "RESTEZ ALLER BIEN"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEf1872b5a93",
+          "layout": {
+            "width": "auto",
+            "left": "190px",
+            "top": "107px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "text": "vous",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:28px;\">vous </span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE5fca730040",
+          "layout": {
+            "width": "auto",
+            "left": "190px",
+            "top": "130px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "ressentir",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:28px;\">ressentir</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEecf461e43f",
+          "layout": {
+            "width": "640px",
+            "left": "190px",
+            "top": "163px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'Bohem Press'",
+            "z-index": "2"
+          },
+          "text": "RESTEZ ALLER BIEN",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-size:60px;\">RESTEZ ALLER BIEN</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE6e5ed7a61d",
+          "layout": {
+            "width": "810px",
+            "height": "auto",
+            "left": "50%",
+            "top": "460px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-style": "italic",
+            "font-size": "16px",
+            "font-family": "'OldNewspaperTypes'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\" Je crois aux vertus de l’optimisme. Ce n’est pas facile, mais ça ne sert à rien d’être pessimiste. Anticiper le malheur, c’est le vivre deux fois. Mieux vaut croire que les choses vont aller mieux. \" Jean Pierre BACRI",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-style:normal;font-size:18px;\">\" Je crois aux vertus de l’optimisme. Ce n’est pas facile, mais ça ne sert à rien d’être pessimiste. Anticiper le malheur, c’est le vivre deux fois. Mieux vaut croire que les choses vont aller mieux. \" <br/>Jean Pierre BACRI</span></span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1338px",
+      "items": [
+        {
+          "type": "image",
+          "name": "baleine 1",
+          "layout": {
+            "left": "50%",
+            "top": "-50px",
+            "width": "735px",
+            "height": "auto",
+            "z-index": "1",
+            "transform": "translateX(-50%)"
+          },
+          "src": "assets/baleine-1-902e6834.jpg",
+          "href": "",
+          "label": "baleine 1"
+        },
+        {
+          "type": "text",
+          "name": "WEc5b1239dee",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "20px",
+            "top": "230px",
+            "color": "#632423",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "2"
+          },
+          "text": "Ressentir nait du latin \"sentire\" qui stipulait percevoir par les sens, puis par déclinaison \"être d’un certain avis, penser\" et, dans la langue juridique et politique, \"décider\". Ainsi, ressentir c'est percevoir, saisir quelque chose par intuition, donc inconsciemment. Nous pouvons cependant différencier : \"aller bien\" qui est structuré par des données objectives et factuelles (par exemple des mesures  biologiques) et \"ressentir aller bien\", sentiment qui se place dans une dynamique subjective et flexible, colorisé par la perception émotionnelle, possible suggestion centrale de notre écologie mentale. Vous ressentez allez bien, alors servez-vous en ! Un peu comme dans la médecine traditionnelle chinoise, le rôle du guérisseur n'est pas de soigner mais d'empêcher que le sujet tombe malade. Une des richesses de l'hypnose est de valoriser nos ressources et nos capacités, surtout quand nous nous sentons bien. Alors, de se donner le moyen de faire perdurer ce ressenti positif au travers des épreuves de vie à venir est un gage d'équilibre.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';\"><span style=\"color:rgb(0, 0, 0);font-size:18px;\">Ressentir nait du latin \"sentire\" qui stipulait percevoir par les sens, puis par déclinaison \"être d’un certain avis, penser\" et, dans la langue juridique et politique, \"décider\". Ainsi, ressentir c'est percevoir, saisir quelque chose par intuition, donc inconsciemment. Nous pouvons cependant différencier : \"aller bien\" qui est structuré par des données objectives et factuelles (par exemple des mesures  biologiques) et \"ressentir aller bien\", sentiment qui se place dans une dynamique subjective et flexible, colorisé par la perception émotionnelle, possible suggestion centrale de notre écologie mentale.<br/><br/>Vous ressentez allez bien, alors servez-vous en ! Un peu comme dans la médecine traditionnelle chinoise, le rôle du guérisseur n'est pas de soigner mais d'empêcher que le sujet tombe malade. Une des richesses de l'hypnose est de valoriser nos ressources et nos capacités, surtout quand nous nous sentons bien. Alors, de se donner le moyen de faire perdurer ce ressenti positif au travers des épreuves de vie à venir est un gage d'équilibre.</span></span><br/> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE3d3c5e9ead",
+          "layout": {
+            "width": "390px",
+            "height": "auto",
+            "left": "480px",
+            "top": "230px",
+            "color": "#632423",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3"
+          },
+          "text": "Concevez cette séance d'hypnose comme préventive afin de renforcer ses atouts et d'anihiler croyances limitantes et autres obstacles prévisibles (ou pas). Cette séance hypnotique préventive va à l'essentiel : le renforcement motivationnel. Pour quelles ressources par exemple ? Pour ne prendre que les plus usuels : le renforcement de l'arrêt du tabac le maintien de la créativité une satisfaction autour de l'humeur un relationnel de qualité un élan positif dans l'entreprenariat s'occuper de soi prendre du plaisir à être soi maintenir l'inhibition d'un comportement freinant etc.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-size:18px;font-family:'Tox Typewriter';\">Concevez cette séance d'hypnose comme préventive afin de renforcer ses atouts et d'anihiler croyances limitantes et autres obstacles prévisibles (ou pas). Cette séance hypnotique préventive va à l'essentiel : <br/>le renforcement motivationnel. <br/><br/>Pour quelles ressources par exemple ? Pour ne prendre que les plus usuels :<br/><ul><li>le renforcement de l'arrêt du tabac<br/></li><li>le maintien de la créativité<br/></li><li>une satisfaction autour de l'humeur<br/></li><li>un relationnel de qualité<br/></li><li>un élan positif dans l'entreprenariat<br/></li><li>s'occuper de soi<br/></li><li>prendre du plaisir à être soi<br/></li><li>maintenir l'inhibition d'un comportement freinant</li><li>etc.<br/></li></ul></span><br/> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE139a351f7f",
+          "layout": {
+            "width": "380px",
+            "left": "50%",
+            "top": "880px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "14",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "paon",
+          "layout": {
+            "left": "720px",
+            "top": "950px",
+            "width": "142px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/paon-webfbaf033d8-e9560960.jpg",
+          "href": "affirmation.html",
+          "label": "AFFIRMATION"
+        },
+        {
+          "type": "image",
+          "name": "homme fort",
+          "layout": {
+            "left": "540px",
+            "top": "970px",
+            "width": "106px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/homme-fort-web5dbf436fd-4afd99a7.jpg",
+          "href": "performance.html",
+          "label": "PERFORMANCE"
+        },
+        {
+          "type": "image",
+          "name": "poisson bonheur",
+          "layout": {
+            "left": "40px",
+            "top": "980px",
+            "width": "134px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/poisson-bonheur-we66e490f0e7-d36171bc.jpg",
+          "href": "bonheur.html",
+          "label": "(bonheur)"
+        },
+        {
+          "type": "image",
+          "name": "homme pieuvre",
+          "layout": {
+            "left": "220px",
+            "top": "1020px",
+            "width": "78px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/homme-pieuvre-we1fac314186-a4b95395.jpg",
+          "href": "personnalite.html",
+          "label": "PERSONNALITE"
+        },
+        {
+          "type": "image",
+          "name": "jumelles",
+          "layout": {
+            "left": "370px",
+            "top": "1040px",
+            "width": "120px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/jumelles-we1786fe3979-49782e76.jpg",
+          "href": "vision.html",
+          "label": "VISION"
+        },
+        {
+          "type": "text",
+          "name": "WEe76b3c5664",
+          "layout": {
+            "width": "auto",
+            "left": "40px",
+            "top": "1070px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "ATARAXIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ATARAXIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE03e4eac318",
+          "layout": {
+            "width": "auto",
+            "left": "740px",
+            "top": "1089px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "AFFIRMATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">AFFIRMATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2f192af29d",
+          "layout": {
+            "width": "auto",
+            "left": "70px",
+            "top": "1090px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "(bonheur)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(bonheur)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE8a3479894f",
+          "layout": {
+            "width": "auto",
+            "left": "540px",
+            "top": "1122px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "PERFORMANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PERFORMANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEa30e8a8ebb",
+          "layout": {
+            "width": "auto",
+            "left": "400px",
+            "top": "1140px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "VISION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">VISION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7cb168dcf5",
+          "layout": {
+            "width": "auto",
+            "left": "210px",
+            "top": "1210px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "text": "PERSONNALITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PERSONNALITE</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

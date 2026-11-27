@@ -1,0 +1,401 @@
+{
+  "title": "La confiance",
+  "source": "https://www.hypnosite.fr/confiance.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "570px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "estime"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "CONFIANCE"
+        },
+        {
+          "type": "text",
+          "name": "WE79b307045e",
+          "layout": {
+            "width": "530px",
+            "left": "50%",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "CONFIANCE",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">CONFIANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE067da844e4",
+          "layout": {
+            "width": "auto",
+            "left": "140px",
+            "top": "220px",
+            "height": "auto",
+            "text-align": "left",
+            "z-index": "5"
+          },
+          "text": "vs",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:40px;\">vs </span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEe2b3372e8b",
+          "layout": {
+            "width": "auto",
+            "left": "170px",
+            "top": "240px",
+            "height": "auto",
+            "text-align": "left",
+            "z-index": "6"
+          },
+          "text": "estime",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:45px;\">estime</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2833049649",
+          "layout": {
+            "width": "730px",
+            "height": "auto",
+            "left": "50%",
+            "top": "450px",
+            "background-color": "#fff",
+            "z-index": "4",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Avant de vous diagnostiquer une dépression ou une faible estime de soi, assurez-vous d’abord que vous n’êtes pas en fait, juste entouré par des trous du cul.\" William Gibson",
+          "html": "<span><span style=\"font-size:18px;\"><span style=\"font-family:'Tox Typewriter';\">\"Avant de vous diagnostiquer une dépression ou une faible estime de soi, assurez-vous d’abord que vous n’êtes pas en fait, juste entouré par des trous du cul.\" William Gibson  </span><br/></span></span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2502px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE4095b40cc5",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "10px",
+            "top": "60px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "9"
+          },
+          "text": "La confiance en soi peut se définir comme un sentiment éprouvé qui fait que l’on se fie à soi-même. Elle exprime un sentiment de sécurité et d’assurance par rapport à ses propres choix. Elle est en rapport avec les capacités d'un individu et non ses valeurs, ces dernières ayant une influence sur l'estime de soi. Cette confiance acquise n’est pas figée et se bonnifie au travers des diverses expériences traversées. Pour exemple, le chômage est un contexte social favorisant la diminution de la confiance et à l’inverse, l’entreprenariat augmente celle-ci. Dans la baisse de confiance la notion de capacité, un ingrédient majeur, est souvent sous dosé. Cela implique alors un retrait de la personne, du stress, de l’anxiété, une mésestime et peut engendrer une certaine invalidité sociale et générer une souffrance profonde. Alors, des stratégies d’évitement se mettent en place et peuvent créer de l’isolement et de la résignation. Psychopathologiquement, il se décrit la névrose d'échec ou conduite d'échec qui désigne un comportement de nature inconsciente face à une situation d'enjeux angoissante, qui conduit le sujet à une mise en faillite de ses propres désirs. Ces derniers peuvent avoir trait au contexte scolaire, professionnel, relationnel ou sentimental. Dans la névrose d'échec, le sujet organise sa vie de façon à ne pas parvenir à ses fins, en surestimant les risques ou s'imposant des conditions surnuméraires. Ses conséquences peuvent conduire à une intolérance totale et systématique au succès, dans le cas même de projets normalement réalisables, influançant dans la résultante, le ressenti d'une perte de confiance. La névrose d'échec met en jeu une forte culpabilité de l'individu. Ses causes seraient à rechercher dans une contrainte psychique de type \"effet Golem\" qui est un phénomène psychologique mettant en œuvre une prophétie autoréalisatrice dans laquelle des attentes moins élevées placées sur un individu le conduisent à de moins bonnes performances. C'est l'inverse de l'effet Pygmalion qui induit des performances supérieures d'un sujet sous l'effet d'une croyance extrinsèque en sa réussite. Le fait d’accepter les échecs, les déceptions, d’accepter ses différences, son unicité, sa singularité renforcent le regard que l’on se porte. L’hypnose oriente la positivité de ce regard tourné vers soi et va faire ressortir le meilleur des expériences importantes de l’individu. Comme l’écrivait Jules Renard dans son Journal : \"une fois que ma décision est prise,  j’hésite longuement… \". Qu'est ce que l'estime de soi ? Fondamentalement, il s'agit d'une opinion sur le type de personne que nous sommes. C'est un ensemble de pensées qui servent à déterminer qui nous sommes, c'est une opinion et non un fait. ce n'est aucunement la vérité, ce n'est rien qu'un jugement hautement subjectif. L'estime de soi selon le psychologue et philosophe William JAMES (1890) repose sur le rapport entre nos réussites réelles et nos aspirations personnelles, c'est le ratio entre nos actualités et nos potentialités. Elle résulte ainsi du rapport entre les succès et les prétentions ou aspirations. C’est une évaluation résumée qui reflète le degré selon lequel la personne pense qu’elle réussit bien dans les domaines où elle aspire à exceller. L’estime de soi globale découle directement de la somme totale de ces évaluations succès/aspirations.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">La confiance en soi peut se définir comme un sentiment éprouvé qui fait que l’on se fie à soi-même. Elle exprime un sentiment de sécurité et d’assurance par rapport à ses propres choix. Elle est en rapport avec les capacités d'un individu et non ses valeurs, ces dernières ayant une influence sur l'estime de soi. Cette confiance acquise n’est pas figée et se bonnifie au travers des diverses expériences traversées. Pour exemple, le chômage est un contexte social favorisant la diminution de la confiance et à l’inverse, l’entreprenariat augmente celle-ci.  <br/></span><br/><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Dans la baisse de confiance la notion de capacité, un ingrédient majeur, est souvent sous dosé. Cela implique alors un retrait de la personne, du stress, de l’anxiété, une mésestime et peut engendrer une certaine invalidité sociale et </span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">générer une souffrance profonde. Alors, des stratégies d’évitement se mettent en place et peuvent créer de l’isolement et de la résignation. <br/><br/>Psychopathologiquement, il se décrit la névrose d'échec ou conduite d'échec qui désigne un comportement de nature inconsciente face à une situation d'enjeux angoissante, qui conduit le sujet à une mise en faillite de ses propres désirs. Ces derniers peuvent avoir trait au contexte scolaire, professionnel, relationnel ou sentimental. Dans la névrose d'échec, le sujet organise sa vie de façon à ne pas parvenir à ses fins, en surestimant les risques ou s'imposant des conditions surnuméraires. Ses conséquences peuvent conduire à une intolérance totale et systématique au succès, dans le cas même de projets normalement réalisables, influançant dans la résultante, le ressenti d'une perte de confiance. </span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">La névrose d'échec met en jeu une forte culpabilité de l'individu. Ses causes seraient à rechercher dans une contrainte psychique de type \"effet Golem\" qui est un phénomène psychologique mettant en œuvre une prophétie autoréalisatrice dans laquelle des attentes moins élevées placées sur un individu le conduisent à de moins bonnes performances. C'est l'inverse de l'effet Pygmalion qui induit des performances supérieures d'un sujet sous l'effet d'une croyance extrinsèque en sa réussite.</span><br/><br/><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Le fait d’accepter les échecs, les déceptions, d’accepter ses différences, son unicité, sa singularité renforcent le regard que l’on se porte. L’hypnose oriente la positivité de ce regard tourné vers soi et va faire ressortir le meilleur des expériences importantes de l’individu.  </span><br/><br/><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Comme l’écrivait Jules Renard dans son Journal : \"une fois que ma décision est prise,  j’hésite longuement… \". Qu'est ce que l'estime de soi ? Fondamentalement, il s'agit d'une opinion sur le type de personne que nous sommes. C'est un ensemble de pensées qui servent à déterminer qui nous sommes, c'est une opinion et non un fait. ce n'est aucunement la vérité, ce n'est rien qu'un jugement hautement subjectif. <br/><br/>L'estime de soi selon le psychologue et philosophe William JAMES (1890) repose sur le rapport entre nos réussites réelles et nos aspirations personnelles, c'est le ratio entre nos actualités et nos potentialités. Elle résulte ainsi du rapport entre les succès et les prétentions ou aspirations. C’est une évaluation résumée qui reflète le degré selon lequel la personne pense qu’elle réussit bien dans les domaines où elle aspire à exceller. L’estime de soi globale découle directement de la somme totale de ces évaluations succès/aspirations. </span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"><br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "elephant",
+          "layout": {
+            "left": "460px",
+            "top": "65px",
+            "width": "408px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/elephant-weff2f0f8719-074cfd39.jpg",
+          "href": "",
+          "label": "elephant"
+        },
+        {
+          "type": "text",
+          "name": "WE934bc8bbe4",
+          "layout": {
+            "width": "430px",
+            "height": "auto",
+            "left": "460px",
+            "top": "650px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "Stanley COOPERSMITH (1967) a suggéré que l’estime de soi reflète l’évaluation de plusieurs aspects du soi, chacun étant mesuré en rapport avec les aspirations personnelles de l’individu, notamment le pouvoir, la signification, l’apparence ou encore la compétence. Ce sont, entre autre, les expériences et les influences des interactions vécues par un individu durant sa vie qui la développent. Des expériences positives peuvent favoriser un regard positif porté sur soi-même, et inversement. L'estime de soi ainsi est le résultat d'un rapport entre les succès et les prétentions dans les domaines importants de la vie. En d'autres termes, l'estime de soi est le rapport entre ce que sont réellement les humains et ce qu'ils veulent être (leur idéal de soi). et à une strate différente, elle peut être comprise comme étant l'écart subjectif ressenti chez un individu entre ce qu'il pense être et ce qu'il imagine  ce que les gens croient de ce qu'il doit être. C'est avant tout croire en sa valeur propre. L'estime de soi influence les pensées, les actions, les sentiments. Cest un auto jugement, une auto évaluation qui est fait en rapport avec ses propres valeurs. Lorsqu'un accomplissement est perçu comme valable, il y a valorisation de l'estime et lorsque l'évaluation des actions est ressentie en opposition aux valeurs intrinsèques, l'estime flanche. Dans la hiérarchie des besoins de MASLOW ( se référer à la pyramde de MASLOW), l'estime de soi correspond à une double nécessité pour l'individu : se sentir compétent et être reconnu par autrui. L’estime de soi se manifeste par la fierté d’être soi et repose donc sur l’évaluation continue des actions et réalisations, que l'individu en ait conscience ou pas. Plus précisément, le concept de soi est la composition de plusieurs éléments : l'image que l'on se porte dans le présent, l'image que l'on se porte au travers des souvenirs de nos expériences passées, l'idée de l'image que les autres ont de nous, l'image de la personne idéale que nous souhaitons devenir ou encore le type de personne auquel nous espérons ressembler à l'avenir. Puis se supplémentent les critères tels l'aspect physique, les relations, les valeurs, la vie affective, les biens matériels , etc. Cela implique que plus l'image perçue et l'image souhaitée se ressemblent ou fusionnent, plus l'estime personnelle sera haute.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Stanley COOPERSMITH (1967) a suggéré que l’estime de soi reflète l’évaluation de plusieurs aspects du soi, chacun étant mesuré en rapport avec les aspirations personnelles de l’individu, notamment le pouvoir, la signification, l’apparence ou encore la compétence. Ce sont, entre autre, les expériences et les influences des interactions vécues par un individu durant sa vie qui la développent. Des expériences positives peuvent favoriser un regard positif porté sur soi-même, et inversement. L'estime de soi ainsi est le résultat d'un rapport entre les succès et les prétentions dans les domaines importants de la vie. En d'autres termes, l'estime de soi est le rapport entre ce que sont réellement les humains et ce qu'ils veulent être (leur idéal de soi). et à une strate différente, elle peut être comprise comme étant l'écart subjectif ressenti chez un individu entre ce qu'il pense être et ce qu'il imagine  ce que les gens croient de ce qu'il doit être.<br/>  <br/> C'est avant tout croire en sa valeur propre. L'estime de soi influence les pensées, les actions, les sentiments. Cest un auto jugement, une auto évaluation qui est fait en rapport avec ses propres valeurs. Lorsqu'un accomplissement est perçu comme valable, il y a valorisation de l'estime et lorsque l'évaluation des actions est ressentie en opposition aux valeurs intrinsèques, l'estime flanche.<br/><br/>Dans la hiérarchie des besoins de MASLOW ( se référer à la pyramde de MASLOW), l'estime de soi correspond à une double nécessité pour l'individu : se sentir compétent et être reconnu par autrui. L’estime de soi se manifeste par la fierté d’être soi et repose donc sur l’évaluation continue des actions et réalisations, que l'individu en ait conscience ou pas. <br/>  <br/>Plus précisément, le concept de soi est la composition de plusieurs éléments : l'image que l'on se porte dans le présent, l'image que l'on se porte au travers des souvenirs de nos expériences passées, l'idée de l'image que les autres ont de nous, l'image de la personne idéale que nous souhaitons devenir ou encore le type de personne auquel nous espérons ressembler à l'avenir. Puis se supplémentent les critères tels l'aspect physique, les relations, les valeurs, la vie affective, les biens matériels , etc. Cela implique que plus l'image perçue et l'image souhaitée se ressemblent ou fusionnent, plus l'estime personnelle sera haute. <br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "main femme",
+          "layout": {
+            "left": "50px",
+            "top": "2040px",
+            "width": "95px",
+            "height": "auto",
+            "z-index": "19"
+          },
+          "src": "assets/main-femme-wec73f13b2ed-0c02bce2.jpg",
+          "href": "assets/echelle-estime-de-soi-3083142a.pdf",
+          "label": "ECHELLE ESTIME DE SOI"
+        },
+        {
+          "type": "text",
+          "name": "WEff708bb61f",
+          "layout": {
+            "left": "160px",
+            "top": "2040px",
+            "width": "auto",
+            "height": "auto",
+            "z-index": "20"
+          },
+          "text": "ECHELLE ESTIME DE SOI",
+          "html": "<a href=\"assets/echelle-estime-de-soi-3083142a.pdf\"><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">ECHELLE ESTIME DE SOI</span></a>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "main femme",
+          "layout": {
+            "left": "470px",
+            "top": "2040px",
+            "width": "95px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "src": "assets/main-femme-wec73f13b2ed-0c02bce2.jpg",
+          "href": "assets/echelle-estime-de-soi-sociale-f371f8fb.pdf",
+          "label": "ECHELLE ESTIME DE SOI SOCIALE"
+        },
+        {
+          "type": "text",
+          "name": "WE62f325e37c",
+          "layout": {
+            "left": "580px",
+            "top": "2040px",
+            "width": "auto",
+            "height": "auto",
+            "z-index": "18"
+          },
+          "text": "ECHELLE ESTIME DE SOI SOCIALE",
+          "html": "<a href=\"assets/echelle-estime-de-soi-sociale-f371f8fb.pdf\"><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">ECHELLE ESTIME DE SOI SOCIALE</span></a>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEe350fa7a08",
+          "layout": {
+            "width": "380px",
+            "left": "50%",
+            "top": "2160px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "14",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "boule cristal",
+          "layout": {
+            "left": "780px",
+            "top": "2210px",
+            "width": "99px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/boule-cristal-weebb588c8ba-c06eccff.jpg",
+          "href": "projet.html",
+          "label": "PROJET"
+        },
+        {
+          "type": "image",
+          "name": "paon",
+          "layout": {
+            "left": "20px",
+            "top": "2260px",
+            "width": "122px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/paon-we3ca487cc1f-623643d5.jpg",
+          "href": "affirmation.html",
+          "label": "AFFIRMATION"
+        },
+        {
+          "type": "image",
+          "name": "tour eiffel",
+          "layout": {
+            "left": "480px",
+            "top": "2270px",
+            "width": "92px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/tour-eiffel-we1da7fc4474-0e9de0ce.jpg",
+          "href": "modele.html",
+          "label": "MODELE"
+        },
+        {
+          "type": "image",
+          "name": "fusee",
+          "layout": {
+            "left": "290px",
+            "top": "2290px",
+            "width": "155px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/fusee-wee6515b54ad-0415d5cb.jpg",
+          "href": "oser.html",
+          "label": "OSER"
+        },
+        {
+          "type": "image",
+          "name": "gramo",
+          "layout": {
+            "left": "170px",
+            "top": "2300px",
+            "width": "103px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/gramo-wefb45ac14de-209b34c7.jpg",
+          "href": "communiquer.html",
+          "label": "COMMUNIQUER"
+        },
+        {
+          "type": "image",
+          "name": "casque",
+          "layout": {
+            "left": "610px",
+            "top": "2300px",
+            "width": "136px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "src": "assets/casque-we465e094168-9a337f6c.jpg",
+          "href": "confort.html",
+          "label": "(in) CONFORT"
+        },
+        {
+          "type": "text",
+          "name": "WE4b532d5594",
+          "layout": {
+            "width": "auto",
+            "left": "800px",
+            "top": "2335px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "PROJET",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PROJET</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE5680af63f7",
+          "layout": {
+            "width": "auto",
+            "left": "310px",
+            "top": "2370px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "OSER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">OSER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEdede18f39e",
+          "layout": {
+            "width": "auto",
+            "left": "30px",
+            "top": "2380px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "AFFIRMATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">AFFIRMATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE7e45ce6e49",
+          "layout": {
+            "width": "auto",
+            "left": "620px",
+            "top": "2384px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "text": "(in) CONFORT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(in) CONFORT</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE59255b8067",
+          "layout": {
+            "width": "auto",
+            "left": "500px",
+            "top": "2430px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "MODELE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">MODELE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd51cf617c9",
+          "layout": {
+            "width": "auto",
+            "left": "180px",
+            "top": "2440px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "text": "COMMUNIQUER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">COMMUNIQUER</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

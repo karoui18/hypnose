@@ -1,0 +1,317 @@
+{
+  "title": "La procrastination",
+  "source": "https://www.hypnosite.fr/procrastination.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "534px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "PROCRASTINER"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE5b7390c484",
+          "layout": {
+            "width": "420px",
+            "left": "210px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "3"
+          },
+          "text": "PROCRASTINER",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">PROCRASTINER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE4d1d7f5984",
+          "layout": {
+            "width": "690px",
+            "height": "auto",
+            "left": "50%",
+            "top": "430px",
+            "color": "#262626",
+            "text-align": "left",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "2",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"C'est le travail qu'on ne commence pas qui met le plus de temps à être achevé.\" J.R.R. TOLKIEN",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';\"><span style=\"color:rgb(0, 0, 0);font-size:18px;line-height:26px;\">\"C'est le travail qu'on ne commence pas qui met le plus de temps à être achevé.\"<br/>J.R.R. TOLKIEN</span></span><span style=\"color:rgb(0, 0, 0);font-family:OldNewspaperTypes;font-size:18px;line-height:26px;\"><br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEfb610441b0",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "14px",
+            "top": "566px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "4"
+          },
+          "text": "La procrastination peut se définir comme le fait de différer, de repousser des actions particulières, en trouvant mieux à faire que les tâches urgentes ou les activités pour lesquelles on s'était engagé. Tout le monde procrastine plus ou moins, mais parfois cela peut devenir un véritable handicap dans la vie du quotidien. Être un \"retardataire chronique\" ne signifie pas ne rien faire. Au contraire, le sujet peut être pris d’une véritable frénésie d’activités tant que celles-ci ne possèdent aucun rapport avec la tâche problématique. Le procrastineur se disperse en attendant le point de non retour, le dernier ultimatum pour entrer en action et ceci afin de ne pas avoir le choix. Derrière cet évitement se trouve généralement de l'anxiété, un manque de confiance, une difficulté à l'engagement ou au changement. Mais cela peut être également un conflit inconscient. Par ailleurs, dans le cerveau des procrastinateurs, une zone particulière est faiblarde : le cortex préfrontal antérieur qui est cette zone qui bloque l'activité des zones de vagabondage et qui permet de rester focalisé. Comme on le voit chez les personnes qui se mettent au travail à l'avance pour ne pas être prises de court au moment de l'examen, ou de l'échéance fiscale. Le problème, c'est que lorsque l'esprit se détache du but fixé et commence à vagabonder, il est vulnérable aux influences d'une zone cérébrale appelée amygdale, laquelle se montre très sensible à tout ce qui est inconfortable ou déplaisant. Ce circuit ne se projette pas dans le temps, il cherche à minimiser son désagrément et son inconfort par des mesures immédiates et instantanées. Le procrastinateur est alors pris dans l'instant, littéralement enfermé par son amygdale et il fait alors tout ce qu'il peut pour aller mieux maintenant. Le désagrément se trouve déplacé dans le futur, perçu comme inoffensif, car inaccessible à l'amygdale. Si on a longtemps associé la procrastination à un problème de gestion du temps. Les dernières recherches semblent nous dire que ce serait plutôt un problème d’ordre émotionnel. Les procrastinateurs savent ce qu’ils doivent faire, ils ne peuvent cependant pas se mettre en route. C’est une déficience entre l’intention et l’action. L’humeur et le ressenti émotionnel seraient à la base de cette déficience. Les procrastinateurs, bien que conscients de leurs devoirs, préfèrent préserver une humeur libre de tous souci. Ainsi ce n’est pas tant la tâche qu’ils redoutent que le changement d’humeur qu’elle impose. La question \"comment se sentir bien maintenant\" semble prendre l’avantage sur la question \"comment résoudre ce problème\" dans le cerveau des procrastinateurs chroniques. Cette négociation avec leurs obligations semble toutefois s’accompagner d’un sentiment de culpabilité dans la grande majorité des cas. L’être humain recherche en général le chemin de moindre pénibilité. La procrastination soutient cet objectif sur le court terme. Elle est donc un comportement normal et à fonction de stratégie d'adaptation. Les procrastinateurs voient (à un niveau inconscient) toute tâche/travail comme une intrusion extérieure sur leur état émotionnel, ce qu’ils repoussent vivement. Il y aurait chez les procrastinateurs une difficulté à faire primer le rationnel (on sait ce que l’on doit faire) sur l’émotionnel (pas envie d’affecter son humeur).",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"><span style=\"font-family:'Tox Typewriter';font-size:18px;\">La procrastination peut se définir comme le fait de différer, de repousser des actions particulières, en trouvant mieux à faire que les tâches urgentes ou les activités pour lesquelles on s'était engagé. Tout le monde procrastine plus ou moins, mais parfois cela peut devenir un véritable handicap dans la vie du quotidien. <br/>  <br/> Être un \"retardataire chronique\" ne signifie pas ne rien faire. Au contraire, le sujet peut être pris d’une véritable frénésie d’activités tant que celles-ci ne possèdent aucun rapport avec la tâche problématique. Le procrastineur se disperse en attendant le point de non retour, le dernier ultimatum pour entrer en action et ceci afin de ne pas avoir le choix. Derrière cet évitement se trouve généralement de l'anxiété, un manque de confiance, une difficulté à l'engagement ou au changement. Mais cela peut être également un conflit inconscient.   <br/></span><span style=\"font-size:18px;line-height:26px;\"><span style=\"font-family:'Tox Typewriter';\"><br/>Par ailleurs, dans le cerveau des procrastinateurs, une zone particulière est faiblarde : le cortex préfrontal antérieur qui est cette zone qui bloque l'activité des zones de vagabondage et qui permet de rester focalisé. Comme on le voit chez les personnes qui se mettent au travail à l'avance pour ne pas être prises de court au moment de l'examen, ou de l'échéance fiscale. Le problème, c'est que lorsque l'esprit se détache du but fixé et commence à vagabonder, il est vulnérable aux influences d'une zone cérébrale appelée amygdale, laquelle se montre très sensible à tout ce qui est inconfortable ou déplaisant. Ce circuit ne se projette pas dans le temps, il cherche à minimiser son désagrément et son inconfort par des mesures immédiates et instantanées. Le procrastinateur est alors pris dans l'instant, littéralement enfermé par son amygdale et il fait alors tout ce qu'il peut pour aller mieux maintenant. Le désagrément se trouve déplacé dans le futur, perçu comme inoffensif, car inaccessible à l'amygdale. <br/></span></span><br/>Si on a longtemps associé la procrastination à un problème de gestion du temps. Les dernières recherches semblent nous dire que ce serait plutôt un problème d’ordre émotionnel. Les procrastinateurs savent ce qu’ils doivent faire, ils ne peuvent cependant pas se mettre en route. C’est une déficience entre l’intention et l’action. L’humeur et le ressenti émotionnel seraient à la base de cette déficience. Les procrastinateurs, bien que conscients de leurs devoirs, préfèrent préserver une humeur libre de tous souci. Ainsi ce n’est pas tant la tâche qu’ils redoutent que le changement d’humeur qu’elle impose. La question \"comment se sentir bien maintenant\" semble prendre l’avantage sur la question \"comment résoudre ce problème\" dans le cerveau des procrastinateurs chroniques. <br/><br/>Cette négociation avec leurs obligations semble toutefois s’accompagner d’un sentiment de culpabilité dans la grande majorité des cas. L’être humain recherche en général le chemin de moindre pénibilité. La procrastination soutient cet objectif sur le court terme. Elle est donc un comportement normal et à fonction de stratégie d'adaptation. Les procrastinateurs voient (à un niveau inconscient) toute tâche/travail comme une intrusion extérieure sur leur état émotionnel, ce qu’ils repoussent vivement. Il y aurait chez les procrastinateurs une difficulté à faire primer le rationnel (on sait ce que l’on doit faire) sur l’émotionnel (pas envie d’affecter son humeur). <br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2441px",
+      "items": [
+        {
+          "type": "image",
+          "name": "montre",
+          "layout": {
+            "left": "550px",
+            "top": "31px",
+            "width": "257px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/montre-we65fd9379cb-ce231de7.jpg",
+          "href": "",
+          "label": "montre"
+        },
+        {
+          "type": "text",
+          "name": "WE10f602f7c8",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "466px",
+            "top": "410px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "15"
+          },
+          "text": "La procrastination peut également être le signe visible du syndrôme de l'imposteur. Les personnes atteintes de ce syndrome expriment une forme de doute maladif qui consiste essentiellement à nier la propriété de tout accomplissement personnel. Ces personnes rejettent donc plus ou moins systématiquement le mérite lié à leur travail et attribuent le succès de leurs entreprises à des éléments qui leur sont extérieurs (la chance, leurs relations, des circonstances particulières). Dans certains cas la personne atteinte peut aller jusqu'à se percevoir souvent comme une sorte de dupeur-né qui abuse ses collègues, ses amis, ses supérieurs et s'attendre à être démasquée d'un jour à l'autre. Inconsciement, il s'agirait en l'occurrence d'un fantasme masochiste sapant les mécanismes narcissiques et polluant l'existence du sujet affecté. Ces personnes douteraient, à un moment ou à un autre de leur carrière, de la réalité ou de la légitimité de leurs succès. Ces pensées négatives sont généralement dépassées par une certaine clairvoyance, mais elles peuvent finir par devenir invalidantes. Certains de ces sujets souffrant de ce syndrome sont motivés par l'idée que leurs travaux sont trop simples et évidents pour mériter de l'attention, de l'admiration, un salaire ou des récompenses et/ou reconnaissances. Pour d'autres, le complexe de l'imposteur est lié à la peur de réussir et les empêche de développer pleinement leur potentiel. Elles vivent dans le doute et pensent qu'un jour elles seront démasquées et que quelqu'un fera la preuve de leur incapacité, alors reportent toutes échéances. Cette stratégie de \"sensation d'escroquerie\" prépare la personne à l'échec, pour lequel elle a une explication toute faite, et lui permet d'attribuer à la chance ou à un contexte particulier les raisons de la réussite éventuelle. Ainsi, la procrastination peut être utilisée comme mécanisme d'adaptation au sentiment d'insuffisance de la personne. Le syndrome de l’imposteur n’est pas considéré comme une pathologie mais plutôt comme une manifestation normale, un mécanisme psychologique qui peut s’exprimer au moins une fois dans la vie.  Cependant, un lien entre le syndrome de l’imposteur, l’anxiété sociale et la dépression peut exister et être démontré empiriquement. Le travail par l'hypnose permet de reconsidérer ses capacités à gérer ses priorités, de jauger ses valeurs, se reconnecter avec une meilleur estime de soi ou encore reconsidérer la notion du temps. Parallèlement à cela, un travail sur la détente, l'anxiété ou le stress peut être gage de réussite dans le changement. Et si demain c'était maintenant !",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">La procrastination peut également être le signe visible du syndrôme de l'imposteur. Les personnes atteintes de ce syndrome expriment une forme de doute maladif qui consiste essentiellement à nier la propriété de tout accomplissement personnel. Ces personnes rejettent donc plus ou moins systématiquement le mérite lié à leur travail et attribuent le succès de leurs entreprises à des éléments qui leur sont extérieurs (la chance, leurs relations, des circonstances particulières). Dans certains cas la personne atteinte peut aller jusqu'à se percevoir souvent comme une sorte de dupeur-né qui abuse ses collègues, ses amis, ses supérieurs et s'attendre à être démasquée d'un jour à l'autre. <br/><br/> Inconsciement, il s'agirait en l'occurrence d'un fantasme masochiste sapant les mécanismes narcissiques et polluant l'existence du sujet affecté. Ces personnes douteraient, à un moment ou à un autre de leur carrière, de la réalité ou de la légitimité de leurs succès. Ces pensées négatives sont généralement dépassées par une certaine clairvoyance, mais elles peuvent finir par devenir invalidantes. Certains de ces sujets souffrant de ce syndrome sont motivés par l'idée que leurs travaux sont trop simples et évidents pour mériter de l'attention, de l'admiration, un salaire ou des récompenses et/ou reconnaissances.  <br/> Pour d'autres, le complexe de l'imposteur est lié à la peur de réussir et les empêche de développer pleinement leur potentiel. Elles vivent dans le doute et pensent qu'un jour elles seront démasquées et que quelqu'un fera la preuve de leur incapacité, alors reportent toutes échéances.  <br/><br/> Cette stratégie de \"sensation d'escroquerie\" prépare la personne à l'échec, pour lequel elle a une explication toute faite, et lui permet d'attribuer à la chance ou à un contexte particulier les raisons de la réussite éventuelle. Ainsi, la procrastination peut être utilisée comme mécanisme d'adaptation au sentiment d'insuffisance de la personne. Le syndrome de l’imposteur n’est pas considéré comme une pathologie mais plutôt comme une manifestation normale, un mécanisme psychologique qui peut s’exprimer au moins une fois dans la vie.  Cependant, un lien entre le syndrome de l’imposteur, l’anxiété sociale et la dépression peut exister et être démontré empiriquement.  <br/> <br/>Le travail par l'hypnose permet de reconsidérer ses capacités à gérer ses priorités, de jauger ses valeurs, se reconnecter avec une meilleur estime de soi ou encore reconsidérer la notion du temps. Parallèlement à cela, un travail sur la détente, l'anxiété ou le stress peut être gage de réussite dans le changement.  <br/><br/>Et si demain c'était maintenant ! <br/>   <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEa89ae4f2ef",
+          "layout": {
+            "width": "380px",
+            "left": "50%",
+            "top": "2040px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "12",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "boule cristal",
+          "layout": {
+            "left": "20px",
+            "top": "2150px",
+            "width": "111px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/boule-cristal-weebb588c8ba-c06eccff.jpg",
+          "href": "projet.html",
+          "label": "PROJET"
+        },
+        {
+          "type": "image",
+          "name": "lapin medaille",
+          "layout": {
+            "left": "790px",
+            "top": "2150px",
+            "width": "85px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/lapin-medaille-we055ef1e7a3-5035c22f.jpg",
+          "href": "legitimite.html",
+          "label": "LEGITIMITE"
+        },
+        {
+          "type": "image",
+          "name": "direction",
+          "layout": {
+            "left": "480px",
+            "top": "2180px",
+            "width": "123px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "src": "assets/direction-we3a43ef4c0c-4f92e07d.jpg",
+          "href": "choix.html",
+          "label": "(non) CHOIX"
+        },
+        {
+          "type": "image",
+          "name": "paon",
+          "layout": {
+            "left": "170px",
+            "top": "2200px",
+            "width": "136px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/paon-wea4bbe46cb4-8a30e08b.jpg",
+          "href": "affirmation.html",
+          "label": "AFFIRMATION"
+        },
+        {
+          "type": "image",
+          "name": "tampon",
+          "layout": {
+            "left": "360px",
+            "top": "2200px",
+            "width": "76px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/tampon-we98ed82973a-47dc9fcf.jpg",
+          "href": "repetition.html",
+          "label": "REPETITION"
+        },
+        {
+          "type": "image",
+          "name": "femme serpent",
+          "layout": {
+            "left": "630px",
+            "top": "2230px",
+            "width": "115px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/femme-serpent-we255498f092-352ebe47.jpg",
+          "href": "croyance.html",
+          "label": "CROYANCE"
+        },
+        {
+          "type": "text",
+          "name": "WEffe7d976a5",
+          "layout": {
+            "width": "auto",
+            "left": "490px",
+            "top": "2280px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "text": "(non) CHOIX",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(non) CHOIX</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE64cf9e5d02",
+          "layout": {
+            "width": "auto",
+            "left": "40px",
+            "top": "2290px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "PROJET",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PROJET</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEf83b3b7a29",
+          "layout": {
+            "width": "auto",
+            "left": "780px",
+            "top": "2290px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "LEGITIMITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">LEGITIMITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEdcd0149732",
+          "layout": {
+            "width": "auto",
+            "left": "180px",
+            "top": "2330px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "text": "AFFIRMATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">AFFIRMATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEb8ebdb28f6",
+          "layout": {
+            "width": "auto",
+            "left": "350px",
+            "top": "2360px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "REPETITION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">REPETITION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEb6942e0675",
+          "layout": {
+            "width": "auto",
+            "left": "670px",
+            "top": "2360px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "CROYANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CROYANCE</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

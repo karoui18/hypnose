@@ -1,0 +1,282 @@
+{
+  "title": "La douleur",
+  "source": "https://www.hypnosite.fr/douleur.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "648px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "DOULEUR"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE04e4d56bcc",
+          "layout": {
+            "width": "550px",
+            "left": "220px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "DOULEUR",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">DOULEUR</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE6a788096b4",
+          "layout": {
+            "width": "590px",
+            "height": "auto",
+            "left": "50%",
+            "top": "430px",
+            "color": "#262626",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "14px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Le corps humain a une faculté extraordinaire d'adaptation; j'ai découvert qu'on pouvait supporter l'insupportable si l'on gardait le moral, même quand le corps souffrait.\" Nelson MANDELA",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';\"><span style=\"color:rgb(0, 0, 0);font-size:18px;\">\"Le corps humain a une faculté extraordinaire d'adaptation; j'ai découvert qu'on pouvait supporter l'insupportable si l'on gardait le moral, même quand le corps souffrait.\" Nelson MANDELA</span><br/></span><span style=\"color:rgb(0, 0, 0);font-family:OldNewspaperTypes;font-size:18px;line-height:21px;\"><br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1635px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE77dbed39ab",
+          "layout": {
+            "width": "390px",
+            "height": "auto",
+            "left": "30px",
+            "top": "-20px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "z-index": "2"
+          },
+          "text": "Selon la définition officielle de l’Association internationale pour l’étude de la douleur (IASP), \"la douleur est une expérience sensorielle et émotionnelle désagréable, associée à une lésion tissulaire réelle ou potentielle, ou décrite dans ces termes\". Chaque être humain ressent la douleur d’une manière qui lui est propre, de telle sorte qu’une même cause, selon la personnalité et l'expérience de celle-ci, peut produire des effets de forme et d’intensité différentes. C’est tout le vécu émotionnel et corporel qui transparaît dans la douleur. Une grande partie de la douleur ressentie est composée d'émotions (souvenirs d'anciennes douleurs et anticipation de futurs douleurs). La douleur ne serait en fait réelle qu'à 20-30 % de l'intensité totale perçue. Migraines et céphalées, fibromyalgie, douleurs neuropathiques, rachialgie, zona, acouphène, algie de la face, arthrose, troubles digestifs, membre fantôme, etc. ; l’utilisation de l’hypnose est validée par de nombreuses études qui montrent que les suggestions peuvent modifier et réduire la perception de la douleur. Cette approche analgésique ne soigne en aucun cas la cause de la douleur lors d'un dysfonctionnement nerveux, tissulaire ou biologique avéré mais en réduit la sensation. L'hypnose reste une médiation plus qu'efficace pour toutes les sensations dites psychosomatiques ou les douleurs ressenties avec ou en l'absence de cause et de laision. Les techniques utilisant l’hypnose sont des jeux mentaux et des exercices d’imagination. L'action hypnotique repose sur les dires du patient qui évoque volontiers, par des métaphores, les symptômes dont il souffre. Le praticien utilise ces analogies pour les modifier voire en proposer d’autres plus adaptées au soulagement. La douleur est souvent décrite comme une transe négative au long cours. Une partie du monde intérieur du sujet est dissociée par rapport au reste. On pourrait dire de la même manière qu’une partie du monde intérieur est hyper-associée à la pensée consciente, l’attention.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;color:rgb(0, 0, 0);\">Selon la définition officielle de l’Association internationale pour l’étude de la douleur (IASP), \"la douleur est une expérience sensorielle et émotionnelle désagréable, associée à une lésion tissulaire réelle ou potentielle, ou décrite dans ces termes\". </span><br/><br/><span style=\"font-family:'Tox Typewriter';font-size:18px;color:rgb(0, 0, 0);\"> Chaque être humain ressent la douleur d’une manière qui lui est propre, de telle sorte qu’une même cause, selon la personnalité et l'expérience de celle-ci, peut produire des effets de forme et d’intensité différentes. </span><span style=\"font-family:'Tox Typewriter';font-size:18px;color:rgb(0, 0, 0);\">C’est tout le vécu émotionnel et corporel qui transparaît dans la douleur. Une grande partie de la douleur ressentie est composée d'émotions (souvenirs d'anciennes douleurs et anticipation de futurs douleurs). </span><span style=\"font-size:18px;color:rgb(0, 0, 0);\"><span style=\"font-family:'Tox Typewriter';\">La douleur ne serait en fait réelle qu'à 20-30 % de l'intensité totale perçue. </span><br/><br/></span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"><span style=\"color:rgb(0, 0, 0);\">Migraines et céphalées, fibromyalgie, douleurs neuropathiques, rachialgie, zona, acouphène, algie de la face, arthrose, troubles digestifs, membre fantôme, etc. ; l’utilisation de l’hypnose est validée par de nombreuses études qui montrent que les suggestions peuvent modifier et réduire la perception de la douleur. </span>Cette approche analgésique ne soigne en aucun cas la cause de la douleur lors d'un dysfonctionnement nerveux, tissulaire ou biologique avéré mais en réduit la sensation. <br/><br/>L'hypnose reste une médiation plus qu'efficace pour toutes les sensations dites psychosomatiques ou les douleurs ressenties avec ou en l'absence de cause et de laision. <span style=\"color:rgb(0, 0, 0);\">Les techniques utilisant l’hypnose sont des jeux mentaux et des exercices d’imagination. L'action hypnotique <span style=\"color:rgb(0, 0, 0);\">repose sur les dires du patient qui évoque volontiers, par des métaphores, les symptômes dont il souffre. </span><span style=\"color:rgb(0, 0, 0);\">Le praticien utilise ces analogies pour les modifier voire en proposer d’autres plus adaptées au soulagement. <br/></span></span><br/>La douleur est souvent décrite comme une transe négative au long cours. Une partie du monde intérieur du sujet est dissociée par rapport au reste. On pourrait dire de la même manière qu’une partie du monde intérieur est hyper-associée à la pensée consciente, l’attention. </span><br/></span>"
+        },
+        {
+          "type": "image",
+          "name": "seringue",
+          "layout": {
+            "left": "460px",
+            "top": "0",
+            "width": "395px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/seringue-wef4cbb03325-d31fdd7a.jpg",
+          "href": "",
+          "label": "seringue"
+        },
+        {
+          "type": "text",
+          "name": "WEe0c507a24b",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "460px",
+            "top": "460px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "z-index": "3"
+          },
+          "text": "En effet, le souffrant passe une grande partie de son temps à penser à cette sensation, à cette émotion. Remarquons que quelle que soit la manière d’en parler, le phénomène est chronique, c’est-à-dire fixe, stable, immobile. Lors d’une séance visant la réification algique, nous observons successivement : - l’association hypnotisé - hypnotisant, la création du lien thérapeutique - la dissociation sujet - monde extérieur - l’association de l’attention consciente avec la zone douloureuse - la dissociation de la douleur du reste de l’expérience psychique - l’association de la douleur avec un objet, une chose en établissant un lien analogique entre les deux - la modification ou le déplacement de l’objet qui, par analogie, modifie ou déplace la douleur - la réassociation de cette partie du corps avec le reste du vécu corporel et de l’ensemble de la pensée consciente - la réassociation du sujet avec le monde extérieur - et en même temps, la dissociation du lien avec l'hypnotisant Il reste cependant nécessaire de consulter un spécialiste de santé si l'origine de la douleur n'est pas connue et controlée.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">En effet, le souffrant passe une grande partie de son temps à penser à cette sensation, à cette émotion. Remarquons que quelle que soit la manière d’en parler, le phénomène est chronique, c’est-à-dire fixe, stable, immobile. <br/><br/> Lors d’une séance visant la réification algique, nous observons successivement :<br/> - l’association hypnotisé - hypnotisant, la création du lien thérapeutique <br/> - la dissociation sujet - monde extérieur <br/> - l’association de l’attention consciente avec la zone douloureuse <br/> - la dissociation de la douleur du reste de l’expérience psychique <br/> - l’association de la douleur avec un objet, une chose en établissant un lien analogique entre les deux <br/> - la modification ou le déplacement de l’objet qui, par analogie, modifie ou déplace la douleur <br/> - la réassociation de cette partie du corps avec le reste du vécu corporel et de l’ensemble de la pensée consciente <br/> - la réassociation du sujet avec le monde extérieur <br/> - et en même temps, la dissociation du lien avec l'hypnotisant <br/> <br/><span style=\"color:rgb(0, 0, 0);\">Il reste cependant nécessaire de consulter un spécialiste de santé si l'origine de la douleur n'est pas connue et controlée.    </span></span><br/></span>"
+        },
+        {
+          "type": "text",
+          "name": "WE99de34ee26",
+          "layout": {
+            "width": "380px",
+            "left": "230px",
+            "top": "1270px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "14"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "femme pieuvre",
+          "layout": {
+            "left": "710px",
+            "top": "1340px",
+            "width": "140px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/femme-pieuvre-we93c2576766-90e3646c.jpg",
+          "href": "dissociation.html",
+          "label": "DISSOCIATION"
+        },
+        {
+          "type": "image",
+          "name": "coeur emotion",
+          "layout": {
+            "left": "200px",
+            "top": "1350px",
+            "width": "95px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/coeur-emotion-we6b37e7678a-c84c7b74.jpg",
+          "href": "emotion.html",
+          "label": "EMOTION"
+        },
+        {
+          "type": "image",
+          "name": "coeur oeil",
+          "layout": {
+            "left": "40px",
+            "top": "1370px",
+            "width": "92px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/coeur-oeil-wede1ee81daa-e4c1abda.jpg",
+          "href": "psychosoma.html",
+          "label": "PSYCHOSOMA"
+        },
+        {
+          "type": "image",
+          "name": "corset",
+          "layout": {
+            "left": "550px",
+            "top": "1380px",
+            "width": "96px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/corset-wed53057ba38-af41b869.jpg",
+          "href": "corps.html",
+          "label": "CORPS"
+        },
+        {
+          "type": "image",
+          "name": "cygne",
+          "layout": {
+            "left": "370px",
+            "top": "1400px",
+            "width": "116px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/cygne-web5360f6b75-261232cc.jpg",
+          "href": "symptome.html",
+          "label": "SYMPTÔME"
+        },
+        {
+          "type": "text",
+          "name": "WE484ef48a79",
+          "layout": {
+            "width": "auto",
+            "left": "720px",
+            "top": "1480px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "DISSOCIATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DISSOCIATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEe2438ca65b",
+          "layout": {
+            "width": "auto",
+            "left": "40px",
+            "top": "1505px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "PSYCHOSOMA",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PSYCHOSOMA</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE8e7151376c",
+          "layout": {
+            "width": "auto",
+            "left": "210px",
+            "top": "1510px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2d21a09e38",
+          "layout": {
+            "width": "auto",
+            "left": "370px",
+            "top": "1510px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "SYMPTÔME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SYMPTÔME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd5c1240100",
+          "layout": {
+            "width": "auto",
+            "left": "578px",
+            "top": "1510px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "CORPS",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CORPS</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "title": "ideal",
+  "source": "https://www.hypnosite.fr/ideal.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "582px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "IDEAL - isthme"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEa2dcf9dfbf",
+          "layout": {
+            "width": "550px",
+            "left": "210px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "IDEAL - isthme",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-size:70px;font-family:'Bohem Press';\">IDEAL</span><span style=\"color:rgb(12, 12, 12);font-size:70px;font-family:'Betty Noir';\">-</span><span style=\"color:rgb(12, 12, 12);font-size:70px;font-family:'Bohem Press';\">isthme</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEdd43bdf563",
+          "layout": {
+            "width": "620px",
+            "height": "auto",
+            "left": "50%",
+            "top": "440px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "left",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Idéal : modèle qu’on se compose, en vue de l’admirer et de l’imiter. L’idéal est toujours nettoyé d’un peu de réalité qui ferait tache.\"  Alain",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Idéal : modèle qu’on se compose, en vue de l’admirer et de l’imiter. L’idéal est toujours nettoyé d’un peu de réalité qui ferait tache.\"  Alain<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2588px",
+      "items": [
+        {
+          "type": "image",
+          "name": "homme cage",
+          "layout": {
+            "left": "560px",
+            "top": "-7px",
+            "width": "201px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/homme-cage-we7400d702ea-664a8f92.jpg",
+          "href": "",
+          "label": "homme cage"
+        },
+        {
+          "type": "text",
+          "name": "WE139ca129d8",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "30px",
+            "top": "10px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "Sinon de l'usiter, vous êtes vraissemblablement familier avec cette forme langagière populaire \"dans l'idéal, ce serait...\". Un idéal, cet idéal couramment exprimé est un principe moral qu'une personne poursuit activement comme objectif (de vie) et qui se tient au-dessus d'autres préoccupations perçues comme étant moins significatives. L'idéal est ce que l'on se représente ou se propose comme type parfait ou modèle absolu. Mais c'est avant tout, une représentation chimérique, qui est conçue et interprétée dans l'esprit comme une réalité psychique de premier ordre. C'est ce que nous souhaitons atteindre et qui nous donnerait entière satisfaction. L'idéal intègre ainsi le désir et est la source de nos valeurs, comme une solution à la frustration existancielle. Dans un sens plus restreint, il est quelquefois simplement synonyme de modèle. S'en décline l’idéalisation qui est un bel exemple de compromis entre les aspirations, les pulsions inconscientes, et qui ne cesse de réinventer la compréhension du monde afin de le conformer au désir, c’est-à-dire, à se débrouiller avec le fait que l’environnement est rarement conforme à nos attentes. L'idéalisation serait alors une défense psychique, afin de pouvoir accepter le monde et de pouvoir y vivre.  Ainsi, l'idéalisation peut être considérée comme un filtre de lecture, seulement elle déforme la perception que dans un sens unique, celui du fantasme, renforcé par les croyances et entraine bien souvent de la déception. De l'idéalisation découle l'idéologie qui est un système de pensée. Beauté, vérité, amour, équité, famille, fidélité, loyauté, etc., les idéaux tels des étoiles, font pourtant partie de ces éléments inaccessibles qu’on hésite à regarder en face : ils nous fascinent, mais ils nous éblouissent aussi, au risque de nous aveugler. Et pour les contempler, nous n’avons pas d’instruments sophistiqués analogues à ceux qu’utilisent les astronomes. Pourtant, ces étoiles-là exercent un vrai pouvoir sur notre vie psychique jusqu'à influencer nos choix, avec conséquence ! Certes, comme une étoile, l'idéal indique une direction, une marche à suivre et en même temps, c’est une force car il est doté d’une énergie sans pareille. En un mot, c’est un gouvernail qui serait aussi un moteur. Dans le domaine naturel, le vent possède ces deux vertus à la fois, il indique une direction et il y pousse. L’idéal pose une autre question qui tient à sa nature propre : il se présente à nous comme un objet ascétique, tels le gouvernail ou l’étoile que je viens d’évoquer, et pourtant, cela reste une notion abstraite, fictive. L’idéal nous interroge aussi par son ambivalence constitutive. Il est considéré généralement comme une notion positive, constructive, alors qu’on sait pertinemment qu’il est en même temps la source de bien des maux parmi les plus désastreux. A contrario, la désidéalisation, c'est l'échec à répétition, l'inaccesion, la déception, la trahison ou encore le fatalisme du quotidien, vous savez, ce fatalisme qui dit, par exemple, que le monde actuel est invivable. Invivable car le \"désillusionnant\" ne veut pas le vivre, le réfute car restant trop attaché à son idéalisation fantasmatique d'un monde \"parfait\" qui est en inadéquation avec sa compréhension du monde réel. Cela peut aller jusqu'à une forme de cécité ou de déni et perdre la notion du temps présent avec ce qu'il offre. Il s'efforce alors, par le biais du filtre de ses croyances et valeurs, d'entretenir l'abyssalité du concret et du mesurable face à sa fantasmagorie. Ici peut émerger le symptôme ! On n’imagine pas le nombre de personnes qui souffrent de leurs idéaux. Et il est difficile de les alerter, car elles sont persuadées que ce sont des valeurs, qu'elles représentent ce qu’il y a de plus respectable. S’il n’est pas question bien sûr d’en nier la richesse, rien ne nous empêche d’adopter à l’égard des idéaux une attitude critique, analytique. C’est indispensable si l’on veut se libérer de leurs excès et en vivre sans tomber sous leur dépendance.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\"> Sinon de l'usiter, vous êtes vraissemblablement familier avec cette forme langagière populaire \"dans l'idéal, ce serait...\". Un idéal, cet idéal couramment exprimé est un principe moral qu'une personne poursuit activement comme objectif (de vie) et qui se tient au-dessus d'autres préoccupations perçues comme étant moins significatives. L'idéal est ce que l'on se représente ou se propose comme type parfait ou modèle absolu. Mais c'est avant tout, une représentation chimérique, qui est conçue et interprétée dans l'esprit comme une réalité psychique de premier ordre. C'est ce que nous souhaitons atteindre et qui nous donnerait entière satisfaction. L'idéal intègre ainsi le désir et est la source de nos valeurs, comme une solution à la frustration existancielle. Dans un sens plus restreint, il est quelquefois simplement synonyme de modèle.<br/><br/> S'en décline l’idéalisation qui est un bel exemple de compromis entre les aspirations, les pulsions inconscientes, et qui ne cesse de réinventer la compréhension du monde afin de le conformer au désir, c’est-à-dire, à se débrouiller avec le fait que l’environnement est rarement conforme à nos attentes. L'idéalisation serait alors une défense psychique, afin de pouvoir accepter le monde et de pouvoir y vivre.  Ainsi, l'idéalisation peut être considérée comme un filtre de lecture, seulement elle déforme la perception que dans un sens unique, celui du fantasme, renforcé par les croyances et entraine bien souvent de la déception. De l'idéalisation découle l'idéologie qui est un système de pensée. <br/>  <br/>Beauté, vérité, amour, équité, famille, fidélité, loyauté, etc., les idéaux tels des étoiles, font pourtant partie de ces éléments inaccessibles qu’on hésite à regarder en face : ils nous fascinent, mais ils nous éblouissent aussi, au risque de nous aveugler. Et pour les contempler, nous n’avons pas d’instruments sophistiqués analogues à ceux qu’utilisent les astronomes. Pourtant, ces étoiles-là exercent un vrai pouvoir sur notre vie psychique jusqu'à influencer nos choix, avec conséquence ! <br/>  <br/> Certes, comme une étoile, l'idéal indique une direction, une marche à suivre et en même temps, c’est une force car il est doté d’une énergie sans pareille. En un mot, c’est un gouvernail qui serait aussi un moteur. Dans le domaine naturel, le vent possède ces deux vertus à la fois, il indique une direction et il y pousse.  <br/>  <br/> L’idéal pose une autre question qui tient à sa nature propre : il se présente à nous comme un objet ascétique, tels le gouvernail ou l’étoile que je viens d’évoquer, et pourtant, cela reste une notion abstraite, fictive. L’idéal nous interroge aussi par son ambivalence constitutive. Il est considéré généralement comme une notion positive, constructive, alors qu’on sait pertinemment qu’il est en même temps la source de bien des maux parmi les plus désastreux.  <br/><br/>A contrario, la désidéalisation, c'est l'échec à répétition, l'inaccesion, la déception, la trahison ou encore le fatalisme du quotidien, vous savez, ce fatalisme qui dit, par exemple, que le monde actuel est invivable. Invivable car le \"désillusionnant\" ne veut pas le vivre, le réfute car restant trop attaché à son idéalisation fantasmatique d'un monde \"parfait\" qui est en inadéquation avec sa compréhension du monde réel. Cela peut aller jusqu'à une forme de cécité ou de déni et perdre la notion du temps présent avec ce qu'il offre. Il s'efforce alors, par le biais du filtre de ses croyances et valeurs, d'entretenir l'abyssalité du concret et du mesurable face à sa fantasmagorie. Ici peut émerger le symptôme !<br/><br/> On n’imagine pas le nombre de personnes qui souffrent de leurs idéaux. Et il est difficile de les alerter, car elles sont persuadées que ce sont des valeurs, qu'elles représentent ce qu’il y a de plus respectable. S’il n’est pas question bien sûr d’en nier la richesse, rien ne nous empêche d’adopter à l’égard des idéaux une attitude critique, analytique. C’est indispensable si l’on veut se libérer de leurs excès et en vivre sans tomber sous leur dépendance.  <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE344cb1c5e1",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "470px",
+            "top": "500px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "16"
+          },
+          "text": "Aussi la première tâche sera-t-elle de rejoindre l’idéal dans ses fondements inconscients pour opérer à partir de là, les distinctions qui s’imposent. L’idéal est avant tout une donnée intime et personnelle, et c’est en ce sens qu’il faut la comprendre. Et malgré son utopie, il ne tombe pas du ciel, ce n’est pas non plus le simple fruit d’un enseignement, d’une quête spirituelle. L’idéal fait partie intégrante du psychisme humain inconscient où il joue un rôle déterminant, souvent à notre insu ; c’est là qu’il faut l'entendre si l’on veut pouvoir utiliser son action intérieure dans ses bénéfices. En même temps, l’idéal pose un problème car s’il représente ce qu’il y a de plus grand chez l’homme, il est aussi ce qu’il y a de plus violent et de plus freinant voire dangereux. Il sectorise, isole, cloisonne, et ne laisse que peu de chance aux alternatives car l'idéal, par définition est inaccessible. Et quand l'idéal se transforme en action la nocivité opère car on peut tuer et massacrer au nom de l’idéal mais on peut accomplir aussi des choses merveilleuses en son nom et chacun mesure aisément qu’il joue un rôle décisif dans sa destinée, surtout aux moments de crise. Tout sujet humain doit un jour ou l’autre se retourner sur l’idéal qu’il invoque, croyant ou pas, et le regarder en face. Non pas d’une manière superficielle, en se contentant de le décliner sur tous les tons pour en célébrer la grandeur, mais en le poussant dans ses retranchements, en le dégageant de toutes ses modalités, en le mettant en pièces à son tour pour qu’il révèle ce dont il est porteur. Nul ne peut se passer d’idéal : chassé, il revient au galop, et pas de la meilleure façon. Il faut aller jusqu’aux tréfonds dont il est issu pour le regarder sous toutes ses faces, en surmontant autant que faire se peut l’aveuglement qu’il suscite. Par un paradoxe étonnant en effet, on considère l’idéal comme une lumière sur notre route, on y voit l’étoile de notre vie psychique si souvent plongée dans l’obscurité, alors qu’il est aussi une source d’aveuglement inévitable, à la manière de ces lampes qui éclairent le chemin au point d’éblouir celui qui les porte en faussant sa vision. Et vous n'êtes pas passé à coté du jeu de mot du titre de cette page : un isthme est une étroite bande de terre, entre deux mers ou deux golfes, qui réunit deux grandes étendues. Imaginez alors un isthme psychique qui puisse ponter l'idéal au réel. Par cet isthme, les informations s'échangent, sans altération aucune, et ainsi, stabilisent les névrose du quotidien. Ca serait l'idéal !",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Aussi la première tâche sera-t-elle de rejoindre l’idéal dans ses fondements inconscients pour opérer à partir de là, les distinctions qui s’imposent. L’idéal est avant tout une donnée intime et personnelle, et c’est en ce sens qu’il faut la comprendre. Et malgré son utopie, il ne tombe pas du ciel, ce n’est pas non plus le simple fruit d’un enseignement, d’une quête spirituelle. L’idéal fait partie intégrante du psychisme humain inconscient où il joue un rôle déterminant, souvent à notre insu ; c’est là qu’il faut l'entendre si l’on veut pouvoir utiliser son action intérieure dans ses bénéfices. <br/>  <br/> En même temps, l’idéal pose un problème car s’il représente ce qu’il y a de plus grand chez l’homme, il est aussi ce qu’il y a de plus violent et de plus freinant voire dangereux. Il sectorise, isole, cloisonne, et ne laisse que peu de chance aux alternatives car l'idéal, par définition est inaccessible. Et quand l'idéal se transforme en action la nocivité opère car on peut tuer et massacrer au nom de l’idéal mais on peut accomplir aussi des choses merveilleuses en son nom et chacun mesure aisément qu’il joue un rôle décisif dans sa destinée, surtout aux moments de crise.<br/><br/>Tout sujet humain doit un jour ou l’autre se retourner sur l’idéal qu’il invoque, croyant ou pas, et le regarder en face. Non pas d’une manière superficielle, en se contentant de le décliner sur tous les tons pour en célébrer la grandeur, mais en le poussant dans ses retranchements, en le dégageant de toutes ses modalités, en le mettant en pièces à son tour pour qu’il révèle ce dont il est porteur.  <br/>  <br/> Nul ne peut se passer d’idéal : chassé, il revient au galop, et pas de la meilleure façon. Il faut aller jusqu’aux tréfonds dont il est issu pour le regarder sous toutes ses faces, en surmontant autant que faire se peut l’aveuglement qu’il suscite. Par un paradoxe étonnant en effet, on considère l’idéal comme une lumière sur notre route, on y voit l’étoile de notre vie psychique si souvent plongée dans l’obscurité, alors qu’il est aussi une source d’aveuglement inévitable, à la manière de ces lampes qui éclairent le chemin au point d’éblouir celui qui les porte en faussant sa vision.  <br/>   <br/>Et vous n'êtes pas passé à coté du jeu de mot du titre de cette page : un isthme est une étroite bande de terre, entre deux mers ou deux golfes, qui réunit deux grandes étendues. Imaginez alors un isthme psychique qui puisse ponter l'idéal au réel. Par cet isthme, les informations s'échangent, sans altération aucune, et ainsi, stabilisent les névrose du quotidien.  <br/>  <br/> Ca serait l'idéal ! <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEd34467b62e",
+          "layout": {
+            "width": "230px",
+            "left": "550px",
+            "top": "2080px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "15"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "homme serpent",
+          "layout": {
+            "left": "810px",
+            "top": "2180px",
+            "width": "58px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "src": "assets/homme-serpent-webbdab92eaa-12ae1c5b.jpg",
+          "href": "peur.html",
+          "label": "PEUR"
+        },
+        {
+          "type": "image",
+          "name": "phare",
+          "layout": {
+            "left": "480px",
+            "top": "2190px",
+            "width": "75px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/phare-we43331b7a6c-714ca0a2.jpg",
+          "href": "cap.html",
+          "label": "CAP"
+        },
+        {
+          "type": "image",
+          "name": "fusee",
+          "layout": {
+            "left": "610px",
+            "top": "2200px",
+            "width": "124px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/fusee-we31ddef9634-be962af0.jpg",
+          "href": "oser.html",
+          "label": "OSER"
+        },
+        {
+          "type": "text",
+          "name": "WEba5b223893",
+          "layout": {
+            "width": "auto",
+            "left": "620px",
+            "top": "2262px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "OSER",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">OSER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "femme photo",
+          "layout": {
+            "left": "640px",
+            "top": "2310px",
+            "width": "66px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "src": "assets/femme-photo-we6ba4d81fd4-706cdd2c.jpg",
+          "href": "phantasme.html",
+          "label": "PHANTASME"
+        },
+        {
+          "type": "text",
+          "name": "WE158efaaa61",
+          "layout": {
+            "width": "auto",
+            "left": "500px",
+            "top": "2340px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "CAP",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CAP</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEb01e5ccdac",
+          "layout": {
+            "width": "auto",
+            "left": "820px",
+            "top": "2350px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "text": "PEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PEUR</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "cadenas",
+          "layout": {
+            "left": "340px",
+            "top": "2390px",
+            "width": "72px",
+            "height": "auto",
+            "z-index": "18"
+          },
+          "src": "assets/cadenas-we2ae4fe8640-b849b280.jpg",
+          "href": "frustration.html",
+          "label": "FRUSTRATION"
+        },
+        {
+          "type": "image",
+          "name": "poisson bonheur",
+          "layout": {
+            "left": "460px",
+            "top": "2400px",
+            "width": "110px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/poisson-bonheur-web871a9259b-06417b07.jpg",
+          "href": "bonheur.html",
+          "label": "(bonheur)"
+        },
+        {
+          "type": "image",
+          "name": "femme serpent",
+          "layout": {
+            "left": "760px",
+            "top": "2410px",
+            "width": "117px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "src": "assets/femme-serpent-wecef9ae7ca4-bb05c781.jpg",
+          "href": "croyance.html",
+          "label": "CROYANCE"
+        },
+        {
+          "type": "text",
+          "name": "WE97778d6f43",
+          "layout": {
+            "width": "auto",
+            "left": "630px",
+            "top": "2470px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "PHANTASME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PHANTASME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE24efe240b9",
+          "layout": {
+            "width": "auto",
+            "left": "450px",
+            "top": "2472px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "text": "ATARAXIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ATARAXIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE72a4e204cf",
+          "layout": {
+            "width": "auto",
+            "left": "490px",
+            "top": "2490px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "text": "(bonheur)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(bonheur)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE549be3507b",
+          "layout": {
+            "width": "auto",
+            "left": "320px",
+            "top": "2500px",
+            "height": "auto",
+            "z-index": "19"
+          },
+          "text": "FRUSTRATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">FRUSTRATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEb86eb5a60d",
+          "layout": {
+            "width": "auto",
+            "left": "780px",
+            "top": "2537px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "text": "CROYANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CROYANCE</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

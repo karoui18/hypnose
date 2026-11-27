@@ -1,0 +1,288 @@
+{
+  "title": "dissociation",
+  "source": "https://www.hypnosite.fr/dissociation.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "577px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "DISSOCIATION"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEd10e6664b6",
+          "layout": {
+            "width": "550px",
+            "left": "200px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "DISSOCIATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">DISSOCIATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE092435c928",
+          "layout": {
+            "width": "710px",
+            "height": "auto",
+            "left": "50%",
+            "top": "440px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "left",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Le réel et le tangible sont difficiles à dissocier du trompe-l'œil et de l'illusoire.\" Thomas MANN",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Le réel et le tangible sont difficiles à dissocier du trompe-l'œil et de l'illusoire.\" <br/>Thomas MANN<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1830px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE96bc59886a",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "20px",
+            "top": "20px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "La dissociation consiste à séparer des éléments qui sont unis. Autre qu'un état de conscience naturel que l'on traverse usuellement dans la rêverie diurne, la dissociation en hypnose est une technique utilisée pour séparer le conscient de l'inconscient, ce qui créé le sentiment d'involontariat. Cela marque une distance entre le volontaire et le corps et ses représentations symboliques. Le dissocié devient spectateur de lui-même, générant ainsi une modulation émotionnelle. La dissociation dans son pan pathologique se retrouve principalement dans les psychoses, les déréalisations, les dépersonnalisations mais également dans les syndromes post traumatiques, l'anxiété pathologique ou encore les troubles du comportements incorporant une distorsion de l'image du corps et des sens. La dissociation est toujours relative : un élément ne peut être dissocié que par rapport à un autre. La dissociation est une dis- assocation. Cependant, à force de dissocier, par mécanisme salutaire, on peut en oublier de réassocier. L'hypnose se place ici, dans un mouvement contrôlé de coaptation et de décoaptation psychique . De façon générale, la dissociation peut être comprise comme un processus auto-hypnotique, c’est-à-dire un état de conscience modifié sans induction externe qui permet au sujet de se protéger dans les situations de tension auxquelles il ne peut plus faire face. Un tel processus diffère du fonctionnement normal sur le plan de la contrôlabilité tout en interférant avec lui. Lorsque cette aptitude défensive perdure au-delà d’un danger ressenti ou percu, de façon rigide et perturbante pour le sujet, c’est le signe d’une dissociation pathologique induisant des symptômes traumatiques, ce qui définit le deuxième type de dissociation : la dissociation traumatique qui se chronicise. Celle-ci est décrite comme étant un processus de séparation mentale structurée affectant les perceptions, les émotions, la mémoire et l’identité qui sont normalement intégrées et accessibles à la conscience. Même si l’expérience reste accessible à la conscience, elle est perturbée au niveau qualitatif, au niveau de la relation à soi ou au niveau du contrôle volontaire exercé (flash-backs…). Par ailleurs, le sujet n’a pas de conscience réfléchie de ce processus.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">La dissociation consiste à séparer des éléments qui sont unis. Autre qu'un état de conscience naturel que l'on traverse usuellement dans la rêverie diurne, la dissociation en hypnose est une technique utilisée pour séparer le conscient de l'inconscient, ce qui créé le sentiment d'involontariat. Cela marque une distance entre le volontaire et le corps et ses représentations symboliques. Le dissocié devient spectateur de lui-même, générant ainsi une modulation émotionnelle. <br/><br/>La dissociation dans son pan pathologique se retrouve principalement dans les psychoses, les déréalisations, les dépersonnalisations mais également dans les syndromes post traumatiques, l'anxiété pathologique ou encore les troubles du comportements incorporant une distorsion de l'image du corps et des sens.<br/><br/> La dissociation est toujours relative : un élément ne peut être dissocié que par rapport à un autre. La dissociation est une dis- assocation. Cependant, à force de dissocier, par mécanisme salutaire, on peut en oublier de réassocier. L'hypnose se place ici, dans un mouvement contrôlé de coaptation et de décoaptation psychique . <br/><br/> De façon générale, la dissociation peut être comprise comme un processus auto-hypnotique, c’est-à-dire un état de conscience modifié sans induction externe qui permet au sujet de se protéger dans les situations de tension auxquelles il ne peut plus faire face. Un tel processus diffère du fonctionnement normal sur le plan de la contrôlabilité tout en interférant avec lui. Lorsque cette aptitude défensive perdure au-delà d’un danger ressenti ou percu, de façon rigide et perturbante pour le sujet, c’est le signe d’une dissociation pathologique induisant des symptômes traumatiques, ce qui définit le deuxième type de dissociation : la dissociation traumatique qui se chronicise. Celle-ci est décrite comme étant un processus de séparation mentale structurée affectant les perceptions, les émotions, la mémoire et l’identité qui sont normalement intégrées et accessibles à la conscience. Même si l’expérience reste accessible à la conscience, elle est perturbée au niveau qualitatif, au niveau de la relation à soi ou au niveau du contrôle volontaire exercé (flash-backs…). Par ailleurs, le sujet n’a pas de conscience réfléchie de ce processus. <br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "femme pieuvre",
+          "layout": {
+            "left": "470px",
+            "top": "50px",
+            "width": "408px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/femme-pieuvre-f3431e8b.jpg",
+          "href": "",
+          "label": "femme pieuvre"
+        },
+        {
+          "type": "text",
+          "name": "WE5a94a70daf",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "470px",
+            "top": "510px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "3"
+          },
+          "text": "Dans le cas d'un traumatisme, cela fait office de moyen de défense face à la situation qui devient pathologique lorsqu’il perdure au-delà du danger et désorganise le sujet. La fission psychique serait une réponse adaptative à un événement stressant : le sujet garde un contrôle mental partiel alors que le contrôle physique est altéré. Si la dissociation se prolonge dans la vie quotidienne, elle permet à l’individu de se déconnecter de ses affects et d’éviter l’émergence de souvenirs traumatiques. L’état dissociatif traumatique et l’état dissociatif hypnotique ont ainsi en commun une altération de la perception et des fonctions normales d’intégration des souvenirs, de la conscience, du contrôle des mouvements corporels et de l’identité. Lors de la dissociation traumatique le sujet peut présenter un arrêt de la pensée. En effet, il est en état de sidération et le fil du dialogue intérieur est rompu. Le sujet manifeste des difficultés d’élaboration à l’égard de ce qui paraît impensable, irréel. Les informations entrent dans la mémoire sans les explications qui devraient les accompagner. Symétriquement, l’objectif en hypnothérapie est que le sujet se détache du souci de contrôle (par l’intellectualisation, le sens des mots, l’analyse…) pour s’ouvrir à l’expérience. Le sujet est invité à laisser de côté son esprit conscient et rationnel de façon à travailler avec l’imaginaire sur des ressentis, des images, des perceptions. Dans la transe thérapeutique, l'association et sa dissociation sont un mouvement. Les phénomènes de catalepsie ou de lévitation impliquent qu’une partie du corps est dissociée du reste. Le sujet présente et vit une association particulièrement intense avec son vécu intérieur. Elle nécessite la création d’une relation stable et confiante entre l'hypnotiseur et l'hypnotisé. C’est dans cette association que peut naître l'alliance thérapeutique. D’ailleurs, chaque séance se termine par une dissociation de ce lien au profit d’une soigneuse réassociation avec le monde extérieur.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Dans le cas d'un traumatisme, cela fait office de moyen de défense face à la situation qui devient pathologique lorsqu’il perdure au-delà du danger et désorganise le sujet. La fission psychique serait une réponse adaptative à un événement stressant : le sujet garde un contrôle mental partiel alors que le contrôle physique est altéré. Si la dissociation se prolonge dans la vie quotidienne, elle permet à l’individu de se déconnecter de ses affects et d’éviter l’émergence de souvenirs traumatiques. <br/>  <br/> L’état dissociatif traumatique et l’état dissociatif hypnotique ont ainsi en commun une altération de la perception et des fonctions normales d’intégration des souvenirs, de la conscience, du contrôle des mouvements corporels et de l’identité. <br/>  <br/> Lors de la dissociation traumatique le sujet peut présenter un arrêt de la pensée. En effet, il est en état de sidération et le fil du dialogue intérieur est rompu. Le sujet manifeste des difficultés d’élaboration à l’égard de ce qui paraît impensable, irréel. Les informations entrent dans la mémoire sans les explications qui devraient les accompagner. <br/><br/> Symétriquement, l’objectif en hypnothérapie est que le sujet se détache du souci de contrôle (par l’intellectualisation, le sens des mots, l’analyse…) pour s’ouvrir à l’expérience. Le sujet est invité à laisser de côté son esprit conscient et rationnel de façon à travailler avec l’imaginaire sur des ressentis, des images, des perceptions.  <br/>  <br/> Dans la transe thérapeutique, l'association et sa dissociation sont un mouvement. Les phénomènes de catalepsie ou de lévitation impliquent qu’une partie du corps est dissociée du reste. Le sujet présente et vit une association particulièrement intense avec son vécu intérieur. Elle nécessite la création d’une relation stable et confiante entre l'hypnotiseur et l'hypnotisé. C’est dans cette association que peut naître l'alliance thérapeutique. D’ailleurs, chaque séance se termine par une dissociation de ce lien au profit d’une soigneuse réassociation avec le monde extérieur. <br/><br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEcef8e964a2",
+          "layout": {
+            "width": "390px",
+            "left": "30px",
+            "top": "1390px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "14"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "femme photo",
+          "layout": {
+            "left": "320px",
+            "top": "1470px",
+            "width": "65px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/femme-photo-we9d618810a9-10139c2d.jpg",
+          "href": "phantasme.html",
+          "label": "PHANTASME"
+        },
+        {
+          "type": "image",
+          "name": "homme serpent",
+          "layout": {
+            "left": "40px",
+            "top": "1477px",
+            "width": "58px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/homme-serpent-wedd4c0f3f94-35edf6ea.jpg",
+          "href": "peur.html",
+          "label": "PEUR (désir)"
+        },
+        {
+          "type": "image",
+          "name": "corset",
+          "layout": {
+            "left": "160px",
+            "top": "1490px",
+            "width": "84px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/corset-we45976811f9-5cc92355.jpg",
+          "href": "corps.html",
+          "label": "CORPS"
+        },
+        {
+          "type": "text",
+          "name": "WEfb37f1eae5",
+          "layout": {
+            "width": "auto",
+            "left": "190px",
+            "top": "1610px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "CORPS",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CORPS</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE4cb9629a12",
+          "layout": {
+            "width": "auto",
+            "left": "320px",
+            "top": "1630px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "text": "PHANTASME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PHANTASME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE987977fe65",
+          "layout": {
+            "width": "auto",
+            "left": "20px",
+            "top": "1650px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "PEUR (désir)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PEUR (désir)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "marteau",
+          "layout": {
+            "left": "250px",
+            "top": "1660px",
+            "width": "122px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/marteau-wefe5341ff4b-ae11762d.jpg",
+          "href": "trauma.html",
+          "label": "TRAUMA"
+        },
+        {
+          "type": "image",
+          "name": "seringue",
+          "layout": {
+            "left": "60px",
+            "top": "1670px",
+            "width": "112px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/seringue-web091788cc4-d340fe23.jpg",
+          "href": "douleur.html",
+          "label": "DOULEUR"
+        },
+        {
+          "type": "text",
+          "name": "WEebabd9109e",
+          "layout": {
+            "width": "auto",
+            "left": "250px",
+            "top": "1730px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "TRAUMA",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRAUMA</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE44b8959646",
+          "layout": {
+            "width": "auto",
+            "left": "110px",
+            "top": "1770px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "DOULEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DOULEUR</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

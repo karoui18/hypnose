@@ -1,0 +1,317 @@
+{
+  "title": "alcool",
+  "source": "https://www.hypnosite.fr/alcool.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "584px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "ALCOOL"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WE304ebd40bd",
+          "layout": {
+            "width": "550px",
+            "left": "190px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "ALCOOL",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-size:70px;font-family:'Bohem Press';\">ALCOOL</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd50ff74f95",
+          "layout": {
+            "width": "690px",
+            "height": "auto",
+            "left": "50%",
+            "top": "450px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"L'alcool tue lentement. On s'en fout. On n'est pas pressés.\" Georges Courteline",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"L'alcool tue lentement. On s'en fout. On n'est pas pressés.\" Georges Courteline<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2229px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE299e7667c3",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "15px",
+            "top": "30px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "Alcoolisme, alcoolodépendance, éthylisme, dipsomanie, méthilepsie, méthomanie, binge drinking, les modalités de consommations sont pléthores. Les motivations sont également plurielles, elles dépendent à la fois de l'individu (caractéristiques individuelles, personnalité ou disposition génétique), de la substance consommée (accessibilité, prix, effet produit) et du contexte de boisson (pression des pairs, valeurs véhiculées par la société, de la situation de vie). Aucune consommation n'est anodine. Dans les motifs d'usage amplifiant des états émotionnels neutres ou positifs, on distingue les motifs de renforcement (je bois de l’alcool parce que j’aime les sensations que cela me procure, ou parce que cela m’amuse) et les motifs sociaux (parce que c’est plus drôle lorsque je suis avec les autres, ou pour faire la fête). Les motifs à valeur négative correspondent à des objectifs associés aux peurs individuelles. Il peut s’agir d’une part de motifs tournés autour de stratégies d'adaptation face à des difficultés internes. La personne boit afin de minorer ses sentiments et émotions négatives (je bois parce que cela m’aide lorsque je suis nerveux ou déprimé, ou pour oublier mes problèmes, mes peurs, le sentiment d’anxiété ou de tristesse). Elle boit ainsi pour faire face à une situation perçue comme stressante. Il peut s’agir aussi de motifs de conformité. Ils sont en lien avec le contexte extérieur et visent à éviter des sentiments de rejet (je bois pour ne pas subir les railleries des buveurs, pour ne pas me sentir exclu, ou parce que j’ai peur de ne pas être apprécié par les autres). C'est l'alcoolisme mondain, aussi appelé alcoolisme ménager ou convivial, se caractérisant par une alcoolisation faible mais quotidienne, n'entraînant pas de sentiment de dépendance mais étant l'accès direct vers la pathologie chronique. Quelque soit les motifs de consommations, il peut s'instaurer une dépendance. La dépendance à l'alcool n'implique pas que la consomation d'alcool soit quotidienne, ni qu'elle dépasse une certaine quantité : elle signifie qu'il est devenu impossible de maîtriser la consommation du produit. De fait, il n'est pas rare que des personnes ayant une véritable dépendance à l'alcool déclarent ne boire que de façon intermittente. Quand une personne a perdu la maîtrise de sa consommation, elle présente, habituellement de façon simultanée, au moins 3 des symptômes suivants : un désir de boire de l'alcool difficile voire impossible à surmonter (craving) des difficultés à  contrôler le début de la consommation d'alcool, ainsi que la quantité consommée des symptômes génants lors de l'arrêt ou de la diminution de la consommation (syndrome de sevrage) un besoin de consommer des quantités d'alcool de plus en plus importantes une obsession vis-à-vis de l'alcool au point d'abandonner d'autres sources d'intérets ou de plaisir une poursuite de la consommation malgré des conséquences problématiques dût à l'usage",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Alcoolisme, alcoolodépendance, éthylisme, dipsomanie, méthilepsie, méthomanie, binge drinking, les modalités de consommations sont pléthores. Les motivations sont également plurielles, elles dépendent à la fois de l'individu (caractéristiques individuelles, personnalité ou disposition génétique), de la substance consommée (accessibilité, prix, effet produit) et du contexte de boisson (pression des pairs, valeurs véhiculées par la société, de la situation de vie). <br/><br/>Aucune consommation n'est anodine. Dans les motifs d'usage amplifiant des états émotionnels neutres ou positifs, on distingue les motifs de renforcement (je bois de l’alcool parce que j’aime les sensations que cela me procure, ou parce que cela m’amuse) et les motifs sociaux (parce que c’est plus drôle lorsque je suis avec les autres, ou pour faire la fête). Les motifs à valeur négative correspondent à des objectifs associés aux peurs individuelles. Il peut s’agir d’une part de motifs tournés autour de stratégies d'adaptation face à des difficultés internes. La personne boit afin de minorer ses sentiments et émotions négatives (je bois parce que cela m’aide lorsque je suis nerveux ou déprimé, ou pour oublier mes problèmes, mes peurs, le sentiment d’anxiété ou de tristesse). Elle boit ainsi pour faire face à une situation perçue comme stressante. Il peut s’agir aussi de motifs de conformité. Ils sont en lien avec le contexte extérieur et visent à éviter des sentiments de rejet (je bois pour ne pas subir les railleries des buveurs, pour ne pas me sentir exclu, ou parce que j’ai peur de ne pas être apprécié par les autres). C'est l'alcoolisme mondain, aussi appelé alcoolisme ménager ou convivial, se caractérisant par une alcoolisation faible mais quotidienne, n'entraînant pas de sentiment de dépendance mais étant l'accès direct vers la pathologie chronique.<br/><br/>Quelque soit les motifs de consommations, il peut s'instaurer une dépendance. La dépendance à l'alcool n'implique pas que la consomation d'alcool soit quotidienne, ni qu'elle dépasse une certaine quantité : elle signifie qu'il est devenu impossible de maîtriser la consommation du produit. De fait, il n'est pas rare que des personnes ayant une véritable dépendance à l'alcool déclarent ne boire que de façon intermittente.<br/><br/>Quand une personne a perdu la maîtrise de sa consommation, elle présente, habituellement de façon simultanée, au moins 3 des symptômes suivants :<br/><ul><li>un désir de boire de l'alcool difficile voire impossible à surmonter (craving)<br/></li><li>des difficultés à  contrôler le début de la consommation d'alcool, ainsi que la quantité consommée<br/></li><li>des symptômes génants lors de l'arrêt ou de la diminution de la consommation (syndrome de sevrage)<br/></li><li>un besoin de consommer des quantités d'alcool de plus en plus importantes<br/></li><li>une obsession vis-à-vis de l'alcool au point d'abandonner d'autres sources d'intérets ou de plaisir<br/></li><li>une poursuite de la consommation malgré des conséquences problématiques dût à l'usage</li></ul><br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "tire bouchon 1",
+          "layout": {
+            "left": "570px",
+            "top": "40px",
+            "width": "207px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/tire-bouchon-1-fe7cc897.jpg",
+          "href": "",
+          "label": "tire bouchon 1"
+        },
+        {
+          "type": "text",
+          "name": "WE2cd27662de",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "460px",
+            "top": "512px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "16"
+          },
+          "text": "La consommation excessive d'alcool et l'installation d'une dépendance est, dans la plupart des cas, facilitée par des facteurs psychologiques favorisants qui déclenchent et entretiennent le comportement de consommation. Les exemples cliniques les plus fréquemment rencontrés sont les individus en déficits dans leurs capacités à gérer le stress et l'anxiété, un état dépressif, des difficultés dans les habiletés de communication ou une intolérance à la frustration plus ou moins marquée. Dans une moindre mesure, il existe également un trouble de la personnalité, des troubles de perception et d'expression émotionnelle. Par l'effet anxiolytique recherché, l’alcool a un impact \"positif\" immédiat sur les tensions et stress internes subis : ceux-ci diminuent. Cet effet est cependant éphémère, factice, pervers et n'engendre qu'une surdité, une absence d'acuité sur la réalité de l'usager. Ce dernier se retrouvera de nouveau face aux mêmes difficultés sans avoir pu développer de stratégies adéquates pour les résoudre, voire se fragilise davantage face à elles. L'alcool, dans son usage pathologique, est une véritable toxicomanie qui engendre une tolérance, une accoutumance sévère et des effets psychologiques, neurologiques et somatiques potentiellement irréversibles. Bien que conscient des méfaits de l'alcool, il arrive que l'usager,  à l'idée d'un changement même s'il est bénéfique, reste ambivalent, percevant l'intéret du changement mais a du mal à renoncer à certains avantages liés au fait de ne pas changer. L'hypnose ouvre ici les perspectives motivationnelles du changement. Tabagisme et alcool : Il y a une forte corrélation entre dépendance à l'alcool et dépendance au tabagisme. Boire donne envie de fumer : la stimulation cérébrale de l'alcool est plus faible que celle liée à l'absorption de nicotine et une stimulation faible induit une envie de toujours plus fumer. L'éthanol, substance psychotrope de l'alcool ralentit l'activité cérébrale qui, par effet réflexe, cherche à se stimuler par le biais de la nicotine qui est une substance neuro excitatrice. Vous percevez ici le cercle vicieux et l'auto alimentation d'une polydépendance.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">La consommation excessive d'alcool et l'installation d'une dépendance est, dans la plupart des cas, facilitée par des facteurs psychologiques favorisants qui déclenchent et entretiennent le comportement de consommation. Les exemples cliniques les plus fréquemment rencontrés sont les individus en déficits dans leurs capacités à gérer le stress et l'anxiété, un état dépressif, des difficultés dans les habiletés de communication ou une intolérance à la frustration plus ou moins marquée. Dans une moindre mesure, il existe également un trouble de la personnalité, des troubles de perception et d'expression émotionnelle. <br/><br/>Par l'effet anxiolytique recherché, l’alcool a un impact \"positif\" immédiat sur les tensions et stress internes subis : ceux-ci diminuent. Cet effet est cependant éphémère, factice, pervers et n'engendre qu'une surdité, une absence d'acuité sur la réalité de l'usager. Ce dernier se retrouvera de nouveau face aux mêmes difficultés sans avoir pu développer de stratégies adéquates pour les résoudre, voire se fragilise davantage face à elles.  <br/><br/>L'alcool, dans son usage pathologique, est une véritable toxicomanie qui engendre une tolérance, une accoutumance sévère et des effets psychologiques, neurologiques et somatiques potentiellement irréversibles. Bien que conscient des méfaits de l'alcool, il arrive que l'usager,  à l'idée d'un changement même s'il est bénéfique, reste ambivalent, percevant l'intéret du changement mais a du mal à renoncer à certains avantages liés au fait de ne pas changer. L'hypnose ouvre ici les perspectives motivationnelles du changement.<br/><br/> Tabagisme et alcool :<br/><br/> Il y a une forte corrélation entre dépendance à l'alcool et dépendance au tabagisme. Boire donne envie de fumer : la stimulation cérébrale de l'alcool est plus faible que celle liée à l'absorption de nicotine et une stimulation faible induit une envie de toujours plus fumer. L'éthanol, substance psychotrope de l'alcool ralentit l'activité cérébrale qui, par effet réflexe, cherche à se stimuler par le biais de la nicotine qui est une substance neuro excitatrice. Vous percevez ici le cercle vicieux et l'auto alimentation d'une polydépendance. <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEdc7c5c66e8",
+          "layout": {
+            "width": "380px",
+            "left": "50%",
+            "top": "1870px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "15",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "cadenas",
+          "layout": {
+            "left": "630px",
+            "top": "1940px",
+            "width": "85px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "src": "assets/cadenas-we7543a5ec8f-aafef498.jpg",
+          "href": "frustration.html",
+          "label": "FRUSTRATION"
+        },
+        {
+          "type": "image",
+          "name": "homme pieuvre",
+          "layout": {
+            "left": "40px",
+            "top": "1950px",
+            "width": "77px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/homme-pieuvre-we5bd099ac53-fef133aa.jpg",
+          "href": "personnalite.html",
+          "label": "PERSONNALITE"
+        },
+        {
+          "type": "image",
+          "name": "cerveau 1",
+          "layout": {
+            "left": "160px",
+            "top": "1970px",
+            "width": "104px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/cerveau-1-wee3308c1dab-7ce04a89.jpg",
+          "href": "toxicomanie.html",
+          "label": "TOXIC Ô MANIE"
+        },
+        {
+          "type": "image",
+          "name": "elephant chapeau",
+          "layout": {
+            "left": "770px",
+            "top": "1970px",
+            "width": "89px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "src": "assets/elephant-chapeau-we5f2c76b2bb-010a3d13.jpg",
+          "href": "defense.html",
+          "label": "DEFENSE"
+        },
+        {
+          "type": "image",
+          "name": "coeur emotion",
+          "layout": {
+            "left": "300px",
+            "top": "1980px",
+            "width": "103px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/coeur-emotion-web8f38ed751-632ee828.jpg",
+          "href": "emotion.html",
+          "label": "EMOTION"
+        },
+        {
+          "type": "image",
+          "name": "menottes",
+          "layout": {
+            "left": "440px",
+            "top": "2050px",
+            "width": "144px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/menottes-we620b85d6b4-e4b05765.jpg",
+          "href": "dependance.html",
+          "label": "DEPENDANCE"
+        },
+        {
+          "type": "text",
+          "name": "WE6d8925407c",
+          "layout": {
+            "width": "auto",
+            "left": "620px",
+            "top": "2070px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "text": "FRUSTRATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">FRUSTRATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEeeeba35a32",
+          "layout": {
+            "width": "auto",
+            "left": "810px",
+            "top": "2080px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "text": "DEFENSE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DEFENSE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE49ab882c16",
+          "layout": {
+            "width": "auto",
+            "left": "150px",
+            "top": "2094px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "TOXIC Ô MANIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TOXIC Ô MANIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE9fd91902ea",
+          "layout": {
+            "width": "auto",
+            "left": "22px",
+            "top": "2140px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "text": "PERSONNALITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PERSONNALITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE80ec55dbe4",
+          "layout": {
+            "width": "auto",
+            "left": "460px",
+            "top": "2140px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "DEPENDANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DEPENDANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE8c47c812fb",
+          "layout": {
+            "width": "auto",
+            "left": "320px",
+            "top": "2150px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

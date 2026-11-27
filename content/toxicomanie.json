@@ -1,0 +1,333 @@
+{
+  "title": "toxicomanie",
+  "source": "https://www.hypnosite.fr/toxicomanie.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "590px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "toxic O manie"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEc320f0eb39",
+          "layout": {
+            "width": "auto",
+            "left": "374px",
+            "top": "140px",
+            "height": "auto",
+            "text-align": "left",
+            "z-index": "3"
+          },
+          "text": "^",
+          "html": "<span><span style=\"font-size:32px;font-family:'Bad Guy Black';\">^</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEc00bba1adb",
+          "layout": {
+            "width": "550px",
+            "left": "190px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "toxic O manie",
+          "html": "<span><span style=\"font-family:'Bohem Press';font-size:70px;\"><span style=\"color:rgb(12, 12, 12);\">toxic </span><span style=\"color:rgb(12, 12, 12);\">O</span><span style=\"color:rgb(12, 12, 12);\"> manie</span></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE74a222d90d",
+          "layout": {
+            "width": "506px",
+            "height": "auto",
+            "left": "50%",
+            "top": "460px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "4",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Au début, la drogue te rend euphorique. C'est comme gagner un championnat. Tu te dis : demain, je m'en fous vu qu'aujourd'hui, j'ai remporté le championnat.\" Diego MARADONA",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">\"Au début, la drogue te rend euphorique. C'est comme gagner un championnat. Tu te dis : demain, je m'en fous vu qu'aujourd'hui, j'ai remporté le championnat.\" Diego MARADONA<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2708px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE4de1f82dce",
+          "layout": {
+            "width": "420px",
+            "height": "auto",
+            "left": "15px",
+            "top": "120px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "18px",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "3"
+          },
+          "text": "TOXIC : Qui agit comme un poison. ô : interjection. qui marque l'admiration, l'étonnement, la joie, la douleur, etc. Particule servant à apostropher, invoquer, l’exaltation d’un sentiment. MANIE : folie partielle, dans laquelle, l'imagination est frappée d'une idée fixe. Habitude bizarre, ridicule ; fantaisie, goût porté à l'extrême. Une articulation orthrographique surprenante, n'est-ce-pas ? Pourtant pour l'usager, il peut se voir une forme de divination dans ce rapport à la toxicité. Derrière cet empoisonnement cérébral, entendez que la toxicomanie est avant tout une affaire chimique. Notre cerveau ne supporte que difficilement la contrainte émotionnelle, la frustration, la souffrance de la pensée et tout cela est avant toute sensation, toute perception, toute compréhension, chimique. Alors, ce dernier cherche à trouver divers subterfuges moléculaires pour palier l'entrave psychique. La consommation toxicomaniaque, tous procédés confondus, finit cérébralement en al-chimie : dopamine, endorphine, canabinoïde, sérotonine, noradrénaline, gaba, etc. C'est une quête éperdue vers la sensation de plaisir, l'évitement de la situation de déplaisir et d'un confort intérieur factice. Les substances psychoactives les plus courantes peuvent être réparties en psycholeptiques (action de sédation : alcool, solvants volatiles, héroïne, morphine, etc.), psychoanaleptiques (action de stimulation : nicotine, cocaïne, amphétamines, ecstasy, etc.) et psychodysleptiques (perturbation de l’activité psychique : hallucinogènes, PCP, LSD, cannabis, etc.). L’ensemble des substances psychoactives modifient en profondeur les équilibres entre les différentes voies de neurotransmission, ce qui perturbe le circuit de la récompense, et secondairement l’ensemble des processus motivationnels. Le déséquilibre neurochimique, quant il se prolonge va aboutir à la re-création de nouvelles voies neuronales avec un shunt cortical (c'est-à-dire que les processus de pensée complexe sont shuntés au détriment de voies plus archaïques de satisfaction pulsionnelles immédiates). L’empreinte biologique laissée par la répétition de l’intoxication engendre ainsi l’apparition progressive de la dépendance, qui est un phénomène, répétons-le, à l’interface du soma et de la psyché. Les toxicomanies peuvent être le manifeste d'une psychopathologie comme un trouble de la personnalité préexistante, un trouble de l'humeur ou de l'adaptation ou encore représenter un trouble réactionnel au mode de vie imposé par celles-ci ou être à l’intrication de ces  sources de souffrance psychique. Pour ne citer qu'eux, vous comprenez ici que la nicotine, l'alcool, le cannabis, la cocaîne, mais également le sexe, le travail, le sport ou encore le sucre ne sont que des influenceurs exogènes de ces processus neurochimiques internes et de leurs intentions : distancer, apaiser, diluer, tamponner... Et pour tamponner quoi ? un mal être, un mal dire, une perte, un manque, un vide, un défaut d'expresivité, une plaie morale ? Le toxicomane oublie bien souvent la genèse de sa captivité face à sa consommation, égaré par la ritualisation, le manque, la tolérance et l'habituation. Et les toxicophiles le savent bien, lorsque leur produit de prédilection vient à manquer, ils ont recours à une stratégie de substitution par d’autres substances. C'est comme un besoin de prolonger physiquement un lien perdu, insécure ou en tout cas insatisfaisant. Il y aurait ainsi une pathologie du lien dont souffrent potentiellement les usagés et qu’ils semblent exprimer de façon si différente et parfois même totalement opposée.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';\"> <span style=\"font-size:24px;\">TOXIC</span> <span style=\"font-size:20px;\">:</span><span style=\"font-size:18px;\"> <span> Qui agit comme un poison. <br/></span></span><br/><span style=\"font-size:32px;\"> ô</span><span> : interjection. qui marque l'admiration, l'étonnement, la joie, la douleur, etc. Particule servant à apostropher, invoquer, l’exaltation d’un sentiment.  </span><br/><span>  </span><br/><span style=\"font-size:24px;\"> MANIE</span><span> : folie partielle, dans laquelle, l'imagination est frappée d'une idée fixe. Habitude bizarre, ridicule ; fantaisie, goût porté à l'extrême.</span><br/><span>  </span><br/><span> Une articulation orthrographique surprenante, n'est-ce-pas ? <br/><br/>Pourtant pour l'usager, il peut se voir une forme de divination dans ce rapport à la toxicité. Derrière cet empoisonnement cérébral, entendez que la toxicomanie est avant tout une affaire chimique.<br/><br/>Notre cerveau ne supporte que difficilement la contrainte émotionnelle, la frustration, la souffrance de la pensée et tout cela est avant toute sensation, toute perception, toute compréhension, chimique. Alors, ce dernier cherche à trouver divers subterfuges moléculaires pour palier l'entrave psychique. La consommation toxicomaniaque, tous procédés confondus, finit cérébralement en al-chimie : dopamine, endorphine, canabinoïde, sérotonine, noradrénaline, gaba, etc. C'est une quête éperdue vers la sensation de plaisir, l'évitement de la situation de déplaisir et d'un confort intérieur factice. <br/><br/></span>Les substances psychoactives les plus courantes peuvent être réparties en psycholeptiques (action de sédation : alcool, solvants volatiles, héroïne, morphine, etc.), psychoanaleptiques (action de stimulation : nicotine, cocaïne, amphétamines, ecstasy, etc.) et psychodysleptiques (perturbation de l’activité psychique : hallucinogènes, PCP, LSD, cannabis, etc.). <br/><br/>L’ensemble des substances psychoactives modifient en profondeur les équilibres entre les différentes voies de neurotransmission, ce qui perturbe le circuit de la récompense, et secondairement l’ensemble des processus motivationnels. Le déséquilibre neurochimique, quant il se prolonge va aboutir à la re-création de nouvelles voies neuronales avec un shunt cortical (c'est-à-dire que les processus de pensée complexe sont shuntés au détriment de voies plus archaïques de satisfaction pulsionnelles immédiates). L’empreinte biologique laissée par la répétition de l’intoxication engendre ainsi l’apparition progressive de la dépendance, qui est un phénomène, répétons-le, à l’interface du soma et de la psyché. <br/><span>  </span><br/><span>Les toxicomanies peuvent être le manifeste d'une psychopathologie comme un trouble de la personnalité préexistante, un trouble de l'humeur ou de l'adaptation ou encore représenter un trouble réactionnel au mode de vie imposé par celles-ci ou être à l’intrication de ces  sources de souffrance psychique. Pour ne citer qu'eux, vous comprenez ici que la nicotine, l'alcool, le cannabis, la cocaîne, mais également le sexe, le travail, le sport ou encore le sucre ne sont que des influenceurs exogènes de ces processus neurochimiques internes et de leurs intentions : distancer, apaiser, diluer, tamponner... <span style=\"font-size:18px;\">Et pour tamponner quoi ? un mal être, un mal dire, une perte, un manque, un vide, un défaut d'expresivité, une plaie morale ? </span><span style=\"font-size:18px;\">Le toxicomane oublie bien souvent la genèse de sa captivité face à sa consommation, égaré par la ritualisation, le manque, la tolérance et l'habituation. <br/><br/>Et les toxicophiles le savent bien, lorsque leur produit de prédilection vient à manquer, ils ont recours à une stratégie de substitution par d’autres substances. C'est comme un besoin de prolonger physiquement un lien perdu, insécure ou en tout cas insatisfaisant. Il y aurait ainsi une pathologie du lien dont souffrent potentiellement les usagés et qu’ils semblent exprimer de façon si différente et parfois même totalement opposée.</span></span><br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "cerveau 1",
+          "layout": {
+            "left": "500px",
+            "top": "170px",
+            "width": "352px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/cerveau-1-we92a9d09616-fcf6b5fb.jpg",
+          "href": "",
+          "label": "cerveau 1"
+        },
+        {
+          "type": "text",
+          "name": "WE7aaf07bc62",
+          "layout": {
+            "width": "410px",
+            "height": "auto",
+            "left": "470px",
+            "top": "630px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "18px",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "1"
+          },
+          "text": "Ainsi,  au travers de ces oppositions si franches, si systématiques, ne trouverions-nous pas simplement des modes de résolution différents d’un  problème existanciel ? Prenons l’hypercontrôle (observé par exemple dans l’anorexie mentale) ou la transgression (notamment chez les usagers d’opiacés), n’est ce pas son rapport à la loi (et à travers elle, à une instance paternelle), à la limite qu’on interroge ? Les binge drinkers ou les joueurs intensifs ne recherchent-ils pas une forme de dissociation induite permettant d’élargir leurs possibilités, d’ouvrir la dimension des faisables, des possibles ? Alors loin d'une généralité, il est d'une évidence que chaque consommation a sa singularité, tant dans son expression que son expressivité. Les toxicomanies, au travers de la dépendance, incluent la perte de contrôle, l'impulsivité, la compulsivité, ce désir puissant d’utiliser une substance psychoactive alors qu’on ne le veut pas à ce moment-là. Ce besoin impérieux, est courament appelé craving. Contrairement au manque aigu survenant lors du sevrage, le craving peut persister des semaines voire des mois après l’arrêt de la substance. Ce symptôme fait partie des critères de la dépendance à une substance mais n’est pas pour autant obligatoire pour qualifier l’existence d’une addiction. Le craving peut survenir à n’importe quel moment. Il peut être induit par des stimuli associés à l’usage de la substance, par exemple passer devant le rayon d'alcool d’un supermarché peut déclencher un épisode de craving, mais aussi par le stress ou des émotions intenses. Il est d'importance car c'est un puissant facteur prédictif d’une reprise de consommation. Chez certaines personnes, le craving peut se manifester par de l’anxiété, des pensées dépressives avec des signes proches des troubles obsessionnels compulsifs comme ceux que l’on observe chez Gollum, ce personnage du Seigneur des Anneaux pris de panique à la simple vue de l’anneau. Le craving serait une réponse automatique et inconsciente face à certains stimuli. Le modèle cognitif suppose que le craving naît d’une instrumentalisation des fonctions cognitives qui vont prendre en compte les attentes du sujet à l’instant donné, l’efficacité personnelle, le besoin d’imitation, l’analyse de l’information, la mémoire et la capacité de décision. Ce modèle est proche de celui dénommé psychobiologique qui fait intervenir directement les circuits neurobiologiques impliqués dans la récompense, le contrôle de soi, la gestion des émotions, la prise de décision. Pour ce faire, favoriser les déconditionnements et remodeler l'intention positive originelle en mettant à jour les modalités d'adaptations inconscientes par l'hypnose a empiriquement fait ses preuves.",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';\"><span style=\"font-size:18px;\">Ainsi,  au travers de ces oppositions si franches, si systématiques, ne trouverions-nous pas simplement des modes de résolution différents d’un  problème existanciel ? Prenons l’hypercontrôle (observé par exemple dans l’anorexie mentale) ou la transgression (notamment chez les usagers d’opiacés), n’est ce pas son rapport à la loi (et à travers elle, à une instance paternelle), à la limite qu’on interroge ? Les binge drinkers ou les joueurs intensifs ne recherchent-ils pas une forme de dissociation induite permettant d’élargir leurs possibilités, d’ouvrir la dimension des faisables, des possibles ? Alors loin d'une généralité, il est d'une évidence que chaque consommation a sa singularité, tant dans son expression que son expressivité.<br/><br/>Les toxicomanies, au travers de la dépendance, incluent la perte de contrôle, l'impulsivité, la compulsivité, ce désir puissant d’utiliser une substance psychoactive alors qu’on ne le veut pas à ce moment-là. Ce besoin impérieux, est courament appelé craving. Contrairement au manque aigu survenant lors du sevrage, le craving peut persister des semaines voire des mois après l’arrêt de la substance. Ce symptôme fait partie des critères de la dépendance à une substance mais n’est pas pour autant obligatoire pour qualifier l’existence d’une addiction. <br/><br/>Le craving peut survenir à n’importe quel moment. Il peut être induit par des stimuli associés à l’usage de la substance, par exemple passer devant le rayon d'alcool d’un supermarché peut déclencher un épisode de craving, mais aussi par le stress ou des émotions intenses. Il est d'importance car c'est un puissant facteur prédictif d’une reprise de consommation. <br/>  <br/> Chez certaines personnes, le craving peut se manifester par de l’anxiété, des pensées dépressives avec des signes proches des troubles obsessionnels compulsifs comme ceux que l’on observe chez Gollum, ce personnage du Seigneur des Anneaux pris de panique à la simple vue de l’anneau. Le craving serait une réponse automatique et inconsciente face à certains stimuli. </span>Le modèle cognitif suppose que le craving naît d’une instrumentalisation des fonctions cognitives qui vont prendre en compte les attentes du sujet à l’instant donné, l’efficacité personnelle, le besoin d’imitation, l’analyse de l’information, la mémoire et la capacité de décision. Ce modèle est proche de celui dénommé psychobiologique qui fait intervenir directement les circuits neurobiologiques impliqués dans la récompense, le contrôle de soi, la gestion des émotions, la prise de décision.<br/><span style=\"text-decoration:underline;font-size:16px;\"><br/></span><span style=\"font-size:18px;\">Pour ce faire, favoriser les déconditionnements et remodeler l'intention positive originelle en mettant à jour les modalités d'adaptations inconscientes par l'hypnose a empiriquement fait ses preuves. </span><span style=\"font-size:18px;\"> </span> <br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WEab21383a83",
+          "layout": {
+            "width": "410px",
+            "left": "50%",
+            "top": "2310px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "16",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "menottes",
+          "layout": {
+            "left": "30px",
+            "top": "2400px",
+            "width": "137px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/menottes-we09f310e208-e9db8193.jpg",
+          "href": "dependance.html",
+          "label": "DEPENDANCE"
+        },
+        {
+          "type": "image",
+          "name": "cadenas",
+          "layout": {
+            "left": "780px",
+            "top": "2400px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "src": "assets/cadenas-we00354f039d-60a5cbd4.jpg",
+          "href": "frustration.html",
+          "label": "FRUSTRATION"
+        },
+        {
+          "type": "image",
+          "name": "cygne",
+          "layout": {
+            "left": "210px",
+            "top": "2420px",
+            "width": "116px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/cygne-web5360f6b75-261232cc.jpg",
+          "href": "symptome.html",
+          "label": "SYMPTÔME"
+        },
+        {
+          "type": "image",
+          "name": "elephant chapeau",
+          "layout": {
+            "left": "500px",
+            "top": "2420px",
+            "width": "91px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "src": "assets/elephant-chapeau-we0da23abd81-91a5ab49.jpg",
+          "href": "defense.html",
+          "label": "DEFENSE"
+        },
+        {
+          "type": "image",
+          "name": "coeur emotion",
+          "layout": {
+            "left": "640px",
+            "top": "2430px",
+            "width": "93px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/coeur-emotion-web8f38ed751-632ee828.jpg",
+          "href": "emotion.html",
+          "label": "EMOTION"
+        },
+        {
+          "type": "image",
+          "name": "homme pieuvre",
+          "layout": {
+            "left": "370px",
+            "top": "2450px",
+            "width": "76px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/homme-pieuvre-wed1d59717d8-cb84b3c1.jpg",
+          "href": "personnalite.html",
+          "label": "PERSONNALITE"
+        },
+        {
+          "type": "text",
+          "name": "WE390af84e02",
+          "layout": {
+            "width": "auto",
+            "left": "50px",
+            "top": "2490px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "DEPENDANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DEPENDANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE8a6ec05c01",
+          "layout": {
+            "width": "auto",
+            "left": "770px",
+            "top": "2520px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "FRUSTRATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">FRUSTRATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd7b6bb0ee8",
+          "layout": {
+            "width": "auto",
+            "left": "210px",
+            "top": "2530px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "SYMPTÔME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">SYMPTÔME</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEf2e785d4c9",
+          "layout": {
+            "width": "auto",
+            "left": "540px",
+            "top": "2530px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "DEFENSE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">DEFENSE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE129fbdf47e",
+          "layout": {
+            "width": "auto",
+            "left": "660px",
+            "top": "2584px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd53a78dbf3",
+          "layout": {
+            "width": "auto",
+            "left": "350px",
+            "top": "2630px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "text": "PERSONNALITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PERSONNALITE</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

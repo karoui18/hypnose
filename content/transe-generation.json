@@ -1,0 +1,396 @@
+{
+  "title": "transe génération",
+  "source": "https://www.hypnosite.fr/transe%20generation.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "550px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "TRANSE GENERATION"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "(dette inconsciente)"
+        },
+        {
+          "type": "text",
+          "name": "WE5fe239f24f",
+          "layout": {
+            "width": "590px",
+            "left": "180px",
+            "top": "163px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "TRANSE GENERATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:60px;\">TRANSE GENERATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEee3b806cd5",
+          "layout": {
+            "width": "auto",
+            "left": "60px",
+            "top": "249px",
+            "height": "auto",
+            "transform": "rotate(-4deg)",
+            "-webkit-transform": "rotate(-4deg)",
+            "-moz-transform": "rotate(-4deg)",
+            "-ms-transform": "rotate(-4deg)",
+            "-o-transform": "rotate(-4deg)",
+            "z-index": "4"
+          },
+          "text": "(dette inconsciente)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:28px;\">(dette inconsciente)</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE6fb9219855",
+          "layout": {
+            "width": "710px",
+            "height": "auto",
+            "left": "50%",
+            "top": "470px",
+            "background-color": "#fff",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"En résumé, j'aimerais avoir un message un peu positif à vous transmettre. Je n'en ai pas... Est-ce que deux messages négatifs, ça vous irait ?\" Woody ALLEN",
+          "html": "<span><span style=\"font-size:18px;\"><span style=\"font-family:'Tox Typewriter';\">\"En résumé, j'aimerais avoir un message un peu positif à vous transmettre. Je n'en ai pas... Est-ce que deux messages négatifs, ça vous irait ?\" Woody ALLEN</span><br/></span></span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "1770px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WE84b9b46588",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "30px",
+            "top": "20px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "z-index": "1"
+          },
+          "text": "Le transgénérationnel se définit comme le lien psychique entre les membres de la famille et leurs ancêtres et aïeux, de lignées directes ou collatérales. Dans cette dimension, ces derniers ont vécu des évènements et/ou actes traumatiques qui sont restés souvent occultes mais quelquefois ont été connus. Les stigmates de ces traumas sont portés par les héritiers de la génération suivante, enfouies dans leur inconscient. Pourtant, il est fréquent que les détenteurs de précisions sur ces évènements s’interdisent de les évoquer et qu’ils interdisent aux autres de poser des questions les concernant. Plus encore, ceux-ci ne doivent rien vouloir savoir sur les protagonistes en question. Ce sont les fameux secrets de famille. Cela entrave la curiosité, la recherche de la vérité, la capacité à pouvoir vivre une existence familiale sereine. S’ensuivent des troubles de la communication familiale. Sous l’effet des pactes de déni, la vie familiale devient factuelle, bloquée, inauthentique voire symptômatique. Se manifeste des identifications incompréhensibles chez certains membres qui peuvent prendre étonnamment pour modèles ces mêmes personnages que l’on a voulu effacer de la mémoire collective. Parfois, par le biais de ce système de transmission, la souffrance évoquée d'un membre, ne trouve pas de traitement \"classique\", n'’identifiant pas d’événements traumatiques majeurs ou de raisons d’aller si mal. Alors une piste de résolution est de questionner l’histoire familiale et sa passation. La clé de l’énigme y est parfois trouvée. Car on peut avoir hérité des traumatismes de ses descendants, sans en être conscient. La transgénération, c'est la génération succédante qui devient dépositaire d’une souffrance qui ne lui appartient pas, mais dont elle révèle la persistance. Et cette transmission commence par un prénom. Freud l'évoquait déjà par le choix du prénom d'un enfant par ses parents : \"leurs noms font des enfants des revenants\". Qui n'a pas le prénom d'un oncle, d'un grand parent, d'un aïeul ? Je vous rassure, le choix orienté du prénom n'est pas un symptôme mais souvent une tradition.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">Le transgénérationnel se définit comme le lien psychique entre les membres de la famille et leurs ancêtres et aïeux, de lignées directes ou collatérales. Dans cette dimension, ces derniers ont vécu des évènements et/ou actes traumatiques qui sont restés souvent occultes mais quelquefois ont été connus. Les stigmates de ces traumas sont portés par les héritiers de la génération suivante, enfouies dans leur inconscient. Pourtant, il est fréquent que les détenteurs de précisions sur ces évènements s’interdisent de les évoquer et qu’ils interdisent aux autres de poser des questions les concernant. Plus encore, ceux-ci ne doivent rien vouloir savoir sur les protagonistes en question. Ce sont les fameux secrets de famille. Cela entrave la curiosité, la recherche de la vérité, la capacité à pouvoir vivre une existence familiale sereine. S’ensuivent des troubles de la communication familiale. Sous l’effet des pactes de déni, la vie familiale devient factuelle, bloquée, inauthentique voire symptômatique. Se manifeste des identifications incompréhensibles chez certains membres qui peuvent prendre étonnamment pour modèles ces mêmes personnages que l’on a voulu effacer de la mémoire collective. <br/><br/> Parfois, par le biais de ce système de transmission, la souffrance évoquée d'un membre, ne trouve pas de traitement \"classique\", n'’identifiant pas d’événements traumatiques majeurs ou de raisons d’aller si mal. Alors une piste de résolution est de questionner l’histoire familiale et sa passation. La clé de l’énigme y est parfois trouvée. Car on peut avoir hérité des traumatismes de ses descendants, sans en être conscient. La transgénération, c'est la génération succédante qui devient dépositaire d’une souffrance qui ne lui appartient pas, mais dont elle révèle la persistance. Et cette transmission commence par un prénom. Freud l'évoquait déjà par le choix du prénom d'un enfant par ses parents : \"leurs noms font des enfants des revenants\". Qui n'a pas le prénom d'un oncle, d'un grand parent, d'un aïeul ? Je vous rassure, le choix orienté du prénom n'est pas un symptôme mais souvent une tradition.<br/>  <br/></span></span>"
+        },
+        {
+          "type": "image",
+          "name": "arbre",
+          "layout": {
+            "left": "470px",
+            "top": "30px",
+            "width": "384px",
+            "height": "auto",
+            "z-index": "2"
+          },
+          "src": "assets/arbre-we78b6179996-1f962077.jpg",
+          "href": "",
+          "label": "arbre"
+        },
+        {
+          "type": "text",
+          "name": "WEd8193ec6e9",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "470px",
+            "top": "480px",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "z-index": "3"
+          },
+          "text": "Illustrons ici que l’être humain est d’abord constitué par une dette symbolique, sa naissance et la transmission familiale qui s'y rapporte. Voyons cela comme un tribut que son tributaire n’a pas contracté et pourtant il se sent redevable de rembourser, souvent à perte. On va y inclure aussi les autres dettes. Être en dette pour soi mais pas seulement car le destin de l’humain est également d’éponger les dettes de l’Autre, Vanité, donc, d’en finir avec la dette…  Et, avec quoi payer ? Quelle est la monnaie de la dette ? Essentiellement de la souffrance… payer de sa personne ! Ainsi le sujet redevable se substitue à l’Autre, le vrai débiteur, pour payer la dette non destinée en établissant la fixation d’un \"juste prix\" à payer pour s’en acquitter. Cette dette se veut bien souvent \"inconsciemment inhonorable\", permettant ainsi de maintenir un solide menottage, un attachement forcé auprès du débiteur et/ou du créancier. Elle pourrait ainsi être considérée comme un maillon de relation, maillon d'une chaine où le lieu de l'ancrage a été omis, entrainant une errance, un non sens ou encore une absence de position. L'endettement inconscient oblige inéluctablement un paiement sans fin usitant une monnaie métaphorique qui pourrait être le symptôme dépression, addiction, blocage, etc.) ou encore une forme d'inertie existentielle que subit le supplicié pour faire valoir le droit d'intégrer la famille. Et quand on se fixe sur le symptôme, on contribue à fixer le symptôme. L'hypnose explore, classe et redéfinit une forme de réalité biographique : ce qui vous appartient de votre histoire et ce qui ne vous appartient pas, afin de ne pas \"payer\" pour rien!",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">Illustrons ici que l’être humain est d’abord constitué par une dette symbolique, sa naissance et la transmission familiale qui s'y rapporte. Voyons cela comme un tribut que son tributaire n’a pas contracté et pourtant il se sent redevable de rembourser, souvent à perte. On va y inclure aussi les autres dettes. Être en dette pour soi mais pas seulement car le destin de l’humain est également d’éponger les dettes de l’Autre, Vanité, donc, d’en finir avec la dette…  Et, avec quoi payer ? Quelle est la monnaie de la dette ? Essentiellement de la souffrance… payer de sa personne !<br/><br/>Ainsi le sujet redevable se substitue à l’Autre, le vrai débiteur, pour payer la dette non destinée en établissant la fixation d’un \"juste prix\" à payer pour s’en acquitter. Cette dette se veut bien souvent \"inconsciemment inhonorable\", permettant ainsi de maintenir un solide menottage, un attachement forcé auprès du débiteur et/ou du créancier. Elle pourrait ainsi être considérée comme un maillon de relation, maillon d'une chaine où le lieu de l'ancrage a été omis, entrainant une errance, un non sens ou encore une absence de position. L'endettement inconscient oblige inéluctablement un paiement sans fin usitant une monnaie métaphorique qui pourrait être le symptôme dépression, addiction, blocage, etc.) ou encore une forme d'inertie existentielle que subit le supplicié pour faire valoir le droit d'intégrer la famille. Et quand on se fixe sur le symptôme, on contribue à fixer le symptôme. <br/><br/>L'hypnose explore, classe et redéfinit une forme de réalité biographique : ce qui vous appartient de votre histoire et ce qui ne vous appartient pas, afin de ne pas \"payer\" pour rien!<br/> <br/></span></span>"
+        },
+        {
+          "type": "image",
+          "name": "main femme",
+          "layout": {
+            "left": "30px",
+            "top": "1240px",
+            "width": "95px",
+            "height": "auto",
+            "z-index": "21"
+          },
+          "src": "assets/main-femme-wec73f13b2ed-0c02bce2.jpg",
+          "href": "https://www.hypnosite.fr/Files/Other/LE%20CABINET%20D%20HYPNOSE%20-%20HYPNOLETTER%2010.pdf",
+          "label": "COMPLEMENT SUR DETTE"
+        },
+        {
+          "type": "text",
+          "name": "WE22c6a1aca8",
+          "layout": {
+            "left": "140px",
+            "top": "1240px",
+            "width": "auto",
+            "height": "auto",
+            "z-index": "20"
+          },
+          "text": "COMPLEMENT SUR DETTE",
+          "html": "<a href=\"https://www.hypnosite.fr/Files/Other/LE%20CABINET%20D%20HYPNOSE%20-%20HYPNOLETTER%2010.pdf\"><span style=\"font-size:18px;font-family:'Tox Typewriter';color:rgb(0, 0, 0);\">COMPLEMENT SUR DETTE</span></a>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE474e0aec61",
+          "layout": {
+            "width": "380px",
+            "left": "40px",
+            "top": "1350px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "19"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "portefeuille",
+          "layout": {
+            "left": "130px",
+            "top": "1460px",
+            "width": "98px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/portefeuille-wec72b88d10f-83107cbd.jpg",
+          "href": "valeur.html",
+          "label": "VALEUR"
+        },
+        {
+          "type": "image",
+          "name": "femme serpent",
+          "layout": {
+            "left": "740px",
+            "top": "1460px",
+            "width": "116px",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "src": "assets/femme-serpent-wece36d530de-7f063530.jpg",
+          "href": "croyance.html",
+          "label": "CROYANCE"
+        },
+        {
+          "type": "image",
+          "name": "couteau",
+          "layout": {
+            "left": "620px",
+            "top": "1510px",
+            "width": "82px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "src": "assets/couteau-wedf41d3b85f-1d166bc6.jpg",
+          "href": "trahison.html",
+          "label": "TRAHISON"
+        },
+        {
+          "type": "image",
+          "name": "oreille",
+          "layout": {
+            "left": "30px",
+            "top": "1513px",
+            "width": "78px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "src": "assets/oreille-we83981a780d-cb048145.jpg",
+          "href": "secret.html",
+          "label": "(famille)"
+        },
+        {
+          "type": "image",
+          "name": "manequin",
+          "layout": {
+            "left": "380px",
+            "top": "1520px",
+            "width": "84px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/manequin-we753af31f6e-31aa3b0b.jpg",
+          "href": "identite.html",
+          "label": "IDENTITE"
+        },
+        {
+          "type": "image",
+          "name": "lapin medaille",
+          "layout": {
+            "left": "520px",
+            "top": "1560px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/lapin-medaille-we04e60d39b6-40d78d7d.jpg",
+          "href": "legitimite.html",
+          "label": "LEGITIMITE"
+        },
+        {
+          "type": "text",
+          "name": "WE958f3f8170",
+          "layout": {
+            "width": "auto",
+            "left": "150px",
+            "top": "1567px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "VALEUR",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">VALEUR</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE28da1296a1",
+          "layout": {
+            "width": "auto",
+            "left": "760px",
+            "top": "1583px",
+            "height": "auto",
+            "z-index": "18"
+          },
+          "text": "CROYANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CROYANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "direction",
+          "layout": {
+            "left": "230px",
+            "top": "1590px",
+            "width": "114px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/direction-we0b396d894d-83ec92f0.jpg",
+          "href": "choix.html",
+          "label": "(NON) CHOIX"
+        },
+        {
+          "type": "text",
+          "name": "WE1283e5bd33",
+          "layout": {
+            "width": "auto",
+            "left": "40px",
+            "top": "1630px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "SECRET",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">SECRET<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE36013ca6ef",
+          "layout": {
+            "width": "auto",
+            "left": "640px",
+            "top": "1640px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "text": "TRAHISON",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">TRAHISON</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE61cef29960",
+          "layout": {
+            "width": "auto",
+            "left": "30px",
+            "top": "1650px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "text": "(famille)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(famille)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEd45f8046f4",
+          "layout": {
+            "width": "auto",
+            "left": "380px",
+            "top": "1650px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "IDENTITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">IDENTITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE2799dac7f5",
+          "layout": {
+            "width": "auto",
+            "left": "250px",
+            "top": "1683px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "(NON) CHOIX",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(NON) CHOIX</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE9398960b33",
+          "layout": {
+            "width": "auto",
+            "left": "500px",
+            "top": "1690px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "text": "LEGITIMITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">LEGITIMITE<br/></span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

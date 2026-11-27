@@ -1,0 +1,328 @@
+{
+  "title": "Le stress",
+  "source": "https://www.hypnosite.fr/stress.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "595px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "STRESS"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEcf5c859f3e",
+          "layout": {
+            "width": "250px",
+            "left": "240px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "STRESS",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">STRESS</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEe5f5a827b3",
+          "layout": {
+            "width": "790px",
+            "height": "auto",
+            "left": "50%",
+            "top": "450px",
+            "font-size": "18px",
+            "font-family": "'Tox Typewriter'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "\"Le stress n'est que la soumission avouée à des contraintes non choisies.\" Grégoire LACROIX",
+          "html": "<span>\"Le stress n'est que la soumission avouée à des contraintes non choisies.\" Grégoire LACROIX</span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2288px",
+      "items": [
+        {
+          "type": "image",
+          "name": "ventilateur",
+          "layout": {
+            "left": "500px",
+            "top": "-10px",
+            "width": "333px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/ventilateur-f0ab97d4.jpg",
+          "href": "",
+          "label": "ventilateur"
+        },
+        {
+          "type": "text",
+          "name": "WE556d463913",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "30px",
+            "top": "-6px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3"
+          },
+          "text": "Le stress est devenu un mot d’usage courant que les gens utilisent indifféremment, soit pour décrire les multiples événements et circonstances que leur impose leur quotidien, soit pour exprimer les diverses conséquences émotionnelles que de tels événements peuvent induire.  Le stress est donc la résultante des interactions d’un individu avec son environnement. C'est un phénomène universel lié à l’existence et à la poursuite de la vie sur la planète Terre ; il est d’abord source d’excitation sensorielle et motrice permettant la croissance des organismes terrestres. On peut alors comprendre le regard du père du stress, Hans Selye, liant le stress et la vie ; trop de stress nuit aux organismes terrestres, l'absence de stress = mort ! Le stress est donc non seulement utile, mais nécessaire à la survie. C'est ce qu'on appelle le stress aigu, qui correspond aux réactions de notre organisme quand nous faisons face à une menace ou un enjeu ponctuel, et qui disparaît quand la situation de stress prend fin. Il est un concept aux limites de la métallurgie, de la psychologie, de la psychiatrie, de la neurophysiologie, de la neurochimie, de l’immunologie, de la psychosociologie, de la psychanalyse, de la psychosomatique, de la neuropsychanalyse, etc. Il vient du latin stringere qui signifie « étreindre, serrer, resserrer, lier, pincer, serrer le cœur, blesser, offenser », qui a donné naissance en français à « étreindre, entourer avec le corps, avec les membres, en serrant étroitement », accompagné de sentiments opposés puisqu’il est possible d’étreindre quelqu’un sur son cœur, sa poitrine, mais aussi de l’étouffer ; « étouffer » nous conduit à « oppresser, serrer » : angoisse, anxiété, sentiment de détresse qui étreint le cœur, l’âme, et nous conduit à détresse, autre mot issu de stringere, à savoir : sentiment d’abandon, de délaissement, de solitude, d’impuissance… que l’on éprouve dans une situation poignante. La conception du stress appliquée aux êtres humains est à l’origine de toutes les recherches entreprises sur l’établissement de relations entre les événements de la vie, et leurs conséquences : maladies somatiques et modifications du fonctionnement mental et psychique des individus pour s’adapter aux situations générées par le stress. On doit souligner le fait que la vie somatique et psychique des êtres humains se développe dans un processus constant d’adaptation à l’environnement. Mais que les êtres humains sont inégaux dans leurs réactions face au stress. Le stress est donc un état fondamental du comportement humain. Dans notre vie quotidienne, il nous oblige à nous adapter face à ce qui le déclenche. Il a pour fonction d'adapter le meilleur comportement, la meilleur attitude biologique et émotionnelle en réponse au contexte du moment.  En somme, il est un processus dynamique d’adaptation porté sur l’extérieur.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">Le stress est devenu un mot d’usage courant que les gens utilisent indifféremment, soit pour décrire les multiples événements et circonstances que leur impose leur quotidien, soit pour exprimer les diverses conséquences émotionnelles que de tels événements peuvent induire.  Le stress est donc la résultante des interactions d’un individu avec son environnement.  <br/><br/>C'est un phénomène universel lié à l’existence et à la poursuite de la vie sur la planète Terre ; il est d’abord source d’excitation sensorielle et motrice permettant la croissance des organismes terrestres. On peut alors comprendre le regard du père du stress, Hans Selye, liant le stress et la vie ; trop de stress nuit aux organismes terrestres, l'absence de stress = mort ! Le stress est donc non seulement utile, mais nécessaire à la survie. C'est ce qu'on appelle le stress aigu, qui correspond aux réactions de notre organisme quand nous faisons face à une menace ou un enjeu ponctuel, et qui disparaît quand la situation de stress prend fin. <br/><br/> Il est un concept aux limites de la métallurgie, de la psychologie, de la psychiatrie, de la neurophysiologie, de la neurochimie, de l’immunologie, de la psychosociologie, de la psychanalyse, de la psychosomatique, de la neuropsychanalyse, etc. Il vient du latin stringere qui signifie « étreindre, serrer, resserrer, lier, pincer, serrer le cœur, blesser, offenser », qui a donné naissance en français à « étreindre, entourer avec le corps, avec les membres, en serrant étroitement », accompagné de sentiments opposés puisqu’il est possible d’étreindre quelqu’un sur son cœur, sa poitrine, mais aussi de l’étouffer ; « étouffer » nous conduit à « oppresser, serrer » : angoisse, anxiété, sentiment de détresse qui étreint le cœur, l’âme, et nous conduit à détresse, autre mot issu de stringere, à savoir : sentiment d’abandon, de délaissement, de solitude, d’impuissance… que l’on éprouve dans une situation poignante.<br/> <br/> La conception du stress appliquée aux êtres humains est à l’origine de toutes les recherches entreprises sur l’établissement de relations entre les événements de la vie, et leurs conséquences : maladies somatiques et modifications du fonctionnement mental et psychique des individus pour s’adapter aux situations générées par le stress. On doit souligner le fait que la vie somatique et psychique des êtres humains se développe dans un processus constant d’adaptation à l’environnement. Mais que les êtres humains sont inégaux dans leurs réactions face au stress.<br/><br/>Le stress est donc un état fondamental du comportement humain. Dans notre vie quotidienne, il nous oblige à nous adapter face à ce qui le déclenche. Il a pour fonction d'adapter le meilleur comportement, la meilleur attitude biologique et émotionnelle en réponse au contexte du moment.  En somme, il est un processus dynamique d’adaptation porté sur l’extérieur. </span><br/> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE18dfa7d3db",
+          "layout": {
+            "width": "400px",
+            "height": "auto",
+            "left": "470px",
+            "top": "470px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "2"
+          },
+          "text": "Le stress reste une notion large, qui caractérise un phénomène qui relève à la fois du biologique, du psychologique et du social. Plusieurs manières de l’envisager se sont succédé et cohabitent encore, certaines relevant davantage des sciences médicales : • le modèle de Selye, établi dès les années 1930, est le premier du genre. Le stress, qualifié de  \"syndrome général d’adaptation\"  y est défini comme la réponse de l’organisme à toute demande qui lui est faite, dans une finalité d’adaptation . Hans Selye distingue trois phases : réaction d’alarme (mobilisation des forces de défense), stade de résistance (complète adaptation à l’agent stressant) et éventuellement stade d’épuisement (le sujet n’a plus les capacités à faire face) ; • le modèle de Laborit définit le stress comme réaction assurant la survie de l’organisme face à un danger. Elle se produit lorsque l’individu, face à une situation stressante, ne peut ni lutter ni fuir, subissant ainsi une \"inhibition de l’action\" aux conséquences potentiellement pathogènes ; • le modèle de Lazarus met en évidence le fait que l’individu procède à une double évaluation face à une situation stressante : celle, primaire, du danger ou de la menace que fait peser cette situation, et celle, secondaire, des ressources dont il dispose pour y faire face. Richard Lazarus insiste sur l’importance de cette perception de la situation comme menaçante. A court terme, le stress n'est pas nécessairement mauvais, mais ses effets à long terme peuvent engendrer des problèmes de santé. Il arrive que ce stress perçu est difficilement surmontable, renvoyant ainsi l’individu dans un contexte de souffrance. Sa mauvaise gestion peut entrainer un dysfonctionnement psycho-physiologique comme des troubles du sommeil, de l’appétit, de l'irritabilité, des contractures, des migraines, des dysfonctionnements digestifs ou des problèmes cutanés, etc. Non gérer, il peut faire glisser le stressé dans les addictions ou la dépression (burnout). Ainsi, ormis l'hypnose qui favorise une perspective différente quant à la compréhension de certaines situations de vie et engendrant la mise en place de ressources efficaces face au(x) stresseur(s), il y a l’humour qui réduit l’impact du stress et facilite une bonne adaptation.",
+          "html": "<span><span style=\"font-size:18px;font-family:'Tox Typewriter';\">Le stress reste une notion large, qui caractérise un phénomène qui relève à la fois du biologique, du psychologique et du social. Plusieurs manières de l’envisager se sont succédé et cohabitent encore, certaines relevant davantage des sciences médicales : <br/> • le modèle de Selye, établi dès les années 1930, est le premier du genre. Le stress, qualifié de  \"syndrome général d’adaptation\"  y est défini comme la réponse de l’organisme à toute demande qui lui est faite, dans une finalité d’adaptation . Hans Selye distingue trois phases : réaction d’alarme (mobilisation des forces de défense), stade de résistance (complète adaptation à l’agent stressant) et éventuellement stade d’épuisement (le sujet n’a plus les capacités à faire face) ; <br/> • le modèle de Laborit définit le stress comme réaction assurant la survie de l’organisme face à un danger. Elle se produit lorsque l’individu, face à une situation stressante, ne peut ni lutter ni fuir, subissant ainsi une \"inhibition de l’action\" aux conséquences potentiellement pathogènes ; <br/> • le modèle de Lazarus met en évidence le fait que l’individu procède à une double évaluation face à une situation stressante : celle, primaire, du danger ou de la menace que fait peser cette situation, et celle, secondaire, des ressources dont il dispose pour y faire face. Richard Lazarus insiste sur l’importance de cette perception de la situation comme menaçante. <br/><br/>A court terme, le stress n'est pas nécessairement mauvais, mais ses effets à long terme peuvent engendrer des problèmes de santé. Il arrive que ce stress perçu est difficilement surmontable, renvoyant ainsi l’individu dans un contexte de souffrance. Sa mauvaise gestion peut entrainer un dysfonctionnement psycho-physiologique comme des troubles du sommeil, de l’appétit, de l'irritabilité, des contractures, des migraines, des dysfonctionnements digestifs ou des problèmes cutanés, etc. Non gérer, il peut faire glisser le stressé dans les addictions ou la dépression (burnout). <br/><br/>Ainsi, ormis l'hypnose qui favorise une perspective différente quant à la compréhension de certaines situations de vie et engendrant la mise en place de ressources efficaces face au(x) stresseur(s), il y a l’humour qui réduit l’impact du stress et facilite une bonne adaptation.   </span><br/> </span>"
+        },
+        {
+          "type": "image",
+          "name": "main femme",
+          "layout": {
+            "left": "50px",
+            "top": "1830px",
+            "width": "95px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "src": "assets/main-femme-wec73f13b2ed-0c02bce2.jpg",
+          "href": "assets/echelle-stress-percu-c91dca62.pdf",
+          "label": "ECHELLE DU STRESS PERCU"
+        },
+        {
+          "type": "text",
+          "name": "WEad7abe123f",
+          "layout": {
+            "left": "160px",
+            "top": "1830px",
+            "width": "auto",
+            "height": "auto",
+            "z-index": "17"
+          },
+          "text": "ECHELLE DU STRESS PERCU",
+          "html": "<a href=\"assets/echelle-stress-percu-c91dca62.pdf\"><span style=\"font-size:18px;font-family:'Tox Typewriter';color:rgb(0, 0, 0);\">ECHELLE DU STRESS PERCU</span><br/></a>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE031d66598d",
+          "layout": {
+            "width": "380px",
+            "left": "50%",
+            "top": "1930px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "14",
+            "transform": "translateX(-50%)"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "tour eiffel",
+          "layout": {
+            "left": "90px",
+            "top": "2020px",
+            "width": "93px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "src": "assets/tour-eiffel-weff2e5fb6db-3154effd.jpg",
+          "href": "modele.html",
+          "label": "MODELE"
+        },
+        {
+          "type": "image",
+          "name": "singe velo",
+          "layout": {
+            "left": "730px",
+            "top": "2020px",
+            "width": "73px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/singe-velo-we35636e570e-b750e566.jpg",
+          "href": "comportement.html",
+          "label": "COMPORTEMENT"
+        },
+        {
+          "type": "image",
+          "name": "elephant",
+          "layout": {
+            "left": "400px",
+            "top": "2030px",
+            "width": "123px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/elephant-we910506204e-144463ef.jpg",
+          "href": "confiance.html",
+          "label": "ESTIME"
+        },
+        {
+          "type": "image",
+          "name": "coeur emotion",
+          "layout": {
+            "left": "240px",
+            "top": "2050px",
+            "width": "93px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "src": "assets/coeur-emotion-web600bc28ba-95b52d74.jpg",
+          "href": "emotion.html",
+          "label": "EMOTION"
+        },
+        {
+          "type": "image",
+          "name": "lune",
+          "layout": {
+            "left": "590px",
+            "top": "2080px",
+            "width": "72px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/lune-we736166df41-f61bb721.jpg",
+          "href": "sommeil.html",
+          "label": "SOMMEIL"
+        },
+        {
+          "type": "text",
+          "name": "WEa77aad6a2e",
+          "layout": {
+            "width": "auto",
+            "left": "110px",
+            "top": "2180px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "text": "MODELE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">MODELE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEf253e0f199",
+          "layout": {
+            "width": "auto",
+            "left": "710px",
+            "top": "2180px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "COMPORTEMENT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">COMPORTEMENT</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE6fe445ec14",
+          "layout": {
+            "width": "auto",
+            "left": "420px",
+            "top": "2200px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "text": "CONFIANCE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CONFIANCE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEe6e86efd6e",
+          "layout": {
+            "width": "auto",
+            "left": "260px",
+            "top": "2210px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "text": "EMOTION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">EMOTION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE961df7c10d",
+          "layout": {
+            "width": "auto",
+            "left": "590px",
+            "top": "2210px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "SOMMEIL",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">SOMMEIL<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WEe9f51f0882",
+          "layout": {
+            "width": "auto",
+            "left": "430px",
+            "top": "2220px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "text": "ESTIME",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ESTIME</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

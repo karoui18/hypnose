@@ -1,0 +1,386 @@
+{
+  "title": "oser",
+  "source": "https://www.hypnosite.fr/oser.htm",
+  "width": "900px",
+  "layers": [
+    {
+      "name": "content",
+      "height": "596px",
+      "items": [
+        {
+          "type": "image",
+          "name": "art nouveau bandeau titre",
+          "layout": {
+            "left": "0",
+            "top": "0",
+            "width": "892px",
+            "height": "auto",
+            "z-index": "1"
+          },
+          "src": "assets/art-nouveau-bandeau-titre-3b62aa59.jpg",
+          "href": "",
+          "label": "OSER"
+        },
+        {
+          "type": "image",
+          "name": "pointing 1",
+          "layout": {
+            "left": "10px",
+            "top": "90px",
+            "width": "79px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/pointing-1-we43276a28c3-89e645ac.jpg",
+          "href": "index.html",
+          "label": "pointing 1"
+        },
+        {
+          "type": "text",
+          "name": "WEf728bfe409",
+          "layout": {
+            "width": "390px",
+            "left": "220px",
+            "top": "160px",
+            "height": "auto",
+            "text-align": "left",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "2"
+          },
+          "text": "OSER",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:70px;\">OSER</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE923767676c",
+          "layout": {
+            "width": "580px",
+            "height": "auto",
+            "left": "50%",
+            "top": "450px",
+            "color": "#fff",
+            "line-height": "24px",
+            "text-align": "left",
+            "font-size": "13px",
+            "font-family": "'Courier Polski 1941'",
+            "z-index": "3",
+            "transform": "translateX(-50%)"
+          },
+          "text": "“Ce n'est pas parce que les choses sont difficiles que nous n'osons pas, c'est parce que nous n'osons pas qu'elles sont difficiles.” Sénèque",
+          "html": "<span><span style=\"color:rgb(0, 0, 0);font-family:'Tox Typewriter';font-size:18px;\">“Ce n'est pas parce que les choses sont difficiles que nous n'osons pas, c'est parce que nous n'osons pas qu'elles sont difficiles.” Sénèque<br/></span> </span>"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "height": "2013px",
+      "items": [
+        {
+          "type": "text",
+          "name": "WEfa36b645c7",
+          "layout": {
+            "width": "390px",
+            "height": "auto",
+            "left": "30px",
+            "top": "-5px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "1"
+          },
+          "text": "Trouver sa place dans la vie et oser l’occuper vraiment, telle est, au fond, la promesse de toute démarche thérapeutique. On dit souvent que le premier coup de téléphone à un thérapeute, la première inscription à un stage de développement personnel sont déjà bénéfiques : ils signifient que l’on se donne rendez-vous à soi-même, malgré ses peurs, ses doutes, ses résistances. D’autant que le doute de soi est l’un des principaux motifs de consultation. Pourtant, oser est une vertu humaine que nous pouvons tous travailler et favoriser. Grâce à elle, nous pouvons éviter les difficultés quotidiennes avec plus de calme et d'hardiesse. Le premier pas pour oser c'est de concevoir une réalisation, une direction, c'est de la rêver, l'imaginer, la nommer. C'est se donner les moyens de créer une nouvelle représentation du monde pour en définir d'autres, de concevoir et d'animer l'avenir. C'est pouvoir transgresser nos croyances limitantes et réorganiser l'ordonnancement de nos valeurs. C'est également aller plus loin dans l'expression et l'exploration de nos désirs, fantasmes ou rêves de toute-puissance et ceci n'est absolument pas dangereux si en même temps nous abordons nos peurs, nos démons, nos failles et nos fragilités. Un vieux proverbe nous rappelle que la peur et le courage sont frère et sœur. Les peurs sont un ajustement quasi instinctif entre nous et la compréhension de notre environnement. D’une certaine manière, c’est comme si l’être humain était toujours obligé de passer les barrières de l’angoisse et de l’insécurité pour atteindre ses buts. Alors, d’où pouvons-nous tirer cette étincelle inspirante capable de stimuler notre courage dans les moments où nous en avons le plus besoin ? Généralement, nous sommes très résistants au changement, de la même manière que la peur nous conditionne. Par conséquent, c’est là qu’entre en jeu une capacité que nous pouvons tous travailler et favoriser : l’audace psychologique. C'est cette valeur personnelle qui nous permet de gagner en confiance, qui mobilise nos ressources internes afin que nous puissions atteindre nos buts et affronter les adversités. L'idée est de savoir investir des ressources et développer des habilités pour travailler sur notre propre bien-être, celles qui contrôlent mieux le stress et l’anxiété. Ainsi, parmi toutes ces forces une se démarque : l’audace. Or, elle n’est pas à comprendre uniquement comme synonyme de courage. En effet, elle génère des stratégies dérivées de la clarté de pensée. Elle inclut ainsi le désir d’agir de manière concrète car la personne audacieuse a un code éthique, une direction, un objectif et la volonté de vaincre ses peurs. Oser requiert donc de perdre momentanément l’équilibre. Or, ne pas oser implique tôt ou tard de se perdre soi-même. Apprenons ainsi à éveiller cette valeur, concédons le permis d’être un peu plus audacieux en travaillant sur ces dimensions.",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Trouver sa place dans la vie et oser l’occuper vraiment, telle est, au fond, la promesse de toute démarche thérapeutique. On dit souvent que le premier coup de téléphone à un thérapeute, la première inscription à un stage de développement personnel sont déjà bénéfiques : ils signifient que l’on se donne rendez-vous à soi-même, malgré ses peurs, ses doutes, ses résistances. D’autant que le doute de soi est l’un des principaux motifs de consultation. Pourtant, oser est une vertu humaine que nous pouvons tous travailler et favoriser. Grâce à elle, nous pouvons éviter les difficultés quotidiennes avec plus de calme et d'hardiesse.<br/> <br/> Le premier pas pour oser c'est de concevoir une réalisation, une direction, c'est de la rêver, l'imaginer, la nommer. C'est se donner les moyens de créer une nouvelle représentation du monde pour en définir d'autres, de concevoir et d'animer l'avenir. C'est pouvoir transgresser nos croyances limitantes et réorganiser l'ordonnancement de nos valeurs. C'est également aller plus loin dans l'expression et l'exploration de nos désirs, fantasmes ou rêves de toute-puissance et ceci n'est absolument pas dangereux si en même temps nous abordons nos peurs, nos démons, nos failles et nos fragilités. <br/><br/> Un vieux proverbe nous rappelle que la peur et le courage sont frère et sœur. Les peurs sont un ajustement quasi instinctif entre nous et la compréhension de notre environnement. D’une certaine manière, c’est comme si l’être humain était toujours obligé de passer les barrières de l’angoisse et de l’insécurité pour atteindre ses buts. Alors, d’où pouvons-nous tirer cette étincelle inspirante capable de stimuler notre courage dans les moments où nous en avons le plus besoin ? Généralement, nous sommes très résistants au changement, de la même manière que la peur nous conditionne. Par conséquent, c’est là qu’entre en jeu une capacité que nous pouvons tous travailler et favoriser : l’audace psychologique. C'est cette valeur personnelle qui nous permet de gagner en confiance, qui mobilise nos ressources internes afin que nous puissions atteindre nos buts et affronter les adversités. <br/><br/> L'idée est de savoir investir des ressources et développer des habilités pour travailler sur notre propre bien-être, celles qui contrôlent mieux le stress et l’anxiété. Ainsi, parmi toutes ces forces une se démarque : l’audace. Or, elle n’est pas à comprendre uniquement comme synonyme de courage. En effet, elle génère des stratégies dérivées de la clarté de pensée. Elle inclut ainsi le désir d’agir de manière concrète car la personne audacieuse a un code éthique, une direction, un objectif et la volonté de vaincre ses peurs.  <br/><br/> Oser requiert donc de perdre momentanément l’équilibre. Or, ne pas oser implique tôt ou tard de se perdre soi-même. Apprenons ainsi à éveiller cette valeur, concédons le permis d’être un peu plus audacieux en travaillant sur ces dimensions. <br/><br/></span> </span>"
+        },
+        {
+          "type": "image",
+          "name": "fusee",
+          "layout": {
+            "left": "450px",
+            "top": "0",
+            "width": "435px",
+            "height": "auto",
+            "z-index": "4"
+          },
+          "src": "assets/fusee-we6782648762-6180e2f7.jpg",
+          "href": "",
+          "label": "fusee"
+        },
+        {
+          "type": "text",
+          "name": "WEa023210ce8",
+          "layout": {
+            "width": "390px",
+            "height": "auto",
+            "left": "480px",
+            "top": "289px",
+            "color": "#000",
+            "line-height": "24px",
+            "text-align": "justify",
+            "background-color": "#fff",
+            "font-size": "16px",
+            "font-family": "'Royal'",
+            "z-index": "2"
+          },
+          "text": "Cependant, un aspect qui nous met toujours à l’épreuve est l’incertitude. Cet espace où grandissent les peurs et où règne l’insécurité. Le fait de ne pas savoir ce qu’il va se passer génère en nous une certaine angoisse, certaines résistances qui en viennent souvent même à nous paralyser. Il est alors possiblement judicieux d'être à l'écoute de nos résistances. Contrairement à une croyance commune, elles ne sont pas nos ennemies, ne sont pas des fautes ni des faiblesses, bien au contraire. Si elles nous freinent, c'est pour nous protéger, pour prendre en compte les limites actuelles de nos désirs et de notre volonté. Si elles nous bloquent physiquement, c'est aussi pour nous permettre de prendre le temps de mesurer si ce que nous allons engager est approprié. Donc, une manière d’affronter ces situations passe par l’audace psychologique en apprenant à prendre des décisions. Une décision, c’est toujours la première étape, c’est un mouvement, et elle nous permet de prendre les rênes de notre propre vie. Ainsi faut-il prendre le courage de se remettre en question et de penser différemment? Quiconque ne remet pas en question sa réalité finit par s’acclimater, par se laisser vaincre et par se conditionner. La personne audacieuse, elle, évite de se retrouver dans ce genre de posture rigidifiante, car elle a appris à penser différemment, à se poser des questions (dé)structurantes, à vouloir aller plus loin, à se forger sa propre opinion. Alors, oser c'est concevoir valider ces étapes afin de s'accomplir : s'ouvrir au changement reconnaitre ses blessures explorer ses pulsions plonger dans ses racines libérer ses rêves accueillir l'imprévu traverser ses peurs",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">Cependant, un aspect qui nous met toujours à l’épreuve est l’incertitude. Cet espace où grandissent les peurs et où règne l’insécurité. Le fait de ne pas savoir ce qu’il va se passer génère en nous une certaine angoisse, certaines résistances qui en viennent souvent même à nous paralyser. <br/><br/> Il est alors possiblement judicieux d'être à l'écoute de nos résistances. Contrairement à une croyance commune, elles ne sont pas nos ennemies, ne sont pas des fautes ni des faiblesses, bien au contraire. Si elles nous freinent, c'est pour nous protéger, pour prendre en compte les limites actuelles de nos désirs et de notre volonté. Si elles nous bloquent physiquement, c'est aussi pour nous permettre de prendre le temps de mesurer si ce que nous allons engager est approprié. Donc, une manière d’affronter ces situations passe par l’audace psychologique en apprenant à prendre des décisions. Une décision, c’est toujours la première étape, c’est un mouvement, et elle nous permet de prendre les rênes de notre propre vie. <br/><br/> Ainsi faut-il prendre le courage de se remettre en question et de penser différemment? Quiconque ne remet pas en question sa réalité finit par s’acclimater, par se laisser vaincre et par se conditionner. La personne audacieuse, elle, évite de se retrouver dans ce genre de posture rigidifiante, car elle a appris à penser différemment, à se poser des questions (dé)structurantes, à vouloir aller plus loin, à se forger sa propre opinion. <br/><br/>Alors, oser c'est concevoir valider ces étapes afin de s'accomplir :<br/><ul><li>s'ouvrir au changement<br/></li><li>reconnaitre ses blessures<br/></li><li>explorer ses pulsions<br/></li><li>plonger dans ses racines<br/></li><li>libérer ses rêves<br/></li><li>accueillir l'imprévu<br/></li><li>traverser ses peurs<br/></li></ul><br/></span> </span>"
+        },
+        {
+          "type": "text",
+          "name": "WE1c8179bcfb",
+          "layout": {
+            "width": "380px",
+            "left": "480px",
+            "top": "1530px",
+            "height": "auto",
+            "font-family": "'LetteringDecoShadow'",
+            "z-index": "17"
+          },
+          "text": "EN RELATION",
+          "html": "<span><span style=\"color:rgb(12, 12, 12);font-family:'Bohem Press';font-size:40px;\">EN RELATION</span></span>"
+        },
+        {
+          "type": "image",
+          "name": "paon",
+          "layout": {
+            "left": "570px",
+            "top": "1630px",
+            "width": "111px",
+            "height": "auto",
+            "z-index": "3"
+          },
+          "src": "assets/paon-we02029d93b4-1829fde8.jpg",
+          "href": "affirmation.html",
+          "label": "AFFIRMATION"
+        },
+        {
+          "type": "image",
+          "name": "jumelles",
+          "layout": {
+            "left": "740px",
+            "top": "1630px",
+            "width": "97px",
+            "height": "auto",
+            "z-index": "13"
+          },
+          "src": "assets/jumelles-we376f16062f-ab7b2dcb.jpg",
+          "href": "vision.html",
+          "label": "VISION"
+        },
+        {
+          "type": "image",
+          "name": "phare",
+          "layout": {
+            "left": "450px",
+            "top": "1670px",
+            "width": "77px",
+            "height": "auto",
+            "z-index": "15"
+          },
+          "src": "assets/phare-wea274df2f4c-1d5cae36.jpg",
+          "href": "cap.html",
+          "label": "CAP"
+        },
+        {
+          "type": "text",
+          "name": "WE620a3ef9b5",
+          "layout": {
+            "width": "auto",
+            "left": "760px",
+            "top": "1710px",
+            "height": "auto",
+            "z-index": "14"
+          },
+          "text": "VISION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">VISION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "ampoule 4",
+          "layout": {
+            "left": "260px",
+            "top": "1719px",
+            "width": "86px",
+            "height": "auto",
+            "z-index": "20"
+          },
+          "src": "assets/ampoule-4-we6bb3b31355-f9d1981b.jpg",
+          "href": "presuppose.html",
+          "label": "CREATIVITE"
+        },
+        {
+          "type": "text",
+          "name": "WEe08a4ebb6e",
+          "layout": {
+            "width": "auto",
+            "left": "570px",
+            "top": "1740px",
+            "height": "auto",
+            "z-index": "7"
+          },
+          "text": "AFFIRMATION",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">AFFIRMATION</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "poisson bonheur",
+          "layout": {
+            "left": "80px",
+            "top": "1750px",
+            "width": "111px",
+            "height": "auto",
+            "z-index": "8"
+          },
+          "src": "assets/poisson-bonheur-wea96b735570-34ae1995.jpg",
+          "href": "bonheur.html",
+          "label": "(bonheur)"
+        },
+        {
+          "type": "image",
+          "name": "boule cristal",
+          "layout": {
+            "left": "730px",
+            "top": "1760px",
+            "width": "96px",
+            "height": "auto",
+            "z-index": "9"
+          },
+          "src": "assets/boule-cristal-wedd46ae0123-2cb5478d.jpg",
+          "href": "projet.html",
+          "label": "PROJET"
+        },
+        {
+          "type": "image",
+          "name": "pelican",
+          "layout": {
+            "left": "580px",
+            "top": "1790px",
+            "width": "111px",
+            "height": "auto",
+            "z-index": "5"
+          },
+          "src": "assets/pelican-we202c1df069-f5309f9a.jpg",
+          "href": "authenticite.html",
+          "label": "AUTHENTICITE"
+        },
+        {
+          "type": "text",
+          "name": "WE93decd78e8",
+          "layout": {
+            "width": "auto",
+            "left": "50px",
+            "top": "1830px",
+            "height": "auto",
+            "z-index": "11"
+          },
+          "text": "ATARAXIE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">ATARAXIE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE8076bd0b1b",
+          "layout": {
+            "width": "auto",
+            "left": "480px",
+            "top": "1830px",
+            "height": "auto",
+            "z-index": "16"
+          },
+          "text": "CAP",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CAP</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE122dcfe8c2",
+          "layout": {
+            "width": "auto",
+            "left": "260px",
+            "top": "1840px",
+            "height": "auto",
+            "z-index": "21"
+          },
+          "text": "CREATIVITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">CREATIVITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE4e88044421",
+          "layout": {
+            "width": "auto",
+            "left": "90px",
+            "top": "1850px",
+            "height": "auto",
+            "z-index": "12"
+          },
+          "text": "(bonheur)",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;line-height:21px;\">(bonheur)<br/></span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "image",
+          "name": "casque",
+          "layout": {
+            "left": "360px",
+            "top": "1870px",
+            "width": "130px",
+            "height": "auto",
+            "z-index": "18"
+          },
+          "src": "assets/casque-we7cd8f49598-80536c03.jpg",
+          "href": "confort.html",
+          "label": "(in) CONFORT"
+        },
+        {
+          "type": "text",
+          "name": "WE714095cb40",
+          "layout": {
+            "width": "auto",
+            "left": "570px",
+            "top": "1880px",
+            "height": "auto",
+            "z-index": "6"
+          },
+          "text": "AUTHENTICITE",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">AUTHENTICITE</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE31c839b6db",
+          "layout": {
+            "width": "auto",
+            "left": "750px",
+            "top": "1880px",
+            "height": "auto",
+            "z-index": "10"
+          },
+          "text": "PROJET",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">PROJET</span></span>",
+          "mobileHidden": true
+        },
+        {
+          "type": "text",
+          "name": "WE51c2556578",
+          "layout": {
+            "width": "auto",
+            "left": "370px",
+            "top": "1950px",
+            "height": "auto",
+            "z-index": "19"
+          },
+          "text": "(in) CONFORT",
+          "html": "<span><span style=\"font-family:'Tox Typewriter';font-size:18px;\">(in) CONFORT</span></span>",
+          "mobileHidden": true
+        }
+      ]
+    }
+  ]
+}

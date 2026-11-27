@@ -1,0 +1,46 @@
+[
+  {
+    "id": "hamilton",
+    "decoded": true
+  },
+  {
+    "id": "attitudes",
+    "decoded": true
+  },
+  {
+    "id": "lsas",
+    "decoded": true
+  },
+  {
+    "id": "asrs",
+    "decoded": true
+  },
+  {
+    "id": "rosenberg",
+    "decoded": true
+  },
+  {
+    "id": "estime-sociale",
+    "decoded": true
+  },
+  {
+    "id": "tas20",
+    "decoded": true
+  },
+  {
+    "id": "pss10",
+    "decoded": true
+  },
+  {
+    "id": "horn",
+    "decoded": true
+  },
+  {
+    "id": "beck",
+    "decoded": true
+  },
+  {
+    "id": "valeurs",
+    "decoded": true
+  }
+]

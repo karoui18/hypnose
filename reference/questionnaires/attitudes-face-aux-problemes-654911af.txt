@@ -1,0 +1,55 @@
+        Questionnaire d'attitude face aux problèmes.
+
+
+ Le questionnaire d'attitude face aux problèmes (Gosselin, Ladouceur, Pelletier 2000)
+permet d'évaluer l'attitude des sujets à l'égard des problèmes. Des études ont montré
+que les sujets souffrant d'un trouble d'anxiété généralisé ont des difficultés à
+résoudre les problèmes de la vie quotidienne. Les problèmes restant ainsi non résolus,
+les inquiétudes prennent forme ou sont augmentées.
+
+Cotation : 1 : pas du tout correspondant
+           2 : un peu correspondant
+           3 : assez correspondant
+           4 : très correspondant
+           5 : extrêmement correspondant
+
+  Je perçois les problèmes comme étant menaçant pour mon bien-être.
+
+  Je doute souvent de mes capacités à résoudre les problèmes.
+  Souvent, avant même d’avoir essayé de trouver une solution, je me dis qu'il est
+  difficile de résoudre un problème.
+  Les problèmes qui m'arrivent me semblent souvent insurmontables.
+  Lorsque je tente de résoudre un problème, je remets souvent en question mes
+  habiletés.
+  Souvent, j'ai l'impression que les problèmes qui m’arrivent ne peuvent pas être
+  résolus.
+  Même si j'arrive à voir certaines solutions à mes problèmes, je doute qu'ils
+  pourront se régler facilement.
+  J'ai tendance à voir les problèmes comme un danger.
+  Ma première réaction devant un problème est de remettre en question mes
+  habiletés.
+  Je perçois souvent mes problèmes comme étant plus gros qu'ils le sont en
+  réalité.
+  Même si j'ai regardé un problème sous tous les angles possibles, je me demande
+  encore si la solution que j'ai retenue va être efficace.
+  Je considère les problèmes comme des obstacles qui perturbent mon
+  fonctionnement
+
+  Normes (données à titre indicatif) = 25                                Total :
+Calcul du score :
+
+Méthode : Le score total s'obtient en faisant la somme des réponses aux 12 items.
+
+Chaque question étant notée de 1 à 5, le score final varie de 12 à 60 points.
+
+Plus le score est élevé, plus l'attitude face aux problèmes est négative.
+
+Score faible (proche de 12) : L'individu possède une orientation positive face aux
+problèmes. Il a tendance à les percevoir comme des défis surmontables, à avoir
+confiance en sa capacité à les résoudre et à tolérer l'incertitude.
+
+Score élevé (proche de 60) : L'individu présente une orientation négative marquée. Il
+perçoit généralement les problèmes comme des menaces personnelles, doute fortement
+de ses compétences pour trouver des solutions et ressent une frustration ou un
+découragement rapide face aux obstacles.
+

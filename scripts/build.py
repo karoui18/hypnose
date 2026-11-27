@@ -4,6 +4,9 @@ import html, json, re
 
 ROOT = Path(__file__).resolve().parents[1]
 esc = lambda value: html.escape(str(value), quote=True)
+questionnaires = json.loads((ROOT/'content/questionnaires.json').read_text())
+questionnaire_links = {q['pdf']: q['id'] for q in questionnaires}
+(ROOT/'js/questionnaire-data.js').write_text('// Generated from content/questionnaires.json. Edit the JSON, then rebuild.\nwindow.HypnoQuestionnaires = '+json.dumps(questionnaires,ensure_ascii=False,indent=2)+';\n')
 
 def render(item, order=0):
     style = ';'.join(f'{key}:{value}' for key,value in item['layout'].items())
@@ -54,18 +57,22 @@ for file in sorted((ROOT/'content').glob('*.json')):
         for pdf in downloads:
             if pdf['local'].startswith('assets/') and 'DEONTOLOGIE' not in pdf['source']:
                 title=unquote(pdf['source'].split('/')[-1]).removesuffix('.pdf')
-                links.append(f'<li><a href="{esc(pdf["local"])}">{esc(title)} — PDF</a></li>')
-        contact='<section class="download-library"><h2>Questionnaires à télécharger</h2><p>Ces outils ne constituent pas un diagnostic.</p><ul>'+''.join(links)+'</ul></section>'
+                links.append(f'<li><a href="{esc(pdf["local"])}">{esc(title)} — questionnaire interactif</a></li>')
+        contact='<section class="download-library"><h2>Questionnaires interactifs</h2><p>Répondez ici ou sur votre téléphone. Aucune réponse n’est enregistrée. Ces outils ne constituent pas un diagnostic.</p><ul>'+''.join(links)+'</ul></section>'
     if file.stem=='formulaire':
         # The source POST endpoint cannot be cloned into a static website.
         # Preserve the form's location, with an explicit email-draft interaction.
         contact_form='''<form class="message-form" id="message-form"><label for="contact-name">Vos nom et prénom</label><input id="contact-name" name="name" autocomplete="name" required><label for="contact-phone">Votre téléphone</label><input id="contact-phone" name="phone" type="tel" autocomplete="tel"><label for="contact-email">Votre courriel</label><input id="contact-email" name="email" type="email" autocomplete="email" required><label for="contact-message">Votre missive</label><textarea id="contact-message" name="message" rows="4" required></textarea><button type="submit">Préparer mon courriel</button><p id="form-status" role="status">Ce formulaire ouvre votre messagerie. Vous y confirmez l’envoi.</p><noscript><a href="mailto:sebocchipnose@gmail.com">Écrire par courriel</a></noscript></form>'''
         sections[-1]=sections[-1].replace('</section>',contact_form+'</section>')
     document=f'''<!doctype html>
-<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{esc(data['title'])}</title><meta name="description" content="Le Cabinet d’Hypnose de Sébastien Occhipinti, à Épernon près de Rambouillet."><link rel="stylesheet" href="styles/fonts.css"><link rel="stylesheet" href="styles/site.css"><script src="js/site.js" defer></script></head>
+<html lang="fr" data-private><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{esc(data['title'])}</title><meta name="description" content="Le Cabinet d’Hypnose de Sébastien Occhipinti, à Épernon près de Rambouillet."><link rel="stylesheet" href="styles/fonts.css"><link rel="stylesheet" href="styles/site.css"><link rel="stylesheet" href="styles/interactive.css"><script src="js/guard.js"></script><script src="js/questionnaire-data.js" defer></script><script src="js/vendor/qrcode.js" defer></script><script src="js/questionnaire-links.js" defer></script><script src="js/site.js" defer></script></head>
 <body class="{'home' if file.stem=='index' else 'inner-page'}"><a class="skip-link" href="#main">Aller au contenu</a>
 <nav class="mobile-nav" aria-label="Navigation principale"><a href="index.html">Le Cabinet d’Hypnose</a><button type="button" aria-expanded="false" aria-controls="mobile-menu">Menu</button><div id="mobile-menu" hidden><a href="cabinet.html">Le cabinet</a><a href="sebastien-occhipinti.html">Le praticien</a><a href="seance.html">Votre séance</a><a href="tests.html">Questionnaires</a><a href="formulaire.html">Contact & tarif</a></div></nav>
 <main id="main" class="site" style="--canvas-width:{esc(data['width'])}">{''.join(sections)}{contact}</main>
-<footer class="site-footer"><a href="index.html">Accueil</a><a href="tests.html">Questionnaires</a><a href="formulaire.html">Contact & tarif</a></footer></body></html>'''
+<footer class="site-footer"><a href="index.html">Accueil</a><a href="tests.html">Questionnaires</a><a href="formulaire.html">Contact & tarif</a><button class="quiet-button" type="button" data-lock>Fermer le cabinet</button></footer><noscript><p>Activez JavaScript pour accéder au cabinet.</p></noscript></body></html>'''
+    for pdf, identifier in questionnaire_links.items():
+        document = document.replace('href="'+esc(pdf)+'"', 'href="questionnaire.html?id='+identifier+'" data-questionnaire="'+identifier+'"')
     (ROOT/(file.stem+'.html')).write_text(document)
+for source, target in [('access.html','acces.html'),('questionnaire.html','questionnaire.html')]:
+    (ROOT/target).write_text((ROOT/'templates'/source).read_text())
 print('Built',len(list(ROOT.glob('*.html'))),'static pages')

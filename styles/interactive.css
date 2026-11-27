@@ -1,0 +1,105 @@
+html[data-private]:not([data-unlocked]) body > :not(noscript){display:none!important}
+*,*::before,*::after{box-sizing:border-box}
+:root{--brass:#785736;--line:#bca98f;--muted:#665e55}
+.interactive-page,.access-page,.victorian-dialog{--paper:#fff;--ink:#211b16}
+.interactive-page,.access-page{margin:0;background:var(--paper);color:var(--ink);font:18px/1.65 Georgia,'Times New Roman',serif}
+.interactive-header{max-width:960px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:20px;padding:24px 28px;border-bottom:1px solid var(--line)}
+.interactive-header a{font:18px 'Tox Typewriter',Georgia,serif;text-decoration:none;color:inherit}
+.interactive-header button{font-size:15px}
+.victorian-card{position:relative;width:min(780px,calc(100% - 40px));margin:44px auto 56px;padding:40px 52px;border:4px double var(--brass);background:#fff;box-shadow:0 5px 0 #eee9e2}
+.victorian-card h1,.victorian-dialog h2{font:normal clamp(27px,4vw,39px)/1.25 'Tox Typewriter',Georgia,serif;letter-spacing:-.03em;margin:12px 0 18px;text-wrap:balance}
+.victorian-card h2{font-size:21px;line-height:1.5;font-weight:normal;margin:20px 0}
+.eyebrow{font:14px/1.5 'Tox Typewriter',Georgia,serif;text-transform:uppercase;letter-spacing:.08em;color:var(--brass);margin:0}
+.ornament{display:block;width:160px;height:46px;object-fit:contain;margin:16px auto 26px}
+.intro-copy{font-size:20px;line-height:1.65}
+.privacy-note,.small-note{font:16px/1.6 Georgia,serif;color:var(--muted)}
+.privacy-note{border-top:1px solid #ddd1c3;padding-top:18px;margin-top:24px}
+.ink-button,.quiet-button{font:17px/1.4 'Tox Typewriter',Georgia,serif;min-height:48px;display:inline-flex;align-items:center;justify-content:center;text-align:center;padding:13px 20px;cursor:pointer;border:1px solid var(--brass);border-radius:0;text-decoration:none;transition:transform .15s,background .15s}
+.ink-button{background:var(--ink);color:#fff!important;box-shadow:inset 0 0 0 3px #fff,inset 0 0 0 4px var(--ink)}
+.quiet-button{background:#fff;color:var(--ink)}
+.ink-button:active,.quiet-button:active{transform:translateY(1px)}
+@media(hover:hover){.ink-button:hover{background:#513a26;transform:translateY(-1px)}.quiet-button:hover{background:#f5f1eb;transform:translateY(-1px)}}
+.text-link{color:var(--ink);text-underline-offset:4px}
+.score-method{margin-top:28px;padding:18px 0;border-block:1px solid #ddd1c3;font-size:16px}
+.score-method summary{cursor:pointer;font-family:'Tox Typewriter',Georgia,serif;line-height:1.6}
+.score-method a{text-underline-offset:3px}
+.question-progress{font:14px 'Tox Typewriter',Georgia,serif;display:flex;gap:16px;align-items:center;margin:24px 0}
+progress{width:120px;height:8px;margin-left:auto;accent-color:var(--brass)}
+.question-fieldset,.dimension{border:0;padding:0;margin:0;min-width:0}
+.question-fieldset>legend{font:20px/1.65 Georgia,serif;margin-bottom:22px;padding:0}
+.dimension>legend{font:18px 'Tox Typewriter',Georgia,serif;margin-bottom:12px}
+.dimension+.dimension{margin-top:24px}
+.answer-options{display:grid;gap:10px}
+.answer-option{display:flex;align-items:flex-start;gap:12px;padding:13px 16px;border:1px solid var(--line);cursor:pointer;min-height:52px;background:#fff;font:17px/1.55 Georgia,serif}
+.answer-option input{width:19px;height:19px;flex-shrink:0;margin:4px 0 0;accent-color:var(--brass)}
+.answer-option:has(input:checked){border-color:var(--ink);box-shadow:inset 3px 0 0 var(--brass);background:#f4eee6}
+.shaded-option{background:#eee9e2}
+.question-actions{display:flex;gap:12px;align-items:stretch;justify-content:space-between;margin-top:24px}
+.question-actions>*{flex:1}
+.error-message{color:#8b241b;font:16px/1.5 Georgia,serif}
+.error-message:empty{display:none}
+.score-total{display:flex;align-items:baseline;gap:12px;margin:20px 0;font-family:'Tox Typewriter',Georgia,serif}
+.score-total strong{font-weight:normal;font-size:64px;line-height:1.2}
+.score-total span{font-size:22px;color:var(--muted)}
+.subscores{margin:24px 0}
+.subscores>div{display:flex;justify-content:space-between;gap:16px;border-top:1px solid #ddd1c3;padding:16px 0}
+.subscores dt{flex:1}
+.subscores dd{margin:0;text-align:right;font-family:'Tox Typewriter',Georgia,serif}
+.subscores dd span{display:block;font:14px/1.5 Georgia,serif;color:var(--muted)}
+.support-message{padding:16px 20px;border:2px solid var(--brass);margin:22px 0;font-size:17px}
+.support-message h2{margin:0 0 8px}
+.support-message p{margin:0}
+.value-choice{display:grid;grid-template-columns:80px 1fr;align-items:center;gap:16px;margin:16px 0}
+.value-choice select{font:18px Georgia,serif;width:100%;min-height:48px;border:1px solid var(--brass);padding:10px;background:#fff;color:var(--ink);border-radius:0}
+.values-target{max-width:400px;margin:24px auto}
+.values-target svg{display:block;width:100%;height:auto}
+.value-position{padding:16px;margin:20px 0;border:1px solid var(--line);min-width:0}
+.value-position legend{padding:0 8px;font-family:'Tox Typewriter',Georgia,serif}
+.value-position input[type=range]{width:100%;min-height:44px;accent-color:var(--brass)}
+.range-labels{display:flex;justify-content:space-between;gap:12px;font-size:14px}
+.value-position .quiet-button{font-size:14px;padding:8px 12px;min-height:44px}
+.values-legend{columns:2;padding-left:24px}
+.values-legend li{break-inside:avoid;margin-bottom:10px}
+.victorian-dialog{padding:0;border:4px double var(--brass);width:min(560px,calc(100% - 32px));max-height:calc(100svh - 40px);overflow:auto;background:#fff;color:var(--ink);box-shadow:0 12px 60px #0005;font:18px/1.55 Georgia,serif}
+.victorian-dialog::backdrop{background:#211b16b8}
+.dialog-inner{padding:28px 36px;text-align:center}
+.dialog-close{display:block;margin:0 0 20px auto;min-height:44px;padding:8px 12px;border:1px solid var(--line);background:#fff;font:15px 'Tox Typewriter',Georgia,serif;cursor:pointer}
+.victorian-dialog h2{font-size:28px}
+.qr-code{width:220px;max-width:100%;margin:18px auto;background:#fff;line-height:0}
+.qr-code svg{width:100%;height:auto;display:block}
+.qr-note{font-size:14px;color:var(--muted)}
+.questionnaire-open{width:100%}
+.access-page{min-height:100svh;display:grid;place-items:center;padding:24px 0}
+.access-card{width:min(540px,calc(100% - 32px));padding:30px 40px;margin:0;text-align:center}
+.lock-engraving{width:78px;height:106px;object-fit:contain;margin:0 auto 14px}
+.access-card h1{font-size:32px}
+.access-card form{text-align:left}
+.access-card label{display:block;font-family:'Tox Typewriter',Georgia,serif;font-size:16px}
+.access-card input[type=password],.access-card input[type=text]{display:block;width:100%;min-height:52px;margin:8px 0 14px;padding:10px 12px;border:1px solid var(--brass);border-radius:0;font:20px Georgia,serif;background:#fff}
+.access-card .show-password{display:flex;align-items:center;gap:10px;margin:12px 0 22px;font:15px Georgia,serif;min-height:32px}
+.show-password input{width:18px;height:18px;accent-color:var(--brass)}
+.access-card .ink-button{width:100%}
+.access-caption{font-size:15px;color:var(--muted);margin-bottom:0}
+:focus-visible{outline:3px solid #875517;outline-offset:4px}
+.victorian-card [tabindex="-1"]:focus{outline:none}
+@media(max-width:600px){
+ .interactive-header{padding:16px;gap:10px;flex-wrap:wrap}
+ .interactive-header a{font-size:16px}
+ .victorian-card{width:calc(100% - 24px);margin:20px auto 32px;padding:26px 20px}
+ .access-card{margin:0 auto;padding:26px 24px}
+ .victorian-card h1{font-size:27px}
+ .intro-copy{font-size:18px}
+ .question-fieldset>legend{font-size:19px}
+ .question-actions{flex-direction:column-reverse}
+ .question-actions button,.ink-button{width:100%}
+ .question-progress{align-items:flex-start;flex-direction:column;gap:10px}
+ progress{width:100%;margin:0}
+ .dialog-inner{padding:20px}
+ .victorian-dialog h2{font-size:25px}
+ .value-choice{grid-template-columns:60px 1fr;gap:8px}
+ .value-choice select{font-size:16px}
+ .subscores>div{flex-direction:column;gap:6px}
+ .subscores dd{text-align:left}
+ .values-legend{columns:1}
+}
+@media(prefers-reduced-motion:reduce){.ink-button,.quiet-button{transition:none}}

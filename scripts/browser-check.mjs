@@ -36,8 +36,13 @@ try{
   const cmd=(m,p)=>send(m,p,sessionId);
   const evaluate=async expression=>{const r=await cmd('Runtime.evaluate',{expression,awaitPromise:true,returnByValue:true});if(r.exceptionDetails)throw Error(JSON.stringify(r.exceptionDetails));return r.result.value;};
   await cmd('Page.enable');
+  // Exercise original pages after authenticating through the new access screen.
+  await cmd('Page.navigate',{url:`${origin}/acces.html`});
+  await sleep(400);
+  await evaluate(`document.querySelector('#password').value='SebRocks!2026';document.querySelector('#access-form').requestSubmit()`);
+  await sleep(400);
   const representatives=['index','formulaire','tests','anxiete'];
-  const pages=fs.readdirSync(root).filter(p=>p.endsWith('.html')).map(p=>p.slice(0,-5));
+  const pages=fs.readdirSync(root).filter(p=>p.endsWith('.html')&&!['acces.html','questionnaire.html'].includes(p)).map(p=>p.slice(0,-5));
   for(const page of pages){
     for(const width of representatives.includes(page)?[1440,1024,768,390]:[390]){
       await cmd('Emulation.setDeviceMetricsOverride',{width,height:900,deviceScaleFactor:1,mobile:false});

@@ -1,0 +1,86 @@
+                 Echelle d'Anxiété Sociale de Liebowitz
+                (Liebowitz Social Anxiety Scale - LSAS)
+
+
+L'échelle d'anxiété sociale de Liebowitz (LSAS) est une échelle d'hétéro-évaluation
+destinée à mesurer l'intensité de la peur et de l'évitement relatifs à la confrontation
+avec des situations sociales. La passation de cette échelle de 24 items est courte mais
+nécessite une expérience clinique des pathologies anxieuses. La LSAS est utilisée
+fréquemment comme échelle de référence dans les essais cliniques concernant les phobies
+sociales.
+
+La phobie sociale est une pathologie fréquente et souvent invalidante. Jusqu'au
+développement des premiers essais cliniques dans cette indication aucun moyen
+spécifique d’évaluation n’existait pour en mesurer l’intensité. Cette lacune est à
+présent comblée depuis l’introduction de la LSAS en 1987.
+
+La LSAS est une échelle d'auto-évaluation de 24 items tous relatifs à des situations
+d'interaction sociale. Chaque situation est cotée du double point de vue de l'anxiété
+qu'elle engendre chez le patient (de 0, absente, à 3, sévère) et de l'évitement qu'elle
+entraîne (de 0, jamais, à 3, habituel). L'échelle sert à évaluer l'intensité et le
+retentissement des situations anxiogènes caractéristiques de la phobie sociale.
+L'échelle peut être décomposée en deux dimensions: anxiété de performance (12 items) et
+anxiété liée aux interactions sociales (12 items).
+
+
+
+Pour le score total :
+
+Le score global va de 0 à 144.
+
+Les normes fran’aises sont les suivantes :
+
+   •   56-65 : indique une phobie sociale modérée ;
+   •   66-80 : indique une phobie sociale marquée ;
+   •   81-95 : indique une phobie sociale sévère ;
+   •   > 95 : indique une phobie sociale très sévère.
+                                                                  ANXIETE                               EVITEMENT
+
+
+
+
+                                                          Aucun   Légère   Moyenne   Sévère    Jamais   Occasionnel   (0-33%)    Fréquent   (33-66%)   Habituel   (67-100 %)
+
+                                                          0        1        2         3        0                1                     2                     3
+1    Téléphoner en public (P)
+2    Participer au sein d'un petit groupe (P)
+3    Manger dans un lieu public (P)
+4    Boire en compagnie dans un lieu public (P)
+5    Parler à des gens qui détiennent une autorité (S)
+     Jouer, donner une représentation ou une
+6
+     conférence devant un public (P)
+7    Aller à une soirée (S)
+8    Travailler en étant observé (P)
+9    Ecrire en étant observé (P)
+     Contacter par téléphone quelqu'un que vous ne
+10
+     connaissez pas très bien (S)
+     Parler à des gens que vous ne connaissez pas très
+11
+     bien (S)
+12   Rencontrer des inconnus (S)
+13   Uriner dans les toilettes publiques (P)
+     Entrer dans une pièce alors que tout le monde est
+14
+     déjà assis (P)
+15   Etre le centre d'attention (S)
+16   Prendre la parole à une réunion (P)
+17   Passer un examen (P)
+     Exprimer son désaccord ou sa désapprobation à
+18
+     des gens que vous ne connaissez pas très bien (S)
+     Regarder dans les yeux des gens que vous ne
+19
+     connaissez pa très bien (S)
+20 Faire un compte-rendu à un groupe (P)
+21   Essayer de "draguer" quelqu'un (S)
+22 Rapporter des marchandises dans un magasin (S)
+23 Donner une soirée (S)
+24 Résister aux pressions d'un vendeur insistant (S)
+
+
+                                                  TOTAL
+                                S = Interaction sociale A.S :              /36                E.S :                             /36
+                                        P = Performance A.P :              /36                A.P :                             /36
+

@@ -1,0 +1,101 @@
+  Grille d'auto-évaluation pour les adultes atteints du TDAH
+
+Description:
+
+La liste des symptômes est un outil pratique, qui présente les dix-huit critères inscrits dans le DSM-
+IV-TR. Parmi les dix-huit questions posées, six sont considérées comme étant les plus représentatives
+des symptômes associés au TDAH. Ces six questions, dans la partie A du questionnaire, constituent
+l’élément fondamental lors du dépistage effectué avec la ASRS v1.1. La partie B comporte les douze
+questions restantes.
+
+
+Symptômes :
+Demandez au patient de compléter les parties A et B du questionnaire en faisant un ‘X’ dans la case qui
+correspond le plus à la fréquence à laquell ereviennent chacun des symptômes énoncés.
+Calculez les résultats de la partie A. Si vous comptez quatre ‘X’ ou plus dans les cases ombragées, c ela
+indiquera que votre patient présente des symptômes correspondant grandement à ceux des adultes
+atteints du TDAH. Il sera alors nécessaire d’effectuer une investigation plus approfondie.
+Les résultats de la partie B vous fourniront des indices additionnels pour évaluer les symptômes du
+patient. Veuillez porter une attention particulière aux ‘X’ apparaissant dans les cases ombragées. La
+fréquence de certaines réponses pourra être très représentative. Toutefois, les réponses à ces douze
+questions ne seront pas utilisées pour poser un diagnostique. En effet, il a été démontré que les
+réponses aux six questions de la partie A sont les plus représentatives pour poser un diagnostique
+dans un cas de TDAH et qu’elles constituent le meilleur outil pour vous permettre de dépister ce
+trouble.
+
+
+Déficiences :
+Passez en revue la liste des symptômes avec votre patient. Évaluez par la suite la gravité de chacun des
+symptômes.
+Prenez en considération les environnements de travail, scolaire, social et familial.
+La fréquence des symptômes est souvent représentative de la gravité du trouble. La liste des
+symptômes pourra également vous aider à évaluer les déficiences dont souffre votre patient. Si votre
+patient présente certains symptômes qui reviennent régulièrement, vous pourrez lui demander de vous
+décrire comment ces problèmes entrent en conflit avec son travail, avec les tâches qu’il doit à faire à
+la maison, ou comment ses relations avec le conjoint ou les proches en sont affectées.
+
+Antécédents :
+
+Tentez de déterminer s’il y a eu présence de tels symptômes ou de symptômes similaires au cours de
+l’enfance de votre patient. Les adultes atteints du TDAH n’ont pas nécessairement été diagnostiqués
+comme étant atteints du TDAH étant enfant. Tout en évaluant les antécédents du patient, restez
+attentif. Il se peut que votre patient vous parle de problèmes récents ou récurrents d’attention ou de
+maîtrise de soi. Plusieurs symptômes significatifs se pointent généralement durant l’enfance.
+Toutefois, il n’est pas nécessaire d’effectuer une symptomatologie complète.
+Veuillez répondre aux questions ci-dessous. Chacune d’elle
+correspond à un critère particulier. Vous devrez y répondre en vous
+
+                                                                                 Rarement             Souvent
+                                                                                                                   Très
+                                                                                            Parfois
+basant sur l’échelle qui se trouve à la droite de la page. Pour
+                                                                        Jamais
+répondre, faites un ‘X’ dans la case qui correspond le plus à comment
+vous vous êtes senti ou conduit au cours des six derniers mois.                                                 souvent
+
+                                                   Partie A
+1. À quelle fréquence avez-vous de la difficulté à finaliser un
+    projet, une fois que le gros du travail a été effectué ?
+2. À quelle fréquence avez-vous de la difficulté à établir les
+    priorités lorsque vous devez effectuer une tâche qui requiert de
+    l’organisation ?
+3. À quelle fréquence avez-vous de la difficulté à vous souvenir de
+    vos rendez vous ou de vos obligations sociales ?
+4. À quelle fréquence repoussez-vous ou évitez-vous les tâches qui
+    nécessitent beaucoup de concentration ?
+5. À quelle fréquence ressentez-vous la bougeotte motrice de vos
+    mains ou vos pieds lorsque vous devez rester dans une position
+    assise pour une longue période ?
+6. À quelle fréquence vous sentez-vous hyperactif ou contraint
+    lorsque vous devez accomplir des tâches, à quelle fréquence vous
+    sentez vous comme une dynamo ?
+                                                   Partie B
+7. À quelle fréquence, lorsque vous devez travailler sur un projet
+    long et ennuyant, faites vous des fautes d’inat tention ?
+8. À quelle fréquence, lorsque vous devez effectuer une tâche
+    ennuyeuse et répétitive, avez-vous de la difficulté à rester
+    concentré sur ce que vous faites ?
+9. À quelle fréquence avez-vous de la difficulté à rester concentré
+    sur ce que les gens vous disent, même lorsqu’ils vous parlent
+    directement ?
+10. À quelle fréquence, à la maison ou au travail, placez-vous des
+    objets au mauvais endroit ou avez-vous de la difficulté à les
+    retrouver ?
+11. À quelle fréquence êtes-vous distrait par les activités et les
+    bruits qui vous entourent ?
+12. À quelle fréquence devez-vous quitter des réunions ou d’autres
+    situations au cours desquelles vous devez rester assis ?
+13. À quelle fréquence vous sentez-vous nerveux ou agité ?
+14. À quelle fréquence, lorsque vous avez du temps pour vous, avez-
+    vous de la difficulté à décompresser ou à relaxer ?
+15. À quelle fréquence monopolisez-vous les gens lorsque vous vous
+    retrouvez dans des rencontres sociales ?
+16. À quelle fréquence, lorsque vous conversez avec des gens, avez
+    vous tendance à terminer leurs phrases avant qu’ils ne puissent
+    le faire ?
+17. À quelle fréquence avez-vous de la difficulté à attendre votre
+    tour lorsque vous vous retrouvez dans une situation nécessitant
+    d’intervenir à tour de rôle ?
+18. À quelle fréquence dérangez-vous les autres lorsqu’ils sont
+    occupés?
+

@@ -1,0 +1,77 @@
+Le test de Horn comprend 18 affirmations et le fumeur doit indiquer à quelle fréquence il
+adhère à chaque affirmation :
+
+
+
+ Cotation :   1 : jamais   2 : parfois   3 : moyennement     4 : souvent       5 : toujours
+
+A Je fume pour me donner un coup de fouet                                  5   4 3 2 1
+B Tenir une cigarette me procure du plaisir                                5   4 3 2 1
+C Fumer est un moment de détente pour moi                                  5   4 3 2 1
+D J'allume une cigarette quand je suis soucieux(se) ou contrarié(e)        5   4 3 2 1
+E Je m'empresse d’aller acheter des cigarettes quand je n’en ai plus       5   4 3 2 1
+F Je fume de manière automatique et inconsciente                           5   4 3 2 1
+G Fumer me donne du courage                                                5   4 3 2 1
+H Le simple fait de tenir une cigarette me procure du plaisir              5   4 3 2 1
+I Il y a une quantité de plaisirs dans l'acte de fumer                     5   4 3 2 1
+J Je fume quand je suis mal à l'aise ou énervé(e)                          5   4 3 2 1
+K Je ne suis pas dans le coup quand je ne fume pas                         5   4 3 2 1
+    J'allume une cigarette alors qu’une autre brûle déjà dans le
+L cendrier                                                                 5   4 3 2 1
+
+M Je fume pour retrouver mon entrain                                       5   4 3 2 1
+N J'éprouve du plaisir à regarder les volutes de fumée                     5   4 3 2 1
+O Je fume quand je me sens détendu(e)                                      5   4 3 2 1
+P Je fume quand je n'ai pas le moral                                       5   4 3 2 1
+    Quand je n'ai pas pu fumer depuis un moment, le désir devient
+Q irrésistible                                                             5   4 3 2 1
+
+R J'oublie la cigarette qui se trouve dans ma bouche                       5   4 3 2 1
+Il suffit ensuite d'additionner le score des questions suivantes :
+
+
+
+   Stimulation :               A+G+M=
+
+
+
+   Plaisir du geste :          B+H+N=
+
+
+
+   Relaxation :                C+I+O=
+
+
+   Anxiété – Soutien :         D+J+P=
+
+
+
+   Besoin absolu :             E+K+Q=
+
+
+   Habitude acquise :          F+L+R=
+
+
+Comment interpréter le test de Horn ?
+
+
+
+Un score de plus de 10 points sur une ligne met en lumière une raison qui pousse à fumer :
+
+Simulation : le fumeur recherche l'effet excitant de la nicotine. Fumer possède des
+effets psychostimulants qui réduisent la fatigue, améliorent la concentration, donnent
+du courage et motivent.
+
+Plaisir du geste : le fumeur est attaché au rituel et l'interaction avec la cigarette lui
+procure du plaisir. La dépendance est plutôt comportementale.
+
+Relaxation : le fait de fumer permet de se détendre, de s'évader et de se sentir bien.
+
+Anxiété – Soutien : fumer est calmant et rassurant, notamment lorsque l–on ressent du
+stress ou de l'anxiété. La cigarette est un anxiolytique.
+
+Besoin absolu : fumer est un besoin dont ne peut se passer le fumeur.
+
+La dépendance est physique et de nombreuses actions quotidiennes sont orientées vers la
+satisfaction de l–envie de fumer.
+

@@ -1,0 +1,102 @@
+            Echelle d’Alexithymie de Toronto (TAS 20)
+
+
+L'alexithymie serait la difficulté a prendre conscience de ses émotions et l'incapacité
+a exprimer tout cela aux autres. Les principaux éléments de la définition de
+l'alexithymie donnés sont la difficulté marquée à décrire ses émotions, l'absence ou la
+réduction de la vie fantasmatique et la manifestation de la pensée opératoire. Cette
+dernière peut elle-même se définir comme un mode de pensée centré sur le concret, une
+tendance a décrire les événements sans intégrer une connotation affective.
+
+Les sujets alexithymiques ont tendance a rapporter des plaintes somatiques car ils
+possèdent peu de capacités imaginatives. II existerait deux types d'alexithymie,
+l'alexithymie trait et l'alexithymie état :
+- L'alexithymie trait est une variable dispositionnelle favorisant les troubles
+psychosomatiques. A ce titre, elle est considérée comme une dimension de la personnalité.
+Ainsi, le trait alexithymique s'oppose au trait histrionique : plus la personne aurait
+une personnalité histrionique et moins elle serait alexithymique. Le lien entre
+alexithymie et troubles psychosomatiques est certain mais non exclusif. La présence de
+traits alexithymiques a été notée dans les troubles addictifs et la dépression.
+
+- L'alexithymie état (ou alexithymie secondaire) peut se manifester après un choc ou une
+grave maladie. Elle pourrait représenter une stratégie psychique d'ajustement en
+jouant le rôle de facteur protecteur contre la signification émotionnelle et la gravité
+de la maladie ou de l'événement, Elle peut alors se retrouver dans le stress post-
+traumatique et les maladies organiques. .
+
+L'echelle d'alexithymie de Toronto (TAS) de Taylor et colI. (2000) évalue les différentes
+facettes cliniques de l'alexithymie, à savoir la difficulté de décrire ses sentiments, la
+difficulté à faire la différence entre ses émotions et ses sensations corporelles, la
+limitation des aptitudes introspectives, le conformisme social et la pauvreté
+fantasmatique.
+
+
+Mode de passation et résultats :
+
+Le sujet évalue son degré d'accord ou de désaccord avec l'énoncé sur une échelle en 5
+points. Les items 4 5 10 18 19 sont inversés dans la cotation : 1=5, 2=4, 3=3, 4=2, 5=1
+
+20 et 51 = absence alexithymie           Le sous-score le plus élevé des trois facteurs
+52 et 60 = alexithymie possible          renseigne sur la dimension spécifique dans
+61 et 100 = alexithymie présente         laquelle le sujet éprouve le plus de difficulté.
+     (1) Désaccord complet     (2) Désaccord relatif          (3) Ni accord ni désaccord,
+     (4) Accord relatif        (5) Accord complet
+                                                                          1    2    3       4      5
+
+1      Souvent, je ne vois pas très clair dans mes sentiments.
+       J'ai du mal à trouver les mots qui correspondent bien à mes
+2
+       sentiments.
+       J’éprouve des sensations physiques que les médecins eux-
+3
+       mêmes ne comprennent pas.
+4      J’arrive facilement à décrire mes sentiments.
+       Je préfère analyser les problèmes plutôt que de me
+5
+       contenter de les décrire.
+       Quand je suis bouleversé(e), je ne sais pas si je suis triste,
+6
+       effrayé(e) ou en colère.
+       Je suis souvent intrigué(e) par des sensations au niveau
+7
+       de mon corps.
+       Je préfère simplement laisser les choses se produire
+8
+       plutôt que de comprendre pourquoi elles ont pris ce tour.
+       J’ai des sentiments que je ne suis guère capable
+9
+       d'identifier.
+10     Etre conscient de ses émotions est essentiel.
+
+11     Je trouve difficile de décrire mes sentiments sur les gens.
+
+12     On me dit de décrire davantage ce que je ressens.
+
+13     Je ne sais pas ce qui se passe a l'intérieur de moi.
+
+14     Bien souvent, je ne sais pas pourquoi je suis en colère.
+       Je préfère parler aux gens de leurs activités quotidiennes
+15
+       plutôt que de leurs sentiments.
+       Je préfère regarder des émissions de variété plutôt que des
+16
+       films dramatiques,
+       II m’est difficile de révéler mes sentiments intimes même à
+17
+       mes amis très proches.
+       Je peux me sentir proche de quelqu'un même pendant les
+18
+       moments de silence.
+       Je trouve utile d'analyser mes sentiments pour résoudre
+19
+       mes problèmes personnels.
+       Rechercher Je sens caché des films ou des pièces de théâtre
+20
+       perturbe Je plaisir qu’ils procurent.
+
+difficulté à identifier       difficulté à décrire       pensée orientée sur
+      les émotions                les émotions               l'extérieur                TOTAL
+    1+3+6+7+9+13+14               2+4+11+12+17          5+8+10+15+16+18+19+20
+                                                                                            /100
+           /35                         /25                       /40
+

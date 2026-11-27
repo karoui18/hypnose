@@ -1,0 +1,166 @@
+             Inventaire abrégé de dépression de BECK.
+Il s'agit d'une échelle d'auto-évaluation des cognitions dépressives destinée à
+d'appréhender la dimension subjective de la dépression.
+
+Mode de passation : il est demandé au sujet de remplir le questionnaire en entourant le
+numéro qui correspond à la proposition choisie. Il peut entourer, dans une série,
+plusieurs numéros si plusieurs propositions conviennent le mieux à son état actuel.
+
+Cotation : chaque item est constitué de 4 phrases correspondant à 4 degrés d’intensité
+croissante d’un symptôme : de 0 à 3. Dans le dépouillement, il faut tenir compte de la cote
+la plus forte choisie pour une même série. La note globale est obtenue en additionnant
+les scores des 13 items. L’étendue de l’échelle va de 0 à 39. Plus la note est élevée plus le
+sujet est déprimé.
+
+
+
+
+-A-         0. Je ne me sens pas triste
+
+            1. Je me sens cafardeux ou triste
+
+            2. Je me sens tout le temps cafardeux ou triste et je n'arrive pas à en sortir
+
+            3. Je suis si triste et si malheureux que je ne peux pas le supporter
+
+
+
+
+-B-         0. Je ne suis pas particulièrement découragé ni pessimiste au sujet de
+            l'avenir
+
+            1. J'ai un sentiment de découragement au sujet de l'avenir
+
+            2. Pour mon avenir, je n'ai aucun motif d'espérer
+
+            3. Je sens qu'il n'y a aucun espoir pour mon avenir et que la situation ne
+            peut s'améliorer
+-C-   0. Je n'ai aucun sentiment d'échec de ma vie
+
+      1. J'ai l'impression que j'ai échoué dans ma vie plus que la plupart des gens
+
+      2. Quand je regarde ma vie passée, tout ce que j'y découvre n'est qu'échecs
+
+      3. J'ai un sentiment d'échec complet dans toute ma vie personnelle
+      (dans mes relations avec mes parents, mon mari, ma femme, mes enfants)
+
+
+
+
+-D-   0. Je ne me sens pas particulièrement insatisfait
+
+      1. Je ne sais pas profiter agréablement des circonstances
+
+      2. Je ne tire plus aucune satisfaction de quoi que ce soit
+
+      3. Je suis mécontent de tout
+
+
+
+
+-E-   0. Je ne me sens pas coupable
+
+      1. Je me sens mauvais ou indigne une bonne partie du temps
+
+      2. Je me sens coupable
+
+      3. Je me juge très mauvais et j'ai l'impression que je ne vaux rien
+
+
+
+
+-F-   0. Je ne suis pas déçu par moi-même
+
+      1. Je suis déçu par moi-même
+
+      2. Je me dégoûte moi-même
+
+      3. Je me hais
+-G-   0. Je ne pense pas à me faire du mal
+
+      1. Je pense que la mort me libérerait
+
+      2. J'ai des plans précis pour me suicider
+
+      3. Si je le pouvais, je me tuerais
+
+
+
+
+-H-   0. Je n'ai pas perdu l'intérêt pour les autres gens
+
+      1. Maintenant, je m'intéresse moins aux autres gens qu'autrefois
+
+      2. J'ai perdu tout l'intérêt que je portais aux autres gens et j'ai peu
+      de sentiments pour eux
+
+      3. J'ai perdu tout intérêt pour les autres et ils m'indiffèrent totalement
+
+
+
+
+-I-   0. Je suis capable de me décider aussi facilement que de coutume
+
+      1. J'essaie de ne pas avoir à prendre de décision
+
+      2. J'ai de grandes difficultés à prendre des décisions
+
+      3. Je ne suis plus capable de prendre la moindre décision
+
+
+
+
+-J-   0. Je n'ai pas le sentiment d'être plus laid qu'avant
+
+      1. J'ai peur de paraître vieux ou disgracieux
+
+      2. J'ai l'impression qu'il y a un changement permanent dans mon
+      apparence physique qui me fait paraître disgracieux
+
+      3. J'ai l'impression d'être laid et repoussant
+-K-     0. Je travaille aussi facilement qu'auparavant
+
+        1. Il me faut faire un effort supplémentaire pour commencer à faire
+        quelque chose
+
+        2. Il faut que je fasse un très grand effort pour faire quoi que ce soit
+
+        3. Je suis incapable de faire le moindre travail
+
+
+
+
+-L-     0. Je ne suis pas plus fatigué que d'habitude
+
+        1. Je suis fatigué plus facilement que d'habitude
+
+        2. Faire quoi que ce soit me fatigue
+
+        3. Je suis incapable de faire le moindre travail
+
+
+
+
+-M-     0. Mon appétit est toujours aussi bon
+
+        1. Mon appétit n'est pas aussi bon que d'habitude
+
+        2. Mon appétit est beaucoup moins bon maintenant
+
+        3. Je n'ai plus du tout d'appétit
+
+
+
+
+- RESULTAT -        Additionnez toutes vos réponses :
+
+                    Le score total varie de 0 à 39
+
+                    De 0 à 3 : on considère qu’il n’y a pas de dépression
+
+                    De 4 à 7 : dépression légère
+
+                    De 8 à 15 : dépression d'intensité moyenne à modérée
+
+                    A partir de 16 et plus : dépression sévère
+

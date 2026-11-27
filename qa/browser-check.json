@@ -305,21 +305,24 @@
     "width": 1440,
     "scrollWidth": 1425,
     "brokenImages": [],
-    "missingNames": 0
+    "missingNames": 0,
+    "formValidation": true
   },
   {
     "page": "formulaire",
     "width": 1024,
     "scrollWidth": 1009,
     "brokenImages": [],
-    "missingNames": 0
+    "missingNames": 0,
+    "formValidation": true
   },
   {
     "page": "formulaire",
     "width": 768,
     "scrollWidth": 753,
     "brokenImages": [],
-    "missingNames": 0
+    "missingNames": 0,
+    "formValidation": true
   },
   {
     "page": "formulaire",
@@ -327,7 +330,8 @@
     "scrollWidth": 375,
     "brokenImages": [],
     "missingNames": 0,
-    "menu": true
+    "menu": true,
+    "formValidation": true
   },
   {
     "page": "frustration",

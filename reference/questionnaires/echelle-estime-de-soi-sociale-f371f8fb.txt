@@ -1,0 +1,101 @@
+                  Inventaire d’estime de soi sociale
+
+
+
+L’estime de soi peut se définir comme l’appréciation positive ou négative de l’individu
+sur lui-même issue du système de valeurs personnelles ou imposée par l’extérieur au
+cours de l’enfance (parents, éducation, camarades). Les perceptions, idées et croyances
+que l’on a sur soi même participeraient à l’estime de soi. Elle s’inscrit dans un
+processus dynamique susceptible de se modifier au cours de la vie.
+
+La particularité de cette notion est qu’elle est à la fois un état et un trait de
+personnalité. L’individu peut avoir une estimation de soi différente selon les domaines
+considérés, le travail, les loisirs, les rapports sociaux en plus d’avoir une estime de
+soi globale.
+
+L’inventaire d’estime de soi sociale a été développé pour évaluer l’estime de soi dans les
+situations sociales. Ce questionnaire n’a l’avantage de n’évaluer qu’une dimension de
+l’estime de soi. Les sujets ayant un déficit assertif, voire un trouble de la
+personnalité évitante, devraient avoir une estime de soi sociale inférieures à des
+sujets contrôles.
+
+
+                                    ------- X -------
+
+
+
+Passation :
+
+Indiquez le degré de similarité entre vous et la description. Par exemple, si vous pensez
+que l’énoncé est une description exacte de vous, placez le chiffre 6 à la gauche de cet
+énoncé. Si vous jugez que l’énoncé offre une description qui est complètement le
+contraire de vous, alors placez le chiffre 1 à coté de ce dernier.
+Les chiffres 2 à 5 représentent des degrés variés du concept « comme moi ».
+
+Ne vous attardez pas sur une phrase, répondez rapidement. Votre premier choix est
+probablement le meilleur.
+               Complètement différent de moi < >        exactement comme moi
+                   1       2        3         4              5         6
+
+
+1.    J’ai de la difficulté à parler à des étrangers.                                     x
+2.    Je manque de confiance en moi avec les gens.                                        x
+3.    Je fonctionne bien socialement.
+4.    Je me sens en confiance dans les situations sociales.
+5.    II est facile de m’aimer.
+6.    Je m'entends bien avec les autres personnes.
+7.    Je me fais des ami(e)s facilement.
+8.    Je suis gai(e) et plein(e) d'humour dans les situations sociales.
+9.    Quand je suis avec d’autres personnes, je perds confiance en moi.                   x
+10.   Je trouve qu'il est difficile de me faire des ami(e)s.                              x
+11.   Je ne vaux rien du tout au point de vue social.                                     x
+12.   J’entretiens raisonnablement bien la conversation.
+13.   Je suis populaire chez les gens de mon age.
+14.   J’ai peur des réceptions importantes.                                               x
+15.   J'ai vraiment du plaisir à assumer des rôles sociaux.
+16.   Habituellement, je dis ce qu' il ne faut pas quand je parle avec les gens.          x
+17.   Je me sens sûr(e) de moi aux réceptions.
+      Habituellement, je suis incapable de trouver quelque chose d'intéressant à
+18.                                                                                       x
+      dire aux gens.
+19.   Je suis ennuyeux (se) pour la plupart des gens.                                     x
+20.   Les gens ne me trouvent pas intéressant(e).                                         x
+21.   Je suis nerveux (se) avec les gens qui ne sont pas des ami(e)s intimes.             x
+22.   J’ai passablement de facilité à rendre les gens à l’aise avec moi.
+23.   Je suis plus gêné(e) que la plupart des gens.                                       x
+24.   Je suis une personne amicale.
+25.   Je peux facilement soutenir l’intérêt des gens.
+26.   Je n’ai pas beaucoup de «personnalité ».                                            x
+27.   Les gens apprécient beaucoup ma compagnie
+28.   Je suis passablement satisfait(e) de moi comme personne
+29.   Je suis passablement maladroit(e) dans les situations sociales.                     x
+30.   Je ne me sens pas à l’aise avec les autres personnes.                               x
+                                                                                Total :
+Résultat :
+
+Additionnez les résultats en tenant compte de la cote de 15 items notés d'une croix qui
+doit être inversée (items 1,2,9, 10, 11, 14, 16, 18, 19,20,21,23,26,29 et 30) avant de les
+compter dans le total :
+
+                 Cotation normale :        1       2     3       4    5     6
+                 Cotation inversée :       6       5     4       3    2     1
+
+
+
+
+                        Version française (GAUTHIER et Coll., BOUVARD et Coll.)
+                                                       Sujets ayant
+                                         Sujets                             Sujets
+                                                           une
+                       Etudiants       phobiques                          contr61es
+                                                       personnalité
+                                        sociaux
+                                                         évitente
+             Norme        133,4         89,68             80,75            132,48
+         Ecart type       22,2           23,51               19,35          23,11
+
+
+
+
+Plus le score est élevé et plus l'estime de soi sociale est bonne.
+
